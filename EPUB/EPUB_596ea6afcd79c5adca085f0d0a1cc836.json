@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/rung-rung-long_20166.html",
+    "title" : "Rưng Rưng Lòng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tịch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 9543,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_596ea6afcd79c5adca085f0d0a1cc836.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_596ea6afcd79c5adca085f0d0a1cc836.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2725,
+    "title" : "RUNG RUNG LONG 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2873,
+    "title" : "RUNG RUNG LONG 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2243,
+    "title" : "RUNG RUNG LONG 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1702,
+    "title" : "RUNG RUNG LONG 04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_01.mp3",
+    "title" : "RUNG RUNG LONG 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_02.mp3",
+    "title" : "RUNG RUNG LONG 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_03.mp3",
+    "title" : "RUNG RUNG LONG 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rung-rung-long.sna/RUNG_RUNG_LONG_04.mp3",
+    "title" : "RUNG RUNG LONG 04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/suy-nghi-van-vo-cua-ke-nhan-roi_20079.html",
+    "title" : "Suy Nghĩ Vẩn Vơ Của Kẻ Nhàn Rỗi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jerome K. Jerome",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 18138,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4150816aaedc28ba0965859d0ad94aa1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4150816aaedc28ba0965859d0ad94aa1.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/00.GioiThieu_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 259,
+    "title" : "00.GioiThieu SuyNghiVanVoCuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/01.P01_HC_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2476,
+    "title" : "01.P01 HC SuyNghiVanVoCuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/02.P02_HC_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1838,
+    "title" : "02.P02 HC SuyNghiVanVoCuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/03.P03_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2410,
+    "title" : "03.P03 SuyNghiVanVoCuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/04.P04_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2968,
+    "title" : "04.P04 SuyNghiVanVoCuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/05.P05_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2595,
+    "title" : "05.P05 SuyNghiVanVoCuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/06.P06_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2629,
+    "title" : "06.P06 SuyNghiVanVoCuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/07.P07_Het_SuyNghiVanVocuaKeNhanRoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2963,
+    "title" : "07.P07 Het SuyNghiVanVocuaKeNhanRoi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/00.GioiThieu_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "title" : "00.GioiThieu SuyNghiVanVoCuaKeNhanRoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/01.P01_HC_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "title" : "01.P01 HC SuyNghiVanVoCuaKeNhanRoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/02.P02_HC_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "title" : "02.P02 HC SuyNghiVanVoCuaKeNhanRoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/03.P03_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "title" : "03.P03 SuyNghiVanVoCuaKeNhanRoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/04.P04_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "title" : "04.P04 SuyNghiVanVoCuaKeNhanRoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/05.P05_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "title" : "05.P05 SuyNghiVanVoCuaKeNhanRoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/06.P06_SuyNghiVanVoCuaKeNhanRoi.mp3",
+    "title" : "06.P06 SuyNghiVanVoCuaKeNhanRoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suy-nghi-van-vo-cua-ke-nhan-roi.sna/07.P07_Het_SuyNghiVanVocuaKeNhanRoi.mp3",
+    "title" : "07.P07 Het SuyNghiVanVocuaKeNhanRoi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
