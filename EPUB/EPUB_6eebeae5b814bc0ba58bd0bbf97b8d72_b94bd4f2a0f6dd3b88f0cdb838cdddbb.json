@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-29",
+    "published" : "2023-05-01",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -31,236 +31,541 @@
     "type" : "application/divina+json"
   } ],
   "readingOrder" : [ {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/0.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_1b209c0484516b817f40fc815ce78141.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/0.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/1.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_6f09bf2af998c2c1d0af43be3310e456.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/2.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_a7407da9a076ea7db5bf42273007ae94.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/2.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/3.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_83c468ba84831478edeb3bbd57860790.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/3.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/4.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_d52c0ec0a706af387a194b5cde2eadee.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/5.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_41356e1c916980783e4005f44753ef66.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/5.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/6.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_d6ea027fab06ff71264f556db6fd3aca.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/6.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/7.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_5e59477162c0e10821291de78687907f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/7.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/8.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_5bfbb725c617182404d3735511672b16.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/9.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_668d47c0a303ac05e1a0ae55df5f6cd0.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/10.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_9d3e3de04b1bc08c3e51860ae6f0304c.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/10.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/11.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_fd0c8c7f195aaee7d2fe54b8ec554a26.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/11.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/12.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_bd95955d774ab949e92795d3becb4f08.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/12.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/13.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_c6f8d433f5b82232881903d169f079db.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/13.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/14.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_d82b3f19e2d9d0410d34849446392f1d.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/14.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/15.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_35302f3ffa519d8e1877d891509b6bce.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/15.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/16.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_a9cdf06a1193ad0177ea1d73da2f82d0.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/16.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/17.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_22cb387d1e780cd40664e4b9fcf52f83.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/17.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/18.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_2dc76940afea74e0baecd9cb28a82bc3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/18.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/19.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_e76d824281079b8ff3213ed9cfd96b80.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/19.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/20.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_4b605795ee493192c294e27097827046.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/20.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/21.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_1ef1915c1584596669da3285decd80d2.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/21.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/22.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_47f7b5fb13620204accc81b113174097.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/22.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/23.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_576ba46a7d90661aaf20ffdb5f2debf1.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/23.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/24.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_b4bc1e53741051cf4dafce72fc44a6ee.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/24.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/25.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_0ea376034a1fd460c24d3ec0e1527e81.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/25.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/26.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_08a0b810906577dfc3d274332df881f3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/26.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/27.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_e58db9cc3d947905503cd46d9040407b.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/27.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/28.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_5636a940ddc8e0da6dc7afe85d2eabf8.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/28.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/29.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_0f88056d8084c1a065f03da78a9ee934.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/29.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/30.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_3a9e366bd7d8c29633ace8b74120a652.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/30.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/31.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_e2e91d8a2ea5599545f23a605192db2f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://sv3.olalatruyen.xyz/truyenvn/4567/3/31.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_6eebeae5b814bc0ba58bd0bbf97b8d72_b94bd4f2a0f6dd3b88f0cdb838cdddbb_2c0a3fb4fc000cb01ccdadd19d60f40f.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    }, {
+      "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
