@@ -1,0 +1,132 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyento.com/truyen-tranh/doraemon-57230",
+    "title" : "Doraemon",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-03",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 490,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_e4f5753bd2a6774beefa8411a505bda8_7f4c267dd8da3b11b6e2eb6b57bb0708_465f91a7b05324008c519cf092164319.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i221.ntcdntempv3.com/data/images/5723/112235/001.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_e4f5753bd2a6774beefa8411a505bda8_7f4c267dd8da3b11b6e2eb6b57bb0708_16ca0fd85bd71383541e5740af1f2ded.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i221.ntcdntempv3.com/data/images/5723/112235/002.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_e4f5753bd2a6774beefa8411a505bda8_7f4c267dd8da3b11b6e2eb6b57bb0708_b1ea4e1564e3a2fb9c0ecc797d321eb9.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i221.ntcdntempv3.com/data/images/5723/112235/003.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_e4f5753bd2a6774beefa8411a505bda8_7f4c267dd8da3b11b6e2eb6b57bb0708_1c45a2c2b0472f87d02224b205027198.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i221.ntcdntempv3.com/data/images/5723/112235/004.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_e4f5753bd2a6774beefa8411a505bda8_7f4c267dd8da3b11b6e2eb6b57bb0708_52dcc5edab6909f2d029ab16026ab1b8.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i221.ntcdntempv3.com/data/images/5723/112235/005.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/tracuumasothue40/comic_storage_two2/main/IMAGE/IMAGE_e4f5753bd2a6774beefa8411a505bda8_7f4c267dd8da3b11b6e2eb6b57bb0708_c6efc6084235e69552551060e49bba0e.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i221.ntcdntempv3.com/data/images/5723/112235/006.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
