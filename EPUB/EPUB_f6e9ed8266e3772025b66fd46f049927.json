@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-lam-nguoi-chiu_17490.html",
+    "title" : "Kẻ Làm Người Chịu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20835,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f6e9ed8266e3772025b66fd46f049927.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f6e9ed8266e3772025b66fd46f049927.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3032,
+    "title" : "01. Đồng thinh tương ứng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "02. Tỏ bày tâm sự",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3386,
+    "title" : "03. Trai đòi vợ, gái muốn chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "04. Tố Nga làm phước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "05. Mối sầu thêm rối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2675,
+    "title" : "06. Ráng công giúp chị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3042,
+    "title" : "07. Chịu ơn đau đớn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-01.mp3",
+    "title" : "01. Đồng thinh tương ứng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-02.mp3",
+    "title" : "02. Tỏ bày tâm sự",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-03.mp3",
+    "title" : "03. Trai đòi vợ, gái muốn chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-04.mp3",
+    "title" : "04. Tố Nga làm phước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-05.mp3",
+    "title" : "05. Mối sầu thêm rối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-06.mp3",
+    "title" : "06. Ráng công giúp chị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-lam-nguoi-chiu-sachnoiviet/Ke-Lam-Nguoi-Chiu-07.mp3",
+    "title" : "07. Chịu ơn đau đớn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

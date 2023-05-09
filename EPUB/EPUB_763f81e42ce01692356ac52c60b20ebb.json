@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trai-tim-da-bao-nhung_11722.html",
+    "title" : "Trái Tim Đá - Bao Nhung",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bảo Nhung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20547,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_763f81e42ce01692356ac52c60b20ebb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_763f81e42ce01692356ac52c60b20ebb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/traitimda/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6978,
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/traitimda/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6964,
+    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/traitimda/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6605,
+    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/traitimda/1.mp3",
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/traitimda/2.mp3",
+    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/traitimda/3.mp3",
+    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

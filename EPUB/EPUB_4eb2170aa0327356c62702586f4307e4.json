@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuyet-doi-khe-hop_15149.html",
+    "title" : "Tuyệt Đối Khế Hợp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Y Đình Mạt Đồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 75868,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4eb2170aa0327356c62702586f4307e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4eb2170aa0327356c62702586f4307e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3953,
+    "title" : "3.Tg: Y Đình Mạt Đồng.Edi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4849,
+    "title" : "45.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5865,
+    "title" : "50.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5031,
+    "title" : "56.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6799,
+    "title" : "61.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5857,
+    "title" : "65.Tg: Y Đồng Mạt ĐìnhEdit Be",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5211,
+    "title" : "4.Tg: Y Đồng Mạt ĐìnhEdit",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4283,
+    "title" : "7.Tg: Y Đình Mạt Đồng.Edit Beta: Cỏ.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4214,
+    "title" : "11.Tg: Y Đồng Mạt Đình.Edit Be",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4816,
+    "title" : "16.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5300,
+    "title" : "21.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5094,
+    "title" : "26.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5492,
+    "title" : "31.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4517,
+    "title" : "36.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4587,
+    "title" : "40.Tg: Y Đồng Mạt Đình.Edit B",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/1.mp3",
+    "title" : "3.Tg: Y Đình Mạt Đồng.Edi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/10.mp3",
+    "title" : "45.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/11.mp3",
+    "title" : "50.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/12.mp3",
+    "title" : "56.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/13.mp3",
+    "title" : "61.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/14.mp3",
+    "title" : "65.Tg: Y Đồng Mạt ĐìnhEdit Be",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/15.mp3",
+    "title" : "4.Tg: Y Đồng Mạt ĐìnhEdit",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/2.mp3",
+    "title" : "7.Tg: Y Đình Mạt Đồng.Edit Beta: Cỏ.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/3.mp3",
+    "title" : "11.Tg: Y Đồng Mạt Đình.Edit Be",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/4.mp3",
+    "title" : "16.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/5.mp3",
+    "title" : "21.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/6.mp3",
+    "title" : "26.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/7.mp3",
+    "title" : "31.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/8.mp3",
+    "title" : "36.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuyet-doi-phu-hop/9.mp3",
+    "title" : "40.Tg: Y Đồng Mạt Đình.Edit B",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

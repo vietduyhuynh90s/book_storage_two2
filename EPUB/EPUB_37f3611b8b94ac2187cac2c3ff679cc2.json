@@ -1,0 +1,581 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-50-sac-thai-e-l-james-18_2410.html",
+    "title" : "50 Sắc Thái - E. L. James",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "E. L. James",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 128041,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_37f3611b8b94ac2187cac2c3ff679cc2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_37f3611b8b94ac2187cac2c3ff679cc2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/50-sac-thai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "P01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3343,
+    "title" : "P13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2687,
+    "title" : "P14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2140,
+    "title" : "P15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2988,
+    "title" : "P16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3017,
+    "title" : "P17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2519,
+    "title" : "P19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3034,
+    "title" : "P20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2838,
+    "title" : "P21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3441,
+    "title" : "P22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "P02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3525,
+    "title" : "P23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "P24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3568,
+    "title" : "P25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3367,
+    "title" : "P26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "Chương 1 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2106,
+    "title" : "Chương 2 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2620,
+    "title" : "Chương 3 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2215,
+    "title" : "Chương 4 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "Chương 5 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2966,
+    "title" : "50 Sắc thái Đen Chương 6 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2180,
+    "title" : "P04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3873,
+    "title" : "50 Sắc thái Đen Chương 7 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3424,
+    "title" : "50 Sắc thái Đen Chương 8 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3184,
+    "title" : "Chương 9 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2644,
+    "title" : "50 Sắc thái Đen Chương 10 Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "Chương 11 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "Chương 12 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1635,
+    "title" : "Chương 13 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2337,
+    "title" : "Chương 14 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3077,
+    "title" : "Chương 15 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2544,
+    "title" : "Chương 16 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1977,
+    "title" : "P05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3513,
+    "title" : "50 Sắc thái Đen Chương 17 Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3454,
+    "title" : "Chương 18 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "Chương 19 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2185,
+    "title" : "Chương 20 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2657,
+    "title" : "Chương 21 | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "Chương 22 The end | Vietaudio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3084,
+    "title" : "P06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1493,
+    "title" : "P07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2506,
+    "title" : "P08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3139,
+    "title" : "P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2290,
+    "title" : "P11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/50-sac-thai/1.mp3",
+    "title" : "P01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/10.mp3",
+    "title" : "P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/11.mp3",
+    "title" : "P13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/12.mp3",
+    "title" : "P14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/13.mp3",
+    "title" : "P15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/14.mp3",
+    "title" : "P16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/15.mp3",
+    "title" : "P17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/16.mp3",
+    "title" : "P19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/17.mp3",
+    "title" : "P20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/18.mp3",
+    "title" : "P21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/19.mp3",
+    "title" : "P22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/2.mp3",
+    "title" : "P02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/20.mp3",
+    "title" : "P23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/21.mp3",
+    "title" : "P24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/22.mp3",
+    "title" : "P25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/23.mp3",
+    "title" : "P26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/24.mp3",
+    "title" : "Chương 1 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/25.mp3",
+    "title" : "Chương 2 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/26.mp3",
+    "title" : "Chương 3 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/27.mp3",
+    "title" : "Chương 4 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/28.mp3",
+    "title" : "Chương 5 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/29.mp3",
+    "title" : "50 Sắc thái Đen Chương 6 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/3.mp3",
+    "title" : "P04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/30.mp3",
+    "title" : "50 Sắc thái Đen Chương 7 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/31.mp3",
+    "title" : "50 Sắc thái Đen Chương 8 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/32.mp3",
+    "title" : "Chương 9 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/33.mp3",
+    "title" : "50 Sắc thái Đen Chương 10 Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/34.mp3",
+    "title" : "Chương 11 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/35.mp3",
+    "title" : "Chương 12 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/36.mp3",
+    "title" : "Chương 13 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/37.mp3",
+    "title" : "Chương 14 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/38.mp3",
+    "title" : "Chương 15 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/39.mp3",
+    "title" : "Chương 16 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/4.mp3",
+    "title" : "P05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/40.mp3",
+    "title" : "50 Sắc thái Đen Chương 17 Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/41.mp3",
+    "title" : "Chương 18 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/42.mp3",
+    "title" : "Chương 19 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/43.mp3",
+    "title" : "Chương 20 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/44.mp3",
+    "title" : "Chương 21 | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/45.mp3",
+    "title" : "Chương 22 The end | Vietaudio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/5.mp3",
+    "title" : "P06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/6.mp3",
+    "title" : "P07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/7.mp3",
+    "title" : "P08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/8.mp3",
+    "title" : "P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/50-sac-thai/9.mp3",
+    "title" : "P11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

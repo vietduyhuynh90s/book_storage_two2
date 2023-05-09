@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-buong-bo-doi-binh-an-bi-kip-song-hanh-phuc-cua-nguoi-nhat_14839.html",
+    "title" : "Tâm Buông Bỏ, Đời Bình An - Bí Kíp Sống Hạnh Phúc Của Người Nhật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Natori Hougen",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14341,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_8b0c49b71f3e6ef6a7caa28635f799d0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_8b0c49b71f3e6ef6a7caa28635f799d0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/TBBDBA/T%C3%A2m%20bu%C3%B4ng%20b%E1%BB%8F%2C%20%C4%91%E1%BB%9Di%20b%C3%ACnh%20an%20-%20Natori%20Hougen%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14341,
+    "title" : "Tâm buông bỏ, đời bình an - Natori Hougen (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/TBBDBA/T%C3%A2m%20bu%C3%B4ng%20b%E1%BB%8F%2C%20%C4%91%E1%BB%9Di%20b%C3%ACnh%20an%20-%20Natori%20Hougen%20%28128kbit_AAC%29.mp3",
+    "title" : "Tâm buông bỏ, đời bình an - Natori Hougen (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

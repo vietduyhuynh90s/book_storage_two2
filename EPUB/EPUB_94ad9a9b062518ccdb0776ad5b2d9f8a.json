@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sai-gon-bao-nho_19182.html",
+    "title" : "Sài Gòn Bao Nhớ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đàm Hà Phú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14965,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_94ad9a9b062518ccdb0776ad5b2d9f8a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_94ad9a9b062518ccdb0776ad5b2d9f8a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "sai-gon-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "sai-gon-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "sai-gon-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3265,
+    "title" : "sai-gon-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-1.mp3",
+    "title" : "sai-gon-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-2.mp3",
+    "title" : "sai-gon-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-3.mp3",
+    "title" : "sai-gon-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sai-gon-1/sai-gon-4.mp3",
+    "title" : "sai-gon-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

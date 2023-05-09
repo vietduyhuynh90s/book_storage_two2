@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tieu-hoang-khong-phai-tien-thuc-khach_10044.html",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thục Khách",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55705,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f8c42b09f1928afdb9fed74682c10779.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f8c42b09f1928afdb9fed74682c10779.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thkpt/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6950,
+    "title" : "Audio Tiên Hiệp Huyền Ảo Tiểu Hoàng Không Phải Tiên Thục Khách Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thkpt/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6960,
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thkpt/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6980,
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thkpt/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6960,
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thkpt/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6980,
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thkpt/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6955,
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thkpt/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6960,
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (7)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thkpt/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6960,
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (8 END)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thkpt/1.mp3",
+    "title" : "Audio Tiên Hiệp Huyền Ảo Tiểu Hoàng Không Phải Tiên Thục Khách Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thkpt/2.mp3",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thkpt/3.mp3",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thkpt/4.mp3",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thkpt/5.mp3",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thkpt/6.mp3",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thkpt/7.mp3",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thkpt/8.mp3",
+    "title" : "Tiểu Hoàng Không Phải Tiên - Thục Khách Phần (8 END)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

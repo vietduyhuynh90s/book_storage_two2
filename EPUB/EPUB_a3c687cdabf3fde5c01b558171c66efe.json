@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khong-gia-dinh-hector-malot_10339.html",
+    "title" : "Không Gia Đình - Hector Malot",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hector Malot",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 46191,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a3c687cdabf3fde5c01b558171c66efe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a3c687cdabf3fde5c01b558171c66efe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1322,
+    "title" : "KhongGiaDinh01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "KhongGiaDinh02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1594,
+    "title" : "KhongGiaDinh03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1414,
+    "title" : "KhongGiaDinh04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1076,
+    "title" : "KhongGiaDinh05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "KhongGiaDinh06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1091,
+    "title" : "KhongGiaDinh07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 534,
+    "title" : "KhongGiaDinh08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1228,
+    "title" : "KhongGiaDinh09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "KhongGiaDinh10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "KhongGiaDinh11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2166,
+    "title" : "KhongGiaDinh12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1214,
+    "title" : "KhongGiaDinh13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "KhongGiaDinh14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "KhongGiaDinh15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1427,
+    "title" : "KhongGiaDinh16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "KhongGiaDinh17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1484,
+    "title" : "KhongGiaDinh18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2109,
+    "title" : "KhongGiaDinh19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1467,
+    "title" : "KhongGiaDinh20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2938,
+    "title" : "KhongGiaDinh21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3724,
+    "title" : "KHONG GIA DINH 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2078,
+    "title" : "KHONG GIA DINH 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1403,
+    "title" : "KHONG GIA DINH 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1772,
+    "title" : "KHONG GIA DINH 25",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh01.mp3",
+    "title" : "KhongGiaDinh01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh02.mp3",
+    "title" : "KhongGiaDinh02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh03.mp3",
+    "title" : "KhongGiaDinh03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh04.mp3",
+    "title" : "KhongGiaDinh04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh05.mp3",
+    "title" : "KhongGiaDinh05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh06.mp3",
+    "title" : "KhongGiaDinh06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh07.mp3",
+    "title" : "KhongGiaDinh07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh08.mp3",
+    "title" : "KhongGiaDinh08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh09.mp3",
+    "title" : "KhongGiaDinh09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh10.mp3",
+    "title" : "KhongGiaDinh10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh11.mp3",
+    "title" : "KhongGiaDinh11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh12.mp3",
+    "title" : "KhongGiaDinh12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh13.mp3",
+    "title" : "KhongGiaDinh13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh14.mp3",
+    "title" : "KhongGiaDinh14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh15.mp3",
+    "title" : "KhongGiaDinh15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh16.mp3",
+    "title" : "KhongGiaDinh16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh17.mp3",
+    "title" : "KhongGiaDinh17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh18.mp3",
+    "title" : "KhongGiaDinh18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh19.mp3",
+    "title" : "KhongGiaDinh19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh20.mp3",
+    "title" : "KhongGiaDinh20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh21.mp3",
+    "title" : "KhongGiaDinh21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh22.mp3",
+    "title" : "KHONG GIA DINH 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh23.mp3",
+    "title" : "KHONG GIA DINH 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh24.mp3",
+    "title" : "KHONG GIA DINH 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnKhonggiadinh/KhongGiaDinh25.mp3",
+    "title" : "KHONG GIA DINH 25",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

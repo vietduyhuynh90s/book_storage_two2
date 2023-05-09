@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngon-hai-dang-noi-cuoi-troi_16995.html",
+    "title" : "Ngọn Hải Đăng Nơi Cuối Trời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jules Verne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20512,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_9f00dadc524ebf1d7720212009a6a5b0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_9f00dadc524ebf1d7720212009a6a5b0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/00-LoNoiDau-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 184,
+    "title" : "00-LoNoiDau-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/01-LeKhanhThanhNgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1349,
+    "title" : "01-LeKhanhThanhNgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/02-HonaoaQuocGia-NgonHAiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1137,
+    "title" : "02-HonđaoĐaQuocGia-NgonHAiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/03-BaNguoiGacHaiDang-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1478,
+    "title" : "03-BaNguoiGacHaiDang-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/04-BangCuopKongre-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1580,
+    "title" : "04-BangCuopKongre-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/05-ChiecThuyenBumMaule-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1186,
+    "title" : "05-ChiecThuyenBuồmMaule-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/06-TrenVinhElgor-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1409,
+    "title" : "06-TrenVinhElgor-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/07-HangDa-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1109,
+    "title" : "07-HangDa-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/08-SuaChuaThuyenBuom-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1147,
+    "title" : "08-SuaChuaThuyenBuom-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/09-Vasquez-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1321,
+    "title" : "09-Vasquez-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/10-SauLucTauDam-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1316,
+    "title" : "10-SauLucTauDam-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/11-BonCuopXacTau-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1532,
+    "title" : "11-BonCuopXacTau-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/12-LucRaKhoiVinh-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1306,
+    "title" : "12-LucRaKhoiVinh-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/13-TrongBaNgay-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2079,
+    "title" : "13-TrongBaNgay-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/14-ChienHamSantaFe-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1298,
+    "title" : "14-ChienHamSantaFe-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/15-DoanKet-NgonHaiDang-JulesVerne.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1081,
+    "title" : "15-DoanKet-NgonHaiDang-JulesVerne",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/00-LoNoiDau-NgonHaiDang-JulesVerne.mp3",
+    "title" : "00-LoNoiDau-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/01-LeKhanhThanhNgonHaiDang-JulesVerne.mp3",
+    "title" : "01-LeKhanhThanhNgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/02-HonaoaQuocGia-NgonHAiDang-JulesVerne.mp3",
+    "title" : "02-HonđaoĐaQuocGia-NgonHAiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/03-BaNguoiGacHaiDang-NgonHaiDang-JulesVerne.mp3",
+    "title" : "03-BaNguoiGacHaiDang-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/04-BangCuopKongre-NgonHaiDang-JulesVerne.mp3",
+    "title" : "04-BangCuopKongre-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/05-ChiecThuyenBumMaule-NgonHaiDang-JulesVerne.mp3",
+    "title" : "05-ChiecThuyenBuồmMaule-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/06-TrenVinhElgor-NgonHaiDang-JulesVerne.mp3",
+    "title" : "06-TrenVinhElgor-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/07-HangDa-NgonHaiDang-JulesVerne.mp3",
+    "title" : "07-HangDa-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/08-SuaChuaThuyenBuom-NgonHaiDang-JulesVerne.mp3",
+    "title" : "08-SuaChuaThuyenBuom-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/09-Vasquez-NgonHaiDang-JulesVerne.mp3",
+    "title" : "09-Vasquez-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/10-SauLucTauDam-NgonHaiDang-JulesVerne.mp3",
+    "title" : "10-SauLucTauDam-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/11-BonCuopXacTau-NgonHaiDang-JulesVerne.mp3",
+    "title" : "11-BonCuopXacTau-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/12-LucRaKhoiVinh-NgonHaiDang-JulesVerne.mp3",
+    "title" : "12-LucRaKhoiVinh-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/13-TrongBaNgay-NgonHaiDang-JulesVerne.mp3",
+    "title" : "13-TrongBaNgay-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/14-ChienHamSantaFe-NgonHaiDang-JulesVerne.mp3",
+    "title" : "14-ChienHamSantaFe-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNgonhaidangnoicuoitroi/15-DoanKet-NgonHaiDang-JulesVerne.mp3",
+    "title" : "15-DoanKet-NgonHaiDang-JulesVerne",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

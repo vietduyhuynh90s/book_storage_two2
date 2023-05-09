@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-sao-khong-the-yeu-em-tara-nguyen_11714.html",
+    "title" : "Chị! Sao Không Thể Yêu Em? - Tara Nguyễn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tara Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 9282,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_dade48dd84a0e05d145f643e04497103.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_dade48dd84a0e05d145f643e04497103.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2142,
+    "title" : "Chị Sao Không Thể Yêu Em || TRUYỆN NGẮN HAY CHỌN LỌC VỀ TÌNH YÊU",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2309,
+    "title" : "Chị Sao Không Thể Yêu Em - Tập 2 || TRUYỆN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "Chị Sao Không Thể Yêu Em - Tập 3 || TRUYỆN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2379,
+    "title" : "Chị Sao Không Thể Yêu Em - Tập 4 (Trọn bộ) || TRUYỆN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/1.mp3",
+    "title" : "Chị Sao Không Thể Yêu Em || TRUYỆN NGẮN HAY CHỌN LỌC VỀ TÌNH YÊU",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/2.mp3",
+    "title" : "Chị Sao Không Thể Yêu Em - Tập 2 || TRUYỆN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/3.mp3",
+    "title" : "Chị Sao Không Thể Yêu Em - Tập 3 || TRUYỆN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/saochikhongtheyeuem/4.mp3",
+    "title" : "Chị Sao Không Thể Yêu Em - Tập 4 (Trọn bộ) || TRUYỆN HAY CHỌN LỌC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

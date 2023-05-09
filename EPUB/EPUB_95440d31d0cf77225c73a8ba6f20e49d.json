@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dong-ho-nuoi-bua-phai-mao-son_12197.html",
+    "title" : "Dòng Họ Nuôi Bùa Phái Mao Sơn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khanh Mai Nguyen Cao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14686,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_95440d31d0cf77225c73a8ba6f20e49d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_95440d31d0cf77225c73a8ba6f20e49d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dong-ho-nuoi-bua-phai-mao-son/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5953,
+    "title" : "Truyện Có Thật: Dòng Họ Nuôi Bùa Phái Mao Sơn # 1 | MC Phi Tùng 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-ho-nuoi-bua-phai-mao-son/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7956,
+    "title" : "Truyện Có Thật: Dòng Họ Nuôi Bùa Phái Mao Sơn # 2 | MC Phi Tùng 2018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-ho-nuoi-bua-phai-mao-son/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 777,
+    "title" : "Truyện Có Thật: Dòng Họ Nuôi Bùa Phái Mao Sơn # 3 [PHẦN KẾT] | MC Tiến Phong 2018",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dong-ho-nuoi-bua-phai-mao-son/1.mp3",
+    "title" : "Truyện Có Thật: Dòng Họ Nuôi Bùa Phái Mao Sơn # 1 | MC Phi Tùng 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-ho-nuoi-bua-phai-mao-son/2.mp3",
+    "title" : "Truyện Có Thật: Dòng Họ Nuôi Bùa Phái Mao Sơn # 2 | MC Phi Tùng 2018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-ho-nuoi-bua-phai-mao-son/3.mp3",
+    "title" : "Truyện Có Thật: Dòng Họ Nuôi Bùa Phái Mao Sơn # 3 [PHẦN KẾT] | MC Tiến Phong 2018",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoi-chui-voi-trung-ta-am-da-luu-tinh_11578.html",
+    "title" : "Cưới Chui Với Trung Tá - Ám Dạ Lưu Tinh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ám Dạ Lưu Tinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 38025,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f052ccc82e04267eeb4e37ed8e37abe8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f052ccc82e04267eeb4e37ed8e37abe8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7972,
+    "title" : "Cưới Chui Với Trung Tá [Phần 1] Truyện ngôn tình audio hay dễ thương về cô nàng cưới trước yêu sau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6967,
+    "title" : "Cưới Chui Với Trung Tá [Phần 2] Truyện ngôn tình hay độc nhất vô nhị nha",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13046,
+    "title" : "[Phần 3/4] Cưới Chui Với Trung Tá | Truyện ngôn tình hay càng nghe càng say",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10040,
+    "title" : "Truyện ngôn tình hay nhất với kết thúc ngọt ngào nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/1.mp3",
+    "title" : "Cưới Chui Với Trung Tá [Phần 1] Truyện ngôn tình audio hay dễ thương về cô nàng cưới trước yêu sau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/2.mp3",
+    "title" : "Cưới Chui Với Trung Tá [Phần 2] Truyện ngôn tình hay độc nhất vô nhị nha",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/3.mp3",
+    "title" : "[Phần 3/4] Cưới Chui Với Trung Tá | Truyện ngôn tình hay càng nghe càng say",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoichuivoitrungta/4.mp3",
+    "title" : "Truyện ngôn tình hay nhất với kết thúc ngọt ngào nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

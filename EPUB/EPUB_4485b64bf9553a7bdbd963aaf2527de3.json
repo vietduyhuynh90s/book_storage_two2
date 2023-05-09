@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vang-lai-nhi-gioi_14711.html",
+    "title" : "Vãng Lai Nhị Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dung Hồng Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 9067,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4485b64bf9553a7bdbd963aaf2527de3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4485b64bf9553a7bdbd963aaf2527de3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vang-lai-nhi-gioi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3009,
+    "title" : "Tập 1] Vãng Lai Nhị Giới - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vang-lai-nhi-gioi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "Tập 2] Vãng Lai Nhị Giới - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vang-lai-nhi-gioi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "Kết] Vãng Lai Nhị Giới - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vang-lai-nhi-gioi/1.mp3",
+    "title" : "Tập 1] Vãng Lai Nhị Giới - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vang-lai-nhi-gioi/2.mp3",
+    "title" : "Tập 2] Vãng Lai Nhị Giới - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vang-lai-nhi-gioi/3.mp3",
+    "title" : "Kết] Vãng Lai Nhị Giới - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

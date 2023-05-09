@@ -1,0 +1,797 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/du-tinh-loi-moi-cua-boss-than-bi-an-tam_10310.html",
+    "title" : "Dụ Tình - Lời Mời Của Boss Thần Bí - Ân Tầm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ân Tầm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 263063,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_8a8a5546a229e125a1ccd498b916622e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_8a8a5546a229e125a1ccd498b916622e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5679,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 1- Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4291,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4274,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4557,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3905,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 2- Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4149,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3765,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3839,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4200,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4101,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4124,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4125,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3899,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4156,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4089,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4910,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4350,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3890,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4422,
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4314,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3846,
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4450,
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4306,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 42 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 43 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 44 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4124,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 45 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 46 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4616,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 47 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5640,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 48 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 49 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4527,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4928,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 50 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 51 -Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 52 -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3872,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 53 -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4158,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 54-Tập Cuối -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4509,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 55- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3999,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 56- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3845,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 57- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4649,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 58- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4104,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 59- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4166,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 60- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4096,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 61- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5281,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 62- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4853,
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 63- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4410,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3981,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/1.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 1- Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/10.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/11.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/12.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/13.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/14.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/15.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/16.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/17.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/18.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/19.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/2.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 2- Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/20.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/21.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/22.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/23.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/24.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/25.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/26.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/27.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/28.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/29.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/30.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/31.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/32.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/33.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/34.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/35.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/36.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/37.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/38.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/39.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/4.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/40.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/41.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/42.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 42 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/43.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 43 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/44.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 44 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/45.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 45 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/46.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 46 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/47.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 47 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/48.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 48 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/49.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 49 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/5.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/50.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 50 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/51.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 51 -Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/52.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 52 -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/53.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí- Tập 53 -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/54.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 54-Tập Cuối -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/55.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 55- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/56.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 56- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/57.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 57- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/58.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 58- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/59.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 59- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/6.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/60.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 60- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/61.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 61- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/62.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 62- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/63.mp3",
+    "title" : "Dụ Tình Lời Mời Của Boss Thần Bí -Tập 63- Ngoại Truyện -Truyện Ngôn Tình Hay Nhất 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/7.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/8.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/du-tinh-loi-moi-cua-boss-than-bi/9.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2017- Ân Tầm- Rocky",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

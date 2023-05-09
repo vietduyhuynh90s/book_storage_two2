@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-la-anh-nang-nhung-ngay-dong-louis-thuy-trang_11849.html",
+    "title" : "Anh Là Ánh Nắng Những Ngày Đông - Louis Thùy Trang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Louis Thùy Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14148,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_e4311114a8b3ca9eddbaaa5ae236a1ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_e4311114a8b3ca9eddbaaa5ae236a1ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6853,
+    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7295,
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/1.mp3",
+    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/2.mp3",
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

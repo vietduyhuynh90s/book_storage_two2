@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tay-om-con-tay-om-vo-ha-nhiem-tuyet_11486.html",
+    "title" : "Tay Ôm Con Tay Ôm Vợ - Hạ Nhiễm Tuyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hạ Nhiễm Tuyết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 66898,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_46a4ba79727a50ca92bc80bed8948478.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_46a4ba79727a50ca92bc80bed8948478.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tayomvotayomcon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8299,
+    "title" : "Truyện ngôn tình audio hay nhất cảm động nhất mọi thời đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6751,
+    "title" : "Truyện ngôn tình audio hay chinh phục trái tim vạn người mê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6970,
+    "title" : "Tay Ôm Con Tay Ôm Vợ [Phần 3] Truyện ngôn tình hay hấp dẫn nhất bạn không nên bỏ qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6559,
+    "title" : "Tay Ôm Con Tay Ôm Vợ [Phần 4] Truyện ngôn tình hay được nhiều lượt xem nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8018,
+    "title" : "Tay Ôm Vợ Tay Ôm Con [Phần 5] Truyện ngôn tình hay cảm động lắm luôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10313,
+    "title" : "Tay Ôm Vợ Tay Ôm Con [Phần 6] Truyện ngôn tình hay nhiều cung bậc cảm xúc nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7400,
+    "title" : "Truyện ngôn tình hay càng nghe càng hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12588,
+    "title" : "Truyện ngôn tình hay và kết thúc mỹ mãn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tayomvotayomcon/1.mp3",
+    "title" : "Truyện ngôn tình audio hay nhất cảm động nhất mọi thời đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/2.mp3",
+    "title" : "Truyện ngôn tình audio hay chinh phục trái tim vạn người mê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/3.mp3",
+    "title" : "Tay Ôm Con Tay Ôm Vợ [Phần 3] Truyện ngôn tình hay hấp dẫn nhất bạn không nên bỏ qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/4.mp3",
+    "title" : "Tay Ôm Con Tay Ôm Vợ [Phần 4] Truyện ngôn tình hay được nhiều lượt xem nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/5.mp3",
+    "title" : "Tay Ôm Vợ Tay Ôm Con [Phần 5] Truyện ngôn tình hay cảm động lắm luôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/6.mp3",
+    "title" : "Tay Ôm Vợ Tay Ôm Con [Phần 6] Truyện ngôn tình hay nhiều cung bậc cảm xúc nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/7.mp3",
+    "title" : "Truyện ngôn tình hay càng nghe càng hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tayomvotayomcon/8.mp3",
+    "title" : "Truyện ngôn tình hay và kết thúc mỹ mãn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

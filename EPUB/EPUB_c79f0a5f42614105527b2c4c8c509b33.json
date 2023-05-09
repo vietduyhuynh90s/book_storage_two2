@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-cua-naoko_15338.html",
+    "title" : "Bí Mật Của Naoko",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40399,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c79f0a5f42614105527b2c4c8c509b33.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c79f0a5f42614105527b2c4c8c509b33.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.01.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2028,
+    "title" : "BMCN.01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.02.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3114,
+    "title" : "BMCN.02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.03.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2852,
+    "title" : "BMCN.03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.04.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2312,
+    "title" : "BMCN.04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.05.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2526,
+    "title" : "BMCN.05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.06.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1647,
+    "title" : "BMCN.06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.07.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "BMCN.07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.08.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2440,
+    "title" : "BMCN.08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.09.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2239,
+    "title" : "BMCN.09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.10.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2691,
+    "title" : "BMCN.10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.11.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2495,
+    "title" : "BMCN.11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.12.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2200,
+    "title" : "BMCN.12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.13.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2344,
+    "title" : "BMCN.13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.14.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "BMCN.14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.15.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1819,
+    "title" : "BMCN.15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.16.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1869,
+    "title" : "BMCN.16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.17.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "BMCN.17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.18.end.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2409,
+    "title" : "BMCN.18.end",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.01.m4a",
+    "title" : "BMCN.01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.02.m4a",
+    "title" : "BMCN.02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.03.m4a",
+    "title" : "BMCN.03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.04.m4a",
+    "title" : "BMCN.04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.05.m4a",
+    "title" : "BMCN.05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.06.m4a",
+    "title" : "BMCN.06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.07.m4a",
+    "title" : "BMCN.07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.08.m4a",
+    "title" : "BMCN.08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.09.m4a",
+    "title" : "BMCN.09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.10.m4a",
+    "title" : "BMCN.10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.11.m4a",
+    "title" : "BMCN.11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.12.m4a",
+    "title" : "BMCN.12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.13.m4a",
+    "title" : "BMCN.13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.14.m4a",
+    "title" : "BMCN.14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.15.m4a",
+    "title" : "BMCN.15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.16.m4a",
+    "title" : "BMCN.16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.17.m4a",
+    "title" : "BMCN.17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bmcn_20200905/BMCN.18.end.m4a",
+    "title" : "BMCN.18.end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

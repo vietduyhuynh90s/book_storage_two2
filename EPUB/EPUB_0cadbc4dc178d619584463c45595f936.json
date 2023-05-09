@@ -1,0 +1,593 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuc-nghiep-the-than-thuy-thien-thua_10602.html",
+    "title" : "Chức Nghiệp Thế Thân - Thủy Thiên Thừa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thuỷ Thiên Thừa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 98369,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_0cadbc4dc178d619584463c45595f936.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_0cadbc4dc178d619584463c45595f936.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 999,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 1 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1460,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 10 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2140,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 11 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1483,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 12 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2428,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 13 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2449,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 14 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 15 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 16 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2506,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 17 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 18 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2478,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 19 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 813,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 2 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 20 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 21 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2410,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 22 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2413,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 23 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2451,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 24 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2499,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 25 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2433,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 26 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 27 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 28 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2424,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 29 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1632,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 3 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 30 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 31 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2408,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 32 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2477,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 33 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2413,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 34 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 35 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2445,
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 36 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2451,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 37 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2439,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 38 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 39 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1104,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 4 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2413,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 40 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2426,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 41 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2414,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 42 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 43 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2482,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 44 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2183,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 45 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 958,
+    "title" : "Chức Nghiệp Thế Thân H+ The End ( Tập 46 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1531,
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 5 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1147,
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 6 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1184,
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 7 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 8 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2126,
+    "title" : "Chức Nghiệp Thế Thân ( Tập 9 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/1.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 1 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/10.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 10 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/11.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 11 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/12.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 12 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/13.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 13 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/14.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 14 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/15.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 15 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/16.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 16 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/17.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 17 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/18.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 18 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/19.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 19 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/2.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 2 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/20.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 20 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/21.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 21 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/22.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 22 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/23.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 23 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/24.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 24 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/25.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 25 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/26.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 26 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/27.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 27 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/28.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 28 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/29.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 29 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/3.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 3 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/30.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 30 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/31.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 31 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/32.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 32 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/33.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 33 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/34.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 34 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/35.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 35 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/36.mp3",
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 36 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/37.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 37 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/38.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 38 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/39.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 39 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/4.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 4 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/40.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 40 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/41.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 41 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/42.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 42 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/43.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 43 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/44.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 44 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/45.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 45 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/46.mp3",
+    "title" : "Chức Nghiệp Thế Thân H+ The End ( Tập 46 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/5.mp3",
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 5 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/6.mp3",
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 6 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/7.mp3",
+    "title" : "Chức Nghiệp Thế Thân H+ ( Tập 7 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/8.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 8 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuc-nghiep-the-than/9.mp3",
+    "title" : "Chức Nghiệp Thế Thân ( Tập 9 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

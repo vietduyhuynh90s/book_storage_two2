@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/42-nam-lam-an-tai-my-va-trung-quoc_17494.html",
+    "title" : "42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alan Phan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15915,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a87107decaf40c337115be6cc3f7bcbe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a87107decaf40c337115be6cc3f7bcbe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/01.42NamMyVaTrungQuocChuongMoDau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1749,
+    "title" : "01. Mở đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/02.42NamMyVaTrungQuocChuong01_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1707,
+    "title" : "02. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/03.42NamMyVaTrungQuocChuong0203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3348,
+    "title" : "03. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/04.42NamMyVaTrungQuocChuong0405_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3008,
+    "title" : "04. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/05.42NamMyVaTrungQuocChuong0607_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3008,
+    "title" : "05. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/06.42NamMyVaTrungQuocChuong0809Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3095,
+    "title" : "06. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/01.42NamMyVaTrungQuocChuongMoDau.mp3",
+    "title" : "01. Mở đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/02.42NamMyVaTrungQuocChuong01_Chuan.mp3",
+    "title" : "02. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/03.42NamMyVaTrungQuocChuong0203.mp3",
+    "title" : "03. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/04.42NamMyVaTrungQuocChuong0405_Chuan.mp3",
+    "title" : "04. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/05.42NamMyVaTrungQuocChuong0607_Chuan.mp3",
+    "title" : "05. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/42nam-lam-an-tai-my-va-trung-quoc/06.42NamMyVaTrungQuocChuong0809Het.mp3",
+    "title" : "06. 42 Năm Làm Ăn Tại Mỹ Và Trung Quốc (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

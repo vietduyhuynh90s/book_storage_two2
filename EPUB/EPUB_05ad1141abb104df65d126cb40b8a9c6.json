@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dan-ba_15701.html",
+    "title" : "Đàn Bà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thế Duyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 33472,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_05ad1141abb104df65d126cb40b8a9c6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_05ad1141abb104df65d126cb40b8a9c6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dan-ba/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3116,
+    "title" : "Tập 1 - Truyện ngắn tâm lý xã hội mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "Tập 10 (HẾT) - Truyện ngắn tâm lý tình cảm mới nhất 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3314,
+    "title" : "Tập 2 - Truyện ngắn tâm lý xã hội mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "Tập 3 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "Tập 4 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2871,
+    "title" : "Tập 5 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3477,
+    "title" : "Tập 6 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "Tập 7 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "Tập 8 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3159,
+    "title" : "Tập 9 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dan-ba/1.mp3",
+    "title" : "Tập 1 - Truyện ngắn tâm lý xã hội mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/10.mp3",
+    "title" : "Tập 10 (HẾT) - Truyện ngắn tâm lý tình cảm mới nhất 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/2.mp3",
+    "title" : "Tập 2 - Truyện ngắn tâm lý xã hội mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/3.mp3",
+    "title" : "Tập 3 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/4.mp3",
+    "title" : "Tập 4 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/5.mp3",
+    "title" : "Tập 5 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/6.mp3",
+    "title" : "Tập 6 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/7.mp3",
+    "title" : "Tập 7 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/8.mp3",
+    "title" : "Tập 8 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba/9.mp3",
+    "title" : "Tập 9 - Truyện ngắn tâm lý tình cảm mới nhất 2021 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

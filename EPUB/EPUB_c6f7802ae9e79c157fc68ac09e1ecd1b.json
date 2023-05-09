@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/to-an-cuoi-vo_14576.html",
+    "title" : "Tô An Cưới Vợ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jihyo Blues",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 32820,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c6f7802ae9e79c157fc68ac09e1ecd1b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c6f7802ae9e79c157fc68ac09e1ecd1b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 1_5)||Phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2212,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 6_10)||Phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2690,
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 11_15)||Phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 16_20)||Phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2326,
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 21_25)||Phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4029,
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 26_35)||Phát hành 3,5,7 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4692,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4246,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3974,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/1.mp3",
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 1_5)||Phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/2.mp3",
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 6_10)||Phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/3.mp3",
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 11_15)||Phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/4.mp3",
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 16_20)||Phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/5.mp3",
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 21_25)||Phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/6.mp3",
+    "title" : "[BÁCH HỢP NGÔN TÌNH]TÔ AN CƯỚI VỢ(CHAP 26_35)||Phát hành 3,5,7 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/to-an-cuoi-vo/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

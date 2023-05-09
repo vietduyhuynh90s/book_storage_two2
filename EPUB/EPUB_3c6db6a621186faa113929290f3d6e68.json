@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tren-bien-khoi-duoi-da-tham-susan-cooper_10167.html",
+    "title" : "Trên Biển Khơi, Dưới Đá Thẳm - Susan Cooper.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Susan Cooper",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 32292,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_3c6db6a621186faa113929290f3d6e68.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_3c6db6a621186faa113929290f3d6e68.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1913,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1839,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1301,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2578,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2835,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1433,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1334,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2434,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1494,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2844,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1514,
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/1.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/10.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/11.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/12.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/13.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/14.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/15.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/2.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/3.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/4.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/5.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/6.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/7.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/8.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trenbienkhoiduoidatham/9.mp3",
+    "title" : "TREN BIEN KHOI DUOI DA THAM 0",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoa-hong-ky-uc-lam-dich-nhi_10520.html",
+    "title" : "Hoa Hồng Ký Ức - Lâm Địch Nhi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lâm Địch Nhi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 54292,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_e20f45d447230059938360dc835d64b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_e20f45d447230059938360dc835d64b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7122,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7165,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7197,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7314,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7194,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6944,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7228,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4128,
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/1.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/2.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/3.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/4.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/5.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/6.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/7.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoa-hong-ky-uc/8.mp3",
+    "title" : "Truyện ngôn tình lãng mạn của Lâm Địch Nhi - Mc Thúy Nga",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

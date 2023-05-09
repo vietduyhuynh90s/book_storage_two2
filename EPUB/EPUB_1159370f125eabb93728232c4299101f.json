@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-than-la-con-trai-yiotakunii_11716.html",
+    "title" : "Bạn Thân Là Con Trai - YiOtaKunii",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "YiOtaKunii",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44359,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_1159370f125eabb93728232c4299101f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_1159370f125eabb93728232c4299101f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/banthanlacontrai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14524,
+    "title" : "Bạn thân là con trai | Truyện ngắn hài hước và dễ thương | Truyện Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banthanlacontrai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14220,
+    "title" : "BẠN THÂN LÀ CON TRAI [TRUYỆN NGẮN TÌNH YÊU RẤT HAY 2018]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banthanlacontrai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15615,
+    "title" : "Nghe truyện ngắn 'Bạn thân là con trai full' khiến nhiều cô gái phải ghen tỵ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/banthanlacontrai/1.mp3",
+    "title" : "Bạn thân là con trai | Truyện ngắn hài hước và dễ thương | Truyện Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banthanlacontrai/2.mp3",
+    "title" : "BẠN THÂN LÀ CON TRAI [TRUYỆN NGẮN TÌNH YÊU RẤT HAY 2018]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banthanlacontrai/3.mp3",
+    "title" : "Nghe truyện ngắn 'Bạn thân là con trai full' khiến nhiều cô gái phải ghen tỵ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

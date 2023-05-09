@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuong-tinh_15840.html",
+    "title" : "Cưỡng Tình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nãi Hoàng Lưu Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21252,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_94a8a2a15b6da0d1267bb66cc9e246e9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_94a8a2a15b6da0d1267bb66cc9e246e9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuong-tinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3112,
+    "title" : "Truyện Quân Nhân, Nữ Minh Tinh Hay | Trọng Sinh Quyến Rũ Chồng | Ngôn Tình Chọn Lọc 2020 Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3530,
+    "title" : "Truyện Quân Nhân, Sủng, Trùng Sinh Mới Nhất | Trọng Sinh Quyến Rũ Chồng | Tập 2: Lão Công Làm Nháo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3310,
+    "title" : "Truyện Sống Lại Làm Vợ Anh Chồng Quân Nhân | TRỌNG SINH QUYẾN RŨ CHỒNG | Tập 3: Lão Công Ghen Rồi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4103,
+    "title" : "Truyện Hay 3S Mới Nhất | TRỌNG SINH QUYẾN RŨ CHỒNG | Tập 4: Tính Chiếm Hữu Cao | Ngôn Tình Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "Truyện Ngắn Hay Đầy Cảm Xúc | TRỌNG SINH QUYẾN RŨ CHỒNG | Tập 5 | Truyện Ngôn Tình Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "Hết: Vì Quá Yêu Em | Ngôn Tình Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuong-tinh/1.mp3",
+    "title" : "Truyện Quân Nhân, Nữ Minh Tinh Hay | Trọng Sinh Quyến Rũ Chồng | Ngôn Tình Chọn Lọc 2020 Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/2.mp3",
+    "title" : "Truyện Quân Nhân, Sủng, Trùng Sinh Mới Nhất | Trọng Sinh Quyến Rũ Chồng | Tập 2: Lão Công Làm Nháo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/3.mp3",
+    "title" : "Truyện Sống Lại Làm Vợ Anh Chồng Quân Nhân | TRỌNG SINH QUYẾN RŨ CHỒNG | Tập 3: Lão Công Ghen Rồi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/4.mp3",
+    "title" : "Truyện Hay 3S Mới Nhất | TRỌNG SINH QUYẾN RŨ CHỒNG | Tập 4: Tính Chiếm Hữu Cao | Ngôn Tình Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/5.mp3",
+    "title" : "Truyện Ngắn Hay Đầy Cảm Xúc | TRỌNG SINH QUYẾN RŨ CHỒNG | Tập 5 | Truyện Ngôn Tình Trần Vân Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuong-tinh/6.mp3",
+    "title" : "Hết: Vì Quá Yêu Em | Ngôn Tình Trần Vân Vị Hy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

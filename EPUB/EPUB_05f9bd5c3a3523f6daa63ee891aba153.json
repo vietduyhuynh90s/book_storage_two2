@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chay-dau-cho-thoat-minh-nguyet-thinh-phong_10413.html",
+    "title" : "Chạy Đâu Cho Thoát - Minh Nguyệt Thính Phong",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Thính Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 54833,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_05f9bd5c3a3523f6daa63ee891aba153.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_05f9bd5c3a3523f6daa63ee891aba153.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3444,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3868,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3621,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3865,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3470,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3214,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3676,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3579,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3895,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/1.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/10.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/11.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/12.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/13.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/14.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/15.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/2.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/3.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/4.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/5.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/6.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/7.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/8.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chay-dau-cho-thoat/9.mp3",
+    "title" : "Truyện ngôn tình tình yêu đơn phương được đền đáp - MC Bảo Anh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

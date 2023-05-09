@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thap-giac-quan-yukito-ayatsuji_10734.html",
+    "title" : "Thập Giác Quán - Yukito Ayatsuji",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yukito Ayatsuji",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26749,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_6723a48a1e57425e5625743c051faf9d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_6723a48a1e57425e5625743c051faf9d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thap-giac-quan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "Truyện trinh thám hay | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "án mạng năm xưa | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3389,
+    "title" : "Nạn nhân thứ nhất | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6639,
+    "title" : "Nạn nhân thứ 2 | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "TẬP 05 | Mc Thanh Bình | Truyện Nhật Bản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4347,
+    "title" : "TẬP 06 | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1115,
+    "title" : "TẬP CUỐI | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thap-giac-quan/1.mp3",
+    "title" : "Truyện trinh thám hay | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/2.mp3",
+    "title" : "án mạng năm xưa | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/3.mp3",
+    "title" : "Nạn nhân thứ nhất | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/4.mp3",
+    "title" : "Nạn nhân thứ 2 | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/5.mp3",
+    "title" : "TẬP 05 | Mc Thanh Bình | Truyện Nhật Bản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/6.mp3",
+    "title" : "TẬP 06 | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thap-giac-quan/7.mp3",
+    "title" : "TẬP CUỐI | Mc Thanh Bình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

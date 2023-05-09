@@ -1,0 +1,725 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duong-phap-y-xuyen-viet-thanh-ngo-tac_14541.html",
+    "title" : "Đương Pháp Y Xuyên Việt Thành Ngỗ Tác",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Á Mạch Ngốc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 56881,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_0d0028f8fc170549dfcfb914d84a8e27.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_0d0028f8fc170549dfcfb914d84a8e27.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1135,
+    "title" : "#1 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 508,
+    "title" : "#10 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 911,
+    "title" : "#11 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "#12 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "#13 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 810,
+    "title" : "#14 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 852,
+    "title" : "#15 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 755,
+    "title" : "#16 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1053,
+    "title" : "#17 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 716,
+    "title" : "#18 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 903,
+    "title" : "#19 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 776,
+    "title" : "#2 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 813,
+    "title" : "#20 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 750,
+    "title" : "#21 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 767,
+    "title" : "#22 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 689,
+    "title" : "#23 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 796,
+    "title" : "#24 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "#25 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 703,
+    "title" : "#26 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 707,
+    "title" : "#27 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 662,
+    "title" : "#28 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 800,
+    "title" : "#29 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 789,
+    "title" : "#3 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 695,
+    "title" : "#30 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "#31 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 847,
+    "title" : "#32 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 873,
+    "title" : "#33 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "#34 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "#35 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 890,
+    "title" : "#36 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1199,
+    "title" : "#37 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 646,
+    "title" : "#38 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1046,
+    "title" : "#39 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1007,
+    "title" : "#4 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1716,
+    "title" : "#40-p1 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1194,
+    "title" : "#40-p2 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 895,
+    "title" : "#41 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "#42 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 829,
+    "title" : "#43 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 995,
+    "title" : "#44 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 925,
+    "title" : "#45,46 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 792,
+    "title" : "#47 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 763,
+    "title" : "#48 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1322,
+    "title" : "#49 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 811,
+    "title" : "#5 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1078,
+    "title" : "#50 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2974,
+    "title" : "#51~53 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1968,
+    "title" : "#54~55 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "#56~57 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "#58~59 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1889,
+    "title" : "#60~61 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1530,
+    "title" : "#62~64 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1753,
+    "title" : "# NGOẠI TRUYỆN (HOÀN) ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 811,
+    "title" : "#6 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 643,
+    "title" : "#7 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 817,
+    "title" : "#8 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 906,
+    "title" : "#9 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/1.mp3",
+    "title" : "#1 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/10.mp3",
+    "title" : "#10 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/11.mp3",
+    "title" : "#11 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/12.mp3",
+    "title" : "#12 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/13.mp3",
+    "title" : "#13 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/14.mp3",
+    "title" : "#14 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/15.mp3",
+    "title" : "#15 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/16.mp3",
+    "title" : "#16 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/17.mp3",
+    "title" : "#17 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/18.mp3",
+    "title" : "#18 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/19.mp3",
+    "title" : "#19 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/2.mp3",
+    "title" : "#2 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/20.mp3",
+    "title" : "#20 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/21.mp3",
+    "title" : "#21 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/22.mp3",
+    "title" : "#22 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/23.mp3",
+    "title" : "#23 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/24.mp3",
+    "title" : "#24 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/25.mp3",
+    "title" : "#25 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/26.mp3",
+    "title" : "#26 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/27.mp3",
+    "title" : "#27 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/28.mp3",
+    "title" : "#28 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/29.mp3",
+    "title" : "#29 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/3.mp3",
+    "title" : "#3 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/30.mp3",
+    "title" : "#30 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/31.mp3",
+    "title" : "#31 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/32.mp3",
+    "title" : "#32 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/33.mp3",
+    "title" : "#33 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/34.mp3",
+    "title" : "#34 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/35.mp3",
+    "title" : "#35 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/36.mp3",
+    "title" : "#36 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/37.mp3",
+    "title" : "#37 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/38.mp3",
+    "title" : "#38 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/39.mp3",
+    "title" : "#39 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/4.mp3",
+    "title" : "#4 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/40.mp3",
+    "title" : "#40-p1 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/41.mp3",
+    "title" : "#40-p2 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/42.mp3",
+    "title" : "#41 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/43.mp3",
+    "title" : "#42 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/44.mp3",
+    "title" : "#43 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/45.mp3",
+    "title" : "#44 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/46.mp3",
+    "title" : "#45,46 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/47.mp3",
+    "title" : "#47 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/48.mp3",
+    "title" : "#48 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/49.mp3",
+    "title" : "#49 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/5.mp3",
+    "title" : "#5 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/50.mp3",
+    "title" : "#50 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/51.mp3",
+    "title" : "#51~53 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/52.mp3",
+    "title" : "#54~55 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/53.mp3",
+    "title" : "#56~57 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/54.mp3",
+    "title" : "#58~59 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/55.mp3",
+    "title" : "#60~61 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/56.mp3",
+    "title" : "#62~64 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/57.mp3",
+    "title" : "# NGOẠI TRUYỆN (HOÀN) ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/6.mp3",
+    "title" : "#6 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/7.mp3",
+    "title" : "#7 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/8.mp3",
+    "title" : "#8 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duong-phap-y-xuyen-viet-thanh-ngo-tac/9.mp3",
+    "title" : "#9 ĐƯƠNG PHÁP Y XUYÊN VIỆT THÀNH NGỖ TÁC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

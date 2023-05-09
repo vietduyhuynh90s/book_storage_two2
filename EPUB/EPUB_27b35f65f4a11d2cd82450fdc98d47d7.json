@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhan-chung-cam_17880.html",
+    "title" : "Nhân Chứng Câm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 30630,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_27b35f65f4a11d2cd82450fdc98d47d7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_27b35f65f4a11d2cd82450fdc98d47d7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ncc_20220318/00001_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1414,
+    "title" : "00001 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00002_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 860,
+    "title" : "00002 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00003_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1003,
+    "title" : "00003 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00004_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1069,
+    "title" : "00004 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00005_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 952,
+    "title" : "00005 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00006_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 678,
+    "title" : "00006 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00007_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2211,
+    "title" : "00007 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00008_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1229,
+    "title" : "00008 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00009_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1484,
+    "title" : "00009 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00010_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1090,
+    "title" : "00010 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00011_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 787,
+    "title" : "00011 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00012_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1059,
+    "title" : "00012 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00013_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1122,
+    "title" : "00013 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00014_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1655,
+    "title" : "00014 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00015_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 695,
+    "title" : "00015 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00016_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 792,
+    "title" : "00016 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00017_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 918,
+    "title" : "00017 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00018_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1238,
+    "title" : "00018 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00019_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 931,
+    "title" : "00019 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00020_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "00020 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00021_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1564,
+    "title" : "00021 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00022_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "00022 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00023_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 808,
+    "title" : "00023 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00024_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 857,
+    "title" : "00024 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00025_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1014,
+    "title" : "00025 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00026_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1188,
+    "title" : "00026 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00027_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2024,
+    "title" : "00027 Nhân Chứng Câm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ncc_20220318/00001_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00001 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00002_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00002 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00003_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00003 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00004_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00004 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00005_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00005 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00006_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00006 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00007_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00007 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00008_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00008 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00009_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00009 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00010_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00010 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00011_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00011 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00012_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00012 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00013_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00013 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00014_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00014 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00015_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00015 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00016_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00016 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00017_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00017 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00018_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00018 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00019_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00019 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00020_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00020 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00021_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00021 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00022_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00022 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00023_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00023 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00024_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00024 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00025_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00025 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00026_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00026 Nhân Chứng Câm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ncc_20220318/00027_Nha%CC%82n%20Chu%CC%9B%CC%81ng%20Ca%CC%82m.mp4",
+    "title" : "00027 Nhân Chứng Câm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

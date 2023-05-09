@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/linh-sat-quy-chi-khuc_10722.html",
+    "title" : "Linh Sát - Quỷ Chi Khúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỷ Chi Khúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 96812,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f8014eec1e917dcdcafa13994a41e42c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f8014eec1e917dcdcafa13994a41e42c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-linh-phap-su/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3155,
+    "title" : "Vong Linh Pháp Sư P1ll Vong Linh Gặp Ác Linh ll MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "Vong Linh Pháp Sư P10 ll Ai Là Ma Vật ll Truyện Ma Pháp Bùa Chú Cực Hay ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2852,
+    "title" : "Vong Linh Pháp Sư P11 ll Thử Nghiệm ll Trần Vân Studio ll Truyện Ma Pháp Siêu Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2680,
+    "title" : "Vong Linh Pháp Sư P12 ll Truyện Ma Pháp Bùa Chú Hay ll MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4368,
+    "title" : "Vong Linh Pháp Sư P13 ll Rừng Rậm Bạch Cốt ll Truyện Ma Pháp Hay ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "Vong Linh Pháp Sư P14 ll Thần Kiếm ll Truyện Ma Pháp Sư Hay ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3156,
+    "title" : "Vong Linh Pháp Sư P15 ll Trần Vân Studio ll Truyện Ma Pháp Sư Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "Vong Linh Pháp Sư P16 ll Biết Chân Tướng ll Trần Vân Studio ll Truyện Ma Pháp Sư Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Vong Linh Pháp Sư P17 ll Đại Chiến Thây Ma ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "Vong Linh Pháp Sư P18 ll Một Giấc Mộng Ba Năm ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2579,
+    "title" : "Vong Linh Pháp Sư P19 ll Thân Phận Bại Lộ ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3482,
+    "title" : "Tiệt Sát ll Truyện Ma Pháp ll MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2886,
+    "title" : "Vong Linh Pháp Sư P20 ll Biến Cố Của Đông Phương Gia ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "Vong Linh Pháp Sư P21 ll Báo Thù ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2707,
+    "title" : "Vong Linh Pháp Sư P22 ll Dơi Hút Máu & Thuyền U Linh ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2879,
+    "title" : "Vong Linh Pháp Sư P23 ll Ma Quỷ Dưới Nước ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "Vong Linh Pháp Sư P24 ll Sống Sót Ra Ngoài ll Truyện Ma Pháp Sư Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "Vong Linh Pháp Sư P25 ll Yêu Như Ảo ẢNh ll Huyền Huyễn Linh Dị Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2930,
+    "title" : "Vong Linh Pháp Sư P26 ll Gặp Cốt Long ll Truyện Huyền Huyễn Cổ Đại Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2842,
+    "title" : "Vong Linh Pháp Sư P27 ll Huyền Huyễn Cổ Đại Hay ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2579,
+    "title" : "Vong Linh Pháp Sư P28 ll Truyện Ma Pháp Hay ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1677,
+    "title" : "Vong Linh Pháp Sư P29 ll Thi Cầm ll Trần Vân VLog",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "Vong Linh Pháp Sư P3 / Thứ Sát / Truyện Ma Pháp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2046,
+    "title" : "Vong Linh Pháp Sư P30 ll Đại Chiến ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2106,
+    "title" : "Vong Linh Pháo Sư P31 ll Truyện Ma Pháp ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1678,
+    "title" : "Vong Linh Pháp Sư P32 ll Truyện Ma Pháp ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 448,
+    "title" : "Phần Cuối ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "Vong Linh Pháp Sư P4 ll Vụ Án Moi Tim Người ll Truyện Ma Pháp Bùa Chú Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2384,
+    "title" : "Vong Linh Pháp Sư P5 ll Trận Đấu Giữa Bầu Trời Đêm ll MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "Vong Linh Pháp Sư P6 ll Vân Đô Thành ll MC Trần Vân ll Truyện Ma Pháp Bùa Chú Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "Vong Linh Pháp Sư P7 ll Tiêu Diệt Ma Thú ll Truyện Ma Pháp Hay ll MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3266,
+    "title" : "Vong Linh Pháp Sư P8 ll Đại Chiến Ma Hạc ll Truyện Ma Pháp Sư ll MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3599,
+    "title" : "Vong Linh Pháp Sư P9 ll Truyện Ma Pháp Bùa Chú Tuyệt Hay ll Trần Vân Studio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-linh-phap-su/1.mp3",
+    "title" : "Vong Linh Pháp Sư P1ll Vong Linh Gặp Ác Linh ll MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/10.mp3",
+    "title" : "Vong Linh Pháp Sư P10 ll Ai Là Ma Vật ll Truyện Ma Pháp Bùa Chú Cực Hay ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/11.mp3",
+    "title" : "Vong Linh Pháp Sư P11 ll Thử Nghiệm ll Trần Vân Studio ll Truyện Ma Pháp Siêu Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/12.mp3",
+    "title" : "Vong Linh Pháp Sư P12 ll Truyện Ma Pháp Bùa Chú Hay ll MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/13.mp3",
+    "title" : "Vong Linh Pháp Sư P13 ll Rừng Rậm Bạch Cốt ll Truyện Ma Pháp Hay ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/14.mp3",
+    "title" : "Vong Linh Pháp Sư P14 ll Thần Kiếm ll Truyện Ma Pháp Sư Hay ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/15.mp3",
+    "title" : "Vong Linh Pháp Sư P15 ll Trần Vân Studio ll Truyện Ma Pháp Sư Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/16.mp3",
+    "title" : "Vong Linh Pháp Sư P16 ll Biết Chân Tướng ll Trần Vân Studio ll Truyện Ma Pháp Sư Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/17.mp3",
+    "title" : "Vong Linh Pháp Sư P17 ll Đại Chiến Thây Ma ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/18.mp3",
+    "title" : "Vong Linh Pháp Sư P18 ll Một Giấc Mộng Ba Năm ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/19.mp3",
+    "title" : "Vong Linh Pháp Sư P19 ll Thân Phận Bại Lộ ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/2.mp3",
+    "title" : "Tiệt Sát ll Truyện Ma Pháp ll MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/20.mp3",
+    "title" : "Vong Linh Pháp Sư P20 ll Biến Cố Của Đông Phương Gia ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/21.mp3",
+    "title" : "Vong Linh Pháp Sư P21 ll Báo Thù ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/22.mp3",
+    "title" : "Vong Linh Pháp Sư P22 ll Dơi Hút Máu & Thuyền U Linh ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/23.mp3",
+    "title" : "Vong Linh Pháp Sư P23 ll Ma Quỷ Dưới Nước ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/24.mp3",
+    "title" : "Vong Linh Pháp Sư P24 ll Sống Sót Ra Ngoài ll Truyện Ma Pháp Sư Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/25.mp3",
+    "title" : "Vong Linh Pháp Sư P25 ll Yêu Như Ảo ẢNh ll Huyền Huyễn Linh Dị Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/26.mp3",
+    "title" : "Vong Linh Pháp Sư P26 ll Gặp Cốt Long ll Truyện Huyền Huyễn Cổ Đại Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/27.mp3",
+    "title" : "Vong Linh Pháp Sư P27 ll Huyền Huyễn Cổ Đại Hay ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/28.mp3",
+    "title" : "Vong Linh Pháp Sư P28 ll Truyện Ma Pháp Hay ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/29.mp3",
+    "title" : "Vong Linh Pháp Sư P29 ll Thi Cầm ll Trần Vân VLog",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/3.mp3",
+    "title" : "Vong Linh Pháp Sư P3 / Thứ Sát / Truyện Ma Pháp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/30.mp3",
+    "title" : "Vong Linh Pháp Sư P30 ll Đại Chiến ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/31.mp3",
+    "title" : "Vong Linh Pháo Sư P31 ll Truyện Ma Pháp ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/32.mp3",
+    "title" : "Vong Linh Pháp Sư P32 ll Truyện Ma Pháp ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/33.mp3",
+    "title" : "Phần Cuối ll Trần Vân Studio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/4.mp3",
+    "title" : "Vong Linh Pháp Sư P4 ll Vụ Án Moi Tim Người ll Truyện Ma Pháp Bùa Chú Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/5.mp3",
+    "title" : "Vong Linh Pháp Sư P5 ll Trận Đấu Giữa Bầu Trời Đêm ll MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/6.mp3",
+    "title" : "Vong Linh Pháp Sư P6 ll Vân Đô Thành ll MC Trần Vân ll Truyện Ma Pháp Bùa Chú Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/7.mp3",
+    "title" : "Vong Linh Pháp Sư P7 ll Tiêu Diệt Ma Thú ll Truyện Ma Pháp Hay ll MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/8.mp3",
+    "title" : "Vong Linh Pháp Sư P8 ll Đại Chiến Ma Hạc ll Truyện Ma Pháp Sư ll MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-linh-phap-su/9.mp3",
+    "title" : "Vong Linh Pháp Sư P9 ll Truyện Ma Pháp Bùa Chú Tuyệt Hay ll Trần Vân Studio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

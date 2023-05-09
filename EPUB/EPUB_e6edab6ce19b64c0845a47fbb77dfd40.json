@@ -1,0 +1,1181 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-su-chap-vi_17824.html",
+    "title" : "Thiên Sứ Chấp Vị",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phàn Lạc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 179794,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_e6edab6ce19b64c0845a47fbb77dfd40.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_e6edab6ce19b64c0845a47fbb77dfd40.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1317,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1366,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1388,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1451,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1616,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1300,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1612,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1574,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1866,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1515,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 10 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1364,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1824,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1413,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1766,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1697,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1712,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1588,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 10 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1068,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1597,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1422,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1582,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1705,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1561,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 10 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1658,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1719,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1712,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1630,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2089,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1283,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1340,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1917,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 10 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1868,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1678,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1896,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1970,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2089,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2236,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1536,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1939,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 10 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1592,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2091,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1644,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1903,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1853,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1842,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1892,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1927,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2090,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2561,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 10 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1674,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2109,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1998,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1484,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2214,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2399,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1718,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2416,
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 10 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1419,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2476,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2628,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1721,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2587,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2008%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 08 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1307,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2309,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2471,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2096,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2771,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3250,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2009%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1216,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 09 (end)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2647,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1456,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2381,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2795,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2570,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3041,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2008%20%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2810,
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 08 (end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2009.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 01 Tập 10 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2009.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 02 Tập 10 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2009.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 03 Tập 10 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2009.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2004_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 04 Tập 10 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2009.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2005_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 05 Tập 10 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2009.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2006_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 06 Tập 10 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2009.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2001_Quy%E1%BB%83n%2007_T%E1%BA%ADp%2010%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 01 Quyển 07 Tập 10 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2001_T%E1%BA%ADp%2008%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 01 Tập 08 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2008.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2002_T%E1%BA%ADp%2009%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 02 Tập 09 (end)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2001.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2002.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2003.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2004.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2005.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2006.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2007.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-su-chap-vi-phan-01-quyen-01-tap-09/Thi%C3%AAn%20S%C6%B0%20Ch%E1%BA%A5p%20V%E1%BB%8B_Ph%E1%BA%A7n%2002_Quy%E1%BB%83n%2003_T%E1%BA%ADp%2008%20%28end%29.mp3",
+    "title" : "Thiên Sư Chấp Vị Phần 02 Quyển 03 Tập 08 (end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

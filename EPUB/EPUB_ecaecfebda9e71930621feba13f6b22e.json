@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-kha-khang-luc-lam-lam_10605.html",
+    "title" : "Bất Khả Kháng Lực - Lam Lâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lam Lâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35388,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_ecaecfebda9e71930621feba13f6b22e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_ecaecfebda9e71930621feba13f6b22e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 904,
+    "title" : "Bất Khả Kháng Lực ( Tập 1 ) Sẽ Đối Xử Tốt Với Cậu _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 924,
+    "title" : "Bất Khả Kháng Lực ( Tập 10 ) Cậu Về Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "Bất Khả Kháng Lực ( Tập 11 ) Phòng Tôi Đâu Có Khóa _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 694,
+    "title" : "Bất Khả Kháng Lực ( Tập 12 ) Anh Lưu Số Điện Thoại Của Tôi Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 903,
+    "title" : "Bất Khả Kháng Lực ( Tập 13 ) Anh Ba Mươi Rồi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "Bất Khả Kháng Lực ( Tập 14 ) Ở Nhà Một Mình Buồn Lắm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 875,
+    "title" : "Bất Khả Kháng Lực ( Tập 15 ) Bọn Tôi Là Hoàn Toàn Trong Sáng _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 787,
+    "title" : "Bất Khả Kháng Lực ( Tập 16 ) Sinh Nhật Kha Lạc _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 785,
+    "title" : "Bất Khả Kháng Lực ( Tập 17 ) Sinh Nhật 2 _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "Bất Khả Kháng Lực ( Tập 18 ) Là Anh Biến Tôi Ra Thế Này _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 739,
+    "title" : "Bất Khả Kháng Lực ( Tập 19 ) Thiếu Đàn Ông Vậy Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "Bất Khả Kháng Lực ( Tập 2 ) Tôi Muốn Ôm Cậu Ngủ _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 832,
+    "title" : "Bất Khả Kháng Lực ( Tập 20 ) Cảm Giác Này Gọi Là Thất Tình Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 694,
+    "title" : "Bất Khả Kháng Lực ( Tập 21 ) Tôi Sẽ Không Để Anh Đi Đâu _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "Bất Khả Kháng Lực ( Tập 22 ) Vì Đó Là Anh _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 812,
+    "title" : "Bất Khả Kháng Lực ( Tập 23 ) Tôi Xin Lỗi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "Bất Khả Kháng Lực ( Tập 24 ) Giây Phút Chia Xa _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 890,
+    "title" : "Bất Khả Kháng Lực ( Tập 25 ) Thật Hay Mơ _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 780,
+    "title" : "Bất Khả Kháng Lực ( Tập 26 ) Mình Ở Cùng Nhau Nha _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 867,
+    "title" : "Bất Khả Kháng Lực ( Tập 27 ) Tôi Có Chuyện Muốn Nói Với Em _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 760,
+    "title" : "Bất Khả Kháng Lực ( Tập 28 ) Tôi Là Đàn Ông _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 786,
+    "title" : "Bất Khả Kháng Lực H+ ( Tập 29 ) Lên Giường Nhé _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 720,
+    "title" : "Bất Khả Kháng Lực ( Tập 3 ) Đêm Trắng _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 750,
+    "title" : "Bất Khả Kháng Lực ( Tập 30 ) Có Phải Anh Hứa Lắm Không _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 807,
+    "title" : "Bất Khả Kháng Lực ( Tập 31 ) Vẫn Không Tin Anh Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 850,
+    "title" : "Bất Khả Kháng Lực ( Tập 32 ) Chỉ Cần Em Tin Anh Là Được Rồi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "Bất Khả Kháng Lực ( Tập 33 ) Em Tin Anh _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 847,
+    "title" : "Bất Khả Kháng Lực ( Tập 34 ) Hạ Quân _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 806,
+    "title" : "Bất Khả Kháng Lực ( Tập 35 ) Xin Lỗi Mà Tiểu Niệm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "Bất Khả Kháng Lực ( Tập 36 ) Anh Muốn Kết Hôn Với Cô Ấy Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "Bất Khả Kháng Lực ( Tập 37 ) Tìm Lại Giấc Mơ _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 856,
+    "title" : "Bất Khả Kháng Lực ( Tập 38 ) Trúng Độc _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 798,
+    "title" : "Bất Khả Kháng Lực ( Tập 39 ) Nếu Em Còn Tồn Tại _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 860,
+    "title" : "Bất Khả Kháng Lực ( Tập 4 ) Tôi Bảo Cậu Biến Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 852,
+    "title" : "Bất Khả Kháng Lực ( Tập 40 ) Nơi Đâu Để Gặp Em _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 810,
+    "title" : "Bất Khả Kháng Lực ( Tập 41 ) Gặp Lại Người Xưa _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "Bất Khả Kháng Lực | The End ( Tập 42 ) Vẫn Tin Mình Có Nhau _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 860,
+    "title" : "Bất Khả Kháng Lực ( Tập 5 ) Có Phải Nhà Cậu Đâu _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "Bất Khả Kháng Lực ( Tập 6 ) Đây Là Ý Của Cậu Hay Ý Lão Gia _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 871,
+    "title" : "Bất Khả Kháng Lực ( Tập 7 ) Tiểu Niệm Theo Tôi Trở Về Nhà Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 900,
+    "title" : "Bất Khả Kháng Lực ( Tập 8 ) Tiểu Niệm Gặp Dê Xồm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 842,
+    "title" : "Bất Khả Kháng Lực H+ ( Tập 9 ) Thả Lỏng Cái Đi Ngoan Nào _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/1.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 1 ) Sẽ Đối Xử Tốt Với Cậu _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/10.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 10 ) Cậu Về Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/11.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 11 ) Phòng Tôi Đâu Có Khóa _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/12.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 12 ) Anh Lưu Số Điện Thoại Của Tôi Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/13.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 13 ) Anh Ba Mươi Rồi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/14.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 14 ) Ở Nhà Một Mình Buồn Lắm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/15.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 15 ) Bọn Tôi Là Hoàn Toàn Trong Sáng _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/16.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 16 ) Sinh Nhật Kha Lạc _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/17.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 17 ) Sinh Nhật 2 _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/18.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 18 ) Là Anh Biến Tôi Ra Thế Này _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/19.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 19 ) Thiếu Đàn Ông Vậy Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/2.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 2 ) Tôi Muốn Ôm Cậu Ngủ _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/20.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 20 ) Cảm Giác Này Gọi Là Thất Tình Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/21.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 21 ) Tôi Sẽ Không Để Anh Đi Đâu _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/22.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 22 ) Vì Đó Là Anh _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/23.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 23 ) Tôi Xin Lỗi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/24.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 24 ) Giây Phút Chia Xa _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/25.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 25 ) Thật Hay Mơ _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/26.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 26 ) Mình Ở Cùng Nhau Nha _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/27.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 27 ) Tôi Có Chuyện Muốn Nói Với Em _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/28.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 28 ) Tôi Là Đàn Ông _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/29.mp3",
+    "title" : "Bất Khả Kháng Lực H+ ( Tập 29 ) Lên Giường Nhé _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/3.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 3 ) Đêm Trắng _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/30.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 30 ) Có Phải Anh Hứa Lắm Không _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/31.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 31 ) Vẫn Không Tin Anh Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/32.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 32 ) Chỉ Cần Em Tin Anh Là Được Rồi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/33.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 33 ) Em Tin Anh _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/34.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 34 ) Hạ Quân _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/35.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 35 ) Xin Lỗi Mà Tiểu Niệm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/36.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 36 ) Anh Muốn Kết Hôn Với Cô Ấy Sao _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/37.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 37 ) Tìm Lại Giấc Mơ _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/38.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 38 ) Trúng Độc _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/39.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 39 ) Nếu Em Còn Tồn Tại _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/4.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 4 ) Tôi Bảo Cậu Biến Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/40.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 40 ) Nơi Đâu Để Gặp Em _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/41.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 41 ) Gặp Lại Người Xưa _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/42.mp3",
+    "title" : "Bất Khả Kháng Lực | The End ( Tập 42 ) Vẫn Tin Mình Có Nhau _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/5.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 5 ) Có Phải Nhà Cậu Đâu _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/6.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 6 ) Đây Là Ý Của Cậu Hay Ý Lão Gia _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/7.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 7 ) Tiểu Niệm Theo Tôi Trở Về Nhà Đi _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/8.mp3",
+    "title" : "Bất Khả Kháng Lực ( Tập 8 ) Tiểu Niệm Gặp Dê Xồm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-kha-khang-luc/9.mp3",
+    "title" : "Bất Khả Kháng Lực H+ ( Tập 9 ) Thả Lỏng Cái Đi Ngoan Nào _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

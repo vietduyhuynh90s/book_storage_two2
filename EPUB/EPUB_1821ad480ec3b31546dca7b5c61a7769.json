@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/viet-nam-phong-tuc_17486.html",
+    "title" : "Việt Nam Phong Tục",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Kế Bính",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 35902,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_1821ad480ec3b31546dca7b5c61a7769.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_1821ad480ec3b31546dca7b5c61a7769.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_gioi-thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 547,
+    "title" : "Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p1a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1931,
+    "title" : "Phần 01A Nói Về Phong Tục Trong Gia Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p1b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2591,
+    "title" : "Phần 01B Nói Về Phong Tục Trong Gia Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p1c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "Phần 01C Nói Về Phong Tục Trong Gia Tộc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "Phần 02A Nói Về Phong Tục Hương Đảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Phần 02B Nói Về Phong Tục Hương Đảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2295,
+    "title" : "Phần 02C Nói Về Phong Tục Hương Đảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2004,
+    "title" : "Phần 02D Nói Về Phong Tục Hương Đảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1412,
+    "title" : "Phần 02E Nói Về Phong Tục Hương Đảng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "Phần 03A Nói Về Phong Tục Xã Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3176,
+    "title" : "Phần 03B Nói Về Phong Tục Xã Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2298,
+    "title" : "Phần 03C Nói Về Phong Tục Xã Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2776,
+    "title" : "Phần 03D Nói Về Phong Tục Xã Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2576,
+    "title" : "Phần 03E Nói Về Phong Tục Xã Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2515,
+    "title" : "Phần 03F Nói Về Phong Tục Xã Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3kend.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "Phần 03K Nói Về Phong Tục Xã Hội (hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_gioi-thieu.mp3",
+    "title" : "Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p1a.mp3",
+    "title" : "Phần 01A Nói Về Phong Tục Trong Gia Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p1b.mp3",
+    "title" : "Phần 01B Nói Về Phong Tục Trong Gia Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p1c.mp3",
+    "title" : "Phần 01C Nói Về Phong Tục Trong Gia Tộc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2a.mp3",
+    "title" : "Phần 02A Nói Về Phong Tục Hương Đảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2b.mp3",
+    "title" : "Phần 02B Nói Về Phong Tục Hương Đảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2c.mp3",
+    "title" : "Phần 02C Nói Về Phong Tục Hương Đảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2d.mp3",
+    "title" : "Phần 02D Nói Về Phong Tục Hương Đảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p2e.mp3",
+    "title" : "Phần 02E Nói Về Phong Tục Hương Đảng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3a.mp3",
+    "title" : "Phần 03A Nói Về Phong Tục Xã Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3b.mp3",
+    "title" : "Phần 03B Nói Về Phong Tục Xã Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3c.mp3",
+    "title" : "Phần 03C Nói Về Phong Tục Xã Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3d.mp3",
+    "title" : "Phần 03D Nói Về Phong Tục Xã Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3e.mp3",
+    "title" : "Phần 03E Nói Về Phong Tục Xã Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3f.mp3",
+    "title" : "Phần 03F Nói Về Phong Tục Xã Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/viet-nam-phong-tuc-phan-ke-binh-sachnoiviet/viet-nam-phong-tuc-phan-ke-binh_p3kend.mp3",
+    "title" : "Phần 03K Nói Về Phong Tục Xã Hội (hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

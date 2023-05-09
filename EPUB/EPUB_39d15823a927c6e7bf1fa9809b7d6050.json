@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hung-hoa-buc-tranh-sat-nhan-chu-hao-huy_9175.html",
+    "title" : "Hung Họa (Bức Tranh Sát Nhân) - Chu Hạo Huy.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Chu Hạo Huy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25514,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_39d15823a927c6e7bf1fa9809b7d6050.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_39d15823a927c6e7bf1fa9809b7d6050.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1793,
+    "title" : "HH BTSN 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1710,
+    "title" : "HH BTSN 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1704,
+    "title" : "HH BTSN 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2054,
+    "title" : "HH BTSN 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "HH BTSN 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2410,
+    "title" : "HH BTSN 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1431,
+    "title" : "HH BTSN 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1344,
+    "title" : "HH BTSN 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "HH BTSN 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1862,
+    "title" : "HH BTSN 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1663,
+    "title" : "HH BTSN 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2320,
+    "title" : "HH BTSN 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "HH BTSN 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2407,
+    "title" : "HH BTSN 14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_01.mp3",
+    "title" : "HH BTSN 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_02.mp3",
+    "title" : "HH BTSN 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_03.mp3",
+    "title" : "HH BTSN 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_04.mp3",
+    "title" : "HH BTSN 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_05.mp3",
+    "title" : "HH BTSN 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_06.mp3",
+    "title" : "HH BTSN 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_07.mp3",
+    "title" : "HH BTSN 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_08.mp3",
+    "title" : "HH BTSN 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_09.mp3",
+    "title" : "HH BTSN 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_10.mp3",
+    "title" : "HH BTSN 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_11.mp3",
+    "title" : "HH BTSN 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_12.mp3",
+    "title" : "HH BTSN 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_13.mp3",
+    "title" : "HH BTSN 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/HHBTSN/HH_BTSN_14.mp3",
+    "title" : "HH BTSN 14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

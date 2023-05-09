@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-yeu-dung-luc-gap-dung-nguoi-co-tay-tuoc-ngon-tinh_3571.html",
+    "title" : "Yêu Đúng Lúc Gặp Đúng Người - Cố Tây Tước.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cố Tây Tước",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 6671,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_dd5152f57084a978200bf56b51c5a64c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_dd5152f57084a978200bf56b51c5a64c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/GTDTD/%20GT-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 136,
+    "title" : " GT-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C1-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 751,
+    "title" : "C1-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C2-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 617,
+    "title" : "C2-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C3-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 620,
+    "title" : "C3-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C4-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1330,
+    "title" : "C4-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C5-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 890,
+    "title" : "C5-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C6-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 694,
+    "title" : "C6-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C7-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 594,
+    "title" : "C7-DTD",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C8-DTD.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1039,
+    "title" : "C8-DTD",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/GTDTD/%20GT-DTD.mp3",
+    "title" : " GT-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C1-DTD.mp3",
+    "title" : "C1-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C2-DTD.mp3",
+    "title" : "C2-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C3-DTD.mp3",
+    "title" : "C3-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C4-DTD.mp3",
+    "title" : "C4-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C5-DTD.mp3",
+    "title" : "C5-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C6-DTD.mp3",
+    "title" : "C6-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C7-DTD.mp3",
+    "title" : "C7-DTD",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/GTDTD/C8-DTD.mp3",
+    "title" : "C8-DTD",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/diem-quy_12755.html",
+    "title" : "Diễm Quỷ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Công tử Hoan Hỉ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 37118,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_fa61be026fce5022e82de049370bea5a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_fa61be026fce5022e82de049370bea5a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diem-quy/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11088,
+    "title" : "Diễm Quỷ ( Tập 1 ) Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-quy/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6877,
+    "title" : "Diễm Quỷ 2 _ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-quy/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8911,
+    "title" : "Diễm Quỷ 3 _ Truyện Đam mỹ Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diem-quy/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10242,
+    "title" : "Diễm Quỷ ( Tập Cuối ) Châu Gia Thiện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diem-quy/1.mp3",
+    "title" : "Diễm Quỷ ( Tập 1 ) Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-quy/2.mp3",
+    "title" : "Diễm Quỷ 2 _ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-quy/3.mp3",
+    "title" : "Diễm Quỷ 3 _ Truyện Đam mỹ Châu Gia Thiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diem-quy/4.mp3",
+    "title" : "Diễm Quỷ ( Tập Cuối ) Châu Gia Thiện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gieo-mam-tren-sa-mac-masanobu-fukuoka_11347.html",
+    "title" : "Gieo Mầm Trên Sa Mạc - Masanobu Fukuoka",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Masanobu Fukuoka",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19913,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_baa3a6e65618478d69b69bb42ae28937.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_baa3a6e65618478d69b69bb42ae28937.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2298,
+    "title" : "Lời giới thiệu: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 348,
+    "title" : "Phụ lục C: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1976,
+    "title" : "Chương 1: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "Chương 2: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "Chương 3: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1532,
+    "title" : "Chương 4: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "Chương 5: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "Chương 6: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "Phụ lục A: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 486,
+    "title" : "Phụ lục B: Audio Book_Gieo mầm trên sa mạc.",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/1.mp3",
+    "title" : "Lời giới thiệu: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/10.mp3",
+    "title" : "Phụ lục C: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/2.mp3",
+    "title" : "Chương 1: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/3.mp3",
+    "title" : "Chương 2: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/4.mp3",
+    "title" : "Chương 3: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/5.mp3",
+    "title" : "Chương 4: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/6.mp3",
+    "title" : "Chương 5: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/7.mp3",
+    "title" : "Chương 6: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/8.mp3",
+    "title" : "Phụ lục A: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-mam-tren-sa-mac/9.mp3",
+    "title" : "Phụ lục B: Audio Book_Gieo mầm trên sa mạc.",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

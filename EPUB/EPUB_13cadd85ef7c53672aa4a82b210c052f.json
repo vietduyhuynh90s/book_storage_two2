@@ -1,0 +1,701 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chim-trong-cuoc-yeu-thanh-yeu_10432.html",
+    "title" : "Chìm Trong Cuộc Yêu - Thánh Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thánh yêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 252960,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_13cadd85ef7c53672aa4a82b210c052f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_13cadd85ef7c53672aa4a82b210c052f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4285,
+    "title" : "Chìm Trong Cuộc Yêu Tập 1 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5267,
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 10 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4054,
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 11 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4334,
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 12 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4766,
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 13 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4256,
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 14 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4567,
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 15 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4169,
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 16 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6250,
+    "title" : "Chìm Trong Cuộc Yêu Tập 17 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3693,
+    "title" : "Chìm Trong Cuộc Yêu Tập 18 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4502,
+    "title" : "Chìm Trong Cuộc Yêu Tập 19 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3970,
+    "title" : "Tác Giả Thánh Yêu - Truyện Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5200,
+    "title" : "Chìm Trong Cuộc Yêu Tập 20 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4288,
+    "title" : "Chìm Trong Cuộc Yêu Tập 21 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4716,
+    "title" : "Chìm Trong Cuộc Yêu Tập 22 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4329,
+    "title" : "Chìm Trong Cuộc Yêu Tập 23 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4800,
+    "title" : "Chìm Trong Cuộc Yêu Tập 24 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4752,
+    "title" : "Chìm Trong Cuộc Yêu Tập 25 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4681,
+    "title" : "Chìm Trong Cuộc Yêu Tập 26 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5080,
+    "title" : "Chìm Trong Cuộc Yêu Tập 27 - Mê Tính - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4996,
+    "title" : "Chìm Trong Cuộc Yêu Tập 28 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4497,
+    "title" : "Chìm Trong Cuộc Yêu Tập 29 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4152,
+    "title" : "Tác Giả Thánh Yêu - Truyện Ngôn Tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4552,
+    "title" : "Chìm Trong Cuộc Yêu Tập 30 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4796,
+    "title" : "Chìm Trong Cuộc Yêu Tập 31 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "Chìm Trong Cuộc Yêu Tập 32 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4399,
+    "title" : "Chìm Trong Cuộc Yêu Tập 33 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4209,
+    "title" : "Chìm Trong Cuộc Yêu Tập 34 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4406,
+    "title" : "Chìm Trong Cuộc Yêu Tập 35 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6016,
+    "title" : "Chìm Trong Cuộc Yêu Tập 36 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4822,
+    "title" : "Chìm Trong Cuộc Yêu Tập 37 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4751,
+    "title" : "Chìm Trong Cuộc Yêu Tập 38 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4409,
+    "title" : "Chìm Trong Cuộc Yêu Tập 39 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4412,
+    "title" : "Chìm Trong Cuộc Yêu Tập 4 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4704,
+    "title" : "Chìm Trong Cuộc Yêu Tập 40 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4774,
+    "title" : "Chìm Trong Cuộc Yêu Tập 41 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3893,
+    "title" : "Chìm Trong Cuộc Yêu Tập 42 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4127,
+    "title" : "Chìm Trong Cuộc Yêu Tập 43 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5783,
+    "title" : "Chìm Trong Cuộc Yêu Tập 44 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4715,
+    "title" : "Chìm Trong Cuộc Yêu Tập 45 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5053,
+    "title" : "Chìm Trong Cuộc Yêu Tập 46 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4922,
+    "title" : "Chìm Trong Cuộc Yêu Tập 47 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4899,
+    "title" : "Chìm Trong Cuộc Yêu Tập 48 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4431,
+    "title" : "Chìm Trong Cuộc Yêu Tập 49 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4622,
+    "title" : "Chìm Trong Cuộc Yêu Tập 5 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5072,
+    "title" : "Chìm Trong Cuộc Yêu Tập 50 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4653,
+    "title" : "Chìm Trong Cuộc Yêu Tập 51 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4894,
+    "title" : "Chìm Trong Cuộc Yêu Tập 52 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4534,
+    "title" : "Chìm Trong Cuộc Yêu Tập 53 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5198,
+    "title" : "Chìm Trong Cuộc Yêu Tập 54 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "Chìm Trong Cuộc Yêu Tập 55 Tập Cuối - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4112,
+    "title" : "Chìm Trong Cuộc Yêu Tập 6 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4709,
+    "title" : "Chìm Trong Cuộc Yêu Tập 7 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4392,
+    "title" : "Chìm Trong Cuộc Yêu Tập 8 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3690,
+    "title" : "Chìm Trong Cuộc Yêu Tập 9 - Tác Giả Thánh Yêu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/1.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 1 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/10.mp3",
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 10 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/11.mp3",
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 11 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/12.mp3",
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 12 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/13.mp3",
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 13 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/14.mp3",
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 14 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/15.mp3",
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 15 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/16.mp3",
+    "title" : "Mê Tính - Chìm Trong Cuộc Yêu Tập 16 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/17.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 17 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/18.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 18 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/19.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 19 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/2.mp3",
+    "title" : "Tác Giả Thánh Yêu - Truyện Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/20.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 20 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/21.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 21 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/22.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 22 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/23.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 23 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/24.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 24 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/25.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 25 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/26.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 26 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/27.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 27 - Mê Tính - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/28.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 28 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/29.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 29 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/3.mp3",
+    "title" : "Tác Giả Thánh Yêu - Truyện Ngôn Tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/30.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 30 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/31.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 31 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/32.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 32 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/33.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 33 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/34.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 34 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/35.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 35 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/36.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 36 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/37.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 37 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/38.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 38 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/39.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 39 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/4.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 4 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/40.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 40 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/41.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 41 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/42.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 42 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/43.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 43 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/44.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 44 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/45.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 45 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/46.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 46 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/47.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 47 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/48.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 48 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/49.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 49 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/5.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 5 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/50.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 50 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/51.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 51 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/52.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 52 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/53.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 53 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/54.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 54 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/55.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 55 Tập Cuối - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/6.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 6 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/7.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 7 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/8.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 8 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-trong-cuoc-yeu/9.mp3",
+    "title" : "Chìm Trong Cuộc Yêu Tập 9 - Tác Giả Thánh Yêu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

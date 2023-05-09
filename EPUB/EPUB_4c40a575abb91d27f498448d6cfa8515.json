@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chong-toi-long-den-toi_13227.html",
+    "title" : "Chồng Tôi Lòng Đen Tối",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Sinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 113240,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4c40a575abb91d27f498448d6cfa8515.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4c40a575abb91d27f498448d6cfa8515.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4109,
+    "title" : "Truyện tâm lý xã hội 2019 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3871,
+    "title" : "MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3795,
+    "title" : "[Tập 12] Chồng Tôi Lòng Đen Tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "2019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3854,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3707,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3769,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "Quà Tân Hôn - Truyện tâm lý xã hội cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4014,
+    "title" : "[Tập 21] Chồng Tôi Lòng Đen Tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3685,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3721,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3762,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3743,
+    "title" : "MC: Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "MC:Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "Truyện tâm lý xã hội cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4123,
+    "title" : "MC Nguyễn Hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3700,
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3793,
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3814,
+    "title" : "Truyện tâm lý xã hội 2019",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/1.mp3",
+    "title" : "Truyện tâm lý xã hội 2019 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/10.mp3",
+    "title" : "MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/11.mp3",
+    "title" : "MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/12.mp3",
+    "title" : "[Tập 12] Chồng Tôi Lòng Đen Tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/13.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/14.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/15.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/16.mp3",
+    "title" : "2019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/17.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/18.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/19.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/2.mp3",
+    "title" : "Quà Tân Hôn - Truyện tâm lý xã hội cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/20.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/21.mp3",
+    "title" : "[Tập 21] Chồng Tôi Lòng Đen Tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/22.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/23.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/24.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/25.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/26.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/27.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/28.mp3",
+    "title" : "MC: Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/29.mp3",
+    "title" : "MC:Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/3.mp3",
+    "title" : "Truyện tâm lý xã hội cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/30.mp3",
+    "title" : "MC Nguyễn Hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/4.mp3",
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/5.mp3",
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/6.mp3",
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/7.mp3",
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/8.mp3",
+    "title" : "Truyện Tâm Lý Xã Hội 2019 #mcnguyenhoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chong-toi-long-den-toi/9.mp3",
+    "title" : "Truyện tâm lý xã hội 2019",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

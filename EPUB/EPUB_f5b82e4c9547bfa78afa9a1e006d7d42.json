@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/suoi-nguon_8003.html",
+    "title" : "Suối Nguồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ayn Rand",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 121555,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f5b82e4c9547bfa78afa9a1e006d7d42.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f5b82e4c9547bfa78afa9a1e006d7d42.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9669,
+    "title" : "suoi-nguon-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10807,
+    "title" : "suoi-nguon-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16748,
+    "title" : "suoi-nguon-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9023,
+    "title" : "suoi-nguon-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10456,
+    "title" : "suoi-nguon-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11787,
+    "title" : "suoi-nguon-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11138,
+    "title" : "suoi-nguon-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8461,
+    "title" : "suoi-nguon-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12324,
+    "title" : "suoi-nguon-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11515,
+    "title" : "suoi-nguon-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9627,
+    "title" : "suoi-nguon-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-1.mp3",
+    "title" : "suoi-nguon-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-10.mp3",
+    "title" : "suoi-nguon-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-11.mp3",
+    "title" : "suoi-nguon-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-2.mp3",
+    "title" : "suoi-nguon-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-3.mp3",
+    "title" : "suoi-nguon-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-4.mp3",
+    "title" : "suoi-nguon-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-5.mp3",
+    "title" : "suoi-nguon-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-6.mp3",
+    "title" : "suoi-nguon-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-7.mp3",
+    "title" : "suoi-nguon-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-8.mp3",
+    "title" : "suoi-nguon-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suoi-nguon-7/suoi-nguon-9.mp3",
+    "title" : "suoi-nguon-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

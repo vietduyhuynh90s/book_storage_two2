@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/qbq-tu-duy-thong-minh_17067.html",
+    "title" : "QBQ! - Tư Duy Thông Minh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John G. Miller",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 5370,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_18b003eb9f97e3c05e5d496af919cbb9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_18b003eb9f97e3c05e5d496af919cbb9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 194,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/02-tinh_than_trach_nhiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 422,
+    "title" : "Tinh thần trách nhiệm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/03-chon_lua_dung_dan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 184,
+    "title" : "Lựa cchọn đúng đắn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/04-qbq_an_y_sau_cac_cau_hoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 148,
+    "title" : "QBQ! Ẩn ý sau các câu hỏi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/05-dung_hoi_tai_sao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 328,
+    "title" : "Đừng hỏi tại sao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/06-stress.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 130,
+    "title" : "Stress!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/07-binh_tinh_truoc_moi_hoan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 260,
+    "title" : "Bình tĩnh trước mọi hoàn cảnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/08-cai_thien_moi_quan_he_vo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 108,
+    "title" : "Cải thiện mối quan hệ với người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/09-dung_hoi_khi_nao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 200,
+    "title" : "Đừng hỏi khi nào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/10-dung_tri_hoan_bat_cu_vie.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 186,
+    "title" : "Đừng trì hoãn bất cứ điều gì, dù đó là việc nhỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/11-dung_cho_doi_nhung_dieu_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "Đừng chờ đợi những điều kiện lý tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/12-hay_van_dung_tot_nhung_n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 118,
+    "title" : "Hãy vận dụng tốt những nguyên tắc căn bản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/13-dung_hoi_ai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 156,
+    "title" : "Đừng hỏi ai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/14-danh_bai_cac_trong_tai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 124,
+    "title" : "Đánh bại các trọng tài ?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/15-ngay_bay_gio_toi_co_the_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 124,
+    "title" : "Ngay bây giờ tôi có thể làm gì?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/16-lam_chu_tinh_hinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 102,
+    "title" : "Làm chủ tình hình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/17-tinh_than_dong_doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 130,
+    "title" : "Tinh thần đồng đội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/18-thuy_thu_toi_do_thua_tai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 176,
+    "title" : "Thủy thủ tồi đổ thừa tại gió",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/19-thay_doi_chinh_minh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 218,
+    "title" : "Thay dổi chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/20-thuc_hien_nhung_gi_minh_.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 100,
+    "title" : "Thực hiện những gì mình nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/21-chap_nhan_tu_bo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 140,
+    "title" : "Chấp nhận từ bỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/22-suc_manh_cua_su_dong_lon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 114,
+    "title" : "Sức mạnh của sự đồng lòng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/23-moi_nguoi_la_mot_tam_guo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 128,
+    "title" : "Mỗi người là một tấm gương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/24-hay_hanh_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 138,
+    "title" : "Hãy hành động!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/25-hanh_dong_nho_tao_nen_gi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 212,
+    "title" : "Hành động nhỏ tạo nên giá trị lớn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/26-ban_co_phai_la_mot_nha_l.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 104,
+    "title" : "Bạn có phải là một nhà lãnh đạo?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/27-thuat_lanh_dao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 178,
+    "title" : "Thuật lãnh đạo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/28-nhung_cau_hoi_qbq.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 352,
+    "title" : "Những câu hỏi QBQ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/29-ren_luyen_tinh_than_qbq.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 106,
+    "title" : "Rèn luyện tinh thần QBQ!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/30-hoc_di_doi_voi_hanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 96,
+    "title" : "Học đi đôi với hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/31-loi_ket.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 208,
+    "title" : "Lời kết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/32-vai_net_ve_tac_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 68,
+    "title" : "Vài nét về tác giả John G. Miller",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/02-tinh_than_trach_nhiem.mp3",
+    "title" : "Tinh thần trách nhiệm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/03-chon_lua_dung_dan.mp3",
+    "title" : "Lựa cchọn đúng đắn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/04-qbq_an_y_sau_cac_cau_hoi.mp3",
+    "title" : "QBQ! Ẩn ý sau các câu hỏi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/05-dung_hoi_tai_sao.mp3",
+    "title" : "Đừng hỏi tại sao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/06-stress.mp3",
+    "title" : "Stress!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/07-binh_tinh_truoc_moi_hoan.mp3",
+    "title" : "Bình tĩnh trước mọi hoàn cảnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/08-cai_thien_moi_quan_he_vo.mp3",
+    "title" : "Cải thiện mối quan hệ với người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/09-dung_hoi_khi_nao.mp3",
+    "title" : "Đừng hỏi khi nào",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/10-dung_tri_hoan_bat_cu_vie.mp3",
+    "title" : "Đừng trì hoãn bất cứ điều gì, dù đó là việc nhỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/11-dung_cho_doi_nhung_dieu_.mp3",
+    "title" : "Đừng chờ đợi những điều kiện lý tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/12-hay_van_dung_tot_nhung_n.mp3",
+    "title" : "Hãy vận dụng tốt những nguyên tắc căn bản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/13-dung_hoi_ai.mp3",
+    "title" : "Đừng hỏi ai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/14-danh_bai_cac_trong_tai.mp3",
+    "title" : "Đánh bại các trọng tài ?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/15-ngay_bay_gio_toi_co_the_.mp3",
+    "title" : "Ngay bây giờ tôi có thể làm gì?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/16-lam_chu_tinh_hinh.mp3",
+    "title" : "Làm chủ tình hình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/17-tinh_than_dong_doi.mp3",
+    "title" : "Tinh thần đồng đội",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/18-thuy_thu_toi_do_thua_tai.mp3",
+    "title" : "Thủy thủ tồi đổ thừa tại gió",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/19-thay_doi_chinh_minh.mp3",
+    "title" : "Thay dổi chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/20-thuc_hien_nhung_gi_minh_.mp3",
+    "title" : "Thực hiện những gì mình nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/21-chap_nhan_tu_bo.mp3",
+    "title" : "Chấp nhận từ bỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/22-suc_manh_cua_su_dong_lon.mp3",
+    "title" : "Sức mạnh của sự đồng lòng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/23-moi_nguoi_la_mot_tam_guo.mp3",
+    "title" : "Mỗi người là một tấm gương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/24-hay_hanh_dong.mp3",
+    "title" : "Hãy hành động!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/25-hanh_dong_nho_tao_nen_gi.mp3",
+    "title" : "Hành động nhỏ tạo nên giá trị lớn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/26-ban_co_phai_la_mot_nha_l.mp3",
+    "title" : "Bạn có phải là một nhà lãnh đạo?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/27-thuat_lanh_dao.mp3",
+    "title" : "Thuật lãnh đạo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/28-nhung_cau_hoi_qbq.mp3",
+    "title" : "Những câu hỏi QBQ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/29-ren_luyen_tinh_than_qbq.mp3",
+    "title" : "Rèn luyện tinh thần QBQ!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/30-hoc_di_doi_voi_hanh.mp3",
+    "title" : "Học đi đôi với hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/31-loi_ket.mp3",
+    "title" : "Lời kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Sachnoi.vn-tuDuyThongMinh/32-vai_net_ve_tac_gia.mp3",
+    "title" : "Vài nét về tác giả John G. Miller",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

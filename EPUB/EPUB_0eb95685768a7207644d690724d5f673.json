@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vong-am-ba-doi_16084.html",
+    "title" : "Vong Ám Ba Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Yết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26604,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_0eb95685768a7207644d690724d5f673.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_0eb95685768a7207644d690724d5f673.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-am-ba-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6733,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am-ba-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6470,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Sợ Qúa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am-ba-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6341,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-am-ba-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7060,
+    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-am-ba-doi/1.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am-ba-doi/2.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Sợ Qúa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am-ba-doi/3.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-am-ba-doi/4.mp3",
+    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

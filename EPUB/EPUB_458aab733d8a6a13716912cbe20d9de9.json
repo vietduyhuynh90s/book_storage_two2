@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-sao-lap-lanh-hoang-anh_11400.html",
+    "title" : "Ánh Sao Lấp Lánh - Hoàng Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22146,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_458aab733d8a6a13716912cbe20d9de9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_458aab733d8a6a13716912cbe20d9de9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "Tập 01 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3215,
+    "title" : "Tập 02 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "Tập 03 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3291,
+    "title" : "Tập 04 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3162,
+    "title" : "Tập 05 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3334,
+    "title" : "Tập 06 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2762,
+    "title" : "Tập 07(Hết) - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/1.mp3",
+    "title" : "Tập 01 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/2.mp3",
+    "title" : "Tập 02 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/3.mp3",
+    "title" : "Tập 03 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/4.mp3",
+    "title" : "Tập 04 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/5.mp3",
+    "title" : "Tập 05 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/6.mp3",
+    "title" : "Tập 06 - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-sao-lap-lanh/7.mp3",
+    "title" : "Tập 07(Hết) - Tiểu Thuyết ngôn tình rất hay MC Hồng Nhung đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

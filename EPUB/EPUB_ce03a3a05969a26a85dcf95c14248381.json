@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/am-phu_15384.html",
+    "title" : "Âm Phủ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Williams",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41083,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_ce03a3a05969a26a85dcf95c14248381.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_ce03a3a05969a26a85dcf95c14248381.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/am-phu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Roderick Gordon & Brian Williams",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Roderick Gordon & Brian Williams",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Roderick Gordon & Brian Williams",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Roderick Gordon & Brian Williams",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Roderick Gordon & Brian Williams",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/am-phu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5083,
+    "title" : "Roderick Gordon & Brian Williams",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/am-phu/1.mp3",
+    "title" : "Roderick Gordon & Brian Williams",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu/2.mp3",
+    "title" : "Roderick Gordon & Brian Williams",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu/3.mp3",
+    "title" : "Roderick Gordon & Brian Williams",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu/4.mp3",
+    "title" : "Roderick Gordon & Brian Williams",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu/5.mp3",
+    "title" : "Roderick Gordon & Brian Williams",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/am-phu/6.mp3",
+    "title" : "Roderick Gordon & Brian Williams",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

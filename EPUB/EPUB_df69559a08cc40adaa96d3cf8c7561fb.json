@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phat-o-tang-ap-mai-julie-otsuka_11478.html",
+    "title" : "Phật Ở Tầng Áp Mái - Julie Otsuka",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Julie Otsuka",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12821,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_df69559a08cc40adaa96d3cf8c7561fb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_df69559a08cc40adaa96d3cf8c7561fb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phatotangapmai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2535,
+    "title" : "(1) Phật ở tầng áp mái -tập 1-Julie Otsuka- N.B.Lan- Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1845,
+    "title" : "(2) Phật ở tầng áp mái-Tập 2-Julie Otsuka- N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2390,
+    "title" : "(3) Phật ở tầng áp mái-Tập 3-Julie Otsuka-N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "(4) Phật ở tầng áp mái-Tập 4-Julie Otsuka-N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1400,
+    "title" : "(5) Phật ở tầng áp mái-Tập 5-Julie Otsuka-N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1921,
+    "title" : "Truyện Audio Lê Duyên - Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phatotangapmai/1.mp3",
+    "title" : "(1) Phật ở tầng áp mái -tập 1-Julie Otsuka- N.B.Lan- Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/2.mp3",
+    "title" : "(2) Phật ở tầng áp mái-Tập 2-Julie Otsuka- N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/3.mp3",
+    "title" : "(3) Phật ở tầng áp mái-Tập 3-Julie Otsuka-N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/4.mp3",
+    "title" : "(4) Phật ở tầng áp mái-Tập 4-Julie Otsuka-N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/5.mp3",
+    "title" : "(5) Phật ở tầng áp mái-Tập 5-Julie Otsuka-N.B.Lan-Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phatotangapmai/6.mp3",
+    "title" : "Truyện Audio Lê Duyên - Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

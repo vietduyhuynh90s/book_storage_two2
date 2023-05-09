@@ -1,0 +1,533 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bon-vuong-o-day-cuu-lo-phi-huong_10360.html",
+    "title" : "Bổn Vương Ở Đây - Cửu Lộ Phi Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 69934,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4e1a44cca2fac3ec950c4bf695554bb3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4e1a44cca2fac3ec950c4bf695554bb3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bon-vuong-o-day/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "Phần 1 - Hội ngộ Hành Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "Phần 10 - Quyết chiến cùng Hạt Vĩ Hồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "Phần 11 - Bị tỏ tình bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1489,
+    "title" : "Phần 12 - Phong ấn Khư Thiên Uyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1506,
+    "title" : "Phần 13 - Thẩm Ly được găp mặt hôn phu Phất Dung Quân của mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "Phần 14 - Phất Dung Quân làm trò ở ma giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1634,
+    "title" : "Phần 15 - Hành động kỳ lạ của Hành Chỉ thần quân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1605,
+    "title" : "Phần 16 - Hành Chỉ thần quân phải chăng là Hành Vân sống một kiếp ở nhân giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1424,
+    "title" : "Phần 17 - Các địa tiên lần lượt bị một thế lực bắt giữ hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1466,
+    "title" : "Phần 18 - Yêu quái ở thành Dương Châu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "Phần 19 - Gặp lại Phù Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2061,
+    "title" : "Phần 2 - Năng lực bí mật của Hành Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1600,
+    "title" : "Phần 20 - Gặp lại cố nhân, có còn nhớ mình là ai trong kiếp trước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1914,
+    "title" : "Phần 21 - Lạc Thiên thần nữ, người yêu Thần quân nơi tiên giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1758,
+    "title" : "Phần 22 - Người đi kẻ ở lại bồn chồn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1869,
+    "title" : "Phần 23 - Thần nữ ghen hờn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "Phần 24 - Bách Hoa Yến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1593,
+    "title" : "Phần 25 - Ma Giới bị tập kích thảm thương khi vắng Vương gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "Phần 26 - Lại chạm trán Phù Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1846,
+    "title" : "Phần 27 - Lộ mặt kẻ phản bội không ngờ - Bích Thương vương gặp nạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1645,
+    "title" : "Phần 28 - Mặc Phương cứu Thẩm Ly bất chấp thân phận của mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1775,
+    "title" : "Phần 29 - Dưỡng thương tại một thôn làng ven biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1778,
+    "title" : "Phần 3 - Hồn ma của Tam Lang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1764,
+    "title" : "Phần 30 - Những tháng ngày tươi đẹp bên nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1745,
+    "title" : "Phần 31 - Kim Xà Yêu trên đỉnh Tuyết Sơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1671,
+    "title" : "Phần 32 - Một đêm dâng hiến đáng giá ngàn vàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1681,
+    "title" : "Phần 33 - Ta sẽ mãi mãi ở bên nàng... lời hứa đó liệu chắc có được không?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "Phần 34 - Nàng chính là một lý do để ta sống trên cõi đời này",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1512,
+    "title" : "Phần 35 - Thân thế ly kỳ của Thẩm Ly được hé mở",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1567,
+    "title" : "Phần 36 - Phù Sinh tấn công Ma Giới quyết bắt Thẩm Ly",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1556,
+    "title" : "Phần 37 - Gặp lại phụ thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1568,
+    "title" : "Phần 38 - Phụng Lai quyết hy sinh vì con",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "Phần 39 - Đại kết cuộc và Ngoại truyện hôn lễ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1533,
+    "title" : "Phần 4 - Âm mưu soán ngôi của Thái tử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "Phần 40 - Ngoại truyện hôn lễ và kết thúc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2432,
+    "title" : "Phần 41 - Ngoại truyện về mối tình Phụng Lai - Lưu Vũ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1526,
+    "title" : "Phần 5 - Hành Vân bày trận pháp cực hung - Bích Thương Vương ra tay giải nguy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1608,
+    "title" : "Phần 6 - Yêu linh ở Duệ Vương Phủ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "Phần 7 - Mối tình tương tư đầy nước mắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1805,
+    "title" : "Phần 8 - Ma Quân bắt được Bích Thương Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1664,
+    "title" : "Phần 9 - Thẩm Ly bị bắt về Ma Giới - Hành Vân hết một kiếp người",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bon-vuong-o-day/1.mp3",
+    "title" : "Phần 1 - Hội ngộ Hành Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/10.mp3",
+    "title" : "Phần 10 - Quyết chiến cùng Hạt Vĩ Hồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/11.mp3",
+    "title" : "Phần 11 - Bị tỏ tình bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/12.mp3",
+    "title" : "Phần 12 - Phong ấn Khư Thiên Uyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/13.mp3",
+    "title" : "Phần 13 - Thẩm Ly được găp mặt hôn phu Phất Dung Quân của mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/14.mp3",
+    "title" : "Phần 14 - Phất Dung Quân làm trò ở ma giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/15.mp3",
+    "title" : "Phần 15 - Hành động kỳ lạ của Hành Chỉ thần quân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/16.mp3",
+    "title" : "Phần 16 - Hành Chỉ thần quân phải chăng là Hành Vân sống một kiếp ở nhân giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/17.mp3",
+    "title" : "Phần 17 - Các địa tiên lần lượt bị một thế lực bắt giữ hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/18.mp3",
+    "title" : "Phần 18 - Yêu quái ở thành Dương Châu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/19.mp3",
+    "title" : "Phần 19 - Gặp lại Phù Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/2.mp3",
+    "title" : "Phần 2 - Năng lực bí mật của Hành Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/20.mp3",
+    "title" : "Phần 20 - Gặp lại cố nhân, có còn nhớ mình là ai trong kiếp trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/21.mp3",
+    "title" : "Phần 21 - Lạc Thiên thần nữ, người yêu Thần quân nơi tiên giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/22.mp3",
+    "title" : "Phần 22 - Người đi kẻ ở lại bồn chồn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/23.mp3",
+    "title" : "Phần 23 - Thần nữ ghen hờn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/24.mp3",
+    "title" : "Phần 24 - Bách Hoa Yến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/25.mp3",
+    "title" : "Phần 25 - Ma Giới bị tập kích thảm thương khi vắng Vương gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/26.mp3",
+    "title" : "Phần 26 - Lại chạm trán Phù Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/27.mp3",
+    "title" : "Phần 27 - Lộ mặt kẻ phản bội không ngờ - Bích Thương vương gặp nạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/28.mp3",
+    "title" : "Phần 28 - Mặc Phương cứu Thẩm Ly bất chấp thân phận của mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/29.mp3",
+    "title" : "Phần 29 - Dưỡng thương tại một thôn làng ven biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/3.mp3",
+    "title" : "Phần 3 - Hồn ma của Tam Lang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/30.mp3",
+    "title" : "Phần 30 - Những tháng ngày tươi đẹp bên nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/31.mp3",
+    "title" : "Phần 31 - Kim Xà Yêu trên đỉnh Tuyết Sơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/32.mp3",
+    "title" : "Phần 32 - Một đêm dâng hiến đáng giá ngàn vàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/33.mp3",
+    "title" : "Phần 33 - Ta sẽ mãi mãi ở bên nàng... lời hứa đó liệu chắc có được không?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/34.mp3",
+    "title" : "Phần 34 - Nàng chính là một lý do để ta sống trên cõi đời này",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/35.mp3",
+    "title" : "Phần 35 - Thân thế ly kỳ của Thẩm Ly được hé mở",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/36.mp3",
+    "title" : "Phần 36 - Phù Sinh tấn công Ma Giới quyết bắt Thẩm Ly",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/37.mp3",
+    "title" : "Phần 37 - Gặp lại phụ thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/38.mp3",
+    "title" : "Phần 38 - Phụng Lai quyết hy sinh vì con",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/39.mp3",
+    "title" : "Phần 39 - Đại kết cuộc và Ngoại truyện hôn lễ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/4.mp3",
+    "title" : "Phần 4 - Âm mưu soán ngôi của Thái tử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/40.mp3",
+    "title" : "Phần 40 - Ngoại truyện hôn lễ và kết thúc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/41.mp3",
+    "title" : "Phần 41 - Ngoại truyện về mối tình Phụng Lai - Lưu Vũ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/5.mp3",
+    "title" : "Phần 5 - Hành Vân bày trận pháp cực hung - Bích Thương Vương ra tay giải nguy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/6.mp3",
+    "title" : "Phần 6 - Yêu linh ở Duệ Vương Phủ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/7.mp3",
+    "title" : "Phần 7 - Mối tình tương tư đầy nước mắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/8.mp3",
+    "title" : "Phần 8 - Ma Quân bắt được Bích Thương Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bon-vuong-o-day/9.mp3",
+    "title" : "Phần 9 - Thẩm Ly bị bắt về Ma Giới - Hành Vân hết một kiếp người",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

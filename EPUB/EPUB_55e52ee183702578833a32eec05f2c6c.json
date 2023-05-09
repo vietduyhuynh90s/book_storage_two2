@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/benh-tieu-duong-va-cach-phong-chua_20039.html",
+    "title" : "Bệnh Tiểu Đường Và Cách Phòng Chữa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Quốc Bảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23291,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_55e52ee183702578833a32eec05f2c6c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_55e52ee183702578833a32eec05f2c6c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong00.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1723,
+    "title" : "BenhTieuDuong00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "BenhTieuDuong01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "BenhTieuDuong02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2335,
+    "title" : "BenhTieuDuong03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong04A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2119,
+    "title" : "BenhTieuDuong04A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong04B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "BenhTieuDuong04B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong05A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1532,
+    "title" : "BenhTieuDuong05A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong05B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1386,
+    "title" : "BenhTieuDuong05B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2143,
+    "title" : "BenhTieuDuong06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong0708A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1522,
+    "title" : "BenhTieuDuong0708A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong08B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1656,
+    "title" : "BenhTieuDuong08B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1247,
+    "title" : "BenhTieuDuong09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong10Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1469,
+    "title" : "BenhTieuDuong10Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong00.mp3",
+    "title" : "BenhTieuDuong00",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong01.mp3",
+    "title" : "BenhTieuDuong01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong02.mp3",
+    "title" : "BenhTieuDuong02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong03.mp3",
+    "title" : "BenhTieuDuong03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong04A.mp3",
+    "title" : "BenhTieuDuong04A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong04B.mp3",
+    "title" : "BenhTieuDuong04B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong05A.mp3",
+    "title" : "BenhTieuDuong05A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong05B.mp3",
+    "title" : "BenhTieuDuong05B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong06.mp3",
+    "title" : "BenhTieuDuong06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong0708A.mp3",
+    "title" : "BenhTieuDuong0708A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong08B.mp3",
+    "title" : "BenhTieuDuong08B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong09.mp3",
+    "title" : "BenhTieuDuong09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/benh-tieu-duong-va-cach-phong-chua.sna/BenhTieuDuong10Het.mp3",
+    "title" : "BenhTieuDuong10Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

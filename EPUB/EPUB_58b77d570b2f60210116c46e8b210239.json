@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-nghi-toi-thich-nuoc-my_15456.html",
+    "title" : "Tôi Nghĩ Tôi Thích Nước Mỹ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dương Thụy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24496,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_58b77d570b2f60210116c46e8b210239.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_58b77d570b2f60210116c46e8b210239.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-nghi-toi-thich-nuoc-my/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Tôi Nghĩ Tôi Thích Nước Mỹ - Tác giả: Dương Thụy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-nghi-toi-thich-nuoc-my/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Tôi Nghĩ Tôi Thích Nước Mỹ - Tác giả: Dương Thụy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-nghi-toi-thich-nuoc-my/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10096,
+    "title" : "Tôi Nghĩ Tôi Thích Nước Mỹ - Tác giả: Dương Thụy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-nghi-toi-thich-nuoc-my/1.mp3",
+    "title" : "Tôi Nghĩ Tôi Thích Nước Mỹ - Tác giả: Dương Thụy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-nghi-toi-thich-nuoc-my/2.mp3",
+    "title" : "Tôi Nghĩ Tôi Thích Nước Mỹ - Tác giả: Dương Thụy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-nghi-toi-thich-nuoc-my/3.mp3",
+    "title" : "Tôi Nghĩ Tôi Thích Nước Mỹ - Tác giả: Dương Thụy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

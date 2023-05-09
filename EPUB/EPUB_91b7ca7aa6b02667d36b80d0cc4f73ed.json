@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-ma-uu-dam-hoa_11448.html",
+    "title" : "Tình Ma - Ưu Đàm Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ưu Đàm Hoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44234,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_91b7ca7aa6b02667d36b80d0cc4f73ed.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_91b7ca7aa6b02667d36b80d0cc4f73ed.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11639,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 01 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2998,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 10 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2605,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 11 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2575,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 12 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3521,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 02 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4013,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 03 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 04 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 05 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 06 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2971,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 07 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 08 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 09 | Mc Đình Duy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/1.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 01 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/10.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 10 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/11.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 11 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/12.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 12 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/2.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 02 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/3.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 03 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/4.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 04 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/5.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 05 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/6.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 06 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/7.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 07 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/8.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 08 | Mc Đình Duy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Tm_201902/9.mp3",
+    "title" : "Kiếm Hiệp Hệ Thống | TÌNH MA | Tập 09 | Mc Đình Duy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

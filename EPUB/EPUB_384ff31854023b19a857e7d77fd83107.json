@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-bo-than-cong_17830.html",
+    "title" : "Bát Bộ Thần Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vô Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 72502,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_384ff31854023b19a857e7d77fd83107.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_384ff31854023b19a857e7d77fd83107.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "Bát Bộ Thần Công 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "Bát Bộ Thần Công 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2883,
+    "title" : "Bát Bộ Thần Công 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3489,
+    "title" : "Bát Bộ Thần Công 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2973,
+    "title" : "Bát Bộ Thần Công 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "Bát Bộ Thần Công 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2940,
+    "title" : "Bát Bộ Thần Công 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2819,
+    "title" : "Bát Bộ Thần Công 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3147,
+    "title" : "Bát Bộ Thần Công 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3154,
+    "title" : "Bát Bộ Thần Công 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2508,
+    "title" : "Bát Bộ Thần Công 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2938,
+    "title" : "Bát Bộ Thần Công 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2726,
+    "title" : "Bát Bộ Thần Công 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2959,
+    "title" : "Bát Bộ Thần Công 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "Bát Bộ Thần Công 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "Bát Bộ Thần Công 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "Bát Bộ Thần Công 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3800,
+    "title" : "Bát Bộ Thần Công 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "Bát Bộ Thần Công 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "Bát Bộ Thần Công 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3134,
+    "title" : "Bát Bộ Thần Công 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2837,
+    "title" : "Bát Bộ Thần Công 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_23%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6072,
+    "title" : "Bát Bộ Thần Công 23(end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_01.mp3",
+    "title" : "Bát Bộ Thần Công 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_02.mp3",
+    "title" : "Bát Bộ Thần Công 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_03.mp3",
+    "title" : "Bát Bộ Thần Công 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_04.mp3",
+    "title" : "Bát Bộ Thần Công 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_05.mp3",
+    "title" : "Bát Bộ Thần Công 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_06.mp3",
+    "title" : "Bát Bộ Thần Công 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_07.mp3",
+    "title" : "Bát Bộ Thần Công 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_08.mp3",
+    "title" : "Bát Bộ Thần Công 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_09.mp3",
+    "title" : "Bát Bộ Thần Công 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_10.mp3",
+    "title" : "Bát Bộ Thần Công 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_11.mp3",
+    "title" : "Bát Bộ Thần Công 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_12.mp3",
+    "title" : "Bát Bộ Thần Công 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_13.mp3",
+    "title" : "Bát Bộ Thần Công 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_14.mp3",
+    "title" : "Bát Bộ Thần Công 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_15.mp3",
+    "title" : "Bát Bộ Thần Công 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_16.mp3",
+    "title" : "Bát Bộ Thần Công 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_17.mp3",
+    "title" : "Bát Bộ Thần Công 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_18.mp3",
+    "title" : "Bát Bộ Thần Công 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_19.mp3",
+    "title" : "Bát Bộ Thần Công 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_20.mp3",
+    "title" : "Bát Bộ Thần Công 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_21.mp3",
+    "title" : "Bát Bộ Thần Công 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_22.mp3",
+    "title" : "Bát Bộ Thần Công 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-bo-than-cong-23end/B%C3%A1t%20B%E1%BB%99%20Th%E1%BA%A7n%20C%C3%B4ng_23%28end%29.mp3",
+    "title" : "Bát Bộ Thần Công 23(end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

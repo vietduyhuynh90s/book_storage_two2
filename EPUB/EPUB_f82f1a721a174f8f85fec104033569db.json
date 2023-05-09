@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-keo-xe_17493.html",
+    "title" : "Tôi Kéo Xe",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tam Lang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7902,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f82f1a721a174f8f85fec104033569db.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f82f1a721a174f8f85fec104033569db.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-keo-xe-sachnoiviet/Toi-Keo-Xe-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "01. Người đội lên đầu tôi chiếc nón phu xe kéo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-keo-xe-sachnoiviet/Toi-Keo-Xe-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2517,
+    "title" : "02. Cái năm hai mươi tám của anh tư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-keo-xe-sachnoiviet/Toi-Keo-Xe-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "03. Sau một trận thừa sống, thiếu chết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-keo-xe-sachnoiviet/Toi-Keo-Xe-01.mp3",
+    "title" : "01. Người đội lên đầu tôi chiếc nón phu xe kéo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-keo-xe-sachnoiviet/Toi-Keo-Xe-02.mp3",
+    "title" : "02. Cái năm hai mươi tám của anh tư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-keo-xe-sachnoiviet/Toi-Keo-Xe-03.mp3",
+    "title" : "03. Sau một trận thừa sống, thiếu chết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

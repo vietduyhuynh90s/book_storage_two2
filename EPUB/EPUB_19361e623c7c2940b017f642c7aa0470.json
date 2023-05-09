@@ -1,0 +1,581 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/den-phu-khai-phong-lam-nhan-vien-cong-vu-au-duong-mac-tam_10185.html",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ - Âu Dương Mặc Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Âu Dương Mặc Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 254417,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_19361e623c7c2940b017f642c7aa0470.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_19361e623c7c2940b017f642c7aa0470.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18470,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10821,
+    "title" : "Li miêu án - C7 phần cuổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4445,
+    "title" : "Miêu Thử Đại Chiến - Q3/ C8-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5181,
+    "title" : "C10 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5065,
+    "title" : "Miêu Thử Đại Chiến Q3 /C12 -13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3976,
+    "title" : "Miêu Thử Đại Chiến Q3 / C14-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5328,
+    "title" : "Miêu Thử Đại Chiến - Q3 Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1469,
+    "title" : "ngoại truyện 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1676,
+    "title" : "Ngoại truyện 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5120,
+    "title" : "Thanh Long Châu-Q4/ C1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5331,
+    "title" : "Thanh Long Châu -Q4 /C2 -3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19290,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4639,
+    "title" : "Thanh Long Châu - Q4 / C4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5738,
+    "title" : "Thanh Long Châu Q4 / C5 - 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6310,
+    "title" : "Thanh Long Châu- Q4 /C7-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5826,
+    "title" : "Thanh Long Châu Q4 /C9-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4785,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ-Thanh Long Châu Q4/ C11-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3696,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ -Thanh Long Châu Q4 Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5894,
+    "title" : "Ngoại Truyện 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 696,
+    "title" : "Ngoại Truyện 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2175,
+    "title" : "Ngoại truyện 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7425,
+    "title" : "Hái Hoa Án - Chương 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18700,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4275,
+    "title" : "Hái Hoa Án- Q5/ C3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4249,
+    "title" : "Hái Hoa Án - Q5- C4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2776,
+    "title" : "Hái Hoa Án-Q5/C5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Hái Hoa Án- Q5/C6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4253,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ- Hái Hoa Án Q5/C7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3019,
+    "title" : "Hái Hoa Án Q5/C8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4428,
+    "title" : "Hái Hoa Án Q5/C9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4269,
+    "title" : "Hái Hoa Án Q5/C10-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2608,
+    "title" : "Hái Hoa Án Q5/C12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2520,
+    "title" : "Hái Hoa Án Q5/C13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19135,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2722,
+    "title" : "Q6/C1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3503,
+    "title" : "TRÓC QUỶ ÁN Q6/C2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "TRÓC QUỶ ÁN Q6/C3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4683,
+    "title" : "TRÓC QUỶ ÁN Q6-C4/5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3206,
+    "title" : "TRÓC QUỶ ÁN Q6/C6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2501,
+    "title" : "45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11915,
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2309,
+    "title" : "Ngoại truyện 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4300,
+    "title" : "Li miêu án - Q3- C1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4251,
+    "title" : "Li miêu án Q3 - C3-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4363,
+    "title" : "Li miêu án Q3 - C5-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/1.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/10.mp3",
+    "title" : "Li miêu án - C7 phần cuổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/11.mp3",
+    "title" : "Miêu Thử Đại Chiến - Q3/ C8-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/12.mp3",
+    "title" : "C10 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/13.mp3",
+    "title" : "Miêu Thử Đại Chiến Q3 /C12 -13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/14.mp3",
+    "title" : "Miêu Thử Đại Chiến Q3 / C14-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/15.mp3",
+    "title" : "Miêu Thử Đại Chiến - Q3 Phần Cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/16.mp3",
+    "title" : "ngoại truyện 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/17.mp3",
+    "title" : "Ngoại truyện 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/18.mp3",
+    "title" : "Thanh Long Châu-Q4/ C1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/19.mp3",
+    "title" : "Thanh Long Châu -Q4 /C2 -3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/2.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/20.mp3",
+    "title" : "Thanh Long Châu - Q4 / C4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/21.mp3",
+    "title" : "Thanh Long Châu Q4 / C5 - 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/22.mp3",
+    "title" : "Thanh Long Châu- Q4 /C7-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/23.mp3",
+    "title" : "Thanh Long Châu Q4 /C9-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/24.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ-Thanh Long Châu Q4/ C11-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/25.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ -Thanh Long Châu Q4 Phần Cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/26.mp3",
+    "title" : "Ngoại Truyện 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/27.mp3",
+    "title" : "Ngoại Truyện 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/28.mp3",
+    "title" : "Ngoại truyện 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/29.mp3",
+    "title" : "Hái Hoa Án - Chương 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/3.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/30.mp3",
+    "title" : "Hái Hoa Án- Q5/ C3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/31.mp3",
+    "title" : "Hái Hoa Án - Q5- C4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/32.mp3",
+    "title" : "Hái Hoa Án-Q5/C5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/33.mp3",
+    "title" : "Hái Hoa Án- Q5/C6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/34.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ- Hái Hoa Án Q5/C7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/35.mp3",
+    "title" : "Hái Hoa Án Q5/C8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/36.mp3",
+    "title" : "Hái Hoa Án Q5/C9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/37.mp3",
+    "title" : "Hái Hoa Án Q5/C10-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/38.mp3",
+    "title" : "Hái Hoa Án Q5/C12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/39.mp3",
+    "title" : "Hái Hoa Án Q5/C13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/4.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/40.mp3",
+    "title" : "Q6/C1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/41.mp3",
+    "title" : "TRÓC QUỶ ÁN Q6/C2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/42.mp3",
+    "title" : "TRÓC QUỶ ÁN Q6/C3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/43.mp3",
+    "title" : "TRÓC QUỶ ÁN Q6-C4/5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/44.mp3",
+    "title" : "TRÓC QUỶ ÁN Q6/C6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/45.mp3",
+    "title" : "45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/5.mp3",
+    "title" : "Đến Phủ Khai Phong Làm Nhân Viên Công Vụ Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/6.mp3",
+    "title" : "Ngoại truyện 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/7.mp3",
+    "title" : "Li miêu án - Q3- C1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/8.mp3",
+    "title" : "Li miêu án Q3 - C3-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/denphukhaiphonglamnhanviencongvu/9.mp3",
+    "title" : "Li miêu án Q3 - C5-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ao-giac-ma-quai_15542.html",
+    "title" : "Ảo Giác Ma Quái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Kiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10510,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_7e8d995db5d77ed3deab12ee6a082c53.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_7e8d995db5d77ed3deab12ee6a082c53.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ao-giac-ma-quai_202010/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "Truyện Ma Có Thật Mới Nhất Mà Thấy Hãi Khi Nghe Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-giac-ma-quai_202010/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "Truyện Ma Có Thật Mới Thấy Hãi Khi Nghe Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ao-giac-ma-quai_202010/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3057,
+    "title" : "Truyện Ma Có Thật Hãi Khi Nghe Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ao-giac-ma-quai_202010/1.mp3",
+    "title" : "Truyện Ma Có Thật Mới Nhất Mà Thấy Hãi Khi Nghe Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-giac-ma-quai_202010/2.mp3",
+    "title" : "Truyện Ma Có Thật Mới Thấy Hãi Khi Nghe Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ao-giac-ma-quai_202010/3.mp3",
+    "title" : "Truyện Ma Có Thật Hãi Khi Nghe Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

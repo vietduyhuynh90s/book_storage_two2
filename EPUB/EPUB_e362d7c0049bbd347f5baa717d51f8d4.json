@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/su-gia-cua-than-chet-sidney-sheldon_8699.html",
+    "title" : "Sứ Giả của Thần Chết - Sidney Sheldon.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sidney Sheldon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41136,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_e362d7c0049bbd347f5baa717d51f8d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_e362d7c0049bbd347f5baa717d51f8d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 1 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2244,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 2- Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2316,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 3 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2439,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 4 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2138,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 5 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 6 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2457,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 7 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2239,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 8 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2209,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 9 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2259,
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon –tập 10 -Trinh thám Hình sự - Truyện Audio Lê Duyên Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2093,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – 18 End -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2282,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 12 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 13 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2297,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 15 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2231,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 16 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2226,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 17 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2289,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập11 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2416,
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập14 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2001.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 1 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2002.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 2- Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2003.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 3 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2004.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 4 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2005.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 5 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2006.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 6 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2007.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 7 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2008.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 8 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2009.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon – tập 9 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2010.mp3",
+    "title" : "Sứ giả của Thần Chết – Sidney Sheldon –tập 10 -Trinh thám Hình sự - Truyện Audio Lê Duyên Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2011.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – 18 End -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2012.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 12 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2013.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 13 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2014.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 15 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2015.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 16 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2016.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập 17 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2017.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập11 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/SuGia01/Su%20gia%2018.mp3",
+    "title" : "Sứ giả của Thần Chết –Sidney Sheldon – tập14 -Trinh thám Hình sự - Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,1961 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dai-kiep-chu_19109.html",
+    "title" : "Đại Kiếp Chủ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hắc Sơn Lão Quỷ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 551124,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_d3dd2f3d9d50635e0cbb426d6bdd4db7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_d3dd2f3d9d50635e0cbb426d6bdd4db7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4574,
+    "title" : "Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 1: Đứng Đầu Tiên Bảng | Giọng đọc Hoàng Vinh | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 10 Huyền Hoàng Nhất Khí Quyết | Chương 46-50 | Đọc Hay Như VOV",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 100 | Đồng Hương Tiên Hữu | Chương 449-453 | Tuyệt Phẩm Tiên Hiệp 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3811,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 101 Tử Đăng Chiếu Ba Trăm Dặm | Chương 454-458 | Top Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3089,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 102 Tiên Môn Loạn Tượng | Chương 459-463 | Top Tiên Hiệp Mới Nhất 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 103 Chư Vực Tu Sĩ | Chương 464-468 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 104 Huyết Sát Thú Tôn | Chương 469-473 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3814,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 105 Quấy Lên Phong Vân | Chương 474-478 | Nghe Đọc Truyện Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 106: Âm Sơn Chi Linh Đồng | Chương 479-483 | Tiên Hiệp Kiếm Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3487,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 107 - Thanh Dương Điểm Tướng | Chương 484-488 | Top Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 108 - Nhập Lang Gia Cát | Chương 489-493 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 109 - Tiềm Long Tại Uyên | Chương 494-498 | Truyện Tiên Hiệp Hay | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3893,
+    "title" : "Top Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 11: Rời Núi Hàng Yêu | CHương 51-55 | Kênh MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3413,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 110 - Kiếm Đạo Tà Tu | Chương 499-503 | Tuyệt Phẩm Tiên Hiệp Tu Tiên Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 111 - Tam Thế Kiếm Ma | Chương 504-508 | Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3409,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 112 - Phong Tuyết Lịch Luyện | Chương 509- 512 | Truyện Tiên Hiệp Huyền Huyễn Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 113 - Một Kiếm Tru Mười Ma | Chương 514-518 | Top Tiên Hiệp Hay | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3289,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 114 - Thừa Thiên Kiếm Đạo | Chương 519-523 | Siêu Phẩm Tiên Hiệp | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3513,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 115 - Một Đường Lịch Luyện | Chương 524-528 | Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "ĐẠI KIẾP CHỦ -Tập 116 - Địa Cung Thần Bí | Chương 529-533 | Truyện Tiên Hiệp Trọn Bộ | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3229,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 117 - Rời Địa Cung | Chương 534-538 | Truyện Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 118 - Ngữ Hành Độn Thuật | Chương 539-543 | Truyện Tiên Hiệp Huyền Huyễn Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 119 - Vô Sinh Kiếm Mộ Xuất Thế | Chương 544-548 |Truyện Tiên Hiệp | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2940,
+    "title" : "Truyện Tiên Hiệp Full | ĐẠI KIẾP CHỦ | Tập 12: Khốn Nhập Yêu Trận | Chương 56-59 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 120 | Chương 549-553 | Top Tiên Hiệp Huyền Huyễn Hay | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 121 - Xâm Nhập Cánh Đồng Tuyết | Chương 554-558 | Top Truyện Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3394,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 122 - Nguyên Anh Kiếm Linh | Chương 559-563 | Top Truyện Tiên Hiệp Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 123 - Ngàn Vạn Oan Hồn Hợp Thành Một Kiếm | Chương 564-568 | Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3693,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 124 - Rời Cánh Đồng Tuyết | Chương 569-573 | Siêu Phẩm Tiên Hiệp 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 125 - Nguyên Anh Chí Tôn | Chương 574-578 | Top Tiên Hiệp Huyền Huyễn 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 126 - Hồng Thiên Hội | Chương 579-583 | Top Tiên Hiệp Huyền Huyễn 2021 [Bản Dịch]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3554,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 127 - Lão Quy Truyền Pháp | Chương 584-588 | Tiên Hiệp Hay 2021 | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 128 - Thiên Địa Chi Uy | Chương 589-593 | Tiên Hiệp Hay 2021 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 129 - Cơ Hội Hóa Thần | Chương 594-598 | Truyện Tiên Hiệp Cực Kỳ Hấp Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3211,
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 13: Hoàng Huyền Nhất Khí Chém Yêu Tà | Chương 60-63 | Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 130 | Chương 599-603 | Long Tộc Bí Cảnh | Top Tiên Hiệp Hay Nhất Năm 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3244,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 131 - Đoạt Quyền | Chương 604-608 | Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3919,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 132 - Cổ Điện | Chương 609-613 | Truyện Tiên Hiệp Tu Tiên Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3438,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 133 - Đi Tìm Phương Nguyên | Chương 614-618 | Tuyệt Phẩm Tiên Hiệp Cổ Trang 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 134 - Cải Thiên Hoán Địa | Chương 619-623 | Truyện Tiên Hiệp Võ Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 135 - Hắc Bạch Song Sát | Chương 624-628 | Truyện Tiên Hiệp Tu Tiên 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3178,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 136 - Kiếm Ý Như Tuyết | Chương 629-633 | Top Tiên Hiệp Hay Không Nên Bỏ Lỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3419,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 137 - Chương 634-638 | Một Kiếm Diệt Hồn | Truyện Tiên Hiệp Hay Hoàng Vinh Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 138 - Thiên Phú Thần Thông | Chương 639-643 | Truyện Tiên Hiệp Hot Hoàng Vinh Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3204,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 139 - Long Hồn Thức Tỉnh | CHƯƠNG 644-648 | Truyện Tiên Hiệp Kiếm Hiệp Hay Vô Đối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3261,
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | TẬP 14 | cHƯƠNG 64-67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 140 - Số Mệnh | Chương 649-653 | Tiên Hiệp Hot | Giọng đọc Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3490,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 141 - Long Hồn Phân Phối | Chap 654-658 | Truyện Tiên Hiệp Huyền Huyễn Hay 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 142 - Đồ Long Chi Gan | Chương 659-663 | Siêu Phẩm Tiên Hiệp 2021 | Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 143 - Thái Thượng Vong Tình | Chương 664-668 | Truyện Tu Tiên Hay - Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3680,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 144 - Giao Long Thoát Khốn | Chương 669-673 | Top Truyện Tiên Hiệp Hay 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 145 - Ngọc Môn Thần Quan | Chương 674-678 | Tiên Hiệp Hay 2021 | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "DaiKiepChu-tap146",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 147 - Đại Dụng Chi Trận | Chương 684-688 | Top Tiên Hiệp Hay | Trần Vân Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3439,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 148 | CHƯƠNG 689-693 | Truyện Tiên Hiệp Hay | Giọng đọc Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 149 | Trăm Vạn Dặm Ma Biên | Chương 694-698 | Truyện Tiên Hiệp Dài Kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "Tiên Hiệp Hay | ĐẠI KIẾP CHỦ Tập 15: Vị Trí Chân Truyền | Chương 68-71 | Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 150 | Tế Bái Thần Sơn | Chương 699-703 | Truyện Tiên Hiệp Dài Kỳ Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "DaiKiepChu-tap151",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 152 - Cửu Long Ly Hỏa | Chương 709-713 | Top Tiên Hiệp Hay 2021 | Mc Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3547,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 153 | CHƯƠNG 714-718 | Truyện Tiên Hiệp Võ Hiệp Hot 2021 | Giọng đọc Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3574,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 154 - Chương 719-723 | Hai Đại Kỳ Tài | Top Tiên Hiệp Hot | Mc Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "ĐẠI KIẾP CHỦ - Tập 155 | Chương 724-728 | Bắt Giam | Top Tiên Hiệp Hay | Giọng đọc Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "DaiKiepChu-tap156",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "DaiKiepChu-tap157",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3727,
+    "title" : "DaiKiepChu-tap158",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3444,
+    "title" : "DaiKiepChu-tap159",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2782,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 16 | Chương 72-75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "DaiKiepChu-tap160",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 17: Độc Hành Lên Núi | Chương 76-79 | Truyện Tiên Hiệp Hay 2020 | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2966,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 18: Đệ Tử Chân Truyền | Chương 80-83 | Truyện Tiên Hiệp 2020 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 19: Phương Pháp Tu Hành | Chương 84-87 | Truyện Tiên Hiệp 2020 Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3880,
+    "title" : "Truyện Tiên Hiệp Hot | ĐẠI KIẾP CHỦ | Tập 2: Tiên Môn Đệ Tử | Chương 6-10 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3027,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 20 | Ma Tức Hồ Thí Luyện | Chương 88-91 | Tiên Hiệp Hot | Kênh MC Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3169,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 21: Người Có Chí Khí | Chương 92-95 | Truyện Tiên Hiệp Full | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 22 | Chương 96-99 | Truyện Tiên Hiệp Full | Giọng đọc Hoàng Vinh | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3088,
+    "title" : "[Tiên Hiệp] ĐẠI KIẾP CHỦ |Tập 23 | Chương 100-103 | Nghe Kể Truyện Đêm Khuya | Giọng đọc: Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 24: Hắc Phong Khô Lâu | Chương 104-107 | Truyện Tiên Hiệp Hay Nhất Hiện Nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 25: Hiến Tế Chi Lực | Chương 108-111 | Truyện Tiên Hiệp Hay Trọn Bộ | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2887,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 26 | Chương 112- 115 | Giọng đọc: Hoàng Vinh | Truyện Tiên Hiệp Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 27 | Chương 116-119 | Nghe Kể Truyện Tiên Hiệp Kiếm Hiệp Hay | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3044,
+    "title" : "Tiên Hiệp Mới | ĐẠI KIẾP CHỦ | Tập 28: Lễ Vật | Chương 120-123 | Giọng đọc: Hoàng Vinh | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "Tiên Hiệp Hot | ĐẠI KIẾP CHỦ | Tập 29: Dị Biến Phát Sinh | Chương 124-127 | Kênh Kể Truyện Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 3: Cao Thủ Trận Kỳ | Chương 11-15 | Kênh Đọc Truyện Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3012,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 30 | CHƯƠNG 128-131 | Kênh Mc Trần Vân | Top Truyện Tiên Hiệp Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "DaiKiepChu-tap31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3009,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 32: Con Đường Mông Lung | Chương 136 -139 | Tiên Hiệp 2020 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3016,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 33: Bách Hoa Cốc Đệ Tử | Chương 140-143 | Truyện Tiên Hiệp Full | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2992,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 34: Tứ Đại Chân Truyền | Chương 144-147 | Truyện Tiên Hiệp Hay Và Hot Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2987,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 35 | Chương 148-151",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 36 | Chương 152-155 | Truyện Tiên Hiệp Full | Giọng đọc: Hoàng Vinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 37: Một Giấc Chiêm Bao | Chương 156-159 | Truyện Tiên Hiệp Hay Bá Cháy | Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "Siêu Phẩm Tiên Hiệp - ĐẠI KIẾP CHỦ | Tập 38: Tiên Môn Đệ Tử | Chương 160- 163 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3163,
+    "title" : "Truyện Tiên Hiệp Hay Và Mới Nhất | ĐẠI KIẾP CHỦ | Tập 39: Một Kiếm Định Càn Khôn | Chương 164-166",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3533,
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 4 | Chương 16-20 | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 40: Tuần Tra Tiên Sứ | Chương 167-170 | Truyện Tiên Hiệp Siêu Hot 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4141,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 41: Thiên Khai | Chương 171-174 | Tiên Hiệp Kiếm Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 42: Đệ Nhất Chân Truyền | Chương 175-178 | Truyện Tiên Hiệp Full | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3244,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 43 | Chương 179-182",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3221,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 44: Trảm Yêu Trừ Ma Có Gì Sai | Chương 183-186 | Truyện Tiên Hiệp Hay 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3044,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 45 | Chương 187-190",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 46: Cửu U Bí Pháp | Chương 191-194 | Truyện Tiên Hiệp Hay Và Mới Nhất | Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3506,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 47: Nhập Vân Phù Sơn | Chương 195-198 | Truyện Tiên Hiệp Kiếm Hiệp Rất Lôi Cuốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 48: Ngũ Hành Trúc Cơ, Thiên Lôi Tôi Thể | Chương 199-203 | Top Truyện Tiên Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3919,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 49 | Chương 204-208",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3455,
+    "title" : "Top Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 5: Nhập Môn Chi Pháp | Chương 21-25 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 50: Song Thai | Chương 209-213 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "DAI KIEP CHU Tập 51 C 214 218",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3161,
+    "title" : "DAI KIEP CHU Tập 52 CHUONG 219 222",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3936,
+    "title" : "DAI KIEP CHU | Tập 53 | CHUONG 223-227",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 54 | Chương 228- 232 | Bắt Đầu Đột Phá | Tiên Hiệp Siêu Đỉnh | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 55: Ma Chủng Xuất Thế | Chương 233-236 | Truyện Tiên Hiệp Hay Nhất Từng Nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3208,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 56 | Chương 237-240 | Ta Là Một Trận Sư | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3075,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 57: Thất Bảo Lôi Thụ | Chương 241-244 | Truyện Tiên Hiệp Siêu Hấp Dẫn Và Lôi Cuốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 58 | Chương 245-249 | Truyện Tu Tiên Hay Và Mới Nhất |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "ĐẠI KIẾP CHỦ |Tập 59 | Da Người | Chương 250-254 | Truyện Tiên Hiệp Huyền Huyễn Hay | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "Top Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 6: Kiếm Đạo Thiên Tài | Chương 26-30 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "DAI KIEP CHU | Tập 60 | CHUONG 255-258 | BO NGUA DAU XE | Truyen Tien Hiep Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3829,
+    "title" : "DaiKiepChu-tap61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3334,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 62 : Ma Ngẫu Truyền Thừa | Chương 264-267 | Tiên Hiệp Kiếm Hiệp Quá Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 63 | Chương 268-272 |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3044,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 64 | Chương 273-276 | Nam Hải Nhất Mộng | Truyện Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 65 | CHƯƠNG 277-281 | Truyện Tiên Hiệp Hay Và Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 66: Kim Gia Lão Thái Quân | Chương 282-286 | Truyện Tiên Hiệp | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 67 | Chương 287-291 | Truyện Tiên Hiệp Huyền Huyễn Hay Và Hấp Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2827,
+    "title" : "DaiKiepChu-tap68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3617,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 69: Thông Thiên Bí Cảnh | Chương 296-300 | Nghe Đọc Truyện Tiên Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3792,
+    "title" : "Truyện Tiên Hiệp Full - ĐẠI KIẾP CHỦ | Tập 7: Thanh Dương Môn Hạ | Nghe Đọc Truyện Audio Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3431,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 70: Mèo Trắng | Chương 301-305 | Truyện Tiên Hiệp Audio Hay | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 71: Năm Đường Phục Binh | Chương 306-310 | Top Tiên Hiệp Được Mong Đợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3265,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 72: Cường Thế Nghiền Ép | Chương 311-315 | Truyện Tiên Hiệp Bản Dịch Chuẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "ĐẠI KIẾP CHỦ Tập 73: Lấy Một Địch Vạn | Chương 316-320 | Tuyệt Phẩm Tiên Hiệp Huyền Huyễn 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3726,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 74: Ta Là Ma Đầu | Chương 321-325 | Truyện Tiên Hiệp Hot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 75: Thôi Gia Đạo Tử | Chương 326-330 | Truyện Tiên Hiệp Hay Không Thể Bỏ Qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 76: Kiếm Đạo Thông Huyền | Chương 331-335 | Truyện Tiên Hiệp Huyền Huyễn Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2416,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 77 Thần Thông Mất Linh | Chương 336-339 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3118,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 78 Giảng Giải Đạo Ký | Chương 340-344 | Truyện Tiên Hiệp Dài Kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 79: Chân Chính Lôi Pháp | CHƯƠNG 345-348 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ |Tập 8: Hào Tình Vạn Trượng | Chương 31-35 | Kể Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2917,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 80 Diệt Thế Chi Thư | Chương 349-352 | Truyện Tiên Hiệp Hay Hot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3641,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 81 Sơn Thần Đại Lão Gia | Chương 353-357 | Truyện Tiên Hiệp Hay (Bản Dịch Chuẩn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 82 Tử Tiêu Động Chủ | Chương 358-362 | Trần Vân Vlog | Truyện Tu Tiên Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 83 Một Đường Đồng Hành | Chương 363-367 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3312,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 84 Đan Đạo Tiểu Khảo | Chương 368-372 | Top Truyện Tu Tiên Hay | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 85 Khảo Hạch Có Vấn Đề | Chương 373-377 | Kênh MC Trần Vân Truyện Tiên Hiệp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3283,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 86 Bát Bảo Đan | Chương 378-382 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3516,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 87 Khôi Thủ Chi Tranh | Chương 383-387 | Truyện Tiên Hiệp 2021 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 88 Phù Đạo Đại Khảo | Chương 388-392 | Truyện Tiên Hiệp Kiếm Hiệp Mới Nhất 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3586,
+    "title" : "DaiKiepChu-tap89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3914,
+    "title" : "Truyện Tiên Hiệp Full | ĐẠI KIẾP CHỦ | Tập 9: Thanh Dương Tứ Pháp | Đọc Truyện Đêm Khuya | Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4263,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 90 | Chương 398 - 402 | Truyện Tiên Hiệp Đặc Sắc Chọn Lọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 91 Tuyệt Thế Mãnh Nhân | Chương 403-407 | Truyện Tiên Hiệp Bản Dịch Chuẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "DaiKiepChu-tap92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3596,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 93 Kiếm Lời | Chương 413-417 | Tuyệt Phẩm Tiên Hiệp Chọn Lọc 2021 | Kênh Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3662,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 94 | Chương 418- 422 | Top Truyện Tiên Hiệp Đỉnh Cao | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3441,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 95 Tử Đan Đấu Pháp | Chương 423-427 | Top Truyện Tiên Hiệp Tu Tiên Hay 2021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3711,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 96 Huyết Sứ Giả | Chương 428-432 | Top Hot Tiên Hiệp 2021 | Kênh Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "DaiKiepChu-tap97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 98 Đồ Ma | Chương 438-443 | Top Tiên Hiệp Huyền Huyễn Hay Nhất Năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "ĐẠI KIẾP CHỦ | Tập 99 Sáu Đạo Khôi Thủ | Chương 444-448 | Top Tiên Hiệp Huyền Huyễn Hay Nhất Năm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap1.mp3",
+    "title" : "Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 1: Đứng Đầu Tiên Bảng | Giọng đọc Hoàng Vinh | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap10.mp3",
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 10 Huyền Hoàng Nhất Khí Quyết | Chương 46-50 | Đọc Hay Như VOV",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap100.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 100 | Đồng Hương Tiên Hữu | Chương 449-453 | Tuyệt Phẩm Tiên Hiệp 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap101.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 101 Tử Đăng Chiếu Ba Trăm Dặm | Chương 454-458 | Top Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap102.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 102 Tiên Môn Loạn Tượng | Chương 459-463 | Top Tiên Hiệp Mới Nhất 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap103.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 103 Chư Vực Tu Sĩ | Chương 464-468 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap104.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 104 Huyết Sát Thú Tôn | Chương 469-473 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap105.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 105 Quấy Lên Phong Vân | Chương 474-478 | Nghe Đọc Truyện Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap106.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 106: Âm Sơn Chi Linh Đồng | Chương 479-483 | Tiên Hiệp Kiếm Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap107.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 107 - Thanh Dương Điểm Tướng | Chương 484-488 | Top Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap108.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 108 - Nhập Lang Gia Cát | Chương 489-493 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap109.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 109 - Tiềm Long Tại Uyên | Chương 494-498 | Truyện Tiên Hiệp Hay | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap11.mp3",
+    "title" : "Top Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 11: Rời Núi Hàng Yêu | CHương 51-55 | Kênh MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap110.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 110 - Kiếm Đạo Tà Tu | Chương 499-503 | Tuyệt Phẩm Tiên Hiệp Tu Tiên Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap111.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 111 - Tam Thế Kiếm Ma | Chương 504-508 | Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap112.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 112 - Phong Tuyết Lịch Luyện | Chương 509- 512 | Truyện Tiên Hiệp Huyền Huyễn Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap113.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 113 - Một Kiếm Tru Mười Ma | Chương 514-518 | Top Tiên Hiệp Hay | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap114.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 114 - Thừa Thiên Kiếm Đạo | Chương 519-523 | Siêu Phẩm Tiên Hiệp | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap115.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 115 - Một Đường Lịch Luyện | Chương 524-528 | Truyện Tiên Hiệp Kiếm Hiệp Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap116.mp3",
+    "title" : "ĐẠI KIẾP CHỦ -Tập 116 - Địa Cung Thần Bí | Chương 529-533 | Truyện Tiên Hiệp Trọn Bộ | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap117.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 117 - Rời Địa Cung | Chương 534-538 | Truyện Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap118.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 118 - Ngữ Hành Độn Thuật | Chương 539-543 | Truyện Tiên Hiệp Huyền Huyễn Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap119.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 119 - Vô Sinh Kiếm Mộ Xuất Thế | Chương 544-548 |Truyện Tiên Hiệp | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap12.mp3",
+    "title" : "Truyện Tiên Hiệp Full | ĐẠI KIẾP CHỦ | Tập 12: Khốn Nhập Yêu Trận | Chương 56-59 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap120.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 120 | Chương 549-553 | Top Tiên Hiệp Huyền Huyễn Hay | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap121.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 121 - Xâm Nhập Cánh Đồng Tuyết | Chương 554-558 | Top Truyện Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap122.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 122 - Nguyên Anh Kiếm Linh | Chương 559-563 | Top Truyện Tiên Hiệp Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap123.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 123 - Ngàn Vạn Oan Hồn Hợp Thành Một Kiếm | Chương 564-568 | Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap124.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 124 - Rời Cánh Đồng Tuyết | Chương 569-573 | Siêu Phẩm Tiên Hiệp 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap125.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 125 - Nguyên Anh Chí Tôn | Chương 574-578 | Top Tiên Hiệp Huyền Huyễn 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap126.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 126 - Hồng Thiên Hội | Chương 579-583 | Top Tiên Hiệp Huyền Huyễn 2021 [Bản Dịch]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap127.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 127 - Lão Quy Truyền Pháp | Chương 584-588 | Tiên Hiệp Hay 2021 | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap128.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 128 - Thiên Địa Chi Uy | Chương 589-593 | Tiên Hiệp Hay 2021 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap129.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 129 - Cơ Hội Hóa Thần | Chương 594-598 | Truyện Tiên Hiệp Cực Kỳ Hấp Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap13.mp3",
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 13: Hoàng Huyền Nhất Khí Chém Yêu Tà | Chương 60-63 | Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap130.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 130 | Chương 599-603 | Long Tộc Bí Cảnh | Top Tiên Hiệp Hay Nhất Năm 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap131.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 131 - Đoạt Quyền | Chương 604-608 | Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap132.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 132 - Cổ Điện | Chương 609-613 | Truyện Tiên Hiệp Tu Tiên Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap133.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 133 - Đi Tìm Phương Nguyên | Chương 614-618 | Tuyệt Phẩm Tiên Hiệp Cổ Trang 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap134.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 134 - Cải Thiên Hoán Địa | Chương 619-623 | Truyện Tiên Hiệp Võ Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap135.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 135 - Hắc Bạch Song Sát | Chương 624-628 | Truyện Tiên Hiệp Tu Tiên 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap136.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 136 - Kiếm Ý Như Tuyết | Chương 629-633 | Top Tiên Hiệp Hay Không Nên Bỏ Lỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap137.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 137 - Chương 634-638 | Một Kiếm Diệt Hồn | Truyện Tiên Hiệp Hay Hoàng Vinh Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap138.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 138 - Thiên Phú Thần Thông | Chương 639-643 | Truyện Tiên Hiệp Hot Hoàng Vinh Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap139.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 139 - Long Hồn Thức Tỉnh | CHƯƠNG 644-648 | Truyện Tiên Hiệp Kiếm Hiệp Hay Vô Đối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap14.mp3",
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | TẬP 14 | cHƯƠNG 64-67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap140.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 140 - Số Mệnh | Chương 649-653 | Tiên Hiệp Hot | Giọng đọc Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap141.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 141 - Long Hồn Phân Phối | Chap 654-658 | Truyện Tiên Hiệp Huyền Huyễn Hay 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap142.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 142 - Đồ Long Chi Gan | Chương 659-663 | Siêu Phẩm Tiên Hiệp 2021 | Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap143.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 143 - Thái Thượng Vong Tình | Chương 664-668 | Truyện Tu Tiên Hay - Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap144.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 144 - Giao Long Thoát Khốn | Chương 669-673 | Top Truyện Tiên Hiệp Hay 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap145.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 145 - Ngọc Môn Thần Quan | Chương 674-678 | Tiên Hiệp Hay 2021 | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap146.mp3",
+    "title" : "DaiKiepChu-tap146",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap147.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 147 - Đại Dụng Chi Trận | Chương 684-688 | Top Tiên Hiệp Hay | Trần Vân Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap148.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 148 | CHƯƠNG 689-693 | Truyện Tiên Hiệp Hay | Giọng đọc Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap149.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 149 | Trăm Vạn Dặm Ma Biên | Chương 694-698 | Truyện Tiên Hiệp Dài Kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap15.mp3",
+    "title" : "Tiên Hiệp Hay | ĐẠI KIẾP CHỦ Tập 15: Vị Trí Chân Truyền | Chương 68-71 | Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap150.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 150 | Tế Bái Thần Sơn | Chương 699-703 | Truyện Tiên Hiệp Dài Kỳ Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap151.mp3",
+    "title" : "DaiKiepChu-tap151",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap152.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 152 - Cửu Long Ly Hỏa | Chương 709-713 | Top Tiên Hiệp Hay 2021 | Mc Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap153.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 153 | CHƯƠNG 714-718 | Truyện Tiên Hiệp Võ Hiệp Hot 2021 | Giọng đọc Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap154.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 154 - Chương 719-723 | Hai Đại Kỳ Tài | Top Tiên Hiệp Hot | Mc Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap155.mp3",
+    "title" : "ĐẠI KIẾP CHỦ - Tập 155 | Chương 724-728 | Bắt Giam | Top Tiên Hiệp Hay | Giọng đọc Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap156.mp3",
+    "title" : "DaiKiepChu-tap156",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap157.mp3",
+    "title" : "DaiKiepChu-tap157",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap158.mp3",
+    "title" : "DaiKiepChu-tap158",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap159.mp3",
+    "title" : "DaiKiepChu-tap159",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap16.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 16 | Chương 72-75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap160.mp3",
+    "title" : "DaiKiepChu-tap160",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap17.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 17: Độc Hành Lên Núi | Chương 76-79 | Truyện Tiên Hiệp Hay 2020 | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap18.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 18: Đệ Tử Chân Truyền | Chương 80-83 | Truyện Tiên Hiệp 2020 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap19.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 19: Phương Pháp Tu Hành | Chương 84-87 | Truyện Tiên Hiệp 2020 Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap2.mp3",
+    "title" : "Truyện Tiên Hiệp Hot | ĐẠI KIẾP CHỦ | Tập 2: Tiên Môn Đệ Tử | Chương 6-10 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap20.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 20 | Ma Tức Hồ Thí Luyện | Chương 88-91 | Tiên Hiệp Hot | Kênh MC Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap21.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 21: Người Có Chí Khí | Chương 92-95 | Truyện Tiên Hiệp Full | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap22.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 22 | Chương 96-99 | Truyện Tiên Hiệp Full | Giọng đọc Hoàng Vinh | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap23.mp3",
+    "title" : "[Tiên Hiệp] ĐẠI KIẾP CHỦ |Tập 23 | Chương 100-103 | Nghe Kể Truyện Đêm Khuya | Giọng đọc: Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap24.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 24: Hắc Phong Khô Lâu | Chương 104-107 | Truyện Tiên Hiệp Hay Nhất Hiện Nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap25.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 25: Hiến Tế Chi Lực | Chương 108-111 | Truyện Tiên Hiệp Hay Trọn Bộ | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap26.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 26 | Chương 112- 115 | Giọng đọc: Hoàng Vinh | Truyện Tiên Hiệp Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap27.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 27 | Chương 116-119 | Nghe Kể Truyện Tiên Hiệp Kiếm Hiệp Hay | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap28.mp3",
+    "title" : "Tiên Hiệp Mới | ĐẠI KIẾP CHỦ | Tập 28: Lễ Vật | Chương 120-123 | Giọng đọc: Hoàng Vinh | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap29.mp3",
+    "title" : "Tiên Hiệp Hot | ĐẠI KIẾP CHỦ | Tập 29: Dị Biến Phát Sinh | Chương 124-127 | Kênh Kể Truyện Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap3.mp3",
+    "title" : "Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 3: Cao Thủ Trận Kỳ | Chương 11-15 | Kênh Đọc Truyện Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap30.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 30 | CHƯƠNG 128-131 | Kênh Mc Trần Vân | Top Truyện Tiên Hiệp Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap31.mp3",
+    "title" : "DaiKiepChu-tap31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap32.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 32: Con Đường Mông Lung | Chương 136 -139 | Tiên Hiệp 2020 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap33.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 33: Bách Hoa Cốc Đệ Tử | Chương 140-143 | Truyện Tiên Hiệp Full | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap34.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 34: Tứ Đại Chân Truyền | Chương 144-147 | Truyện Tiên Hiệp Hay Và Hot Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap35.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 35 | Chương 148-151",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap36.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 36 | Chương 152-155 | Truyện Tiên Hiệp Full | Giọng đọc: Hoàng Vinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap37.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 37: Một Giấc Chiêm Bao | Chương 156-159 | Truyện Tiên Hiệp Hay Bá Cháy | Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap38.mp3",
+    "title" : "Siêu Phẩm Tiên Hiệp - ĐẠI KIẾP CHỦ | Tập 38: Tiên Môn Đệ Tử | Chương 160- 163 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap39.mp3",
+    "title" : "Truyện Tiên Hiệp Hay Và Mới Nhất | ĐẠI KIẾP CHỦ | Tập 39: Một Kiếm Định Càn Khôn | Chương 164-166",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap4.mp3",
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 4 | Chương 16-20 | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap40.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 40: Tuần Tra Tiên Sứ | Chương 167-170 | Truyện Tiên Hiệp Siêu Hot 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap41.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 41: Thiên Khai | Chương 171-174 | Tiên Hiệp Kiếm Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap42.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 42: Đệ Nhất Chân Truyền | Chương 175-178 | Truyện Tiên Hiệp Full | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap43.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 43 | Chương 179-182",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap44.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 44: Trảm Yêu Trừ Ma Có Gì Sai | Chương 183-186 | Truyện Tiên Hiệp Hay 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap45.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 45 | Chương 187-190",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap46.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 46: Cửu U Bí Pháp | Chương 191-194 | Truyện Tiên Hiệp Hay Và Mới Nhất | Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap47.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 47: Nhập Vân Phù Sơn | Chương 195-198 | Truyện Tiên Hiệp Kiếm Hiệp Rất Lôi Cuốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap48.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 48: Ngũ Hành Trúc Cơ, Thiên Lôi Tôi Thể | Chương 199-203 | Top Truyện Tiên Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap49.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 49 | Chương 204-208",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap5.mp3",
+    "title" : "Top Tiên Hiệp Hay | ĐẠI KIẾP CHỦ | Tập 5: Nhập Môn Chi Pháp | Chương 21-25 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap50.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 50: Song Thai | Chương 209-213 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap51.mp3",
+    "title" : "DAI KIEP CHU Tập 51 C 214 218",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap52.mp3",
+    "title" : "DAI KIEP CHU Tập 52 CHUONG 219 222",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap53.mp3",
+    "title" : "DAI KIEP CHU | Tập 53 | CHUONG 223-227",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap54.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 54 | Chương 228- 232 | Bắt Đầu Đột Phá | Tiên Hiệp Siêu Đỉnh | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap55.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 55: Ma Chủng Xuất Thế | Chương 233-236 | Truyện Tiên Hiệp Hay Nhất Từng Nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap56.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 56 | Chương 237-240 | Ta Là Một Trận Sư | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap57.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 57: Thất Bảo Lôi Thụ | Chương 241-244 | Truyện Tiên Hiệp Siêu Hấp Dẫn Và Lôi Cuốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap58.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 58 | Chương 245-249 | Truyện Tu Tiên Hay Và Mới Nhất |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap59.mp3",
+    "title" : "ĐẠI KIẾP CHỦ |Tập 59 | Da Người | Chương 250-254 | Truyện Tiên Hiệp Huyền Huyễn Hay | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap6.mp3",
+    "title" : "Top Tiên Hiệp | ĐẠI KIẾP CHỦ | Tập 6: Kiếm Đạo Thiên Tài | Chương 26-30 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap60.mp3",
+    "title" : "DAI KIEP CHU | Tập 60 | CHUONG 255-258 | BO NGUA DAU XE | Truyen Tien Hiep Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap61.mp3",
+    "title" : "DaiKiepChu-tap61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap62.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 62 : Ma Ngẫu Truyền Thừa | Chương 264-267 | Tiên Hiệp Kiếm Hiệp Quá Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap63.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 63 | Chương 268-272 |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap64.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 64 | Chương 273-276 | Nam Hải Nhất Mộng | Truyện Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap65.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 65 | CHƯƠNG 277-281 | Truyện Tiên Hiệp Hay Và Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap66.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 66: Kim Gia Lão Thái Quân | Chương 282-286 | Truyện Tiên Hiệp | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap67.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 67 | Chương 287-291 | Truyện Tiên Hiệp Huyền Huyễn Hay Và Hấp Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap68.mp3",
+    "title" : "DaiKiepChu-tap68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap69.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 69: Thông Thiên Bí Cảnh | Chương 296-300 | Nghe Đọc Truyện Tiên Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap7.mp3",
+    "title" : "Truyện Tiên Hiệp Full - ĐẠI KIẾP CHỦ | Tập 7: Thanh Dương Môn Hạ | Nghe Đọc Truyện Audio Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap70.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 70: Mèo Trắng | Chương 301-305 | Truyện Tiên Hiệp Audio Hay | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap71.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 71: Năm Đường Phục Binh | Chương 306-310 | Top Tiên Hiệp Được Mong Đợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap72.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 72: Cường Thế Nghiền Ép | Chương 311-315 | Truyện Tiên Hiệp Bản Dịch Chuẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap73.mp3",
+    "title" : "ĐẠI KIẾP CHỦ Tập 73: Lấy Một Địch Vạn | Chương 316-320 | Tuyệt Phẩm Tiên Hiệp Huyền Huyễn 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap74.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 74: Ta Là Ma Đầu | Chương 321-325 | Truyện Tiên Hiệp Hot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap75.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 75: Thôi Gia Đạo Tử | Chương 326-330 | Truyện Tiên Hiệp Hay Không Thể Bỏ Qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap76.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 76: Kiếm Đạo Thông Huyền | Chương 331-335 | Truyện Tiên Hiệp Huyền Huyễn Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap77.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 77 Thần Thông Mất Linh | Chương 336-339 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap78.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 78 Giảng Giải Đạo Ký | Chương 340-344 | Truyện Tiên Hiệp Dài Kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap79.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 79: Chân Chính Lôi Pháp | CHƯƠNG 345-348 | Nghe Đọc Truyện Tiên Hiệp Kiếm Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap8.mp3",
+    "title" : "Truyện Tiên Hiệp | ĐẠI KIẾP CHỦ |Tập 8: Hào Tình Vạn Trượng | Chương 31-35 | Kể Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap80.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 80 Diệt Thế Chi Thư | Chương 349-352 | Truyện Tiên Hiệp Hay Hot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap81.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 81 Sơn Thần Đại Lão Gia | Chương 353-357 | Truyện Tiên Hiệp Hay (Bản Dịch Chuẩn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap82.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 82 Tử Tiêu Động Chủ | Chương 358-362 | Trần Vân Vlog | Truyện Tu Tiên Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap83.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 83 Một Đường Đồng Hành | Chương 363-367 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap84.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 84 Đan Đạo Tiểu Khảo | Chương 368-372 | Top Truyện Tu Tiên Hay | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap85.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 85 Khảo Hạch Có Vấn Đề | Chương 373-377 | Kênh MC Trần Vân Truyện Tiên Hiệp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap86.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 86 Bát Bảo Đan | Chương 378-382 | Truyện Tiên Hiệp Hay | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap87.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 87 Khôi Thủ Chi Tranh | Chương 383-387 | Truyện Tiên Hiệp 2021 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap88.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 88 Phù Đạo Đại Khảo | Chương 388-392 | Truyện Tiên Hiệp Kiếm Hiệp Mới Nhất 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap89.mp3",
+    "title" : "DaiKiepChu-tap89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap9.mp3",
+    "title" : "Truyện Tiên Hiệp Full | ĐẠI KIẾP CHỦ | Tập 9: Thanh Dương Tứ Pháp | Đọc Truyện Đêm Khuya | Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap90.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 90 | Chương 398 - 402 | Truyện Tiên Hiệp Đặc Sắc Chọn Lọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap91.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 91 Tuyệt Thế Mãnh Nhân | Chương 403-407 | Truyện Tiên Hiệp Bản Dịch Chuẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap92.mp3",
+    "title" : "DaiKiepChu-tap92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap93.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 93 Kiếm Lời | Chương 413-417 | Tuyệt Phẩm Tiên Hiệp Chọn Lọc 2021 | Kênh Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap94.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 94 | Chương 418- 422 | Top Truyện Tiên Hiệp Đỉnh Cao | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap95.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 95 Tử Đan Đấu Pháp | Chương 423-427 | Top Truyện Tiên Hiệp Tu Tiên Hay 2021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap96.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 96 Huyết Sứ Giả | Chương 428-432 | Top Hot Tiên Hiệp 2021 | Kênh Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap97.mp3",
+    "title" : "DaiKiepChu-tap97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap98.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 98 Đồ Ma | Chương 438-443 | Top Tiên Hiệp Huyền Huyễn Hay Nhất Năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/DaiKiepChu-Audio/DaiKiepChu-tap99.mp3",
+    "title" : "ĐẠI KIẾP CHỦ | Tập 99 Sáu Đạo Khôi Thủ | Chương 444-448 | Top Tiên Hiệp Huyền Huyễn Hay Nhất Năm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

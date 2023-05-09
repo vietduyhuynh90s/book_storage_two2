@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cay-dang-mui-doi-ho-bieu-chanh_11915.html",
+    "title" : "Cay Đắng Mùi Đời - Hồ Biểu Chánh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19608,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_1ccd76d157d1aa5f780d4d3777490893.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_1ccd76d157d1aa5f780d4d3777490893.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4660,
+    "title" : "Cay đắng mùi đời P1 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4792,
+    "title" : "Cay đắng mùi đời P2 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5046,
+    "title" : "Cay đắng mùi đời P3 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5110,
+    "title" : "Cay đắng mùi đời P4 (hết) - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/1.mp3",
+    "title" : "Cay đắng mùi đời P1 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/2.mp3",
+    "title" : "Cay đắng mùi đời P2 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/3.mp3",
+    "title" : "Cay đắng mùi đời P3 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/caydangmuidoi_201903/4.mp3",
+    "title" : "Cay đắng mùi đời P4 (hết) - MC Hồng Nhung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

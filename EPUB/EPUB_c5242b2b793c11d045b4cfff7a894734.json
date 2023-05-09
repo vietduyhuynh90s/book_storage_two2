@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-thieu-nu-co-don-sidney-sheldon_10050.html",
+    "title" : "Những Thiếu Nữ Cô Đơn - Sidney Sheldon",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sidney Sheldon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 46085,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c5242b2b793c11d045b4cfff7a894734.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c5242b2b793c11d045b4cfff7a894734.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhungthieunucodon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7146,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3460,
+    "title" : "100123_009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3857,
+    "title" : "100130_001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1147,
+    "title" : "100127_005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "100127_011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1649,
+    "title" : "100110_009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4027,
+    "title" : "100110_010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "100111_006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3234,
+    "title" : "100112_006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3946,
+    "title" : "100117_008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3991,
+    "title" : "100118_001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "100118_004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "100122_006",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhungthieunucodon/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/10.mp3",
+    "title" : "100123_009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/11.mp3",
+    "title" : "100130_001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/12.mp3",
+    "title" : "100127_005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/13.mp3",
+    "title" : "100127_011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/2.mp3",
+    "title" : "100110_009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/3.mp3",
+    "title" : "100110_010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/4.mp3",
+    "title" : "100111_006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/5.mp3",
+    "title" : "100112_006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/6.mp3",
+    "title" : "100117_008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/7.mp3",
+    "title" : "100118_001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/8.mp3",
+    "title" : "100118_004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhungthieunucodon/9.mp3",
+    "title" : "100122_006",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

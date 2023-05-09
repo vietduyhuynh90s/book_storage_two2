@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xuan-thien-lai-lieu-tuu-dang-dang_15324.html",
+    "title" : "Xuân Thiên Lai Liễu Tựu Đãng Dạng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Sáp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 75098,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_7247b27af15637368fabd6df7bbd76a0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_7247b27af15637368fabd6df7bbd76a0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3442,
+    "title" : "[BÁCH HỢP] XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 1)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3596,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 10)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3919,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 11)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 12)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 13)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3474,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 14)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 15)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3287,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 16)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4102,
+    "title" : "[BÁCH HỢP] (H) XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 17)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3859,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 18)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 19)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5900,
+    "title" : "[BÁCH HỢP] XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG (TẬP 2) || Phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 20)||KẾT HOÀN!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3227,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 3)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3369,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 4)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4131,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 5)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4164,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 6)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4042,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 7)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3673,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 8)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 9)||phát hành chiều 2,4,6 hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/1.mp3",
+    "title" : "[BÁCH HỢP] XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 1)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/10.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 10)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/11.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 11)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/12.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 12)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/13.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 13)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/14.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 14)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/15.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 15)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/16.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 16)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/17.mp3",
+    "title" : "[BÁCH HỢP] (H) XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 17)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/18.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 18)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/19.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 19)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/2.mp3",
+    "title" : "[BÁCH HỢP] XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG (TẬP 2) || Phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/20.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 20)||KẾT HOÀN!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/3.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 3)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/4.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 4)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/5.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 5)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/6.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 6)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/7.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 7)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/8.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 8)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuan-thien-lai-lieu-tuu-dang-dang/9.mp3",
+    "title" : "[BÁCH HỢP]XUÂN THIÊN LAI LIỄU TỰU ĐÃNG DẠNG(TẬP 9)||phát hành chiều 2,4,6 hàng tuần!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

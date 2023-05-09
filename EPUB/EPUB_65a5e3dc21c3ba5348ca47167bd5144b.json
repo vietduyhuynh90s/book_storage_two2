@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyen-cua-on-noan-an-ninh_10417.html",
+    "title" : "Huyền Của Ôn Noãn - An Ninh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "An Ninh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53463,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_65a5e3dc21c3ba5348ca47167bd5144b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_65a5e3dc21c3ba5348ca47167bd5144b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2376,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2093,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2142,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2269,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2507,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2302,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2970,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2207,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2041,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2668,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2342,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2947,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2750,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2236,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2304,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2063,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2302,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2374,
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/1.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/10.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/11.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/12.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/13.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/14.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/15.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/16.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/17.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/18.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/19.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/2.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/20.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/21.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/22.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/23.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/3.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/4.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/5.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/6.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/7.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/8.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyen-cua-on-noan/9.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Cực Hay Đêm Khuya 2017",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/me-cung-an_15668.html",
+    "title" : "Mê Cung Án",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert van Gulik",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 34939,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_34074cbdc074aab0950bc6ed5211d344.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_34074cbdc074aab0950bc6ed5211d344.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2381,
+    "title" : "Địch công 10 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "Địch công 10 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1160,
+    "title" : "Địch công 10 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1289,
+    "title" : "Địch công 10 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1044,
+    "title" : "Địch công 10 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1250,
+    "title" : "Địch công 10 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1382,
+    "title" : "Địch công 10 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 994,
+    "title" : "Địch công 10 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1286,
+    "title" : "Địch công 10 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1526,
+    "title" : "Địch công 10 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1166,
+    "title" : "Địch công 10 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "Địch công 10 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1245,
+    "title" : "Địch công 10 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 867,
+    "title" : "Địch công 10 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1380,
+    "title" : "Địch công 10 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1183,
+    "title" : "Địch công 10 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Địch công 10 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1580,
+    "title" : "Địch công 10 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1437,
+    "title" : "Địch công 10 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1722,
+    "title" : "Địch công 10 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2284,
+    "title" : "Địch công 10 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "Địch công 10 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1526,
+    "title" : "Địch công 10 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1826,
+    "title" : "Địch công 10 24",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_01.mp3",
+    "title" : "Địch công 10 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_02.mp3",
+    "title" : "Địch công 10 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_03.mp3",
+    "title" : "Địch công 10 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_04.mp3",
+    "title" : "Địch công 10 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_05.mp3",
+    "title" : "Địch công 10 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_06.mp3",
+    "title" : "Địch công 10 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_07.mp3",
+    "title" : "Địch công 10 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_08.mp3",
+    "title" : "Địch công 10 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_09.mp3",
+    "title" : "Địch công 10 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_10.mp3",
+    "title" : "Địch công 10 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_11.mp3",
+    "title" : "Địch công 10 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_12.mp3",
+    "title" : "Địch công 10 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_13.mp3",
+    "title" : "Địch công 10 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_14.mp3",
+    "title" : "Địch công 10 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_15.mp3",
+    "title" : "Địch công 10 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_16.mp3",
+    "title" : "Địch công 10 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_17.mp3",
+    "title" : "Địch công 10 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_18.mp3",
+    "title" : "Địch công 10 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_19.mp3",
+    "title" : "Địch công 10 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_20.mp3",
+    "title" : "Địch công 10 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_21.mp3",
+    "title" : "Địch công 10 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_22.mp3",
+    "title" : "Địch công 10 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_23.mp3",
+    "title" : "Địch công 10 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-cong-10-01/%C4%90%E1%BB%8Bch%20c%C3%B4ng%2010_24.mp3",
+    "title" : "Địch công 10 24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

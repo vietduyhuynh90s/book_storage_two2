@@ -1,0 +1,569 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/u-minh-trinh-tham_13225.html",
+    "title" : "U Minh Trinh Thám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lão Thiên Thúc Thúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 108708,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c6df425f0e9c4bfc11105b46076b2602.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c6df425f0e9c4bfc11105b46076b2602.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%201%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2566,
+    "title" : "U MINH TRINH THÁM Phần 1 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2010%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2512,
+    "title" : "U MINH TRINH THÁM Phần 10 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2011%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2712,
+    "title" : "U MINH TRINH THÁM Phần 11 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2012%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2291,
+    "title" : "U MINH TRINH THÁM Phần 12 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2013%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "U MINH TRINH THÁM Phần 13 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2014%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "U MINH TRINH THÁM Phần 14 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2015%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2819,
+    "title" : "U MINH TRINH THÁM Phần 15 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2016%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2519,
+    "title" : "U MINH TRINH THÁM Phần 16 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2017__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "U MINH TRINH THÁM Phần 17|| Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2018%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2459,
+    "title" : "U MINH TRINH THÁM Phần 18 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2019%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2402,
+    "title" : "U MINH TRINH THÁM Phần 19 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%202%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2056,
+    "title" : "U MINH TRINH THÁM Phần 2 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2020__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2519,
+    "title" : "U MINH TRINH THÁM Phần 20|| Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2021%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2519,
+    "title" : "U MINH TRINH THÁM Phần 21 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2022%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2512,
+    "title" : "U MINH TRINH THÁM Phần 22 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2023%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3109,
+    "title" : "U MINH TRINH THÁM Phần 23 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2024%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2287,
+    "title" : "U MINH TRINH THÁM Phần 24 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2025%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "U MINH TRINH THÁM Phần 25 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2026%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "U MINH TRINH THÁM Phần 26 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2027%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "U MINH TRINH THÁM Phần 27 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2028%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2389,
+    "title" : "U MINH TRINH THÁM Phần 28 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2029%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2392,
+    "title" : "U MINH TRINH THÁM Phần 29 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%203%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2237,
+    "title" : "U MINH TRINH THÁM Phần 3 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2030%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "U MINH TRINH THÁM Phần 30 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2031%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "U MINH TRINH THÁM Phần 31 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2032%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2429,
+    "title" : "U MINH TRINH THÁM Phần 32 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2033%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2459,
+    "title" : "U MINH TRINH THÁM Phần 33 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2034%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2309,
+    "title" : "U MINH TRINH THÁM Phần 34 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2035%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2319,
+    "title" : "U MINH TRINH THÁM Phần 35 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2036%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2512,
+    "title" : "U MINH TRINH THÁM Phần 36 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2037%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "U MINH TRINH THÁM Phần 37 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2038%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "U MINH TRINH THÁM Phần 38 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2039%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "U MINH TRINH THÁM Phần 39 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%204%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2306,
+    "title" : "U MINH TRINH THÁM Phần 4 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2040%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2312,
+    "title" : "U MINH TRINH THÁM Phần 40 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2041%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "U MINH TRINH THÁM Phần 41 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2042%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "U MINH TRINH THÁM Phần 42 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2043%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "U MINH TRINH THÁM Phần 43 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2044%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "U MINH TRINH THÁM Phần 44 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%205%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2185,
+    "title" : "U MINH TRINH THÁM Phần 5 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%206%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2242,
+    "title" : "U MINH TRINH THÁM Phần 6 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%207%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3509,
+    "title" : "U MINH TRINH THÁM Phần 7 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%208%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "U MINH TRINH THÁM Phần 8 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%209%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "U MINH TRINH THÁM Phần 9 || Audio Truyện Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%201%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 1 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2010%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 10 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2011%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 11 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2012%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 12 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2013%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 13 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2014%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 14 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2015%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 15 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2016%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 16 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2017__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 17|| Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2018%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 18 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2019%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 19 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%202%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 2 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2020__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 20|| Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2021%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 21 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2022%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 22 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2023%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 23 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2024%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 24 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2025%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 25 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2026%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 26 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2027%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 27 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2028%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 28 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2029%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 29 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%203%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 3 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2030%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 30 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2031%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 31 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2032%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 32 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2033%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 33 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2034%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 34 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2035%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 35 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2036%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 36 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2037%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 37 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2038%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 38 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2039%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 39 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%204%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 4 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2040%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 40 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2041%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 41 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2042%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 42 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2043%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 43 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%2044%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 44 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%205%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 5 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%206%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 6 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%207%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 7 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%208%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 8 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/uminhtrinhtham_201808/U%20MINH%20TRINH%20TH%C3%81M%20Ph%E1%BA%A7n%209%20__%20Audio%20Truy%E1%BB%87n%20M%E1%BB%97i%20Ng%C3%A0y.mp3",
+    "title" : "U MINH TRINH THÁM Phần 9 || Audio Truyện Mỗi Ngày",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

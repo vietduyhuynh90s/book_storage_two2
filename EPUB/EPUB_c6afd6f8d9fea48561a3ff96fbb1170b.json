@@ -1,0 +1,1841 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngang-tang-tat-da_14315.html",
+    "title" : "Ngang Tàng (Tát Dã)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vu Triết",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 216937,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c6afd6f8d9fea48561a3ff96fbb1170b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c6afd6f8d9fea48561a3ff96fbb1170b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tat-da/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Tập 1 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1276,
+    "title" : "Tập 10 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1356,
+    "title" : "Vu Triết Tập 100 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "Vu Triết Tập 101 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1381,
+    "title" : "Vu Triết Tập 102 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1506,
+    "title" : "Vu Triết Tập 103 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1370,
+    "title" : "Vu Triết Tập 104 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1480,
+    "title" : "Vu Triết Tập 105 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1378,
+    "title" : "Vu Triết Tập 106 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1453,
+    "title" : "Vu Triết Tập 107 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1378,
+    "title" : "Vu Triết Tập 108 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "Vu Triết Tập 109 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1301,
+    "title" : "Vu Triết Tập 11 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1579,
+    "title" : "Vu Triết Tập 110 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "Vu Triết Tập 111 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1479,
+    "title" : "Vu Triết Tập 112 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1474,
+    "title" : "Vu Triết Tập 113 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1452,
+    "title" : "Vu Triết Tập 114 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "Vu Triết Tập 115 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1469,
+    "title" : "Vu Triết Tập 116 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "Vu Triết Tập 117 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Vu Triết Tập 118 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1443,
+    "title" : "Vu Triết Tập 119 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1301,
+    "title" : "Vu Triết Tập 12 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1418,
+    "title" : "Vu Triết Tập 120 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1450,
+    "title" : "Vu Triết Tập 121 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1482,
+    "title" : "Vu Triết Tập 122 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1491,
+    "title" : "Vu Triết Tập 123 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1552,
+    "title" : "Vu Triết Tập 124 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1459,
+    "title" : "Vu Triết Tập 125 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1524,
+    "title" : "Vu Triết Tập 126 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1426,
+    "title" : "Vu Triết Tập 127 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1462,
+    "title" : "Vu Triết Tập 128 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1548,
+    "title" : "Vu Triết Tập 129 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1392,
+    "title" : "Vu Triết Tập 13 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1535,
+    "title" : "Vu Triết Tập 130 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "Vu Triết Tập 131 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 813,
+    "title" : "Vu Triết Tập 132 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 713,
+    "title" : "Vu Triết Tập 133 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1238,
+    "title" : "Vu Triết Tập 134 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1438,
+    "title" : "Vu Triết Tập 135 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1454,
+    "title" : "Vu Triết Tập 136 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1476,
+    "title" : "Vu Triết Tập 137 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1388,
+    "title" : "Vu Triết Tập 138 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1538,
+    "title" : "Vu Triết Tập 139 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1345,
+    "title" : "Vu Triết Tập 14 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1388,
+    "title" : "Vu Triết Tập 140 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1536,
+    "title" : "Vu Triết Tập 141 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1495,
+    "title" : "Vu Triết Tập 142 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1455,
+    "title" : "Vu Triết Tập 143 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1496,
+    "title" : "Vu Triết Tập 144 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "Vu Triết Tập 145 hoàn chính văn - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1264,
+    "title" : "Vu Triết Tập 146 Phiên ngoại - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1238,
+    "title" : "Vu Triết Tập 147 Phiên ngoại - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "Vu Triết Tập 148 Phiên ngoại - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1213,
+    "title" : "149",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1389,
+    "title" : "Vu Triết Tập 15 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2363,
+    "title" : "150",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1392,
+    "title" : "Vu Triết Tập 16 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1322,
+    "title" : "Vu Triết Tập 17 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1238,
+    "title" : "Vu Triết Tập 18 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1368,
+    "title" : "Vu Triết Tập 19 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1322,
+    "title" : "Tập 2 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1345,
+    "title" : "Vu Triết Tập 20 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1360,
+    "title" : "Vu Triết Tập 21 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1459,
+    "title" : "Vu Triết Tập 22 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1430,
+    "title" : "Vu Triết Tập 23 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1384,
+    "title" : "Vu Triết Tập 24 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1310,
+    "title" : "Vu Triết Tập 25 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1335,
+    "title" : "Vu Triết Tập 26 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1386,
+    "title" : "Vu Triết Tập 27 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1358,
+    "title" : "Vu Triết Tập 28 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1405,
+    "title" : "Vu Triết Tập 29 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1371,
+    "title" : "Tập 3 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Vu Triết Tập 30 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1352,
+    "title" : "Vu Triết Tập 31 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1283,
+    "title" : "Vu Triết Tập 32 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "Vu Triết Tập 33 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1438,
+    "title" : "Vu Triết Tập 34 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Vu Triết Tập 35 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1473,
+    "title" : "Vu Triết Tập 36 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1473,
+    "title" : "Vu Triết Tập 37 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1531,
+    "title" : "Vu Triết Tập 38 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1655,
+    "title" : "Vu Triết Tập 39 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1276,
+    "title" : "Tập 4 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "Vu Triết Tập 40 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1479,
+    "title" : "Vu Triết Tập 41 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "Vu Triết Tập 42 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "Vu Triết Tập 43 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1354,
+    "title" : "Vu Triết Tập 44 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "Vu Triết Tập 45 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1454,
+    "title" : "Vu Triết Tập 46 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1729,
+    "title" : "Vu Triết Tập 47 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1454,
+    "title" : "Vu Triết Tập 48 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "Vu Triết Tập 49 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Tập 5 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1391,
+    "title" : "Vu Triết Tập 50 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1582,
+    "title" : "Vu Triết Tập 51 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1582,
+    "title" : "Vu Triết Tập 52 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "Vu Triết Tập 53 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "Vu Triết Tập 54 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "Vu Triết Tập 55 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1415,
+    "title" : "Vu Triết Tập 56 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1619,
+    "title" : "Vu Triết Tập 57 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1688,
+    "title" : "Vu Triết Tập 58 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1436,
+    "title" : "Vu Triết Tập 59 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Tập 6 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1486,
+    "title" : "Vu Triết Tập 60 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1424,
+    "title" : "Vu Triết Tập 61 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "Vu Triết Tập 62 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1536,
+    "title" : "Vu Triết Tập 63 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1547,
+    "title" : "Vu Triết Tập 64 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1497,
+    "title" : "Vu Triết Tập 65 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1476,
+    "title" : "Vu Triết Tập 66 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1186,
+    "title" : "Vu Triết Tập 67 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1161,
+    "title" : "Vu Triết Tập 68 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1361,
+    "title" : "Vu Triết Tập 69 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1399,
+    "title" : "Tập 7 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1304,
+    "title" : "Vu Triết Tập 70 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1654,
+    "title" : "Vu Triết Tập 71 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1254,
+    "title" : "Vu Triết Tập 72 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1629,
+    "title" : "Vu Triết Tập 73 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "Vu Triết Tập 74 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1654,
+    "title" : "Vu Triết Tập 75 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Vu Triết Tập 76 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1429,
+    "title" : "Vu Triết Tập 77 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1354,
+    "title" : "Vu Triết Tập 78 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "Vu Triết Tập 79 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1322,
+    "title" : "Tập 8 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1354,
+    "title" : "Vu Triết Tập 80 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "Vu Triết Tập 81 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "Vu Triết Tập 82 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "Vu Triết Tập 83 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "Vu Triết Tập 84 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1454,
+    "title" : "Vu Triết Tập 85 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1554,
+    "title" : "Vu Triết Tập 86 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1704,
+    "title" : "Vu Triết Tập 87 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1479,
+    "title" : "Vu Triết Tập 88 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1454,
+    "title" : "Vu Triết Tập 89 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1373,
+    "title" : "Tập 9 Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1354,
+    "title" : "Vu Triết Tập 90 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1429,
+    "title" : "Vu Triết Tập 91 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "Vu Triết Tập 92 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1533,
+    "title" : "Vu Triết Tập 93 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1477,
+    "title" : "Vu Triết Tập 94 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "Vu Triết Tập 95 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1422,
+    "title" : "Vu Triết Tập 96 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1429,
+    "title" : "Vu Triết Tập 97 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1273,
+    "title" : "Vu Triết Tập 98 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tat-da/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1531,
+    "title" : "Vu Triết Tập 99 - Audio Đam Mỹ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tat-da/1.mp3",
+    "title" : "Tập 1 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/10.mp3",
+    "title" : "Tập 10 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/100.mp3",
+    "title" : "Vu Triết Tập 100 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/101.mp3",
+    "title" : "Vu Triết Tập 101 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/102.mp3",
+    "title" : "Vu Triết Tập 102 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/103.mp3",
+    "title" : "Vu Triết Tập 103 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/104.mp3",
+    "title" : "Vu Triết Tập 104 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/105.mp3",
+    "title" : "Vu Triết Tập 105 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/106.mp3",
+    "title" : "Vu Triết Tập 106 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/107.mp3",
+    "title" : "Vu Triết Tập 107 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/108.mp3",
+    "title" : "Vu Triết Tập 108 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/109.mp3",
+    "title" : "Vu Triết Tập 109 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/11.mp3",
+    "title" : "Vu Triết Tập 11 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/110.mp3",
+    "title" : "Vu Triết Tập 110 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/111.mp3",
+    "title" : "Vu Triết Tập 111 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/112.mp3",
+    "title" : "Vu Triết Tập 112 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/113.mp3",
+    "title" : "Vu Triết Tập 113 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/114.mp3",
+    "title" : "Vu Triết Tập 114 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/115.mp3",
+    "title" : "Vu Triết Tập 115 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/116.mp3",
+    "title" : "Vu Triết Tập 116 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/117.mp3",
+    "title" : "Vu Triết Tập 117 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/118.mp3",
+    "title" : "Vu Triết Tập 118 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/119.mp3",
+    "title" : "Vu Triết Tập 119 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/12.mp3",
+    "title" : "Vu Triết Tập 12 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/120.mp3",
+    "title" : "Vu Triết Tập 120 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/121.mp3",
+    "title" : "Vu Triết Tập 121 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/122.mp3",
+    "title" : "Vu Triết Tập 122 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/123.mp3",
+    "title" : "Vu Triết Tập 123 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/124.mp3",
+    "title" : "Vu Triết Tập 124 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/125.mp3",
+    "title" : "Vu Triết Tập 125 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/126.mp3",
+    "title" : "Vu Triết Tập 126 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/127.mp3",
+    "title" : "Vu Triết Tập 127 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/128.mp3",
+    "title" : "Vu Triết Tập 128 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/129.mp3",
+    "title" : "Vu Triết Tập 129 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/13.mp3",
+    "title" : "Vu Triết Tập 13 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/130.mp3",
+    "title" : "Vu Triết Tập 130 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/131.mp3",
+    "title" : "Vu Triết Tập 131 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/132.mp3",
+    "title" : "Vu Triết Tập 132 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/133.mp3",
+    "title" : "Vu Triết Tập 133 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/134.mp3",
+    "title" : "Vu Triết Tập 134 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/135.mp3",
+    "title" : "Vu Triết Tập 135 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/136.mp3",
+    "title" : "Vu Triết Tập 136 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/137.mp3",
+    "title" : "Vu Triết Tập 137 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/138.mp3",
+    "title" : "Vu Triết Tập 138 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/139.mp3",
+    "title" : "Vu Triết Tập 139 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/14.mp3",
+    "title" : "Vu Triết Tập 14 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/140.mp3",
+    "title" : "Vu Triết Tập 140 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/141.mp3",
+    "title" : "Vu Triết Tập 141 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/142.mp3",
+    "title" : "Vu Triết Tập 142 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/143.mp3",
+    "title" : "Vu Triết Tập 143 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/144.mp3",
+    "title" : "Vu Triết Tập 144 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/145.mp3",
+    "title" : "Vu Triết Tập 145 hoàn chính văn - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/146.mp3",
+    "title" : "Vu Triết Tập 146 Phiên ngoại - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/147.mp3",
+    "title" : "Vu Triết Tập 147 Phiên ngoại - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/148.mp3",
+    "title" : "Vu Triết Tập 148 Phiên ngoại - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/149.mp3",
+    "title" : "149",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/15.mp3",
+    "title" : "Vu Triết Tập 15 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/150.mp3",
+    "title" : "150",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/16.mp3",
+    "title" : "Vu Triết Tập 16 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/17.mp3",
+    "title" : "Vu Triết Tập 17 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/18.mp3",
+    "title" : "Vu Triết Tập 18 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/19.mp3",
+    "title" : "Vu Triết Tập 19 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/2.mp3",
+    "title" : "Tập 2 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/20.mp3",
+    "title" : "Vu Triết Tập 20 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/21.mp3",
+    "title" : "Vu Triết Tập 21 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/22.mp3",
+    "title" : "Vu Triết Tập 22 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/23.mp3",
+    "title" : "Vu Triết Tập 23 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/24.mp3",
+    "title" : "Vu Triết Tập 24 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/25.mp3",
+    "title" : "Vu Triết Tập 25 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/26.mp3",
+    "title" : "Vu Triết Tập 26 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/27.mp3",
+    "title" : "Vu Triết Tập 27 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/28.mp3",
+    "title" : "Vu Triết Tập 28 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/29.mp3",
+    "title" : "Vu Triết Tập 29 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/3.mp3",
+    "title" : "Tập 3 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/30.mp3",
+    "title" : "Vu Triết Tập 30 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/31.mp3",
+    "title" : "Vu Triết Tập 31 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/32.mp3",
+    "title" : "Vu Triết Tập 32 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/33.mp3",
+    "title" : "Vu Triết Tập 33 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/34.mp3",
+    "title" : "Vu Triết Tập 34 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/35.mp3",
+    "title" : "Vu Triết Tập 35 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/36.mp3",
+    "title" : "Vu Triết Tập 36 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/37.mp3",
+    "title" : "Vu Triết Tập 37 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/38.mp3",
+    "title" : "Vu Triết Tập 38 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/39.mp3",
+    "title" : "Vu Triết Tập 39 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/4.mp3",
+    "title" : "Tập 4 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/40.mp3",
+    "title" : "Vu Triết Tập 40 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/41.mp3",
+    "title" : "Vu Triết Tập 41 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/42.mp3",
+    "title" : "Vu Triết Tập 42 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/43.mp3",
+    "title" : "Vu Triết Tập 43 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/44.mp3",
+    "title" : "Vu Triết Tập 44 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/45.mp3",
+    "title" : "Vu Triết Tập 45 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/46.mp3",
+    "title" : "Vu Triết Tập 46 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/47.mp3",
+    "title" : "Vu Triết Tập 47 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/48.mp3",
+    "title" : "Vu Triết Tập 48 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/49.mp3",
+    "title" : "Vu Triết Tập 49 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/5.mp3",
+    "title" : "Tập 5 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/50.mp3",
+    "title" : "Vu Triết Tập 50 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/51.mp3",
+    "title" : "Vu Triết Tập 51 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/52.mp3",
+    "title" : "Vu Triết Tập 52 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/53.mp3",
+    "title" : "Vu Triết Tập 53 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/54.mp3",
+    "title" : "Vu Triết Tập 54 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/55.mp3",
+    "title" : "Vu Triết Tập 55 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/56.mp3",
+    "title" : "Vu Triết Tập 56 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/57.mp3",
+    "title" : "Vu Triết Tập 57 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/58.mp3",
+    "title" : "Vu Triết Tập 58 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/59.mp3",
+    "title" : "Vu Triết Tập 59 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/6.mp3",
+    "title" : "Tập 6 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/60.mp3",
+    "title" : "Vu Triết Tập 60 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/61.mp3",
+    "title" : "Vu Triết Tập 61 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/62.mp3",
+    "title" : "Vu Triết Tập 62 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/63.mp3",
+    "title" : "Vu Triết Tập 63 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/64.mp3",
+    "title" : "Vu Triết Tập 64 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/65.mp3",
+    "title" : "Vu Triết Tập 65 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/66.mp3",
+    "title" : "Vu Triết Tập 66 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/67.mp3",
+    "title" : "Vu Triết Tập 67 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/68.mp3",
+    "title" : "Vu Triết Tập 68 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/69.mp3",
+    "title" : "Vu Triết Tập 69 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/7.mp3",
+    "title" : "Tập 7 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/70.mp3",
+    "title" : "Vu Triết Tập 70 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/71.mp3",
+    "title" : "Vu Triết Tập 71 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/72.mp3",
+    "title" : "Vu Triết Tập 72 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/73.mp3",
+    "title" : "Vu Triết Tập 73 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/74.mp3",
+    "title" : "Vu Triết Tập 74 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/75.mp3",
+    "title" : "Vu Triết Tập 75 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/76.mp3",
+    "title" : "Vu Triết Tập 76 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/77.mp3",
+    "title" : "Vu Triết Tập 77 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/78.mp3",
+    "title" : "Vu Triết Tập 78 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/79.mp3",
+    "title" : "Vu Triết Tập 79 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/8.mp3",
+    "title" : "Tập 8 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/80.mp3",
+    "title" : "Vu Triết Tập 80 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/81.mp3",
+    "title" : "Vu Triết Tập 81 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/82.mp3",
+    "title" : "Vu Triết Tập 82 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/83.mp3",
+    "title" : "Vu Triết Tập 83 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/84.mp3",
+    "title" : "Vu Triết Tập 84 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/85.mp3",
+    "title" : "Vu Triết Tập 85 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/86.mp3",
+    "title" : "Vu Triết Tập 86 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/87.mp3",
+    "title" : "Vu Triết Tập 87 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/88.mp3",
+    "title" : "Vu Triết Tập 88 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/89.mp3",
+    "title" : "Vu Triết Tập 89 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/9.mp3",
+    "title" : "Tập 9 Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/90.mp3",
+    "title" : "Vu Triết Tập 90 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/91.mp3",
+    "title" : "Vu Triết Tập 91 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/92.mp3",
+    "title" : "Vu Triết Tập 92 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/93.mp3",
+    "title" : "Vu Triết Tập 93 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/94.mp3",
+    "title" : "Vu Triết Tập 94 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/95.mp3",
+    "title" : "Vu Triết Tập 95 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/96.mp3",
+    "title" : "Vu Triết Tập 96 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/97.mp3",
+    "title" : "Vu Triết Tập 97 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/98.mp3",
+    "title" : "Vu Triết Tập 98 - Audio Đam Mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tat-da/99.mp3",
+    "title" : "Vu Triết Tập 99 - Audio Đam Mỹ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

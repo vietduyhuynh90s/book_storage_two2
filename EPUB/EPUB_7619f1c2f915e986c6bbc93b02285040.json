@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/4mk_17792.html",
+    "title" : "4MK",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J. D. Barker",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 47516,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_7619f1c2f915e986c6bbc93b02285040.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_7619f1c2f915e986c6bbc93b02285040.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4767,
+    "title" : "truyện 4mk jd baker 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4707,
+    "title" : "truyện 4mk jd baker 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5306,
+    "title" : "truyện 4mk jd baker 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "truyện 4mk jd baker 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4630,
+    "title" : "truyện 4mk jd baker 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4189,
+    "title" : "truyện 4mk jd baker 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4724,
+    "title" : "truyện 4mk jd baker 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4370,
+    "title" : "truyện 4mk jd baker 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4221,
+    "title" : "truyện 4mk jd baker 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4354,
+    "title" : "truyện 4mk jd baker 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "truyện 4mk jd baker 11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2001.mp3",
+    "title" : "truyện 4mk jd baker 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2002.mp3",
+    "title" : "truyện 4mk jd baker 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2003.mp3",
+    "title" : "truyện 4mk jd baker 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2004.mp3",
+    "title" : "truyện 4mk jd baker 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2005.mp3",
+    "title" : "truyện 4mk jd baker 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2006.mp3",
+    "title" : "truyện 4mk jd baker 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2007.mp3",
+    "title" : "truyện 4mk jd baker 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2008.mp3",
+    "title" : "truyện 4mk jd baker 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2009.mp3",
+    "title" : "truyện 4mk jd baker 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2010.mp3",
+    "title" : "truyện 4mk jd baker 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-4mk-jd-baker-03/truy%E1%BB%87n%204mk%20jd%20baker%2011.mp3",
+    "title" : "truyện 4mk jd baker 11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-noi-chuyen-voi-co-ay-ngo-can_9580.html",
+    "title" : "Đừng Nói Chuyện Với Cô Ấy - Ngộ Cẩn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngộ Cẩn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 113235,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_67f59124f78c41e6f72e0a8a7ddc1b3c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_67f59124f78c41e6f72e0a8a7ddc1b3c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3130,
+    "title" : "Bệnh Nhân Tâm Thần Nguy Hiểm I MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Đừng nói chuyện với cô ấy Phần 10 I VỤ GIẾT NGƯỜI CAY ĐỘC I MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3181,
+    "title" : "Đừng nóiI chuyện với cô ấy TẬP 11 I MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "Truyện Trinh Thám | Đừng nói chuyện với cô ấy tập 12| MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "Ý nghĩ giết người | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2931,
+    "title" : "Truyện trinh thám| Đừng Nói Chuyện Với Cô ẤY Tập 14 | Vụ Án Mạng Điên Cuồng | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "Truyện trinh thám| Đừng Nói Chuyện Với Cô ấY Tập 15 | Án Mạng Điên Cuồng Trong Trại | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "Đừng nói chuyện với cô ấy TẬP 16| Giết người qua những giấc mơ | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3845,
+    "title" : "Truyện Trinh Thám | Đừng nói chuyện với cô ấy TẬP 17| Giết người VÀ giấc mơ | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3333,
+    "title" : "Đừng nói chuyện với cô ấy TẬP 18| | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "Đừng nói chuyện với cô ấy TẬP 19| | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "QUÁ KHỨ BI THẢM I MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Chứng mặc cảm Oedipus bệnh hoạn | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4237,
+    "title" : "ĐỪNG NÓI CHUYỆN VỚI CÔ ẤY tập 21 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "Tập 23 - [ĐỌC TRUYỆN ĐÊM KHUYA]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4005,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4172,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3520,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3926,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4091,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3991,
+    "title" : "29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3611,
+    "title" : "QUÁ KHỨ BI THẢM (2) MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3856,
+    "title" : "30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7585,
+    "title" : "31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3091,
+    "title" : "TẤM LƯỚI LỚN CỦA ÂM MƯU - MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3131,
+    "title" : "BÁO CÁO NGHIÊN CỨU THẦN BÍ | MC Thanh Bình diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "Đừng nói chuyện với cô ấy Phần 6 I BẢN BÁO CÁO NGHIÊN CỨU (2) | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2851,
+    "title" : "Đừng nói chuyện với cô ấy Phần 7 I Ý nghĩ giết người trong lần đầu gặp | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3402,
+    "title" : "Đừng nói chuyện với cô ấy Phần 8 I BẢN NGHIÊN CỨU THẦN QUÁI I MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "Đừng nói chuyện với cô ấy Phần 9 I Một thế lực thần bí khác I MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/1.mp3",
+    "title" : "Bệnh Nhân Tâm Thần Nguy Hiểm I MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/10.mp3",
+    "title" : "Đừng nói chuyện với cô ấy Phần 10 I VỤ GIẾT NGƯỜI CAY ĐỘC I MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/11.mp3",
+    "title" : "Đừng nóiI chuyện với cô ấy TẬP 11 I MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/12.mp3",
+    "title" : "Truyện Trinh Thám | Đừng nói chuyện với cô ấy tập 12| MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/13.mp3",
+    "title" : "Ý nghĩ giết người | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/14.mp3",
+    "title" : "Truyện trinh thám| Đừng Nói Chuyện Với Cô ẤY Tập 14 | Vụ Án Mạng Điên Cuồng | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/15.mp3",
+    "title" : "Truyện trinh thám| Đừng Nói Chuyện Với Cô ấY Tập 15 | Án Mạng Điên Cuồng Trong Trại | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/16.mp3",
+    "title" : "Đừng nói chuyện với cô ấy TẬP 16| Giết người qua những giấc mơ | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/17.mp3",
+    "title" : "Truyện Trinh Thám | Đừng nói chuyện với cô ấy TẬP 17| Giết người VÀ giấc mơ | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/18.mp3",
+    "title" : "Đừng nói chuyện với cô ấy TẬP 18| | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/19.mp3",
+    "title" : "Đừng nói chuyện với cô ấy TẬP 19| | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/2.mp3",
+    "title" : "QUÁ KHỨ BI THẢM I MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/20.mp3",
+    "title" : "Chứng mặc cảm Oedipus bệnh hoạn | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/21.mp3",
+    "title" : "ĐỪNG NÓI CHUYỆN VỚI CÔ ẤY tập 21 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/22.mp3",
+    "title" : "MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/23.mp3",
+    "title" : "Tập 23 - [ĐỌC TRUYỆN ĐÊM KHUYA]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/3.mp3",
+    "title" : "QUÁ KHỨ BI THẢM (2) MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/30.mp3",
+    "title" : "30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/31.mp3",
+    "title" : "31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/4.mp3",
+    "title" : "TẤM LƯỚI LỚN CỦA ÂM MƯU - MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/5.mp3",
+    "title" : "BÁO CÁO NGHIÊN CỨU THẦN BÍ | MC Thanh Bình diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/6.mp3",
+    "title" : "Đừng nói chuyện với cô ấy Phần 6 I BẢN BÁO CÁO NGHIÊN CỨU (2) | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/7.mp3",
+    "title" : "Đừng nói chuyện với cô ấy Phần 7 I Ý nghĩ giết người trong lần đầu gặp | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/8.mp3",
+    "title" : "Đừng nói chuyện với cô ấy Phần 8 I BẢN NGHIÊN CỨU THẦN QUÁI I MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-noi-chuyen-voi-co-ay/9.mp3",
+    "title" : "Đừng nói chuyện với cô ấy Phần 9 I Một thế lực thần bí khác I MC Thanh Bình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

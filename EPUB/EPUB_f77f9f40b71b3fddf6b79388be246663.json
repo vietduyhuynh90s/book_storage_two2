@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yeu-nghiet_12196.html",
+    "title" : "Yêu Nghiệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Môi Tương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17307,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f77f9f40b71b3fddf6b79388be246663.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f77f9f40b71b3fddf6b79388be246663.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yeu-nghiet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7049,
+    "title" : "TRUYỆN NGÔN TÌNH ĐÔ THỊ SẮC NHIỀU CẢNH H - MC THÚY NGA",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-nghiet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7288,
+    "title" : "TRUYỆN NGÔN TÌNH ĐÔ THỊ SẮC NHIỀU CẢNH H - MC THÚY NGA",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-nghiet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2970,
+    "title" : "TRUYỆN NGÔN TÌNH ĐÔ THỊ SẮC NHIỀU CẢNH H - MC THÚY NGA",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yeu-nghiet/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH ĐÔ THỊ SẮC NHIỀU CẢNH H - MC THÚY NGA",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-nghiet/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH ĐÔ THỊ SẮC NHIỀU CẢNH H - MC THÚY NGA",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-nghiet/3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH ĐÔ THỊ SẮC NHIỀU CẢNH H - MC THÚY NGA",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

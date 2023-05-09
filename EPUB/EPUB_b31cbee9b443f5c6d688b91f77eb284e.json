@@ -1,0 +1,2069 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nap-thiep-ky_15371.html",
+    "title" : "Nạp Thiếp Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mộc Dật",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 492274,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b31cbee9b443f5c6d688b91f77eb284e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b31cbee9b443f5c6d688b91f77eb284e.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lap-thien-ky/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3007,
+    "title" : "MC TUẤN ANH kể chuyện cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "LẠP THIÊN KÍ #10 BIẾN CỐ BẤT NGỜ-MC TUẤN ANH kể chuyện hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "LẠP THIÊN KÍ #100 CON TRAI CỦA DƯƠNG THU TRÌ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3100,
+    "title" : "LẠP THIÊN KÍ #101 MỘT LƯỚI BẮT CẢ Ổ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "LẠP THIÊN KÍ #102 GIA ĐÌNH ĐOÀN TỤ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "LẠP THIÊN KÍ #103 TIẾN VỀ KINH ĐÔ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2884,
+    "title" : "LẠP THIÊN KÍ #104 TÂM TƯ CỦA MINH THÀNH TỔ -TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "LẠP THIÊN KÍ #105 BÍ ẨN CÁI CHẾT CỦA HIỀN PHI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2836,
+    "title" : "LẠP THIÊN KÍ #106 -TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "LẠP THIÊN KÍ #107 CÁI GIÁ CỦA VIỆC NGOẠI TÌNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "LẠP THIÊN KÍ #108 TÌM RA HUNG THỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2759,
+    "title" : "LẠP THIÊN KÍ #109 THỀ CHẾT TRANH ĐẤUI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2698,
+    "title" : "MC TUẤN ANH kể chuyện gây nghiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2685,
+    "title" : "LẠP THIÊN KÍ #110 BÍ MẬT ĐỘNG TRỜI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2956,
+    "title" : "LẠP THIÊN KÍ #111 THÁI TỬ MINH OAN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2870,
+    "title" : "LẠP THIÊN KÍ #112 HAI LOẠI TIỂU NHÂN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2792,
+    "title" : "LẠP THIÊN KÍ #113 VẾT CHÉM ĐẶC BIỆT-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2886,
+    "title" : "LẠP THIÊN KÍ #114 CƯỚP NGỤC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "LẠP THIÊN KÍ #115 ĐỐI CHỌI VỚI KỈ CƯƠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "LẠP THIÊN KÍ #116 LẬT NGƯỢC TÌNH THẾ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "LẠP THIÊN KÍ #117 GIẢI OAN CHO VÂN LĂNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "LẠP THIÊN KÍ #118 THÁI TỬ TRỌNG BỆNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2869,
+    "title" : "LẠP THIÊN KÍ #119 MƯU PHẢN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "LẠP THIÊN KÍ #12 LY RƯỢU ĐỘC-MC TUẤN ANH kể chuyện hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2748,
+    "title" : "LẠP THIÊN KÍ #120 DƯƠNG ĐẠP SƠN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2821,
+    "title" : "LẠP THIÊN KÍ #121 BÁN THÂN CHÔN MẸ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2702,
+    "title" : "LẠP THIÊN KÍ #122 MIẾU THÀNH HOÀNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2943,
+    "title" : "LẠP THIÊN KÍ #123 CẤP CỨU-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2862,
+    "title" : "LẠP THIÊN KÍ #124 ĐÊM XUÂN MỘNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "LẠP THIÊN KÍ #125 ĐẠI ÁN MẤT QUAN ẤN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2852,
+    "title" : "LẠP THIÊN KÍ #126 PHÁP ĐÀN ĐUỔI QUỶ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2881,
+    "title" : "LẠP THIÊN KÍ #127 KHÁM TRA HIỆN TRƯỜNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2893,
+    "title" : "LẠP THIÊN KÍ #128 XÁC ĐỊNH DANH TÍNH NẠN NHÂN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "LẠP THIÊN KÍ #129 MỘT CHIỀU MƯA BAY-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "LẠP THIÊN KÍ #13 NHỮNG ĐIỀU BÍ ẨN-MC TUẤN ANH kể chuyện gây nghiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2746,
+    "title" : "LẠP THIÊN KÍ #130 HUYẾT CHIẾN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2761,
+    "title" : "LẠP THIÊN KÍ #131 TRẠCH VIỆN THẦN BÍ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2795,
+    "title" : "LẠP THIÊN KÍ #132 BÁT CANH THỊT NGƯỜI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2777,
+    "title" : "LẠP THIÊN KÍ #133 ÁN OAN THÔN BẠCH GIA-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2791,
+    "title" : "LẠP THIÊN KÍ #134 THẨM VẤN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2711,
+    "title" : "LẠP THIÊN KÍ #135 PHÁ ÁN THÀNH CÔNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2456,
+    "title" : "LẠP THIÊN KÍ #136 CÁO LÃO HỒI HƯƠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "LẠP THIÊN KÍ #137 BIẾN CỐ ĐÊM TÂN HÔN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2851,
+    "title" : "LẠP THIÊN KÍ #138 VI HÀNH TÌM VỢ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "LẠP THIÊN KÍ #139 MẸ CON NGƯỜI ĂN MÀY TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "LẠP THIÊN KÍ #14 GẶP PHỤC KÍCH-MC TUẤN ANH kể chuyện hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "LẠP THIÊN KÍ #140 BẮT GIẶC OA TRA ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "LẠP THIÊN KÍ TẬP 141 XUYÊN KHÔNG LẦN 2-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "LẠP THIÊN KÍ #142 BÁN CON-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "LẠP THIÊN KÍ #143 KHIÊNG GỖ THẦN CÔNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2751,
+    "title" : "LẠP THIÊN KÍ #144 VỤ ÁN TRÚNG ĐỘC CÁ NÓC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2818,
+    "title" : "LẠP THIÊN KÍ #145 ĐẤU RƯỢU-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3026,
+    "title" : "LẠP THIÊN KÍ #146 MANH MỐI MỚI VỀ LIỄU NHƯỢC BĂNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2713,
+    "title" : "LẠP THIÊN KÍ TẬP 147 BIẾN CỐ ĐÊM ĐỘNG PHÒNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3154,
+    "title" : "LẠP THIÊN KÍ #148 CHÂN HUNG HƯ ẢO-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "LẠP THIÊN KÍ #149 HUNG THỦ LÀ AI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "LẠP THIÊN KÍ #15 KẺ THUÊ SÁT THỦ-MC TUẤN ANH kể chuyện hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2782,
+    "title" : "LẠP THIÊN KÍ #150 ĐÀO ĐỊA ĐẠO-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "LẠP THIÊN KÍ #151 LIỄU NHƯỢC BĂNG BỊ THƯƠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3113,
+    "title" : "LẠP THIÊN KÍ #152 BÁO ĐÁP ÂN TÌNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2893,
+    "title" : "LẠP THIÊN KÍ #153 ĐẠI NÁO ĐÔ TI PHỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2818,
+    "title" : "LẠP THIÊN KÍ #154 CHẠY TRỐN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2797,
+    "title" : "LẠP THIÊN KÍ #155 VỤ ÁN NHO SINH VONG MẠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2734,
+    "title" : "LẠP THIÊN KÍ #156 BÍ MẬT CỦA VỤ ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2873,
+    "title" : "LẠP THIÊN KÍ #157 CHÂN HUNG LỘ DIỆN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2698,
+    "title" : "LẠP THIÊN KÍ #158 MỘT CUỘC RỦI MAY-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "LẠP THIÊN KÍ #159 BÍ QUYẾT CHẾ TẠO THUỐC SÚNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2646,
+    "title" : "LẠP THIÊN KÍ #16 BÍ MẬT TRỌNG ÁN-MC TUẤN ANH kể chuyện hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2974,
+    "title" : "LẠP THIÊN KÍ #160 VIỆN BINH CỨU NGUY-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "LẠP THIÊN KÍ #161 LIỀU CHẾT THỦ THÀNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "LẠP THIÊN KÍ #162 BẬC THẦY CHẾ TẠO SÚNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2876,
+    "title" : "LẠP THIÊN KÍ #163 UY LỰC CỦA VŨ KHÍ MỚI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2906,
+    "title" : "LẠP THIÊN KÍ #164 THĂNG QUAN TIẾN CHỨC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2916,
+    "title" : "LẠP THIÊN KÍ #165 ĐỘNG PHÒNG HOA CHÚC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "LẠP THIÊN KÍ #166 TRẬN CHIẾN KHỐC LIỆT-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "LẠP THIÊN KÍ #167 TRẬN CHIẾN TÀN KHỐC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3039,
+    "title" : "LẠP THIÊN KÍ #168 DƯƠNG THU TRI GẶP NẠN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2230,
+    "title" : "LẠP THIÊN KÍ #169(TẬP CUỐI) KẾT THÚC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2727,
+    "title" : "LẠP THIÊN KÍ #17 ÂN ĐOẠN NGHĨA TUYỆT-MC TUẤN ANH kể chuyện gây nghiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2812,
+    "title" : "LẠP THIÊN KÍ #18 TIỂU THIẾP MẤT TÍCH-MC TUẤN ANH kể chuyện QUÁ HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2850,
+    "title" : "LẠP THIÊN KÍ #19 TRUY TÌM NGƯỜI MẤT TÍCH-MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2802,
+    "title" : "LẠP THIÊN KÍ #2 NHÂN DUYÊN KÌ NGỘ-MC TUẤN ANH kể chuyện gây nghiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2877,
+    "title" : "LẠP THIÊN KÍ #20 MỘT BỘ XƯƠNG KHÔ-MC TUẤN ANH kể chuyện HAY QUÁ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2752,
+    "title" : "LẠP THIÊN KÍ #21 NHÂN VẬT PHÍA SAU LƯNG-MC TUẤN ANH kể chuyện CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2824,
+    "title" : "LẠP THIÊN KÍ #22 HUNG SÁT ÁN TẠI NHA MÔN-MC TUẤN ANH kể chuyện CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2842,
+    "title" : "LẠP THIÊN KÍ #23 TÂM SỰ CỦA NỮ NHÂN-MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "LẠP THIÊN KÍ #24 SỰ CỐ BẤT NGỜ-MC TUẤN ANH kể chuyện CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "LẠP THIÊN KÍ #25 HUNG THỦ LÀ AI??-MC TUẤN ANH kể chuyện CỰC CHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2839,
+    "title" : "LẠP THIÊN KÍ #26 TRUY LÙNG-MC TUẤN ANH kể chuyện CỰC CHẤT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3048,
+    "title" : "LẠP THIÊN KÍ #27 SỰ THẬT BẤT NGỜ-MC TUẤN ANH kể chuyện HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2731,
+    "title" : "LẠP THIÊN KÍ #28 QUYẾT ĐỊNH GIAN NAN-MC TUẤN ANH kể chuyện HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2785,
+    "title" : "LẠP THIÊN KÍ #29 CÔNG TỘI BÙ TRỪ-MC TUẤN ANH kể chuyện HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3095,
+    "title" : "LẠP THIÊN KÍ #3- VỤ ÁN ĐẦU TIÊN-MC TUẤN ANH kể chuyện cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "LẠP THIÊN KÍ #30 CHUẨN BỊ DI THI-MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2698,
+    "title" : "LẠP THIÊN KÍ #31 ĐẠI ÁN TRƯỜNG THI-MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2885,
+    "title" : "LẠP THIÊN KÍ #32 AI LÀ HUNG THỦ-MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2750,
+    "title" : "LẠP THIÊN KÍ #33 BÁN TIÊN HẠ PHÀM-MC TUẤN ANH kể chuyện CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2812,
+    "title" : "LẠP THIÊN KÍ #34 PHỤC KÍCH-MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "LẠP THIÊN KÍ #35 TIỂU THIÊP MẤT TÍCH-MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "LẠP THIÊN KÍ #36 ĐỘNG QUỶ GẶP QUỶ- MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2912,
+    "title" : "LẠP THIÊN KÍ #37 ĐIỀU TRA ÁN TREO CỔ- MC TUẤN ANH kể chuyện RẤT HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2767,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2814,
+    "title" : "LẠP THIÊN KÍ #39 PHÁ ÁN HẠ ĐỘC- MC TUẤN ANH kể chuyện RẤT HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3288,
+    "title" : "LẠP THIÊN KÍ #4- TIÊU HẮC CẨU PHÁ ÁN- MC TUẤN ANH kể chuyện quá hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2779,
+    "title" : "MC TUẤN ANH kể chuyện CỰC GHIỀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2899,
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2870,
+    "title" : "LẠP THIÊN KÍ #42 NHỮNG DẤU TAY BÍ MẬT- MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2895,
+    "title" : "LẠP THIÊN KÍ #43 CHÂN TƯỚNG ĐƯỢC PHƠI BÀY- MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2775,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2896,
+    "title" : "MC TUẤN ANH kể chuyện RẤT LÔI CUỐN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2797,
+    "title" : "MC TUẤN ANH kể chuyện CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2736,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2853,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2845,
+    "title" : "LẠP THIÊN KÍ #5- ĐỘNG PHÒNG HOA CHÚC-MC TUẤN ANH kể chuyện gây nghiện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2939,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2751,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2789,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2800,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3869,
+    "title" : "MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3906,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3644,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2873,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2891,
+    "title" : "LẠP THIÊN KÍ #6- THĂNG QUAN TIẾN CHỨC-MC TUẤN ANH kể chuyện quá hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2859,
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2813,
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2938,
+    "title" : "MC TUẤN ANH kể chuyện CỰC HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2844,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2951,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3027,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2852,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2889,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "LẠP THIÊN KÍ #7 CẢI TỬ HOÀN SINH-MC TUẤN ANH kể chuyện hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2879,
+    "title" : "MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2889,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2978,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2931,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3161,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2899,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3237,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2914,
+    "title" : "LẠP THIÊN KÍ #8 KHỐC HÌNH THẨM VẤN-MC TUẤN ANH kể chuyện cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3903,
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LĂM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "BA HUNG THỦ DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2989,
+    "title" : "LẠP THIÊN KÍ #88 XUẤT KÌ CHẾN THẮNG DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "LẠP THIÊN KÍ #89 ÁN MẠNG TRONG LẦU XANH DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2879,
+    "title" : "LẠP THIÊN KÍ #9 ÂM MƯU DIỆT KHẨU-MC TUẤN ANH kể chuyện hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2920,
+    "title" : "LẠP THIÊN KÍ #90 MANH MỐI MỚI CỦA VỤ ÁN DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2976,
+    "title" : "LẠP THIÊN KÍ #91 AI LÀ HUNG THỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2847,
+    "title" : "LẠP THIÊN KÍ #92 AI LÀ HUNG THỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2987,
+    "title" : "LẠP THIÊN KÍ #93 AI BẮT CÓC BÀNH GIA PHÚC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2894,
+    "title" : "LẠP THIÊN KÍ #94 VẠCH TRẦN CHÂN TƯỚNG VỤ ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "LẠP THIÊN KÍ #95 ĐẠI ÁN SONG CỔ HOÀNG KIẾM-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2868,
+    "title" : "LẠP THIÊN KÍ #96 ĐIỀU TRA TRỌNG ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2857,
+    "title" : "LẠP THIÊN KÍ #97 CHIẾC GIÀY BÊN CẠNH QUAN TÀI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2809,
+    "title" : "LẠP THIÊN KÍ #98 TÌM KIẾM MANH MỐI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2962,
+    "title" : "LẠP THIÊN KÍ #99 NIÊN BẢO NGỌC TẮC THẦN SƠN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lap-thien-ky/1.mp3",
+    "title" : "MC TUẤN ANH kể chuyện cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/10.mp3",
+    "title" : "LẠP THIÊN KÍ #10 BIẾN CỐ BẤT NGỜ-MC TUẤN ANH kể chuyện hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/100.mp3",
+    "title" : "LẠP THIÊN KÍ #100 CON TRAI CỦA DƯƠNG THU TRÌ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/101.mp3",
+    "title" : "LẠP THIÊN KÍ #101 MỘT LƯỚI BẮT CẢ Ổ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/102.mp3",
+    "title" : "LẠP THIÊN KÍ #102 GIA ĐÌNH ĐOÀN TỤ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/103.mp3",
+    "title" : "LẠP THIÊN KÍ #103 TIẾN VỀ KINH ĐÔ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/104.mp3",
+    "title" : "LẠP THIÊN KÍ #104 TÂM TƯ CỦA MINH THÀNH TỔ -TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/105.mp3",
+    "title" : "LẠP THIÊN KÍ #105 BÍ ẨN CÁI CHẾT CỦA HIỀN PHI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/106.mp3",
+    "title" : "LẠP THIÊN KÍ #106 -TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/107.mp3",
+    "title" : "LẠP THIÊN KÍ #107 CÁI GIÁ CỦA VIỆC NGOẠI TÌNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/108.mp3",
+    "title" : "LẠP THIÊN KÍ #108 TÌM RA HUNG THỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/109.mp3",
+    "title" : "LẠP THIÊN KÍ #109 THỀ CHẾT TRANH ĐẤUI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/11.mp3",
+    "title" : "MC TUẤN ANH kể chuyện gây nghiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/110.mp3",
+    "title" : "LẠP THIÊN KÍ #110 BÍ MẬT ĐỘNG TRỜI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/111.mp3",
+    "title" : "LẠP THIÊN KÍ #111 THÁI TỬ MINH OAN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/112.mp3",
+    "title" : "LẠP THIÊN KÍ #112 HAI LOẠI TIỂU NHÂN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/113.mp3",
+    "title" : "LẠP THIÊN KÍ #113 VẾT CHÉM ĐẶC BIỆT-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/114.mp3",
+    "title" : "LẠP THIÊN KÍ #114 CƯỚP NGỤC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/115.mp3",
+    "title" : "LẠP THIÊN KÍ #115 ĐỐI CHỌI VỚI KỈ CƯƠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/116.mp3",
+    "title" : "LẠP THIÊN KÍ #116 LẬT NGƯỢC TÌNH THẾ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/117.mp3",
+    "title" : "LẠP THIÊN KÍ #117 GIẢI OAN CHO VÂN LĂNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/118.mp3",
+    "title" : "LẠP THIÊN KÍ #118 THÁI TỬ TRỌNG BỆNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/119.mp3",
+    "title" : "LẠP THIÊN KÍ #119 MƯU PHẢN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/12.mp3",
+    "title" : "LẠP THIÊN KÍ #12 LY RƯỢU ĐỘC-MC TUẤN ANH kể chuyện hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/120.mp3",
+    "title" : "LẠP THIÊN KÍ #120 DƯƠNG ĐẠP SƠN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/121.mp3",
+    "title" : "LẠP THIÊN KÍ #121 BÁN THÂN CHÔN MẸ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/122.mp3",
+    "title" : "LẠP THIÊN KÍ #122 MIẾU THÀNH HOÀNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/123.mp3",
+    "title" : "LẠP THIÊN KÍ #123 CẤP CỨU-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/124.mp3",
+    "title" : "LẠP THIÊN KÍ #124 ĐÊM XUÂN MỘNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/125.mp3",
+    "title" : "LẠP THIÊN KÍ #125 ĐẠI ÁN MẤT QUAN ẤN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/126.mp3",
+    "title" : "LẠP THIÊN KÍ #126 PHÁP ĐÀN ĐUỔI QUỶ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/127.mp3",
+    "title" : "LẠP THIÊN KÍ #127 KHÁM TRA HIỆN TRƯỜNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/128.mp3",
+    "title" : "LẠP THIÊN KÍ #128 XÁC ĐỊNH DANH TÍNH NẠN NHÂN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/129.mp3",
+    "title" : "LẠP THIÊN KÍ #129 MỘT CHIỀU MƯA BAY-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/13.mp3",
+    "title" : "LẠP THIÊN KÍ #13 NHỮNG ĐIỀU BÍ ẨN-MC TUẤN ANH kể chuyện gây nghiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/130.mp3",
+    "title" : "LẠP THIÊN KÍ #130 HUYẾT CHIẾN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/131.mp3",
+    "title" : "LẠP THIÊN KÍ #131 TRẠCH VIỆN THẦN BÍ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/132.mp3",
+    "title" : "LẠP THIÊN KÍ #132 BÁT CANH THỊT NGƯỜI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/133.mp3",
+    "title" : "LẠP THIÊN KÍ #133 ÁN OAN THÔN BẠCH GIA-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/134.mp3",
+    "title" : "LẠP THIÊN KÍ #134 THẨM VẤN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/135.mp3",
+    "title" : "LẠP THIÊN KÍ #135 PHÁ ÁN THÀNH CÔNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/136.mp3",
+    "title" : "LẠP THIÊN KÍ #136 CÁO LÃO HỒI HƯƠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/137.mp3",
+    "title" : "LẠP THIÊN KÍ #137 BIẾN CỐ ĐÊM TÂN HÔN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/138.mp3",
+    "title" : "LẠP THIÊN KÍ #138 VI HÀNH TÌM VỢ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/139.mp3",
+    "title" : "LẠP THIÊN KÍ #139 MẸ CON NGƯỜI ĂN MÀY TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/14.mp3",
+    "title" : "LẠP THIÊN KÍ #14 GẶP PHỤC KÍCH-MC TUẤN ANH kể chuyện hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/140.mp3",
+    "title" : "LẠP THIÊN KÍ #140 BẮT GIẶC OA TRA ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/141.mp3",
+    "title" : "LẠP THIÊN KÍ TẬP 141 XUYÊN KHÔNG LẦN 2-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/142.mp3",
+    "title" : "LẠP THIÊN KÍ #142 BÁN CON-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/143.mp3",
+    "title" : "LẠP THIÊN KÍ #143 KHIÊNG GỖ THẦN CÔNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/144.mp3",
+    "title" : "LẠP THIÊN KÍ #144 VỤ ÁN TRÚNG ĐỘC CÁ NÓC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/145.mp3",
+    "title" : "LẠP THIÊN KÍ #145 ĐẤU RƯỢU-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/146.mp3",
+    "title" : "LẠP THIÊN KÍ #146 MANH MỐI MỚI VỀ LIỄU NHƯỢC BĂNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/147.mp3",
+    "title" : "LẠP THIÊN KÍ TẬP 147 BIẾN CỐ ĐÊM ĐỘNG PHÒNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/148.mp3",
+    "title" : "LẠP THIÊN KÍ #148 CHÂN HUNG HƯ ẢO-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/149.mp3",
+    "title" : "LẠP THIÊN KÍ #149 HUNG THỦ LÀ AI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/15.mp3",
+    "title" : "LẠP THIÊN KÍ #15 KẺ THUÊ SÁT THỦ-MC TUẤN ANH kể chuyện hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/150.mp3",
+    "title" : "LẠP THIÊN KÍ #150 ĐÀO ĐỊA ĐẠO-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/151.mp3",
+    "title" : "LẠP THIÊN KÍ #151 LIỄU NHƯỢC BĂNG BỊ THƯƠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/152.mp3",
+    "title" : "LẠP THIÊN KÍ #152 BÁO ĐÁP ÂN TÌNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/153.mp3",
+    "title" : "LẠP THIÊN KÍ #153 ĐẠI NÁO ĐÔ TI PHỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/154.mp3",
+    "title" : "LẠP THIÊN KÍ #154 CHẠY TRỐN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/155.mp3",
+    "title" : "LẠP THIÊN KÍ #155 VỤ ÁN NHO SINH VONG MẠNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/156.mp3",
+    "title" : "LẠP THIÊN KÍ #156 BÍ MẬT CỦA VỤ ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/157.mp3",
+    "title" : "LẠP THIÊN KÍ #157 CHÂN HUNG LỘ DIỆN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/158.mp3",
+    "title" : "LẠP THIÊN KÍ #158 MỘT CUỘC RỦI MAY-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/159.mp3",
+    "title" : "LẠP THIÊN KÍ #159 BÍ QUYẾT CHẾ TẠO THUỐC SÚNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/16.mp3",
+    "title" : "LẠP THIÊN KÍ #16 BÍ MẬT TRỌNG ÁN-MC TUẤN ANH kể chuyện hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/160.mp3",
+    "title" : "LẠP THIÊN KÍ #160 VIỆN BINH CỨU NGUY-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/161.mp3",
+    "title" : "LẠP THIÊN KÍ #161 LIỀU CHẾT THỦ THÀNH-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/162.mp3",
+    "title" : "LẠP THIÊN KÍ #162 BẬC THẦY CHẾ TẠO SÚNG-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/163.mp3",
+    "title" : "LẠP THIÊN KÍ #163 UY LỰC CỦA VŨ KHÍ MỚI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/164.mp3",
+    "title" : "LẠP THIÊN KÍ #164 THĂNG QUAN TIẾN CHỨC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/165.mp3",
+    "title" : "LẠP THIÊN KÍ #165 ĐỘNG PHÒNG HOA CHÚC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/166.mp3",
+    "title" : "LẠP THIÊN KÍ #166 TRẬN CHIẾN KHỐC LIỆT-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/167.mp3",
+    "title" : "LẠP THIÊN KÍ #167 TRẬN CHIẾN TÀN KHỐC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/168.mp3",
+    "title" : "LẠP THIÊN KÍ #168 DƯƠNG THU TRI GẶP NẠN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/169.mp3",
+    "title" : "LẠP THIÊN KÍ #169(TẬP CUỐI) KẾT THÚC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/17.mp3",
+    "title" : "LẠP THIÊN KÍ #17 ÂN ĐOẠN NGHĨA TUYỆT-MC TUẤN ANH kể chuyện gây nghiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/18.mp3",
+    "title" : "LẠP THIÊN KÍ #18 TIỂU THIẾP MẤT TÍCH-MC TUẤN ANH kể chuyện QUÁ HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/19.mp3",
+    "title" : "LẠP THIÊN KÍ #19 TRUY TÌM NGƯỜI MẤT TÍCH-MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/2.mp3",
+    "title" : "LẠP THIÊN KÍ #2 NHÂN DUYÊN KÌ NGỘ-MC TUẤN ANH kể chuyện gây nghiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/20.mp3",
+    "title" : "LẠP THIÊN KÍ #20 MỘT BỘ XƯƠNG KHÔ-MC TUẤN ANH kể chuyện HAY QUÁ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/21.mp3",
+    "title" : "LẠP THIÊN KÍ #21 NHÂN VẬT PHÍA SAU LƯNG-MC TUẤN ANH kể chuyện CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/22.mp3",
+    "title" : "LẠP THIÊN KÍ #22 HUNG SÁT ÁN TẠI NHA MÔN-MC TUẤN ANH kể chuyện CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/23.mp3",
+    "title" : "LẠP THIÊN KÍ #23 TÂM SỰ CỦA NỮ NHÂN-MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/24.mp3",
+    "title" : "LẠP THIÊN KÍ #24 SỰ CỐ BẤT NGỜ-MC TUẤN ANH kể chuyện CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/25.mp3",
+    "title" : "LẠP THIÊN KÍ #25 HUNG THỦ LÀ AI??-MC TUẤN ANH kể chuyện CỰC CHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/26.mp3",
+    "title" : "LẠP THIÊN KÍ #26 TRUY LÙNG-MC TUẤN ANH kể chuyện CỰC CHẤT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/27.mp3",
+    "title" : "LẠP THIÊN KÍ #27 SỰ THẬT BẤT NGỜ-MC TUẤN ANH kể chuyện HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/28.mp3",
+    "title" : "LẠP THIÊN KÍ #28 QUYẾT ĐỊNH GIAN NAN-MC TUẤN ANH kể chuyện HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/29.mp3",
+    "title" : "LẠP THIÊN KÍ #29 CÔNG TỘI BÙ TRỪ-MC TUẤN ANH kể chuyện HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/3.mp3",
+    "title" : "LẠP THIÊN KÍ #3- VỤ ÁN ĐẦU TIÊN-MC TUẤN ANH kể chuyện cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/30.mp3",
+    "title" : "LẠP THIÊN KÍ #30 CHUẨN BỊ DI THI-MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/31.mp3",
+    "title" : "LẠP THIÊN KÍ #31 ĐẠI ÁN TRƯỜNG THI-MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/32.mp3",
+    "title" : "LẠP THIÊN KÍ #32 AI LÀ HUNG THỦ-MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/33.mp3",
+    "title" : "LẠP THIÊN KÍ #33 BÁN TIÊN HẠ PHÀM-MC TUẤN ANH kể chuyện CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/34.mp3",
+    "title" : "LẠP THIÊN KÍ #34 PHỤC KÍCH-MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/35.mp3",
+    "title" : "LẠP THIÊN KÍ #35 TIỂU THIÊP MẤT TÍCH-MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/36.mp3",
+    "title" : "LẠP THIÊN KÍ #36 ĐỘNG QUỶ GẶP QUỶ- MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/37.mp3",
+    "title" : "LẠP THIÊN KÍ #37 ĐIỀU TRA ÁN TREO CỔ- MC TUẤN ANH kể chuyện RẤT HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/38.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/39.mp3",
+    "title" : "LẠP THIÊN KÍ #39 PHÁ ÁN HẠ ĐỘC- MC TUẤN ANH kể chuyện RẤT HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/4.mp3",
+    "title" : "LẠP THIÊN KÍ #4- TIÊU HẮC CẨU PHÁ ÁN- MC TUẤN ANH kể chuyện quá hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/40.mp3",
+    "title" : "MC TUẤN ANH kể chuyện CỰC GHIỀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/41.mp3",
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/42.mp3",
+    "title" : "LẠP THIÊN KÍ #42 NHỮNG DẤU TAY BÍ MẬT- MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/43.mp3",
+    "title" : "LẠP THIÊN KÍ #43 CHÂN TƯỚNG ĐƯỢC PHƠI BÀY- MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/44.mp3",
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/45.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/46.mp3",
+    "title" : "MC TUẤN ANH kể chuyện RẤT LÔI CUỐN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/47.mp3",
+    "title" : "MC TUẤN ANH kể chuyện CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/48.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/49.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/5.mp3",
+    "title" : "LẠP THIÊN KÍ #5- ĐỘNG PHÒNG HOA CHÚC-MC TUẤN ANH kể chuyện gây nghiện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/50.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/51.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/52.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/53.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/54.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/55.mp3",
+    "title" : "MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/56.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/57.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/58.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/59.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/6.mp3",
+    "title" : "LẠP THIÊN KÍ #6- THĂNG QUAN TIẾN CHỨC-MC TUẤN ANH kể chuyện quá hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/60.mp3",
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/61.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/62.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/63.mp3",
+    "title" : "MC TUẤN ANH kể chuyện RẤT HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/64.mp3",
+    "title" : "MC TUẤN ANH kể chuyện CỰC HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/65.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/66.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/67.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/68.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/69.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/7.mp3",
+    "title" : "LẠP THIÊN KÍ #7 CẢI TỬ HOÀN SINH-MC TUẤN ANH kể chuyện hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/70.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/71.mp3",
+    "title" : "MC TUẤN ANH kể chuyện GÂY NGHIỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/72.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/73.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/74.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/75.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/76.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/77.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/78.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/79.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/8.mp3",
+    "title" : "LẠP THIÊN KÍ #8 KHỐC HÌNH THẨM VẤN-MC TUẤN ANH kể chuyện cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/80.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/81.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/82.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/83.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/84.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/85.mp3",
+    "title" : "MC TUẤN ANH kể chuyện HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/86.mp3",
+    "title" : "TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LĂM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/87.mp3",
+    "title" : "BA HUNG THỦ DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/88.mp3",
+    "title" : "LẠP THIÊN KÍ #88 XUẤT KÌ CHẾN THẮNG DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/89.mp3",
+    "title" : "LẠP THIÊN KÍ #89 ÁN MẠNG TRONG LẦU XANH DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/9.mp3",
+    "title" : "LẠP THIÊN KÍ #9 ÂM MƯU DIỆT KHẨU-MC TUẤN ANH kể chuyện hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/90.mp3",
+    "title" : "LẠP THIÊN KÍ #90 MANH MỐI MỚI CỦA VỤ ÁN DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/91.mp3",
+    "title" : "LẠP THIÊN KÍ #91 AI LÀ HUNG THỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/92.mp3",
+    "title" : "LẠP THIÊN KÍ #92 AI LÀ HUNG THỦ-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/93.mp3",
+    "title" : "LẠP THIÊN KÍ #93 AI BẮT CÓC BÀNH GIA PHÚC-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/94.mp3",
+    "title" : "LẠP THIÊN KÍ #94 VẠCH TRẦN CHÂN TƯỚNG VỤ ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/95.mp3",
+    "title" : "LẠP THIÊN KÍ #95 ĐẠI ÁN SONG CỔ HOÀNG KIẾM-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/96.mp3",
+    "title" : "LẠP THIÊN KÍ #96 ĐIỀU TRA TRỌNG ÁN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/97.mp3",
+    "title" : "LẠP THIÊN KÍ #97 CHIẾC GIÀY BÊN CẠNH QUAN TÀI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/98.mp3",
+    "title" : "LẠP THIÊN KÍ #98 TÌM KIẾM MANH MỐI-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lap-thien-ky/99.mp3",
+    "title" : "LẠP THIÊN KÍ #99 NIÊN BẢO NGỌC TẮC THẦN SƠN-TRUYỆN TRINH THÁM DO MC TUẤN ANH KỂ LẠI HAY LẮM",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

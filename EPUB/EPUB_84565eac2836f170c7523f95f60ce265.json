@@ -1,0 +1,641 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-si-dao-tac-vo-xi-dao-tac_11552.html",
+    "title" : "Vô Sỉ Đạo Tặc - Vô Xỉ Đạo Tặc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vô Xỉ Đạo Tặc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 157456,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_84565eac2836f170c7523f95f60ce265.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_84565eac2836f170c7523f95f60ce265.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-si-dao-tac/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3535,
+    "title" : "Tập 01 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "Tập 10 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3252,
+    "title" : "Tập 11 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3297,
+    "title" : "Tập 12 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3087,
+    "title" : "Tập 13 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2923,
+    "title" : "Tập 14. - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "Tập 15 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3120,
+    "title" : "Tập 16 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "Tập 17 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3030,
+    "title" : "Tập 18 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2929,
+    "title" : "Tập 19 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3064,
+    "title" : "Tập 02 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2976,
+    "title" : "Tập 20 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2984,
+    "title" : "Tập 21 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2969,
+    "title" : "Tập 22 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2910,
+    "title" : "Tập 23 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3197,
+    "title" : "Tập 24 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3671,
+    "title" : "Tập 25 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2951,
+    "title" : "Tập 26 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3274,
+    "title" : "Tập 27 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "Tập 28 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Tập 29 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3276,
+    "title" : "Tập 03 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2963,
+    "title" : "Tập 30 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3073,
+    "title" : "Tập 31 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2917,
+    "title" : "Tập 32 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3419,
+    "title" : "Tập 33 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "Tập 34 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2885,
+    "title" : "Tập 35 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "Tập 36 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2960,
+    "title" : "Tập 37 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "Tập 38 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3019,
+    "title" : "Tập 39 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "Tập 04 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "Tập 40 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3141,
+    "title" : "Tập 41 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "Tập 42 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3132,
+    "title" : "Tập 43 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2943,
+    "title" : "Tập 44 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3024,
+    "title" : "Tập 45 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2904,
+    "title" : "Tập 46 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3150,
+    "title" : "Tập 47 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3052,
+    "title" : "Tập 48 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2977,
+    "title" : "Tập 49 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2947,
+    "title" : "Tập 05 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5119,
+    "title" : "50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "Tập 06 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3144,
+    "title" : "Tập 07 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3092,
+    "title" : "Tập 08 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3536,
+    "title" : "Tập 09 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-si-dao-tac/1.mp3",
+    "title" : "Tập 01 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/10.mp3",
+    "title" : "Tập 10 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/11.mp3",
+    "title" : "Tập 11 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/12.mp3",
+    "title" : "Tập 12 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/13.mp3",
+    "title" : "Tập 13 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/14.mp3",
+    "title" : "Tập 14. - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/15.mp3",
+    "title" : "Tập 15 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/16.mp3",
+    "title" : "Tập 16 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/17.mp3",
+    "title" : "Tập 17 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/18.mp3",
+    "title" : "Tập 18 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/19.mp3",
+    "title" : "Tập 19 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/2.mp3",
+    "title" : "Tập 02 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/20.mp3",
+    "title" : "Tập 20 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/21.mp3",
+    "title" : "Tập 21 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/22.mp3",
+    "title" : "Tập 22 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/23.mp3",
+    "title" : "Tập 23 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/24.mp3",
+    "title" : "Tập 24 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/25.mp3",
+    "title" : "Tập 25 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/26.mp3",
+    "title" : "Tập 26 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/27.mp3",
+    "title" : "Tập 27 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/28.mp3",
+    "title" : "Tập 28 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/29.mp3",
+    "title" : "Tập 29 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/3.mp3",
+    "title" : "Tập 03 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/30.mp3",
+    "title" : "Tập 30 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/31.mp3",
+    "title" : "Tập 31 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/32.mp3",
+    "title" : "Tập 32 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/33.mp3",
+    "title" : "Tập 33 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/34.mp3",
+    "title" : "Tập 34 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/35.mp3",
+    "title" : "Tập 35 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/36.mp3",
+    "title" : "Tập 36 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/37.mp3",
+    "title" : "Tập 37 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/38.mp3",
+    "title" : "Tập 38 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/39.mp3",
+    "title" : "Tập 39 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/4.mp3",
+    "title" : "Tập 04 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/40.mp3",
+    "title" : "Tập 40 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/41.mp3",
+    "title" : "Tập 41 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/42.mp3",
+    "title" : "Tập 42 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/43.mp3",
+    "title" : "Tập 43 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/44.mp3",
+    "title" : "Tập 44 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/45.mp3",
+    "title" : "Tập 45 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/46.mp3",
+    "title" : "Tập 46 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/47.mp3",
+    "title" : "Tập 47 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/48.mp3",
+    "title" : "Tập 48 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/49.mp3",
+    "title" : "Tập 49 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/5.mp3",
+    "title" : "Tập 05 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/50.mp3",
+    "title" : "50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/6.mp3",
+    "title" : "Tập 06 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/7.mp3",
+    "title" : "Tập 07 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/8.mp3",
+    "title" : "Tập 08 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-dao-tac/9.mp3",
+    "title" : "Tập 09 - Truyện tiên hiệp cực hay do #mcdinhduy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

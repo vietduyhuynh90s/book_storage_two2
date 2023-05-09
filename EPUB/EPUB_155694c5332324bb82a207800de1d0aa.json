@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-tinh-buon-cua-toi-hai1996_11720.html",
+    "title" : "Chuyện Tình Buồn Của Tôi - hai1996",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "hai1996",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27222,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_155694c5332324bb82a207800de1d0aa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_155694c5332324bb82a207800de1d0aa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6643,
+    "title" : "Câu chuyện có thật - Truyện ngắn hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6591,
+    "title" : "Tập 2 | Truyện ngắn tình yêu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6867,
+    "title" : "Tập 3 | Đọc Truyện Ngắn Tình Yêu Hay Cảm Động Lãng Mạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7121,
+    "title" : "Tập 4 (Hết) | Truyện ngắn tình yêu hay nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/1.mp3",
+    "title" : "Câu chuyện có thật - Truyện ngắn hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/2.mp3",
+    "title" : "Tập 2 | Truyện ngắn tình yêu hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/3.mp3",
+    "title" : "Tập 3 | Đọc Truyện Ngắn Tình Yêu Hay Cảm Động Lãng Mạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoikychuyentinhbuoncuatoi/4.mp3",
+    "title" : "Tập 4 (Hết) | Truyện ngắn tình yêu hay nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
