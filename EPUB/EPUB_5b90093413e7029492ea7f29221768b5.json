@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/oc-sang-suot_20147.html",
+    "title" : "Óc Sáng Suốt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Duy Cần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 15597,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_5b90093413e7029492ea7f29221768b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_5b90093413e7029492ea7f29221768b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/01.MoDau_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 683,
+    "title" : "01.MoDau OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/02.C01A_ThuatQuanSat_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "02.C01A ThuatQuanSat OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/03.C01B_ThuatQuanSat_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "03.C01B ThuatQuanSat OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/04.C01C_ThuatQuanSat_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1641,
+    "title" : "04.C01C ThuatQuanSat OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/05.C02A_ThuatTapTrungTinhThan_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "05.C02A ThuatTapTrungTinhThan OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/06.C02B_ThuatTapTrungTinhThan_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1464,
+    "title" : "06.C02B ThuatTapTrungTinhThan OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/07.C03_ThuatTuongTuong_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "07.C03 ThuatTuongTuong OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/08.C04_ThuatToChucTuTuong_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "08.C04 ThuatToChucTuTuong OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/09.C05_ThuatNhoLau_KetLuan_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1212,
+    "title" : "09.C05 ThuatNhoLau KetLuan OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/10.PhuLuc_HET_OcSangSuot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1371,
+    "title" : "10.PhuLuc HET OcSangSuot",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/01.MoDau_OcSangSuot.mp3",
+    "title" : "01.MoDau OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/02.C01A_ThuatQuanSat_OcSangSuot.mp3",
+    "title" : "02.C01A ThuatQuanSat OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/03.C01B_ThuatQuanSat_OcSangSuot.mp3",
+    "title" : "03.C01B ThuatQuanSat OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/04.C01C_ThuatQuanSat_OcSangSuot.mp3",
+    "title" : "04.C01C ThuatQuanSat OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/05.C02A_ThuatTapTrungTinhThan_OcSangSuot.mp3",
+    "title" : "05.C02A ThuatTapTrungTinhThan OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/06.C02B_ThuatTapTrungTinhThan_OcSangSuot.mp3",
+    "title" : "06.C02B ThuatTapTrungTinhThan OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/07.C03_ThuatTuongTuong_OcSangSuot.mp3",
+    "title" : "07.C03 ThuatTuongTuong OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/08.C04_ThuatToChucTuTuong_OcSangSuot.mp3",
+    "title" : "08.C04 ThuatToChucTuTuong OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/09.C05_ThuatNhoLau_KetLuan_OcSangSuot.mp3",
+    "title" : "09.C05 ThuatNhoLau KetLuan OcSangSuot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/oc-sang-suot.sna/10.PhuLuc_HET_OcSangSuot.mp3",
+    "title" : "10.PhuLuc HET OcSangSuot",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
