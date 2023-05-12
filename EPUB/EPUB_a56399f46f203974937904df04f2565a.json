@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-si-bo-ngua_20193.html",
+    "title" : "Võ Sĩ Bọ Ngựa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 6776,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a56399f46f203974937904df04f2565a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a56399f46f203974937904df04f2565a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-si-2/vo-si-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1968,
+    "title" : "VO SI BO NGUA 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-2/vo-si-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "VO SI BO NGUA 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-2/vo-si-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "VO SI BO NGUA 03",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-si-2/vo-si-1.mp3",
+    "title" : "VO SI BO NGUA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-2/vo-si-2.mp3",
+    "title" : "VO SI BO NGUA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-2/vo-si-3.mp3",
+    "title" : "VO SI BO NGUA 03",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truoc-ngay-em-den_3175.html",
+    "title" : "Trước Ngày Em Đến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jojo Moyes",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 57487,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_35a6b362336deec16576261a78244345.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_35a6b362336deec16576261a78244345.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11658,
+    "title" : "TRƯỚC NGÀY EM ĐẾN 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8455,
+    "title" : "TRƯỚC NGÀY EM ĐẾN 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9519,
+    "title" : "TRƯỚC NGÀY EM ĐẾN 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10295,
+    "title" : "TRƯỚC NGÀY EM ĐẾN 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6964,
+    "title" : "TRƯỚC NGÀY EM ĐẾN 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7840,
+    "title" : "TRƯỚC NGÀY EM ĐẾN 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2756,
+    "title" : "TRƯỚC NGÀY EM ĐẾN 07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_01.mp3",
+    "title" : "TRƯỚC NGÀY EM ĐẾN 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_02.mp3",
+    "title" : "TRƯỚC NGÀY EM ĐẾN 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_03.mp3",
+    "title" : "TRƯỚC NGÀY EM ĐẾN 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_04.mp3",
+    "title" : "TRƯỚC NGÀY EM ĐẾN 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_05.mp3",
+    "title" : "TRƯỚC NGÀY EM ĐẾN 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_06.mp3",
+    "title" : "TRƯỚC NGÀY EM ĐẾN 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truo-c-nga-y-em-de-n-01/TR%C6%AF%E1%BB%9AC%20NG%C3%80Y%20EM%20%C4%90%E1%BA%BEN_07.mp3",
+    "title" : "TRƯỚC NGÀY EM ĐẾN 07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

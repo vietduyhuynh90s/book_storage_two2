@@ -1,0 +1,677 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kafka-ben-bo-bien_19580.html",
+    "title" : "Kafka Bên Bờ Biển",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Haruki Murakami",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 66402,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_fda51129f33d6b6889a5386196d2c793.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_fda51129f33d6b6889a5386196d2c793.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL001%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 49,
+    "title" : "SNNL001 ― Kafka Bên Bờ Biển ― Giới Thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL002%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20T%C3%B3m%20t%E1%BA%AFt%20n%E1%BB%99i%20dung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 161,
+    "title" : "SNNL002 ― Kafka Bên Bờ Biển ― Tóm tắt nội dung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL004%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 847,
+    "title" : "SNNL004 ― Kafka Bên Bờ Biển ― Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL005%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 794,
+    "title" : "SNNL005 ― Kafka Bên Bờ Biển ― Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL005%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202_0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 626,
+    "title" : "SNNL005 ― Kafka Bên Bờ Biển ― Chương 2 0",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL006%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 898,
+    "title" : "SNNL006 ― Kafka Bên Bờ Biển ― Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL007%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 853,
+    "title" : "SNNL007 ― Kafka Bên Bờ Biển ― Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL008%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2107,
+    "title" : "SNNL008 ― Kafka Bên Bờ Biển ― Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL009%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 759,
+    "title" : "SNNL009 ― Kafka Bên Bờ Biển ― Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL010%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1031,
+    "title" : "SNNL010 ― Kafka Bên Bờ Biển ― Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL011%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "SNNL011 ― Kafka Bên Bờ Biển ― Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL012%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1100,
+    "title" : "SNNL012 ― Kafka Bên Bờ Biển ― Chương 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL013%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1499,
+    "title" : "SNNL013 ― Kafka Bên Bờ Biển ― Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL014%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1443,
+    "title" : "SNNL014 ― Kafka Bên Bờ Biển ― Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL015%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1257,
+    "title" : "SNNL015 ― Kafka Bên Bờ Biển ― Chương 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL016%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "SNNL016 ― Kafka Bên Bờ Biển ― Chương 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL017%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1581,
+    "title" : "SNNL017 ― Kafka Bên Bờ Biển ― Chương 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL018%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1508,
+    "title" : "SNNL018 ― Kafka Bên Bờ Biển ― Chương 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL019%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "SNNL019 ― Kafka Bên Bờ Biển ― Chương 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL020%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1936,
+    "title" : "SNNL020 ― Kafka Bên Bờ Biển ― Chương 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL021%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1175,
+    "title" : "SNNL021 ― Kafka Bên Bờ Biển ― Chương 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL022%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "SNNL022 ― Kafka Bên Bờ Biển ― Chương 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL023%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1812,
+    "title" : "SNNL023 ― Kafka Bên Bờ Biển ― Chương 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL024%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "SNNL024 ― Kafka Bên Bờ Biển ― Chương 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL025%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "SNNL025 ― Kafka Bên Bờ Biển ― Chương 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL026%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "SNNL026 ― Kafka Bên Bờ Biển ― Chương 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL027%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1270,
+    "title" : "SNNL027 ― Kafka Bên Bờ Biển ― Chương 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL028%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "SNNL028 ― Kafka Bên Bờ Biển ― Chương 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL029%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1305,
+    "title" : "SNNL029 ― Kafka Bên Bờ Biển ― Chương 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL030%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1131,
+    "title" : "SNNL030 ― Kafka Bên Bờ Biển ― Chương 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL031%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 721,
+    "title" : "SNNL031 ― Kafka Bên Bờ Biển ― Chương 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL032%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 930,
+    "title" : "SNNL032 ― Kafka Bên Bờ Biển ― Chương 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL033%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 927,
+    "title" : "SNNL033 ― Kafka Bên Bờ Biển ― Chương 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL034%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1514,
+    "title" : "SNNL034 ― Kafka Bên Bờ Biển ― Chương 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL035%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "SNNL035 ― Kafka Bên Bờ Biển ― Chương 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL036%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1114,
+    "title" : "SNNL036 ― Kafka Bên Bờ Biển ― Chương 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL037%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1344,
+    "title" : "SNNL037 ― Kafka Bên Bờ Biển ― Chương 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL038%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2035.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1051,
+    "title" : "SNNL038 ― Kafka Bên Bờ Biển ― Chương 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL039%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1676,
+    "title" : "SNNL039 ― Kafka Bên Bờ Biển ― Chương 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL040%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2037.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 913,
+    "title" : "SNNL040 ― Kafka Bên Bờ Biển ― Chương 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL041%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2038.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "SNNL041 ― Kafka Bên Bờ Biển ― Chương 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL042%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 905,
+    "title" : "SNNL042 ― Kafka Bên Bờ Biển ― Chương 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL043%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2040.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "SNNL043 ― Kafka Bên Bờ Biển ― Chương 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL044%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2041.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 971,
+    "title" : "SNNL044 ― Kafka Bên Bờ Biển ― Chương 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL045%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2042.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 695,
+    "title" : "SNNL045 ― Kafka Bên Bờ Biển ― Chương 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL046%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2043.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1203,
+    "title" : "SNNL046 ― Kafka Bên Bờ Biển ― Chương 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL047%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2044.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1250,
+    "title" : "SNNL047 ― Kafka Bên Bờ Biển ― Chương 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL048%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2045.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "SNNL048 ― Kafka Bên Bờ Biển ― Chương 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL049%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2046.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 925,
+    "title" : "SNNL049 ― Kafka Bên Bờ Biển ― Chương 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL050%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20C%C3%A1i%20th%E1%BA%B1ng%20t%C3%AAn%20l%C3%A0%20Qu%E1%BA%A1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 525,
+    "title" : "SNNL050 ― Kafka Bên Bờ Biển ― Cái thằng tên là Quạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL051%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2047.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1684,
+    "title" : "SNNL051 ― Kafka Bên Bờ Biển ― Chương 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL052%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2048.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1611,
+    "title" : "SNNL052 ― Kafka Bên Bờ Biển ― Chương 48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL053%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2049.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1890,
+    "title" : "SNNL053 ― Kafka Bên Bờ Biển ― Chương 49",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL001%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Gi%E1%BB%9Bi%20Thi%E1%BB%87u.mp3",
+    "title" : "SNNL001 ― Kafka Bên Bờ Biển ― Giới Thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL002%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20T%C3%B3m%20t%E1%BA%AFt%20n%E1%BB%99i%20dung.mp3",
+    "title" : "SNNL002 ― Kafka Bên Bờ Biển ― Tóm tắt nội dung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL004%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "title" : "SNNL004 ― Kafka Bên Bờ Biển ― Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL005%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "title" : "SNNL005 ― Kafka Bên Bờ Biển ― Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL005%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202_0.mp3",
+    "title" : "SNNL005 ― Kafka Bên Bờ Biển ― Chương 2 0",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL006%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "title" : "SNNL006 ― Kafka Bên Bờ Biển ― Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL007%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "title" : "SNNL007 ― Kafka Bên Bờ Biển ― Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL008%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "title" : "SNNL008 ― Kafka Bên Bờ Biển ― Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL009%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "title" : "SNNL009 ― Kafka Bên Bờ Biển ― Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL010%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "title" : "SNNL010 ― Kafka Bên Bờ Biển ― Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL011%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "title" : "SNNL011 ― Kafka Bên Bờ Biển ― Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL012%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "title" : "SNNL012 ― Kafka Bên Bờ Biển ― Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL013%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "title" : "SNNL013 ― Kafka Bên Bờ Biển ― Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL014%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "title" : "SNNL014 ― Kafka Bên Bờ Biển ― Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL015%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "title" : "SNNL015 ― Kafka Bên Bờ Biển ― Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL016%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "title" : "SNNL016 ― Kafka Bên Bờ Biển ― Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL017%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "title" : "SNNL017 ― Kafka Bên Bờ Biển ― Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL018%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "title" : "SNNL018 ― Kafka Bên Bờ Biển ― Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL019%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "title" : "SNNL019 ― Kafka Bên Bờ Biển ― Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL020%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "title" : "SNNL020 ― Kafka Bên Bờ Biển ― Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL021%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "title" : "SNNL021 ― Kafka Bên Bờ Biển ― Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL022%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "title" : "SNNL022 ― Kafka Bên Bờ Biển ― Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL023%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "title" : "SNNL023 ― Kafka Bên Bờ Biển ― Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL024%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "title" : "SNNL024 ― Kafka Bên Bờ Biển ― Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL025%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "title" : "SNNL025 ― Kafka Bên Bờ Biển ― Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL026%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "title" : "SNNL026 ― Kafka Bên Bờ Biển ― Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL027%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "title" : "SNNL027 ― Kafka Bên Bờ Biển ― Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL028%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2025.mp3",
+    "title" : "SNNL028 ― Kafka Bên Bờ Biển ― Chương 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL029%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2026.mp3",
+    "title" : "SNNL029 ― Kafka Bên Bờ Biển ― Chương 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL030%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2027.mp3",
+    "title" : "SNNL030 ― Kafka Bên Bờ Biển ― Chương 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL031%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2028.mp3",
+    "title" : "SNNL031 ― Kafka Bên Bờ Biển ― Chương 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL032%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2029.mp3",
+    "title" : "SNNL032 ― Kafka Bên Bờ Biển ― Chương 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL033%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2030.mp3",
+    "title" : "SNNL033 ― Kafka Bên Bờ Biển ― Chương 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL034%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2031.mp3",
+    "title" : "SNNL034 ― Kafka Bên Bờ Biển ― Chương 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL035%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2032.mp3",
+    "title" : "SNNL035 ― Kafka Bên Bờ Biển ― Chương 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL036%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2033.mp3",
+    "title" : "SNNL036 ― Kafka Bên Bờ Biển ― Chương 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL037%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2034.mp3",
+    "title" : "SNNL037 ― Kafka Bên Bờ Biển ― Chương 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL038%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2035.mp3",
+    "title" : "SNNL038 ― Kafka Bên Bờ Biển ― Chương 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL039%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2036.mp3",
+    "title" : "SNNL039 ― Kafka Bên Bờ Biển ― Chương 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL040%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2037.mp3",
+    "title" : "SNNL040 ― Kafka Bên Bờ Biển ― Chương 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL041%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2038.mp3",
+    "title" : "SNNL041 ― Kafka Bên Bờ Biển ― Chương 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL042%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2039.mp3",
+    "title" : "SNNL042 ― Kafka Bên Bờ Biển ― Chương 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL043%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2040.mp3",
+    "title" : "SNNL043 ― Kafka Bên Bờ Biển ― Chương 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL044%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2041.mp3",
+    "title" : "SNNL044 ― Kafka Bên Bờ Biển ― Chương 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL045%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2042.mp3",
+    "title" : "SNNL045 ― Kafka Bên Bờ Biển ― Chương 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL046%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2043.mp3",
+    "title" : "SNNL046 ― Kafka Bên Bờ Biển ― Chương 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL047%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2044.mp3",
+    "title" : "SNNL047 ― Kafka Bên Bờ Biển ― Chương 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL048%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2045.mp3",
+    "title" : "SNNL048 ― Kafka Bên Bờ Biển ― Chương 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL049%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2046.mp3",
+    "title" : "SNNL049 ― Kafka Bên Bờ Biển ― Chương 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL050%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20C%C3%A1i%20th%E1%BA%B1ng%20t%C3%AAn%20l%C3%A0%20Qu%E1%BA%A1.mp3",
+    "title" : "SNNL050 ― Kafka Bên Bờ Biển ― Cái thằng tên là Quạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL051%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2047.mp3",
+    "title" : "SNNL051 ― Kafka Bên Bờ Biển ― Chương 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL052%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2048.mp3",
+    "title" : "SNNL052 ― Kafka Bên Bờ Biển ― Chương 48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202332-Kafka-Ben-Bo-Bien/SNNL053%20%E2%80%95%20Kafka%20B%C3%AAn%20B%E1%BB%9D%20Bi%E1%BB%83n%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2049.mp3",
+    "title" : "SNNL053 ― Kafka Bên Bờ Biển ― Chương 49",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

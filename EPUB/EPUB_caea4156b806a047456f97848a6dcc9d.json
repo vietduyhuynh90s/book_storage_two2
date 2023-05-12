@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-tuoc-tich-quach-kinh-minh-huyen-ao_3636.html",
+    "title" : "Tước Tích - Quách Kính Minh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quách Kính Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 90193,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_caea4156b806a047456f97848a6dcc9d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_caea4156b806a047456f97848a6dcc9d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tich-tuoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5564,
+    "title" : "Tước Tích - Phần 1 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2820,
+    "title" : "Tước Tích - Phần 10 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2446,
+    "title" : "Tước Tích - Phần 11 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3223,
+    "title" : "Tước Tích - Phần 12 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "Tước Tích - Phần 13 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4266,
+    "title" : "Tước Tích - Phần 14 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3047,
+    "title" : "Tước Tích - Phần 15 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3229,
+    "title" : "Tước Tích - Phần 16 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3911,
+    "title" : "Tước Tích - Phần 17 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3992,
+    "title" : "Tước Tích - Phần 18 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3439,
+    "title" : "Tước Tích - Phần 19 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4301,
+    "title" : "Tước Tích - Phần 2 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2830,
+    "title" : "Tước Tích - Phần 20 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4062,
+    "title" : "Tước Tích - Phần 21 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2530,
+    "title" : "Tước Tích - Phần 22 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2838,
+    "title" : "Tước Tích - Phần 23 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5225,
+    "title" : "Tước Tích - Phần 24 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3478,
+    "title" : "Tước Tích - Phần 3 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3837,
+    "title" : "Tước Tích - Phần 4 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4617,
+    "title" : "Tước Tích - Phần 5 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4191,
+    "title" : "Tước Tích - Phần 6 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4752,
+    "title" : "Tước Tích - Phần 7 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4179,
+    "title" : "Tước Tích - Phần 8 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3710,
+    "title" : "Tước Tích - Phần 9 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tich-tuoc/1.mp3",
+    "title" : "Tước Tích - Phần 1 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/10.mp3",
+    "title" : "Tước Tích - Phần 10 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/11.mp3",
+    "title" : "Tước Tích - Phần 11 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/12.mp3",
+    "title" : "Tước Tích - Phần 12 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/13.mp3",
+    "title" : "Tước Tích - Phần 13 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/14.mp3",
+    "title" : "Tước Tích - Phần 14 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/15.mp3",
+    "title" : "Tước Tích - Phần 15 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/16.mp3",
+    "title" : "Tước Tích - Phần 16 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/17.mp3",
+    "title" : "Tước Tích - Phần 17 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/18.mp3",
+    "title" : "Tước Tích - Phần 18 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/19.mp3",
+    "title" : "Tước Tích - Phần 19 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/2.mp3",
+    "title" : "Tước Tích - Phần 2 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/20.mp3",
+    "title" : "Tước Tích - Phần 20 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/21.mp3",
+    "title" : "Tước Tích - Phần 21 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/22.mp3",
+    "title" : "Tước Tích - Phần 22 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/23.mp3",
+    "title" : "Tước Tích - Phần 23 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/24.mp3",
+    "title" : "Tước Tích - Phần 24 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/3.mp3",
+    "title" : "Tước Tích - Phần 3 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/4.mp3",
+    "title" : "Tước Tích - Phần 4 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/5.mp3",
+    "title" : "Tước Tích - Phần 5 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/6.mp3",
+    "title" : "Tước Tích - Phần 6 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/7.mp3",
+    "title" : "Tước Tích - Phần 7 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/8.mp3",
+    "title" : "Tước Tích - Phần 8 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tich-tuoc/9.mp3",
+    "title" : "Tước Tích - Phần 9 | Truyện Thần Thoại Viễn Tưởng Hay Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

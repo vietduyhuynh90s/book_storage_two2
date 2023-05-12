@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phuong-phap-giao-duc-con-cua-nguoi-nhat_19389.html",
+    "title" : "Phương Pháp Giáo Dục Con Của Người Nhật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sugiyama Kouichi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 15191,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a705d326d912cf10d971c4e56b9b5f2a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a705d326d912cf10d971c4e56b9b5f2a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/00.GioiThieu_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 293,
+    "title" : "00.GioiThieu PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/01.C01A_TaoMoiTruongHocTapVuiVe_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2151,
+    "title" : "01.C01A TaoMoiTruongHocTapVuiVe PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/02.C01B_TaoMoiTruongHocTapVuiVe_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "02.C01B TaoMoiTruongHocTapVuiVe PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/03.C01C_TaoMoiTruongHocTapVuiVe_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "03.C01C TaoMoiTruongHocTapVuiVe PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/04.C02_CoTheGiaTangThoiQuenTot_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04.C02 CoTheGiaTangThoiQuenTot PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/05.C03A_PhuongPhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2288,
+    "title" : "05.C03A PhuongPhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/06.C03B_PhuongPhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2636,
+    "title" : "06.C03B PhuongPhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/07.C03C_Het_Phuong%20PhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2060,
+    "title" : "07.C03C Het Phuong PhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/07.C03C_Het_Phuong_PhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2060,
+    "title" : "07.C03C Het Phuong PhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/00.GioiThieu_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "00.GioiThieu PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/01.C01A_TaoMoiTruongHocTapVuiVe_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "01.C01A TaoMoiTruongHocTapVuiVe PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/02.C01B_TaoMoiTruongHocTapVuiVe_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "02.C01B TaoMoiTruongHocTapVuiVe PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/03.C01C_TaoMoiTruongHocTapVuiVe_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "03.C01C TaoMoiTruongHocTapVuiVe PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/04.C02_CoTheGiaTangThoiQuenTot_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "04.C02 CoTheGiaTangThoiQuenTot PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/05.C03A_PhuongPhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "05.C03A PhuongPhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/06.C03B_PhuongPhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "06.C03B PhuongPhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/07.C03C_Het_Phuong%20PhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "07.C03C Het Phuong PhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-giao-duc-con-cua-nguoi-nhat.sna/07.C03C_Het_Phuong_PhapXayDungHanhPhucChaMeConCai_PhuongPhapGiaoDucConNguoiNhat.mp3",
+    "title" : "07.C03C Het Phuong PhapXayDungHanhPhucChaMeConCai PhuongPhapGiaoDucConNguoiNhat",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

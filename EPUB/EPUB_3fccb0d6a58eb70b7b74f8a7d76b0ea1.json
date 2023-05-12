@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hon-dat_12138.html",
+    "title" : "Hòn Đất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anh Đức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 39666,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_3fccb0d6a58eb70b7b74f8a7d76b0ea1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_3fccb0d6a58eb70b7b74f8a7d76b0ea1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3657,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3587,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3569,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3578,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "Đọc Truyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/1.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/10.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/11.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/2.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/3.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/4.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/5.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/6.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/7.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/8.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu_thuyet_hon_dat/9.mp3",
+    "title" : "Đọc Truyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-don-tam-ly-trong-ban-hang_4016.html",
+    "title" : "Những Đòn Tâm Lý Trong Bán Hàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Tracy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 22304,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c8441769c6e254e20179e39eec4aab1c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c8441769c6e254e20179e39eec4aab1c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4743,
+    "title" : "Brian Tracy | Sách hay rất đáng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1383,
+    "title" : "Brian Tracy | Sách hay rất đáng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Brian Tracy | Sách hay rất đáng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2460,
+    "title" : "Brian Tracy | Sách hay đáng để nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2300,
+    "title" : "Brian Tracy | Sách nói hay rất đáng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1668,
+    "title" : "Brian Tracy | Sách nói hay đáng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4230,
+    "title" : "Những đòn tâm lý trong bán hàng Chương 7 -Brian Tracy | Sách nói hay đáng nghe",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2220,
+    "title" : "Chương cuối - Brian Tracy | Sách nói hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/1.mp3",
+    "title" : "Brian Tracy | Sách hay rất đáng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/2.mp3",
+    "title" : "Brian Tracy | Sách hay rất đáng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/3.mp3",
+    "title" : "Brian Tracy | Sách hay rất đáng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/4.mp3",
+    "title" : "Brian Tracy | Sách hay đáng để nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/5.mp3",
+    "title" : "Brian Tracy | Sách nói hay rất đáng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/6.mp3",
+    "title" : "Brian Tracy | Sách nói hay đáng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/7.mp3",
+    "title" : "Những đòn tâm lý trong bán hàng Chương 7 -Brian Tracy | Sách nói hay đáng nghe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-don-tam-ly-trong-ban-hang/8.mp3",
+    "title" : "Chương cuối - Brian Tracy | Sách nói hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

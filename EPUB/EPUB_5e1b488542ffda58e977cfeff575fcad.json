@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoi-hoi-hoa-tu-noi-nao-den_15841.html",
+    "title" : "Cười Hỏi Họa Từ Nơi Nào Đến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nãi Hương Lưu Ly Tửu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 25368,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_5e1b488542ffda58e977cfeff575fcad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_5e1b488542ffda58e977cfeff575fcad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "Truyện Cổ Đại Hài Sủng | CƯỜI HỎI HỌA ĐẾN TỪ NƠI ĐÂU | Tập 1: Bà Mối Mặt Than | Ngôn Tình Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2925,
+    "title" : "Ngôn Tình Cổ Đại Mới Nhất | CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 2: Thái Tử Mặt Dày | Trần Vân Kể Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "Ngôn Tình Cổ Đại Hay | CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 3: Khanh Hợp Ý Bản Cung | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "Cổ Đại Sủng Ngọt Mới Nhất | CƯỜI HỌA ĐẾN TỪ ĐÂU | Tập 4 | Truyện Ngôn Tình Mc Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "Cổ Đại Hài Hước | CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 5: Đường Tình Quanh Co | Ngôn Tình Trần Vân Vị Hy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3044,
+    "title" : "CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 6 | Truyện Ngôn Tình Cổ Đại Hay Và Hài Hước | Trần Vân Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3171,
+    "title" : "CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 7: Nỗi Lòng Của Thái Tử | Truyện Cổ Đại Mới Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 8: Tứ Hôn Cùng Ngũ Gia | Ngôn Tình Cổ Đại Mới Nhất | Mc Trần Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "Tập 9 Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/1.mp3",
+    "title" : "Truyện Cổ Đại Hài Sủng | CƯỜI HỎI HỌA ĐẾN TỪ NƠI ĐÂU | Tập 1: Bà Mối Mặt Than | Ngôn Tình Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/2.mp3",
+    "title" : "Ngôn Tình Cổ Đại Mới Nhất | CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 2: Thái Tử Mặt Dày | Trần Vân Kể Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/3.mp3",
+    "title" : "Ngôn Tình Cổ Đại Hay | CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 3: Khanh Hợp Ý Bản Cung | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/4.mp3",
+    "title" : "Cổ Đại Sủng Ngọt Mới Nhất | CƯỜI HỌA ĐẾN TỪ ĐÂU | Tập 4 | Truyện Ngôn Tình Mc Trần Vân Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/5.mp3",
+    "title" : "Cổ Đại Hài Hước | CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 5: Đường Tình Quanh Co | Ngôn Tình Trần Vân Vị Hy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/6.mp3",
+    "title" : "CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 6 | Truyện Ngôn Tình Cổ Đại Hay Và Hài Hước | Trần Vân Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/7.mp3",
+    "title" : "CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 7: Nỗi Lòng Của Thái Tử | Truyện Cổ Đại Mới Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/8.mp3",
+    "title" : "CƯỜI HỎI HỌA ĐẾN TỪ ĐÂU | Tập 8: Tứ Hôn Cùng Ngũ Gia | Ngôn Tình Cổ Đại Mới Nhất | Mc Trần Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuoi-hoi-hoa-tu-noi-nao-den/9.mp3",
+    "title" : "Tập 9 Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mac-ke-no-lam-toi-di_19552.html",
+    "title" : "Mặc Kệ Nó, Làm Tới Đi!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Branson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 25578,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_85e6a8728530be4681952bbec92031f8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_85e6a8728530be4681952bbec92031f8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo01A_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1850,
+    "title" : "MacKeNo01A Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo01B_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2502,
+    "title" : "MacKeNo01B Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo0203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3162,
+    "title" : "MacKeNo0203",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo0405_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2028,
+    "title" : "MacKeNo0405 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo06_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "MacKeNo06 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo0708.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "MacKeNo0708",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo09_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2693,
+    "title" : "MacKeNo09 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo10_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "MacKeNo10 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2092,
+    "title" : "MacKeNo11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo1213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2937,
+    "title" : "MacKeNo1213",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo14Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2299,
+    "title" : "MacKeNo14Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo01A_Chuan.mp3",
+    "title" : "MacKeNo01A Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo01B_Chuan.mp3",
+    "title" : "MacKeNo01B Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo0203.mp3",
+    "title" : "MacKeNo0203",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo0405_Chuan.mp3",
+    "title" : "MacKeNo0405 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo06_Chuan.mp3",
+    "title" : "MacKeNo06 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo0708.mp3",
+    "title" : "MacKeNo0708",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo09_Chuan.mp3",
+    "title" : "MacKeNo09 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo10_Chuan.mp3",
+    "title" : "MacKeNo10 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo11.mp3",
+    "title" : "MacKeNo11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo1213.mp3",
+    "title" : "MacKeNo1213",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mac-ke-no-lam-toi-di.sna/MacKeNo14Het.mp3",
+    "title" : "MacKeNo14Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

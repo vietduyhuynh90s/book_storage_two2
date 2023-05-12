@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/canh-dong-bat-tan-nguyen-ngoc-tu_9600.html",
+    "title" : "Cánh Đồng Bất Tận - Nguyễn Ngọc Tư.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Tư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 4641,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f2402b3b4af1e599f43c42e79feb56ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f2402b3b4af1e599f43c42e79feb56ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 690,
+    "title" : "Cánh Đồng Bất Tận (Phần 1/6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 785,
+    "title" : "Cánh Đồng Bất Tận (Phần 2/6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 811,
+    "title" : "Cánh Đồng Bất Tận (Phần 3/6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 867,
+    "title" : "Cánh Đồng Bất Tận (Phần 4/6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 750,
+    "title" : "Cánh Đồng Bất Tận (Phần 5/6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 738,
+    "title" : "Cánh Đồng Bất Tận (Phần 6/6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan001.mp3",
+    "title" : "Cánh Đồng Bất Tận (Phần 1/6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan002.mp3",
+    "title" : "Cánh Đồng Bất Tận (Phần 2/6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan003.mp3",
+    "title" : "Cánh Đồng Bất Tận (Phần 3/6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan004.mp3",
+    "title" : "Cánh Đồng Bất Tận (Phần 4/6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan005.mp3",
+    "title" : "Cánh Đồng Bất Tận (Phần 5/6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Audiotruyen_CanhDongBatTan/CanhDongBatTan006.mp3",
+    "title" : "Cánh Đồng Bất Tận (Phần 6/6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

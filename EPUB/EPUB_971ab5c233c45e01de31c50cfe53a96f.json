@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-tu-noi-nui-tuyet_19638.html",
+    "title" : "Ẩn Tu Nơi Núi Tuyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vicki Mackenzie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 12247,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_971ab5c233c45e01de31c50cfe53a96f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_971ab5c233c45e01de31c50cfe53a96f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "an-tu-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "an-tu-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "an-tu-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "an-tu-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-1.mp3",
+    "title" : "an-tu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-2.mp3",
+    "title" : "an-tu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-3.mp3",
+    "title" : "an-tu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-tu-1/an-tu-4.mp3",
+    "title" : "an-tu-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
