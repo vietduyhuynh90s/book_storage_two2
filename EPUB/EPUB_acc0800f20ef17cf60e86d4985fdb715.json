@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chim-quyen-xuong-dat_19824.html",
+    "title" : "Chim Quyên Xuống Đất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 24993,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_acc0800f20ef17cf60e86d4985fdb715.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_acc0800f20ef17cf60e86d4985fdb715.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2061,
+    "title" : "CHIM QUYEN XUONG DAT-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1424,
+    "title" : "CHIM QUYEN XUONG DAT-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "CHIM QUYEN XUONG DAT-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "CHIM QUYEN XUONG DAT-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "CHIM QUYEN XUONG DAT-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1296,
+    "title" : "CHIM QUYEN XUONG DAT-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1565,
+    "title" : "CHIM QUYEN XUONG DAT-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1509,
+    "title" : "CHIM QUYEN XUONG DAT-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1321,
+    "title" : "CHIM QUYEN XUONG DAT-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1836,
+    "title" : "CHIM QUYEN XUONG DAT-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1751,
+    "title" : "CHIM QUYEN XUONG DAT-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2275,
+    "title" : "CHIM QUYEN XUONG DAT-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "CHIM QUYEN XUONG DAT-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "CHIM QUYEN XUONG DAT-14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-01.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-02.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-03.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-04.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-05.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-06.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-07.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-08.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-09.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-10.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-11.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-12.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-13.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chim-quyen-xuong-dat.sna/CHIM_QUYEN_XUONG_DAT-14.mp3",
+    "title" : "CHIM QUYEN XUONG DAT-14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

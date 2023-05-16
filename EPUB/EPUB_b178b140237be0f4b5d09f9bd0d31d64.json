@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-giai-ma-tu-thi-tan-minh_9173.html",
+    "title" : "Người Giải Mã Tử Thi - Tần Minh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tần Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 42125,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b178b140237be0f4b5d09f9bd0d31d64.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b178b140237be0f4b5d09f9bd0d31d64.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/NGMTT/01_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1598,
+    "title" : "01 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/02_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "02 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/03_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2117,
+    "title" : "03 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/04_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2300,
+    "title" : "04 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/05_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "05 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/06_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "06 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/07_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2516,
+    "title" : "07 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/08_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1968,
+    "title" : "08 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/09_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1708,
+    "title" : "09 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/10_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2595,
+    "title" : "10 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/11_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3206,
+    "title" : "11 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/12_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3525,
+    "title" : "12 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/13_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3197,
+    "title" : "13 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/14_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "14 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/15_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2865,
+    "title" : "15 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/16_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3053,
+    "title" : "16 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/NGMTT/17_PYTM_NGMTT.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2822,
+    "title" : "17 PYTM NGMTT",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/NGMTT/01_PYTM_NGMTT.mp3",
+    "title" : "01 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/02_PYTM_NGMTT.mp3",
+    "title" : "02 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/03_PYTM_NGMTT.mp3",
+    "title" : "03 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/04_PYTM_NGMTT.mp3",
+    "title" : "04 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/05_PYTM_NGMTT.mp3",
+    "title" : "05 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/06_PYTM_NGMTT.mp3",
+    "title" : "06 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/07_PYTM_NGMTT.mp3",
+    "title" : "07 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/08_PYTM_NGMTT.mp3",
+    "title" : "08 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/09_PYTM_NGMTT.mp3",
+    "title" : "09 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/10_PYTM_NGMTT.mp3",
+    "title" : "10 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/11_PYTM_NGMTT.mp3",
+    "title" : "11 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/12_PYTM_NGMTT.mp3",
+    "title" : "12 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/13_PYTM_NGMTT.mp3",
+    "title" : "13 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/14_PYTM_NGMTT.mp3",
+    "title" : "14 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/15_PYTM_NGMTT.mp3",
+    "title" : "15 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/16_PYTM_NGMTT.mp3",
+    "title" : "16 PYTM NGMTT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/NGMTT/17_PYTM_NGMTT.mp3",
+    "title" : "17 PYTM NGMTT",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

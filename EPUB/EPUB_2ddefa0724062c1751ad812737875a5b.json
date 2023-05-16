@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/loi-to-cao-tham-lang-tan-minh_8792.html",
+    "title" : "Lời Tố Cáo Thầm Lặng - Tần Minh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tần Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 8638,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_2ddefa0724062c1751ad812737875a5b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_2ddefa0724062c1751ad812737875a5b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 625,
+    "title" : "LTCTL 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 673,
+    "title" : "LTCTL 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 564,
+    "title" : "LTCTL 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 529,
+    "title" : "LTCTL 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 651,
+    "title" : "LTCTL 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 753,
+    "title" : "LTCTL 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 720,
+    "title" : "LTCTL 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 648,
+    "title" : "LTCTL 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 806,
+    "title" : "LTCTL 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 600,
+    "title" : "LTCTL 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 646,
+    "title" : "LTCTL 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 750,
+    "title" : "LTCTL 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 673,
+    "title" : "LTCTL 13",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_01.mp3",
+    "title" : "LTCTL 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_02.mp3",
+    "title" : "LTCTL 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_03.mp3",
+    "title" : "LTCTL 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_04.mp3",
+    "title" : "LTCTL 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_05.mp3",
+    "title" : "LTCTL 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_06.mp3",
+    "title" : "LTCTL 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_07.mp3",
+    "title" : "LTCTL 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_08.mp3",
+    "title" : "LTCTL 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_09.mp3",
+    "title" : "LTCTL 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_10.mp3",
+    "title" : "LTCTL 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_11.mp3",
+    "title" : "LTCTL 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_12.mp3",
+    "title" : "LTCTL 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/LTCTL/LTCTL_13.mp3",
+    "title" : "LTCTL 13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
