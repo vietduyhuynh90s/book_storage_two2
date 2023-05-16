@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-the-tu-chua-lanh-nuoc-ep-can-tay_20331.html",
+    "title" : "Cơ Thể Tự Chữa Lành, Nước Ép Cần Tây",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anthony William",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 37434,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_56f4cdad01431761a8786a6b96b74c56.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_56f4cdad01431761a8786a6b96b74c56.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-the-1/co-the-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7500,
+    "title" : "co-the-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7500,
+    "title" : "co-the-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7500,
+    "title" : "co-the-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7500,
+    "title" : "co-the-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7434,
+    "title" : "co-the-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-the-1/co-the-1.mp3",
+    "title" : "co-the-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-2.mp3",
+    "title" : "co-the-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-3.mp3",
+    "title" : "co-the-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-4.mp3",
+    "title" : "co-the-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-the-1/co-the-5.mp3",
+    "title" : "co-the-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

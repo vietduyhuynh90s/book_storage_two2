@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-quyet-dinh-song-cho-chinh-toi_20359.html",
+    "title" : "Tôi Quyết Định Sống Cho Chính Tôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Suhyun",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 11190,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_3f729f9590a2c418f0756ce095792200.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_3f729f9590a2c418f0756ce095792200.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2557,
+    "title" : "Những việc cần làm để sống & tôn trọng c/đ của chính mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2274,
+    "title" : "2# Tôi quyết định sống cho chính tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1070,
+    "title" : "3# Tôi quyết định sống cho chính tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "4# Tôi quyết định sống cho chính tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1862,
+    "title" : "5# Tôi quyết định sống cho chính tôi - Những việc cần làm vì một thế giới tốt đẹp hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "6# Tôi quyết định sống cho chính tôi",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-1.mp3",
+    "title" : "Những việc cần làm để sống & tôn trọng c/đ của chính mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-2.mp3",
+    "title" : "2# Tôi quyết định sống cho chính tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-3.mp3",
+    "title" : "3# Tôi quyết định sống cho chính tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-4.mp3",
+    "title" : "4# Tôi quyết định sống cho chính tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-5.mp3",
+    "title" : "5# Tôi quyết định sống cho chính tôi - Những việc cần làm vì một thế giới tốt đẹp hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toi-quyet-1/toi-quyet-6.mp3",
+    "title" : "6# Tôi quyết định sống cho chính tôi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

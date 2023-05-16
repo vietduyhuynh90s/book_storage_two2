@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dan-ba-30_20363.html",
+    "title" : "Đàn Bà 30",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trang Hạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 19772,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_56ae15d1b2e7e2b8f2bf355f2be60433.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_56ae15d1b2e7e2b8f2bf355f2be60433.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4156,
+    "title" : "1 # Đàn bà 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4462,
+    "title" : "2 # Đàn bà 30 # Trang Hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4485,
+    "title" : "3 # Đàn bà 30 # Trang Hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3307,
+    "title" : "4 # Đàn bà 30 # Trang Hạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3362,
+    "title" : "5 # Đàn bà 30 # Trang Hạ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-1.mp3",
+    "title" : "1 # Đàn bà 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-2.mp3",
+    "title" : "2 # Đàn bà 30 # Trang Hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-3.mp3",
+    "title" : "3 # Đàn bà 30 # Trang Hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-4.mp3",
+    "title" : "4 # Đàn bà 30 # Trang Hạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-ba-3/dan-ba-5.mp3",
+    "title" : "5 # Đàn bà 30 # Trang Hạ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
