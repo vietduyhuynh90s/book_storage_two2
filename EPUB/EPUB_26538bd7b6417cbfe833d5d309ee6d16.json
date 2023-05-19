@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/that-bai-de-thanh-cong_20167.html",
+    "title" : "Thất Bại Để Thành Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 17369,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_26538bd7b6417cbfe833d5d309ee6d16.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_26538bd7b6417cbfe833d5d309ee6d16.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2072,
+    "title" : "THAT BAI DE THANH CONG 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "THAT BAI DE THANH CONG 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "THAT BAI DE THANH CONG 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1717,
+    "title" : "THAT BAI DE THANH CONG 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1772,
+    "title" : "THAT BAI DE THANH CONG 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2037,
+    "title" : "THAT BAI DE THANH CONG 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1428,
+    "title" : "THAT BAI DE THANH CONG 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3336,
+    "title" : "THAT BAI DE THANH CONG 08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_01.mp3",
+    "title" : "THAT BAI DE THANH CONG 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_02.mp3",
+    "title" : "THAT BAI DE THANH CONG 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_03.mp3",
+    "title" : "THAT BAI DE THANH CONG 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_04.mp3",
+    "title" : "THAT BAI DE THANH CONG 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_05.mp3",
+    "title" : "THAT BAI DE THANH CONG 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_06.mp3",
+    "title" : "THAT BAI DE THANH CONG 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_07.mp3",
+    "title" : "THAT BAI DE THANH CONG 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/that-bai-de-thanh-cong.sna/THAT_BAI_DE_THANH_CONG_08.mp3",
+    "title" : "THAT BAI DE THANH CONG 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/yeu-ban-than-la-khoi-dau-cua-mot-doi-lang-man_20388.html",
+    "title" : "Yêu Bản Thân Là Khởi Đầu Của Một Đời Lãng Mạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tĩnh Thính Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 25337,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_e673ecafd979ca5c15c4f92c8dfa1e73.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_e673ecafd979ca5c15c4f92c8dfa1e73.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4543,
+    "title" : "1 # Yêu bản thân là khởi đầu của một đời lãng mạn # Yêu bản thân mình quan trọng hơn yêu cả thế giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5305,
+    "title" : "2 # Yêu bản thân là khởi đầu của một đời lãng mạn # Còn thương nhau ngày nào, tôi còn nâng niu em",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5254,
+    "title" : "3 # Yêu bản thân là khởi đầu của một đời lãng mạn #",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4844,
+    "title" : "4 # Yêu bản thân là khởi đầu của một đời lãng mạn # Hãy dốc hết sức để khiến mình đẹp hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5391,
+    "title" : "5 # Yêu bản thân là khởi đầu của một đời lãng mạn # Có được mọi điều mình muốn ... # Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-1.mp3",
+    "title" : "1 # Yêu bản thân là khởi đầu của một đời lãng mạn # Yêu bản thân mình quan trọng hơn yêu cả thế giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-2.mp3",
+    "title" : "2 # Yêu bản thân là khởi đầu của một đời lãng mạn # Còn thương nhau ngày nào, tôi còn nâng niu em",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-3.mp3",
+    "title" : "3 # Yêu bản thân là khởi đầu của một đời lãng mạn #",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-4.mp3",
+    "title" : "4 # Yêu bản thân là khởi đầu của một đời lãng mạn # Hãy dốc hết sức để khiến mình đẹp hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-ban-5/yeu-ban-5.mp3",
+    "title" : "5 # Yêu bản thân là khởi đầu của một đời lãng mạn # Có được mọi điều mình muốn ... # Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

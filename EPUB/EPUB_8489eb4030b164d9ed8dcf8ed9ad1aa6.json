@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/muon-van-ly-do-hanh-phuc-kieu-hanh-va-khong-hoi-tiec_20390.html",
+    "title" : "Muôn Vàn Lý Do Hạnh Phúc, Kiêu Hãnh Và Không Hối Tiếc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Việt Dũng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-19",
+    "duration" : 31921,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_8489eb4030b164d9ed8dcf8ed9ad1aa6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_8489eb4030b164d9ed8dcf8ed9ad1aa6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1936,
+    "title" : "Mỗi ngày tìm 1 lý do hp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4722,
+    "title" : "2# C/đ PN muôn vàn lý do HP, kiêu hãnh & K nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3025,
+    "title" : "3# C/đ phụ nữ muôn vàn lý do hạnh phúc: Kiêu hãnh & Không hối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2209,
+    "title" : "4# C/đ PN muôn vàn lý do HP: Kiêu hãnh & K nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1625,
+    "title" : "5# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc - Kiêu hãnh và không nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "6# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh & không nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4737,
+    "title" : "7# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2889,
+    "title" : "8# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1975,
+    "title" : "9# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2392,
+    "title" : "10# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "11# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-01.mp3",
+    "title" : "Mỗi ngày tìm 1 lý do hp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-02.mp3",
+    "title" : "2# C/đ PN muôn vàn lý do HP, kiêu hãnh & K nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-03.mp3",
+    "title" : "3# C/đ phụ nữ muôn vàn lý do hạnh phúc: Kiêu hãnh & Không hối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-04.mp3",
+    "title" : "4# C/đ PN muôn vàn lý do HP: Kiêu hãnh & K nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-05.mp3",
+    "title" : "5# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc - Kiêu hãnh và không nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-06.mp3",
+    "title" : "6# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh & không nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-07.mp3",
+    "title" : "7# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-08.mp3",
+    "title" : "8# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-09.mp3",
+    "title" : "9# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-10.mp3",
+    "title" : "10# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muon-van-07/muon-van-11.mp3",
+    "title" : "11# Cuộc đời phụ nữ, muôn vàn lý do hạnh phúc: Kiêu hãnh và không nuối tiếc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
