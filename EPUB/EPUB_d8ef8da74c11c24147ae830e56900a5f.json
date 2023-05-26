@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cu-xu-nhu-dan-ba-suy-nghi-nhu-dan-ong-402.html",
+    "title" : "CƯ XỬ NHƯ ĐÀN BÀ, SUY NGHĨ NHƯ ĐÀN ÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Steve Harvey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC Giới Thiệu. Mọi Điều Cần Biết Về Đàn Ông Và Các Mối Quan Hệ Đều Nằm Trong Cuốn Sách Này Phần Một. Tư Duy Của Một Người Đàn Ông 1. Điều Gì Thúc Đẩy Đàn Ông 2. Tình Yêu Của Chúng Tôi Không Như Của Các Bạn 3. Ba Thứ Mọi Đàn Ông Đều Cần: Ủng Hộ, Chung Thủy, Và Bánh Quy 4. “Chúng Ta Cần Nói Chuyện,” Và Những Lời Khác Khiến Đàn Ông Chạy Đi Tìm Chỗ Trốn Phần Hai. Tại Sao Đàn Ông Làm Điều Họ Làm? 5. Điều Quan Trọng Nhất - Anh Ta Muốn Ngủ Với Bạn 6. Cá Để Chơi Và Để Giữ Lại: Cách Đàn Ông Phân Biệt Giữa Loại Phụ Nữ Để Cưới Và Để Chơi Bời 7. Các Cậu Bé Cưng Của Mẹ 8. Tại Sao Đàn Ông Lừa Dối Phần Ba. Bí Quyết Cách Chiến Thắng Trò Chơi 9. Đàn Ông Tôn Trọng Tiêu Chuẩn, Hãy Đặt Ra Một Số 10. Năm Câu Mọi Phụ Nữ Nên Hỏi Trước Khi Gắn Bó Quá Sâu Sắc 11. Nguyên Tắc Chín Mươi Ngày: Có Được Sự Tôn Trọng Bạn Đáng Được Hưởng 12. Nếu Anh Ấy Gặp Lũ Trẻ Sau Khi Bạn Quyết Định Anh Chính Là “người Ấy,” Như Vậy Là Quá Muộn 13. Phụ Nữ Mạnh Mẽ, Độc Lập, Và Cô Đơn 14. Cách Có Được Chiếc Nhẫn 15. Trả Lời Nhanh Cho Những Câu Hỏi Bạn Luôn Muốn Hỏ</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_d8ef8da74c11c24147ae830e56900a5f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_d8ef8da74c11c24147ae830e56900a5f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/402-cu-xu-nhu-dan-ba-suy-nghi-nhu-dan-ong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/402-cu-xu-nhu-dan-ba-suy-nghi-nhu-dan-ong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/giai-ma-truyen-tay-du-ky-7806.html",
+    "title" : "GIẢI MÃ TRUYỆN TÂY DU KÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Huệ Khải",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách Giải mã truyện Tây Du tác giả mong ước hiến tặng tất cả những ai từng hâm mộ tiểu thuyết Tây Du Ký một trăm hồi (chương) của Ngô Thừa Ân hay bộ phim Tây Du Ký (1986) hai mươi lăm tập của nữ đạo diễn Dương Khiết với niềm vui được thưởng thức và khám phá những góc cạnh Đạo học được khéo léo lồng trong một danh tác văn học bất hủ đời Minh, đã trải qua hơn bốn trăm năm tuổi. Cuốn sách giải mã các tình tiết, hình tượng nhân vật trong cuốn tiểu thuyết của Ngô Thừa Ân dưới góc nhìn Đạo học. Trong cái nhìn của tác giả, Tây Du Ký không chỉ là câu chuyện về một chuyến thỉnh kinh sang xứ Tây thiên của năm thầy trò Đường Tam Tạng, mà còn là phúng dụ để nói về hành trình tu luyện của mỗi cá nhân trong cõi người. Giải mã truyện Tây Du đã giúp cho độc giả nói chung có cái nhìn sâu sắc và chính xác hơn khi đọc truyện Tây Du.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_07cc53b5adeee8710beafc3434068404.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_07cc53b5adeee8710beafc3434068404.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7806-giai-ma-truyen-tay-du-ky-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7806-giai-ma-truyen-tay-du-ky-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

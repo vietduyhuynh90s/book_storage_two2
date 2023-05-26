@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/duc-phat-va-phat-phap-422.html",
+    "title" : "ĐỨC PHẬT VÀ PHẬT PHÁP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phạm Kim Khánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục Lục Tri ân Lời tựa Về tác giả - Hòa Thượng Narada Lời mở đầu Phần I - Đức Phật 01. Từ Đản sanh đến Xuất gia 02. Chiến đấu để thành đạt Đạo 03. Đạo Quả Phật 04. Sau khi Thành Đạo 05. Cung thỉnh Đức Phật truyền bá 06. Kinh Chuyển Pháp Luân - Bài Pháp 07. Truyền bá Giáo Pháp 08. Đức Phật và Thân quyến (I) 09. Đức Phật và Thân quyến (II) 10. Những người Chống Đối và những 11. Những Đại Thí Chủ trong hàng 12. Con Đường Hoằng Pháp 13. Đời sống hằng ngày của Đức 14. Đức Phật nhập Đại Niết Bàn Phần II - Phật Pháp 15. Phật Giáo là gì? 16. Vài đặc điểm của Phật Giáo 17. Bốn Chân lý Thâm diệu, hay Tứ 18. Nghiệp báo 19. Nghiệp là gì? 20. Sự báo ứng của Nghiệp 21. Tính chất của Nghiệp 22. Khởi thủy của đời sống là 23. Đức Phật và vấn đề Thần 24. Do đâu tin có tái sanh 25. Thập Nhị Nhân Duyên 26. Những hình thức Sanh và Tử 27. Những cảnh giới 28. Hiện tượng Tử Sanh 29. Cái gì đi tái sanh? - Lý Vô Ngã 30. Trách nhiệm tinh thần 31. Nghiệp chuyển lên và Nghiệp 32. Nghiệp báo và Tái sanh với người 33. Niết Bàn 34. Đặc tánh của Niết Bàn 35. Con đường Niết Bàn (I) 36. Con đường Niết Bàn (II) 37. Chướng ngại tinh thần 38. Con đường Niết Bàn (III) 39. Phẩm hạnh A-la-hán 40. Lý tưởng của Bồ Tát hay Bồ 41. Ba-la-mật 42. Tứ Vô Lượng Tâm 43. Tám Pháp Thế Gian 44. Những vấn đề của kiếp Nhân [Phụ bản] Kinh Hạnh Phúc Kinh Suy Đồi Kinh Cùng Đinh Kinh Tam Bảo Kinh Từ Bi Kinh Tứ Niệm Xứ Vài nét về Dịch giả, Cư sĩ Phạm Kim Khánh</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_6c1cbb9d33206b6144486e55adb978a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_6c1cbb9d33206b6144486e55adb978a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/422-duc-phat-va-phat-phap-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/422-duc-phat-va-phat-phap-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

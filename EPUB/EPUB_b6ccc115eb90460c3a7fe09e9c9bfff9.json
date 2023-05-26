@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gia-dinh-minh-hoa-hop-la-duoc-717.html",
+    "title" : "GIA ĐÌNH MÌNH HÒA HỢP LÀ ĐƯỢC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Libby Purves",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục 1. Càu nhàu và tán dương: Nhӳng lời bàn về cuộc sống gia đình 2. Lời tӵa kiêm lời cảnh báo 3. 1. Đại khái thì, ai cần gia đình nhỉ? 4. 2. Trở thành một gia đình 5. 3. Một người đàn ông và một người phụ nӳ: Gìn giӳ hôn nhân 6. 4. Ai là ai: Bố 7. 5. Ai là ai: Mẹ 8. 6. Ai là ai: Con cái 9. 7. Gia đình êm ấm? 10. 8. Nó là kẻ không ai chịu đӵng nổi, nó là em trai tôi: Anh chị em ruột 11. 9. Quy tắc và phong tục gia đình 12. 10. Giá trị của họ hàng: Gia đình lớn 13. 11. Nhӳng ngày tới trường 14. 12. Công việc của một người phụ nӳ 15. 13. Vấn đề tiền nong và nhӳng lần thӱ thách 16. 14. Niềm vui: Nhӳng chuyến đi và nhӳng cuộc vui, khách khứa và tụ tập 17. 15. Càu nhàu và tán dương: Nhӳng lời bàn về cuộc sống gia đình</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b6ccc115eb90460c3a7fe09e9c9bfff9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b6ccc115eb90460c3a7fe09e9c9bfff9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/717-gia-dinh-minh-hoa-hop-la-duoc-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/717-gia-dinh-minh-hoa-hop-la-duoc-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

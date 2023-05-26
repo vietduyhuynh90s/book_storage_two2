@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phong-tuc-tho-cung-to-tien-net-dep-van-hoa-cac-dan-toc-viet-nam-1051.html",
+    "title" : "PHONG TỤC THỜ CÚNG TỔ TIÊN - NÉT ĐẸP VĂN HÓA CÁC DÂN TỘC VIỆT NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mã A Lềnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhân dân Việt Nam từ bao đời nay vẫn có phong tục rất đáng trân trọng là Thờ cúng tổ tiên. Đây là một hình thức sinh hoạt tâm linh rất quan trọng trong đời sống thường nhật của các dân tộc ở Việt Nam vốn là cư dân gắn liền với sản xuất nông nghiệp. Thờ cúng tổ tiên là để thể hiện lòng tri ân đối với công ơn của tổ tiên, ông bà cha mẹ đã khuất. Việc thờ cúng tổ tiên lại có ý nghĩa thiết thực, sâu sắc, giúp cha mẹ giáo dục con cháu lòng biết ơn tổ tiên, dòng họ của mình. Đồng thời, việc thờ cúng tổ tiên cũng góp phần gắn bó gia đình, họ hàng, dòng tộc. Vì vậy, giữ gìn, bảo tồn và phát huy giá trị truyền thống đặc sắc của cộng đồng, trong đó có mỹ tục thờ cúng tổ tiên, là một trong những phương cách kết nối tâm hồn, tình cảm của con người giữa quá khứ và hiện tại, hướng tới tương lai. Thờ cúng tổ tiên là trao truyền đạo lý, lối sống, thái độ ứng xử cùng những kinh nghiệm sống cho thế hệ kế tiếp. Từ đó mà những kiến thức về cuộc sống tiếp tục được mở rộng, bổ sung phong phú hơn. Nhằm góp phần nhỏ vào việc gìn giữ nét hay, nét đẹp trong phong tục truyền thống của dân tộc, Nhà xuất bản Chính trị quốc gia - Sự thật phối hợp với Nhà xuất bản Văn hóa dân tộc xuất bản cuốn sách Phong tục thờ cúng tổ tiên - Nét đẹp văn hóa các dân tộc Việt Nam do hai tác giả Mã A Lềnh và Triệu Thị Phương biên soạn. Cuốn sách giới thiệu phong tục, nghi lễ thờ cúng tổ tiên của một số dân tộc trong cộng đồng các dân tộc Việt Nam. Đây là những giá trị văn hóa truyền thống quý báu do cha ông để lại mà mỗi người dân đều có trách nhiệm giữ gìn, kế thừa, phát huy trong việc xây dựng nếp sống văn hóa mới hiện nay và sàng lọc để những giá trị văn hóa đó sáng đẹp mãi lên.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_11652e09e1148aab39d486a11db55b4d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_11652e09e1148aab39d486a11db55b4d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1051-phong-tuc-tho-cung-to-tien-net-dep-van-hoa-cac-dan-toc-viet-nam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1051-phong-tuc-tho-cung-to-tien-net-dep-van-hoa-cac-dan-toc-viet-nam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tren-bien-khoi-duoi-da-tham-7862.html",
+    "title" : "TRÊN BIỂN KHƠI, DƯỚI ĐÁ THẮM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Susan Cooper",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bởi một tấm bản đồ cũ nát giấu trong căn phòng bí mật của ngôi nhà cổ, Simon, Jane và Barney đã bất ngờ bị cuốn vào một cuộc phiêu lưu vừa đáng sợ vừa hứng thú. Bọn trẻ không ngờ có những kẻ xấu xa cũng đang thèm muốn chiếm lĩnh vật báu mà tấm bản đồ dẫn tới. Bởi cái ác trong hình vóc của Bóng tối đã trỗi dậy, và những đứa con nhà Drew vô tình đặt cuộc sống của chúng vào vòng nguy hiểm. Chén thánh thiêng liêng của vua Arthur huyền thoại chính là chiếc chìa khóa của cuộc truy tìm bí hiểm đó. Trên biển khơi, dưới đá thẳm - tập truyện đầu tiên trong bộ truyện kỳ ảo cuốn hút Bóng tối trỗi dậy của Susan Cooper, một tượng đài trong nền văn học thiếu nhi thế giới thế kỷ XX. “Susan Cooper là một trong số ít những nhà văn đương đại có một trí tưởng tượng mãnh liệt, khả năng kể chuyện và cái nhìn đạo lý cho phép bà sáng tạo ra một cuộc đối đầu lớn lao giữa cái thiện và cái ác, mô típ tâm điểm của mọi tác phẩm văn học kỳ ảo vĩ đại. Tolkien có điều đó, C.S.Lewis cũng vậy. Và Cooper là người tiếp bước họ.” - Psychology Today “Một câu chuyện dẫn ta tới đỉnh điểm hưng phấn, ngập tràn những huyền thoại, bí ẩn và hàm ý ngụ ngôn.” - Horn Book Susan Cooper được biết đến nhiều nhất với bộ tiểu thuyết kỳ ảo nổi tiếng Bóng tối trỗi dậy gồm năm tập: - Trên biển khơi, dưới đá thẳm; - Bóng tối trỗi dậy (sách đoạt Huy chương Newbery 1974); - Phù thủy Xanh; - Vua Xám (sách đoạt Giải Newbery 1976); - Bạc trên cây, ra mắt bạn đọc từ những năm 1960 và 1970 Bóng tối trỗi dậy miêu tả cuộc giằng co giữa hai thế lực Thiện và Ác, hay Ánh sáng và Bóng tối. Bộ tiểu thuyết này dựa trên truyền thuyết về vua Arthur, được viết chủ yếu cho độc giả trẻ. Các tiểu thuyết khác dành cho độc giả trẻ của bà: Seaward (Về phía biển) và Dawn of Fear (Bình minh của sợ hãi). Bà cũng viết ba cuốn dành cho thiếu nhi: Thím bò Bạc, Cô gái Selkie và Tam Lin; cả ba đều do Warwick Hutton minh họa. Cộng tác với diễn viên Hume Cronyn, bà soạn vở kịch Foxfire (Lửa Cáo) cho sân khấu Broadway và - dành tặng Jane Fonda - bộ phim truyền hình Dollmaker (Người làm búp bê), cả hai đều giành được giải Humanitas 1985. Sinh ra tại Buckinghamshire, nước Anh, Susan Cooper đã chuyển sang Mỹ từ năm 1963 và hiện sống tại Cambridge, Massachusetts.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_3db7d7149f93b4e95710018703019c98.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_3db7d7149f93b4e95710018703019c98.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7862-tren-bien-khoi-duoi-da-tham-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7862-tren-bien-khoi-duoi-da-tham-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

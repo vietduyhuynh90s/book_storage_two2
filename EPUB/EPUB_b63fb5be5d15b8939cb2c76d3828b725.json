@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/than-thiet-tin-cay-ban-than-minh-va-nguoi-khac-16.html",
+    "title" : "THÂN THIẾT - TIN CẬY BẢN THÂN MÌNH VÀ NGƯỜI KHÁC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Lời nói đầu... i Điều quan trọng trước hết: abc về thân thiết.. 1 Bắt đầu tại chỗ bạn đang vậy... 2 Đích thực.. 14 Lắng nghe bản thân mình. 26 Tin cậy bản thân mình. 28 Thân thiết với người khác: bước tiếp theo. 45 Bị thấy. 45 Nhu cầu về riêng tư.. 48 Nối quan hệ, không thân thuộc. 59 Mạo hiểm để chân thực. 63 Học ngôn ngữ của im lặng... 70 Bốn cạm bẫy... 73 Thói quen phản ứng. 73 Mắc kẹt vào an ninh.. 79 Đấm bóng. 91 Giá trị giả... 115 Công cụ cho biến đổi.. 125 Chấp nhận bản thân mình.. 125 Để bản thân mình mong manh... 134 Vị kỉ... 163 Kĩ thuật thiền... 167 Trên đường đi tới thân thiết: Đáp ứng cho câu hỏi...177 Sao tôi cảm thấy tự ý thức?.178 Làm sao tôi có thể vẫn còn lại bản thân mình?..195 Phải cho cái gì và phải nhận cái gì?..199 Câu trả lời thực cho sống trong thân thiết là gì?...210 Về Osho...213</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b63fb5be5d15b8939cb2c76d3828b725.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b63fb5be5d15b8939cb2c76d3828b725.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/16-than-thiet-tin-cay-ban-than-minh-va-nguoi-khac-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thân Thiết - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/16-than-thiet-tin-cay-ban-than-minh-va-nguoi-khac-thuviensach.vn.mp3?t=2763",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:46:03 Thân Thiết - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/16-than-thiet-tin-cay-ban-than-minh-va-nguoi-khac-thuviensach.vn.mp3?t=7156",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:16 Thân Thiết - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/16-than-thiet-tin-cay-ban-than-minh-va-nguoi-khac-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thân Thiết - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/16-than-thiet-tin-cay-ban-than-minh-va-nguoi-khac-thuviensach.vn.mp3?t=2763",
+    "title" : "00:46:03 Thân Thiết - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/16-than-thiet-tin-cay-ban-than-minh-va-nguoi-khac-thuviensach.vn.mp3?t=7156",
+    "title" : "01:59:16 Thân Thiết - Phần 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

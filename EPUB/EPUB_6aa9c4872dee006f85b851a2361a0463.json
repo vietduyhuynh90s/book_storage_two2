@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tham-do-tiem-thuc-575.html",
+    "title" : "THĂM DÒ TIỀM THỨC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Carl Gustav Jung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>THÔNG TIN EBOOK GIỚI THIỆU CHƯƠNG 1: SỰ QUAN TRỌNG CỦA GIẤC MƠ CHƯƠNG 2: QU KHỨ V[ TƯƠNG LAI TRONG TIỀM THỨC CHƯƠNG 3: CƠ NĂNG CỦA GIẤC MƠ CHƯƠNG 4: PH]N TÍCH GIẤC MƠ CHƯƠNG 5: VẤN ĐỀ CHIA LOẠI NGƯỜI VỀ PHƯƠNG DIỆN TÂM LÝ HỌC CHƯƠNG 6: NÓI VỀ SIÊU TƯỢNG (ARCHÉTYPE) TRONG BIỂU TƯỢNG GIẤC MƠ CHƯƠNG 7: LINH HỒN LO[I NGƯỜI CHƯƠNG 8: VAI TRÒ CỦA BIỂU TƯỢNG CHƯƠNG 9: LẬP LẠI MỐI LIÊN HỆ GIỮA TIỀM THỨC VÀ Ý THỨC</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_6aa9c4872dee006f85b851a2361a0463.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_6aa9c4872dee006f85b851a2361a0463.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/575-tham-do-tiem-thuc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/575-tham-do-tiem-thuc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

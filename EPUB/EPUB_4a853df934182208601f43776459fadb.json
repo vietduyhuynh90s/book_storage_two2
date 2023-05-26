@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tuyet-giua-mua-he-648.html",
+    "title" : "TUYẾT GIỮA MÙA HÈ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Saydaw U Jotika",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúng tôi quyết định xuất bản lại cuốn Tuyết Giữa Mùa Hè này sau khi nhận được rất nhiều lời yêu cầu từ bạn đọc. Bản dịch này dựa trên nguyên bản tiếng Miến được chính thiền sư Sayadaw U Jotika biên tập lại, và bổ sung thêm một số lời khuyên của Thiền sư được trích ra từ những bức thư nhận được trong những năm sau này. Chúng tôi xin được bày tỏ lòng tri ân vô hạn đối với Thiền sư Sayadaw U Jotika, người đã dành bao tâm lực viết ra những lời dạy tâm huyết vượt thời gian và đầy trí tuệ này để thức tỉnh chúng ta khỏi cuộc sống vô vị và u mê. Xin vô cùng cảm tạ các bạn đạo Bruce Mitteldof, Ayya Medhanandi, John Fabbricante đã chuyển đến cho chúng tôi những bức thư của thiền sư để biên tập thành cuốn sách này. Chúng tôi xin cảm ơn những tấm lòng nhân hậu và nhẫn nại đã đóng góp công sức cho lần xuất bản đầu tiên của cuốn sách này: Ayya Medhanandi, Barbara Hasslacher, Jane Yudelman, Chittapala, Phil Thompson. Không có sự đóng góp công sức và giúp đỡ nhiệt tình của họ để biên tập và đánh máy, lên trang thì cuốn sách này đã không thể ra đời và đến tay bạn đọc như thế này. Trong lần tái bản này, xin đặc biệt cảm ơn bạn Li ở Hồng Kông đã dành rất nhiều thời gian để viết ra những mục chú thích cho những bạn đọc chưa quen thuộc với những thuật ngữ Phật học hay những tư tưởng Phương Tây để dễ tham khảo, và xin tri ân Đại Đức Bhikkhu Thitayano ở Indonesia đã giúp dịch phần chú thích ra tiếng Anh (từ phiên bản tiếng Hoa của cuốn Tuyết Giữa Mùa Hè). Rất cám ơn những bạn đạo hảo tâm đã hùn phước in ấn, xuất bản cuốn sách này. Chúng tôi chân thành mong muốn rằng tất cả những ai đọc cuốn sách này đều thu được thật nhiều lợi ích từ những lời khuyên của người thầy từ bi và trí tuệ của chúng ta, người đã dành trọn cả cuộc đời để thực hành chánh niệm và thấu hiểu cuộc đời một cách thật sâu sắc và đầy ý nghĩa</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4a853df934182208601f43776459fadb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4a853df934182208601f43776459fadb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/648-tuyet-giua-mua-he-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/648-tuyet-giua-mua-he-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

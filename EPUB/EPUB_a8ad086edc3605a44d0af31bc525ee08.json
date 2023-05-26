@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/triet-ly-lam-giau-cua-nguoi-do-thai-13513.html",
+    "title" : "TRIẾT LÝ LÀM GIÀU CỦA NGƯỜI DO THÁI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhậm Học Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tư tưởng của người Do Thái không bị ràng buộc bởi những quy định cứng nhắc, họ có thể nghĩ tới những điều người khác không dám nghĩ, làm những điều người khác chưa dám làm. Khi đối diện với một vấn đề nan giải, người Do Thái luôn vận dụng tư duy sáng tạo và lối suy nghĩ phá cách của mình để mở ra cánh cửa thành công, từ đó bước chân vào con đường làm giàu. Triết lý làm giàu của người Do Thái sẽ đưa chúng ta vào cuộc phiêu lưu tìm hiểu nguyên do vì sao người Do Thái có thể làm giàu bền vững và gặt hái được những thành tựu đáng nể đến vậy. “… Chúng ta có thể kiểm soát được tiền bạc nhưng không thể kiểm soát thời gian. Không ai có thể nắm giữ được thời gian, nó không thể tăng lên mà chỉ có thể bớt đi. Hơn nữa, chúng ta có thể tích trữ tiền nhưng không thể tích trữ thời gian. Tiền có thể đi vay, nhưng thời gian thì không. Vì thế, người Do Thái cho rằng thời gian quan trọng hơn tiền bạc rất nhiều.” Châm ngôn làm giàu của người Do Thái: “… Không ai có thể cướp đi được tri thức của bạn, đó là thứ thực sự thuộc về bản thân bạn, tiền bạc sẽ đến lúc dùng hết, còn tri thức lại có thể giúp tạo ra tiền.” “… Chỉ khi tiền nằm trong trạng thái luân chuyển thì mới có thể sinh ra tiền.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a8ad086edc3605a44d0af31bc525ee08.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a8ad086edc3605a44d0af31bc525ee08.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13513-triet-ly-lam-giau-cua-nguoi-do-thai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13513-triet-ly-lam-giau-cua-nguoi-do-thai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

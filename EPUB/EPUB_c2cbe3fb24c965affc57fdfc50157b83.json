@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ky-nang-buong-bo-749.html",
+    "title" : "KỸ NĂNG BUÔNG BỎ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Leo Babauta",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Tác Giả Lời Nói Đầu Chương 1: Vì Sao Nên Buông Bỏ? Chương 2: Đối Mặt Với Sự Chần Chừ Chương 3: Đối Mặt Với Nỗi Sợ Chương 4: Đối Mặt Với Những Người Kì Cục Chương 5: Đối Mặt Với Sự Xao Nhãng Chương 6: Đối Mặt Với Thói Quen Chương 7: Đối Mặt Với Khát Khao Sở Hữu Chương 8: Đối Mặt Với Sự Phản Đối Từ Người Khác Chương 9: Đối Mặt Với Sự Thay Đổi Chương 10: Đối Mặt Với Sự Mất Mát Chương 11: Phát Triển Kĩ Năng Buông Bỏ Chương 12: Kỹ Năng Thứ Nhất - Nhận Biết Dấu Hiệu Chương 13: Kĩ Năng Thứ Hai - Nhận Biết Viễn Cảnh Lý Tưởng Chương 14: Kĩ Năng Thứ Ba - Nhận Biết Tác Hại Chương 15: Kĩ Năng Thứ Tư - Buông Bỏ Bằng Tình Yêu Chương 16: Kĩ Năng Thứ Năm - Nhận Thức Thực Tại Chương 17: Luyện Tập Các Kĩ Năng Chương 18: Sau Khi Buông Bỏ Chương 19: Những Nhầm Lẫn Về Buông Bỏ Chương 20: Những Ví Dụ Về Buông Bỏ Chương 21: Con Đường Phía Trước</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c2cbe3fb24c965affc57fdfc50157b83.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c2cbe3fb24c965affc57fdfc50157b83.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/749-ky-nang-buong-bo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/749-ky-nang-buong-bo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

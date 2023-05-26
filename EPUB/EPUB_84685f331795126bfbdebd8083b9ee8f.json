@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khi-moi-diem-tua-deu-mat-373.html",
+    "title" : "KHI MỌI ĐIỂM TỰA ĐỀU MẤT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Marci Shimoff",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI GIỚI THIỆU “Hạnh phúc tự thân” -“Happy for no reason” theo cách gọi của Marci Shimoff, là một đề tài rất đáng quan tâm. Trong cuộc sống ngày nay, con người hầu như được đáp ứng những nhu cầu cơ bản và còn được thụ hưởng nhiều tiện nghi của đời sống hiện đại; nhưng như thế vẫn chưa đủ, chúng ta vẫn luôn mong muốn tìm kiếm nhiều hơn những giá trị từ cuộc sống. Dù bạn mua một chiếc xe mới, tận hưởng một kỳ nghỉ tuyệt vời, được tăng lương hay trở thành người nổi tiếng - thì điều bạn mong đợi nhất vẫn là cảm giác hài lòng và hạnh phúc. Nhưng chúng tôi chỉ muốn tập trung vào nhu cầu hạnh phúc vì quả thật, tôi nghĩ con người ngày nay không có mong ước nào mãnh liệt hơn ước mong tìm được niềm hạnh phúc đích thực. Với quyển sách này, Marci sẽ đáp ứng được mong muốn chính đáng ấy của bạn. Khoảng hai mươi năm trước, lần đầu tiên tôi gặp Marci tại buổi hội thảo chuyên đề về lòng tự trọng và rất ấn tượng bởi khát vọng học hỏi của người phụ nữ này. Về sau Marci trở thành trợ lý của tôi, và sự nghiệp diễn thuyết của cô cũng bắt đầu từ đó. Đến một ngày, tôi không khỏi ngạc nhiên khi cô đưa ra ý tưởng cho việc xuất bản loạt sách Chicken Soup for the Women’s Soul. Marci đã dành trọn tâm huyết để viết quyển sách này. Cô đã không ngừng theo đuổi đề tài về các giá trị hạnh phúc cũng như dấn thân vào sự nghiệp nghiên cứu, tìm tòi và thu được nhiều kết quả rất thú vị. Marci có khả năng truyền đạt rất tốt. Với nhận thức sắc sảo, cô đã đúc kết và đưa ra nhiều phương pháp tiếp cận niềm hạnh phúc đích thực. Tất cả những điều đó khiến cho quyển sách này trở thành một quyển sách rất đáng đọc. Theo kinh nghiệm của tôi từ loạt sách Chicken Soup for the Soul, những câu chuyện có thật là cách tốt nhất để truyền đạt ý tưởng đến độc giả. Marci cùng với Carol Kline, đồng tác giả, đã góp nhặt rất nhiều câu chuyện đời thường - câu chuyện về những người đã áp dụng những phương pháp này, và họ đã thành công. Tôi tin bạn cũng sẽ trở thành người tràn ngập hạnh phúc nếu làm theo những phương pháp được nêu trong quyển sách này! - Jack Canfield</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_84685f331795126bfbdebd8083b9ee8f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_84685f331795126bfbdebd8083b9ee8f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/373-khi-moi-diem-tua-deu-mat-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/373-khi-moi-diem-tua-deu-mat-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

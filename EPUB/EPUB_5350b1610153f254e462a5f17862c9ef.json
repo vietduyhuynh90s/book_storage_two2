@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-khong-ngoc-con-chi-thong-minh-theo-mot-cach-khac-691.html",
+    "title" : "CON KHÔNG NGỐC, CON CHỈ THÔNG MINH THEO MỘT CÁCH KHÁC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lư Tô Vỹ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC CON KHÔNG NGỐC CON CHỈ THÔNG MINH THEO CÁCH CỦA CON LỜI GIỚI THIỆU LỜI DẪN MÓNQUÀ CỦA CUỘC SỐNG Phần thứ nhất Sinh mệnh được nhặtlại Đứa con cầu tự Trải nghiệm tình yêu Được sống thậttốt biết bao! Đứa trẻ không biết xem giờ Tôi không muốn học tiếp nữa! Nỗ lực không bao giờ từ bỏ Mẹ lên lớp học cùng tôi Hương vị của đùi gà Cái giá của tình bạn Con lợn bị chấn thương sọ não Phần thứ hai CHÚCHIM LẠC LOÀI BAY CHẬM Chị cả thi đỗ Đại học Sư phạm Kinh nghiệm thành công Huynh đệ trờisinh Người bạn tốttên Thành Hô mộttiếng kinh động cả thế giới Nước mắt của chị cả Học lại lớp giáo dục đặc biệt Dằn vặt Lệ rơi ở trường Cao đẳng Công nghiệp Đông Nam Nhìn thấy niềm hy vọng mới! Kỳ thi đại học thất bại Phần thứ ba NHÌNTHẤY THIÊNTÀI TRONG CHÍNH MÌNH Chờ đợi cho đến ngày tháng thuộc về chúng ta! Rèn luyện trong quân đội Thấttình Tôi thi đỗ rồi! Năm thứ nhất kinh dị Nhìn thấy thiên tài trong chính mình Trưởng thành cùng con cái Cảm ơn cha mẹ Chặng đường trưởng thành trong nghề nghiệp Lời kết cho cuốn sách</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_5350b1610153f254e462a5f17862c9ef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_5350b1610153f254e462a5f17862c9ef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/691-con-khong-ngoc-con-chi-thong-minh-theo-mot-cach-khac-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/691-con-khong-ngoc-con-chi-thong-minh-theo-mot-cach-khac-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

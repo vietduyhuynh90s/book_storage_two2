@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bach-gia-tranh-minh-13500.html",
+    "title" : "BÁCH GIA TRANH MINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hàn Phi Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thời Xuân Thu - Chiến Quốc, các học phái đua nhau nổi lên, học phái nào cũng bày tỏ chính kiến, tranh biện lẫn nhau, sử gọi là “bách gia tranh minh”. Đây là thời kì chứng kiến sự mở rộng to lớn về văn hóa và tri thức ở Trung Quốc. Học phải tương đối có ảnh hưởng lúc bấy giờ có: Nho, Mặc, Đạo, Pháp, Âm dương... Những học phải này gắn liền với tên tuổi của những Khổng Tử, Mạnh Tử, Mặc Tử, Lão Tử, Hàn Phi Tử... Hàn Phi Tử là nhân vật đại biểu của Pháp gia, ông cho rằng sự động loạn của xã hội là do pháp chế lỏng lẻo mà ra, cho nên Hàn Phi Tử chủ trương “pháp trị”, tức do chính phủ ban bố pháp lệnh và chế độ nhất định, bất luận là cao thấp sang hèn, mọi người đều phải tuân thủ, có công thì thưởng, có tội thì phạt; cho dù là vương Công quý tộc phạm pháp cũng bị trị tội như bách tính. Như vậy, mọi người đều sợ và phải tuân thủ, việc xấu sẽ giảm đi. Người thời nay đọc lại Hàn Phi Tử khó tránh khỏi kinh ngạc bởi từ 2500 trước, ở Trung Quốc đã có được cách thi hành pháp luật hiện đại như thế. Xuất hiện vào cuối thời Chiến quốc, những lý thuyết của Hàn Phi là một trong những yếu tố quan trọng giúp Tần Thuỷ Hoàng thống nhất Trung Quốc. Hàn Phi Tử được xem là “cuốn sách giáo khoa dạy làm vua” độc đáo, mang đậm dấu ấn của chế độ phong kiến Phương Đông. Thông qua tác phẩm này bạn sẽ khai thác được rất nhiều giá trị tư tưởng đổi mới về pháp luật, chính trị, triết học, kinh tế, xã hội, giáo dục, quân sự,...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_ab4cbaad788a7e5bfe497eca0646c53e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_ab4cbaad788a7e5bfe497eca0646c53e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13500-bach-gia-tranh-minh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13500-bach-gia-tranh-minh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

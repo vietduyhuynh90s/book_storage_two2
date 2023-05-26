@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/no-luc-khong-ngung-tu-tot-den-vi-dai-den-khong-the-bi-danh-bai-13482.html",
+    "title" : "NỖ LỰC KHÔNG NGỪNG - TỪ TỐT ĐẾN VĨ ĐẠI ĐẾN KHÔNG THỂ BỊ ĐÁNH BẠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tim S. Grover",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>-Cuốn sách kể chi tiết những phẩm chất quan trọng nhất từ những đối thủ cạnh tranh khốc liệt nhất và thành công nhất trong thể thao,kinh doanh và mọi tầng lớp xã hội. -Cuốn sách sẽ chỉ cho bạn cách tin vào bản năng của mình,làm thế nào để kiểm soát và thích nghi với mọi tình huống,làm thế nào để tìm ra điểm yếu của đối thủ. -Grover sẽ cho bạn lời khuyên mà anh ấy dành cho những người khách hàng đẳng cấp thế giới của mình vói những câu chuyện chưa được kể trước đây và cái nhìn sâu sắc về tâm lý của các vận động viên thành công nhất trong thời đại của chúng ta -Cuốn sách là bản kế hoạch để khám phá những gì bạn có khả năng đạt được,đạt được kết quả mà bạn không bao giờ tưởng tượng,đạt đến mức thành công cao nhất và sau đó còn cao hơn nữa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_99c42ddeec87cd71108d4438a88682ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_99c42ddeec87cd71108d4438a88682ae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13482-no-luc-khong-ngung-tu-tot-den-vi-dai-den-khong-the-bi-danh-bai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13482-no-luc-khong-ngung-tu-tot-den-vi-dai-den-khong-the-bi-danh-bai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

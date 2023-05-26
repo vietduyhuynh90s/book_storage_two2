@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-3-40.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chương 15: MÊ CUNG MAYA Ký hiệu mật mã Âm trận Mê cung Maya Ác ma bay lượn Chương 16: ĐỊA NGỤC CỦA NƯỚC VÀ LỬA Bẫy rập Lửa địa ngục Nước địa ngục Địa ngục của nước và lửa Chương 17: HUYẾT TRÌ Cung điện của Tử thần Hố tuẫn táng Bầu trời sao Huyết trì Chương 18: TRỞ LẠI TÂY TẠNG Cánh cửa cấm kỵ Thang treo di động Sống sót trở về Tổng kết Thỏa hiệp Chương 19: MAYA: BIẾN CHỦNG CHÂU MỸ CỦA VĂN MINH HOA HẠ Giải thích nghi ngờ Bí mật về bộ tộc Qua Ba Bí mật về nhà thám hiểm Stanley Mật tu (1) Mật tu (2) Bí mật về Sáng thế thần của người Inca Chiến huy Chương 20: TÂY TẠNG - MẶC THOÁT: VÙNG ĐẤT BÍ MẬT CUỐI CÙNG Bí mật lịch sử Cổ Cách Bí mật huyết trì Bước ngoặt mới Vùng đất bí mật cuối cùng Thụ táng Chương 21: CÁNH CỬA SINH MỆNH Cổ C|ch cơ quan Phật Thôn Công Bố Thánh hồ Nạp Bạc Thác Hoang phế Chương 22: CÁNH CỬA ĐỊA NGỤC Chư Phật Mật giáo Đường hầm Đa C|t Điệt Bất Cơ quan của Mật giáo (1) Cơ quan của Mật giáo (2) Cánh cửa Địa ngục</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_586c5bc1ea7c825eabfc48b60c9be937.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_586c5bc1ea7c825eabfc48b60c9be937.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/40-mat-ma-tay-tang-tap-3-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/40-mat-ma-tay-tang-tap-3-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

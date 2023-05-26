@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-nguoi-va-cac-the-1083.html",
+    "title" : "CON NGƯỜI VÀ CÁC THỂ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Annie Besant",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tôi xin có vài lời giới thiệu về quyển sách nhỏ này đến quí độc giả. Đây là quyển thứ bảy trong loạt sách nhỏ trình bày đơn giản Minh Triết Thiêng Liêng để đáp ứng nhu cầu công chúng. Một số độc giả phàn nàn sách vở hội Thông Thiên Học quá trừu tượng, quá kỷ thuật và khó hiểu đối với những người bình thường. Chúng tôi hy vọng loạt sách này sẽ đáp ứng được sự mong mỏi của quần chúng. Minh Triết Thiêng Liêng không chỉ dành riêng cho các học giả, mà cho mọi người. Có lẽ một số người khi đọc những quyển sách này lần đầu tiên sẽ nhận ra ý nghĩa tổng quát của nó, từ đó muốn tìm hiểu sâu xa hơn về triết lý, khoa học và tôn giáo của Minh Triết Thiêng Liêng, để có thể đối diện với những vấn đề khó khăn hơn với lòng hăng hái của một sinh viên nhiệt tâm. Đối với những người ấy, sẽ có những tác phẩm lớn, sâu xa hơn dành cho họ. Những quyển sách nhỏ mà chúng tôi giới thiệu nơi đây không phải chỉ dành riêng cho những sinh viên nhiệt thành, không khó khăn ban đầu nào có thể làm họ nản lòng, mà nó cũng được dành cho những người đang bận rộn trong công việc hàng ngày, muốn tìm hiểu một vài chân lý cao cả để hướng dẫn đời sống họ bớt nặng trĩu, và đồng thời giúp họ đối diện với sự chết một cách dễ dàng hơn. Chúng tôi, những người phụng sự các vị Chân Sư, những Bậc Đàn Anh của nhân loại, viết nên những quyển sách này không ngoài mục đích giúp ích quần chúng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_fd1bbc03c2aaf6135a66b44815e3f593.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_fd1bbc03c2aaf6135a66b44815e3f593.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1083-con-nguoi-va-cac-the-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1083-con-nguoi-va-cac-the-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

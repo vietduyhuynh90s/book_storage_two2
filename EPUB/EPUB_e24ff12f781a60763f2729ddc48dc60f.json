@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chet-di-ve-dau-7808.html",
+    "title" : "CHẾT ĐI VỀ ĐÂU?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Chết đi về đâu” là tuyển tập các bài pháp thoại của thầy Thích Nhật Từ tại Hoa Kỳ, Úc châu và Việt Nam. Tác giả đã phân tích những trở ngại về tâm lí trước cái chết, thường làm cho cái chết diễn ra sớm hơn và đau đớn hơn. Quyển sách “Chết đi về đâu” không nhằm giải đáp “cảnh giới đi về” của mọi người và mọi loài, mà nhằm phân tích sự tương thích về nhân quả và nghiệp của con người trong tiến trình tái sinh, dưới góc độ Phật giáo. Triết học Phật giáo xác định rõ, chết không phải là sự kết thúc vĩnh viễn của một kiếp người, trên thực chất chỉ là một dấu chấm rất nhỏ trong tiến trình sanh tử. Đạo Phật còn xác định khái niệm âm phủ mà nhân gian thường sử dụng mô tả cảnh giới vĩnh hằng sau khi chết, chỉ là một ý niệm sai lầm và gây ảnh hưởng tiêu cực trong tiến trình tái sinh. Vì nghĩ rằng có âm phủ, nhiều gia đình đã đốt giấy vàng mã một cách lãng phí. Dựa vào lời Phật dạy, tác giả hướng dẫn các kỹ năng buông xả trước lúc ra đi, để cái chết diễn ra tự nhiên, nhẹ nhàng và thanh thoát. Theo đó, người đối diện cái chết khỏi phải bận tâm mình đã sống được bao nhiêu năm trên đời, thay vào đó là chánh niệm “sống như thế nào”. Theo tác giả, chánh niệm về cách thức sống sẽ làm cho đời sống hàng ngày có chất lượng hơn. Sống tích cực, năng động, tinh tấn hướng về chân thiện mỹ, bây giờ và tại đây, chính là làm cho cuộc sống có ý nghĩa hơn. Sống lương thiện, đạo đức trong tinh thần phụng sự với thái độ vô ngã, vị tha thì ngay cái chết, dù chết như thế nào, người ra đi chắc hẳn sẽ có “một cõi đi về” thích hợp.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_e24ff12f781a60763f2729ddc48dc60f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_e24ff12f781a60763f2729ddc48dc60f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7808-chet-di-ve-dau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7808-chet-di-ve-dau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

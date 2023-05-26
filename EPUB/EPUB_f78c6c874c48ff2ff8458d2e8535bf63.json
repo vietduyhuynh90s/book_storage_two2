@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lich-su-thong-thien-hoc-tap-2-205.html",
+    "title" : "LỊCH SỬ THÔNG THIÊN HỌC - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "H. S. Olcott",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>LỜI GIỚI THIỆU Tập sách này trình bày về lịch sử hình thành và phát triển của Hội Thông thiên học, một tổ chức huyền linh đã từng một thời tạo ra khá nhiều ảnh hưởng ở nhiều nơi trên thế giới. Tiếp theo tập Hồi ký của Đại tá H. S. Olcott, một trong hai nhà đồng sáng lập của Hội Thông thiên học, tập sách này cũng do Đại tá Olcott kể lại một cách khách quan những giai thoại huyền bí mà bản thân ông đã từng chứng kiến. Độc giả có thể tin hoặc không tin vào lời kể của tác giả, và những giai thoại huyền bí được thuật lại ở đây có hàm chứa những ý nghĩa gì hoặc phải được giải thích như thế nào, những điều đó không quan trọng. Điểm đặc sắc nổi bật trong tập sách này là thông qua những câu chuyện được kể lại, nhiều sự kiện lịch sử có liên quan cũng được ghi nhận một cách chính xác, và được mô tả một cách chi tiết, sống động, cung cấp cho người đọc một cái nhìn tồn cảnh về đất nước Ấn Độ trong một giai đoạn mà ngày nay rất ít người còn nhớ đến. Trong ý nghĩa đó, hy vọng tập sách sẽ mang lại rất nhiều điều thú vị cho bạn đọc. Xin trân trọng giới thiệu. NXB TÔN GIÁO</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f78c6c874c48ff2ff8458d2e8535bf63.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f78c6c874c48ff2ff8458d2e8535bf63.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/205-lich-su-thong-thien-hoc-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/205-lich-su-thong-thien-hoc-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

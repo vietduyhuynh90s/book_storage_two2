@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vu-tru-xoan-quyen-4-1133.html",
+    "title" : "VŨ TRỤ XOẮN - QUYỂN 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dolores Cannon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tôi đang giả định rằng (mà có thể không chính xác), vào thời điểm người đọc đạt đến điểm này trong tác phẩm của tôi, họ sẽ cảm thấy quen thuộc với hình ảnh tôi là một người nghiên cứu về sự huyền bí thông qua sử dụng thuật thôi miên. Tôi bắt đầu sử dụng thuật thôi miên từ những năm 1960 với các phương pháp cũ. Sau khi có gia đình, tôi trở lại với công việc này vào năm 1979. Sau đó, tôi muốn nghiên cứu sâu hơn về thuật hồi quy tiền kiếp để trị liệu, vì vậy tôi đã nghiên cứu các phương pháp cảm ứng mới và nhanh hơn, sử dụng hình ảnh và hình ảnh hóa. Qua nhiều năm nghiên cứu và trị liệu, tôi đã phát triển được kỹ thuật của riêng mình, chỉ sử dụng thuật thôi miên. Đây là phương pháp mà tôi có thể khai thác được vô số thông tin bằng cách giao tiếp trực tiếp với Siêu Thức (subconscious mind). Bằng phương pháp này, các thực thể khác thường sẽ tận dụng trạng thái thôi miên sâu của đối tượng nghiên cứu để giao tiếp. Điều này vẫn đang tiếp tục sau hơn 20 năm, khiến lượng thông tin mà tôi thu thập được vô cùng khổng lồ. Tôi sẽ sử dụng các thông tin này để đưa vào các cuốn sách sắp tới. Tôi đã được báo rằng tôi vượt qua các bài kiểm tra và sẽ được phép hỏi bất cứ câu hỏi nào tôi muốn. Đó là vì tôi đã luôn trung thực với các ghi chép, không sửa đổi nó. Vì tôi xem bản thân là một người ghi chép lại, một nhà nghiên cứu tâm lý, và nghiên cứu các kiến thức “bị đánh mất”. Do đó, công việc nghiên cứu này là không có hồi kết. Bạn đọc sẽ để ý các nghiên cứu của tôi rằng các thực thể khác sử dụng từ vựng có trong Siêu Thức của chủ thể, để cung cấp các phép loại suy trong nỗ lực giải thích những điều không thể giải thích theo cách mà con người có thể hiểu được. Vì vậy họ thường sử dụng những từ không chuẩn tiếng Anh. Họ sẽ tạo ra các từ gần với các danh từ và động từ mà họ có thể tìm thấy trong Siêu Thức của chủ thể. Dù gì đi nữa, đó là cách mà họ đã làm và nó hiệu quả, chúng ta có thể hiểu được những gì họ đang cố gắng truyền đạt. Dolores Cannon</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_dc8558f0f0c23059eb918be8193b4aa5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_dc8558f0f0c23059eb918be8193b4aa5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1133-vu-tru-xoan-quyen-4-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1133-vu-tru-xoan-quyen-4-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phai-trai-dung-sai-786.html",
+    "title" : "PHẢI TRÁI ĐÚNG SAI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Michael Sandel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Là cuốn sách triết học đầu tiên trong bộ sách Cánh cửa mở rộng, Phải trái đúng sai tuy là một cuốn sách đòi hỏi nhiều suy luận, nhưng giá trị mà tập sách mang lại cho những độc giả kiên nhẫn là vô giá. Ở tập sách này, tác giả Michael Sandel sẽ mổ xẻ những vấn đề từng khuấy động nước Mỹ một thời, như vụ bê bối của tổng thống Bill Clinton, vấn đề về hôn nhân đồng tính trong nước dân chủ như Mỹ, huân chương nào cho những chiến sĩ tại Iraq,... Dưới góc nhìn riêng biệt của chính tác giả và của các triết gia nổi tiếng như Aristotles, Immunuel Kant, John Stuart Mill, John Rawls,... “Quyển sách không cố gắng chứng minh triết gia nào ảnh hưởng tới triết gia nào trong lịch sử tư tưởng chính trị, mục tiêu của quyển sách là mời gọi độc giả xem xét cẩn trọng quan điểm về công lý và sự xem xét mang tính phê bình của mình, để xác định mình nghĩ gì, và tại sao lại vậy.” Đây là 1 cuốn sách khó đọc. Tuy nhiên, phần thưởng dành cho những độc giả kiên nhẫn thực sự là một trái táo vàng. Đọc cuốn sách này xong, bạn sẽ nhìn những vấn đề mâu thuẫn, trái ngược xung quanh bạn dưới con mắt khác: Hiểu và Thấu đáo. Trong cuộc sống, điều Đúng - Sai, Phải - Trái luôn luôn tồn tại song song. Cùng 1 vấn đề đó, có người nói Đúng, người bảo Sai, người khăng khăng nói Phải, người quả quyết là Trái. Mỗi người 1 quan điểm, ai cũng có lý. Tuy nhiên, cách hành xử của mỗi người hoàn toàn khác nhau và hầu như những cách hành xử đó không hề có 1 chuẩn gọi là pháp lý hay đạo đức nào cả. Tất cả phán quyết đôi khi không nằm ở đầu, nhưng nằm ở trái tim. Đảm bảo khi đọc xong cuốn sách này, bạn sẽ nhìn, xử lý những sự việc xung quanh một cách có lý trí và điềm đạm.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_1a130bc1a3cb8ea9c852bd3b77f42a3f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_1a130bc1a3cb8ea9c852bd3b77f42a3f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/786-phai-trai-dung-sai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/786-phai-trai-dung-sai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

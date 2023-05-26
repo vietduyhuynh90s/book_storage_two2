@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ami-cau-be-cua-cac-vi-sao-quyen-1-161.html",
+    "title" : "AMI - CẬU BÉ CỦA CÁC VÌ SAO - QUYỂN 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Enrique Barrios",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thật không phải dễ dàng để viết một quyển sách khi bạn không phải là một nhà văn, thậm chí còn khó khăn hơn nếu bạn vẫn còn là một đứa trẻ. Nhưng tôi phải làm điều đó theo lời yêu cầu của một người bạn đến từ các ngôi sao. Tên bạn ấy là Ami. Tôi xin kể lại những kinh nghiệm mà tôi đã may mắn khi gặp người bạn ấy. Bạn ấy giải thích với tôi rằng trong thế giới tiên tiến như của bạn ấy, “người lớn” hay “người trưởng thành” có nghĩa là “người mà bị mất liên lạc với cuộc sống kỳ diệu,” thế nên những “người trưởng thành” thì chỉ mười lăm tuổi và “trẻ con” thì đến cả trăm tuổi. Bạn ấy cũng cảnh báo với tôi rằng “người lớn” đã không mấy quan tâm thông tin trong sách này bởi vì họ dễ tin vào những điều kinh khủng, ngay cả khi điều đó sai, hơn là họ tin vào điều những kỳ diệu thậm chí khi điều đó là sự thật. Vì vậy, sẽ không có vấn đề gì khi bạn ấy đề nghị tôi nên kể rằng tất cả chỉ là do một sự ngẫu hứng để tôi có thể viết lên một câu chuyện dành cho trẻ con. Thế nên, điều tôi sắp kể ra ở đây. Đây là một câu chuyện … CẢNH BÁO (Hướng dẫn viết bởi người lớn) Xin đừng đọc sách này, nếu bạn không thích. Xin lỗi, nhưng những gì sắp kể dưới đây là Điều kỳ diệu “… và họ sẽ dùng thanh kiếm của họ đánh vào lưỡi cày, và thanh giáo của họ sẽ làm mẻ lưỡi mác: các quốc gia sẽ không nâng kiếm đánh nhau nữa, họ cũng sẽ không học chiến tranh nữa “ MỤC LỤC CHƯƠNG 1 CUỘC GẶP GỠ ĐẦU TIÊN CHƯƠNG 2 CẬU BÉ JIM BIẾT BAY CHƯƠNG 3 ĐỪNG LO LẮNG CHƯƠNG 4 CẢNH SÁT CHƯƠNG 5 BẮT CÓC NGƯỜI NGOÀI HÀNH TINH CHƯƠNG 6 CÂU HỎI VỀ ĐƠN VỊ ĐO LƯỜNG CHƯƠNG 7 BỊ PHÁT HIỆN CHƯƠNG 8 OPHIR! CHƯƠNG 9 LUẬT CĂN BẢN CỦA VŨ TRỤ CHƯƠNG 10 TÌNH BẰNG HỮU GIỮA CÁC HÀNH TINH CHƯƠNG 11 DƯỚI NƯỚC CHƯƠNG 12 THỜI ĐẠI MỚI CHƯƠNG 13 CÔNG CHÚA TRỜI XANH CHƯƠNG 14 CHO ĐẾN KHI CHÚNG TÔI GẶP NHAU</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_cbb40be21dc243df3c9f04866c243467.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_cbb40be21dc243df3c9f04866c243467.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/161-ami-cau-be-cua-cac-vi-sao-quyen-1-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/161-ami-cau-be-cua-cac-vi-sao-quyen-1-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

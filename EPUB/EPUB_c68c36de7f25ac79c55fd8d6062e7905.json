@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thoai-voi-thuong-de-tap-5-1102.html",
+    "title" : "ĐỐI THOẠI VỚI THƯỢNG ĐẾ - TẬP 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Neale Donald Walsch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bạn có thể dành thời gian để kết nối với Thượng Đế bên trong và NÊN MỘT VỚI THƯỢNG ĐẾ. Mối quan hệ với trí tuệ bên trong, với SỰ SỐNG bên trong, với TÌNH YÊU bên trong là mối quan hệ quan trọng nhất. Một khi bạn kết nối với Thượng Đế bên trong, cả cuộc đời bạn, cả con người bạn sẽ chẳng còn phải khó khăn gì. Vì hơi thở sự sống là thứ duy nhất quan trọng để bạn được sống... Và Sự Sống - Thượng Đế chính là năng lượng này. Đừng tìm kiếm tri thức ở đâu khác, chỉ cần nhận biết từ Sự Sống chảy ra vào thân tâm bạn mỗi phút giây HIỆN TẠI.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c68c36de7f25ac79c55fd8d6062e7905.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c68c36de7f25ac79c55fd8d6062e7905.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1102-doi-thoai-voi-thuong-de-tap-5-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1102-doi-thoai-voi-thuong-de-tap-5-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

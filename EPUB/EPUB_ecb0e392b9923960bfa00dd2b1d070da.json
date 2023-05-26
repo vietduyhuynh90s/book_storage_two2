@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhan-gian-du-ky-7757.html",
+    "title" : "NHÂN GIAN DU KÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thánh Hiền Đường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phàm chân lý được duy trì là nhờ hành giả kiên nhẫn giữ gìn đạo đức, người đời vì mê hoặc nên phần đông bỏ thanh tịnh chạy theo động loạn, khiến bị sóng tửu sắc cuốn trôi vào biển khổ trầm luân, những kẻ sa cơ lỡ bước này kể sao cho xiết. Nay đệ tử Thánh Hiền Đường chịu khổ cực phát tâm ấn hành tạp chí Thánh Hiền là cốt..</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_ecb0e392b9923960bfa00dd2b1d070da.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_ecb0e392b9923960bfa00dd2b1d070da.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7757-nhan-gian-du-ky-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7757-nhan-gian-du-ky-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

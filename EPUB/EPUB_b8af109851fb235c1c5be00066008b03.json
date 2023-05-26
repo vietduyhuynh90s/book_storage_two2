@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tia-chop-giu-bau-troi-7803.html",
+    "title" : "TIA CHỚP GIỮ BẦU TRỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Thành Chơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Từ sau năm 1945 đến nay, nền văn chương nước nhà luôn được tô đậm bởi một đội hình nhà văn - chiến sĩ trưởng thành từ trong khói lửa của cách mạng và chiến tranh. Nhằm giữ gìn và phát huy những giá trị làm nên bản sắc văn chương nước nhà, mới đây Hội Nhà văn Việt Nam cho xuất bản Tuyển tập văn xuôi và Tuyển tập thơ thế hệ nhà văn chống Mỹ cứu nước. Kỳ này xin được giới thiệu cùng bạn đọc truyện ngắn “Tia chớp giữa bầu trời” của nhà văn Lê Thành Chơn in trong Tuyển tập văn xuôi thế hệ nhà văn chống Mỹ cứu nước.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b8af109851fb235c1c5be00066008b03.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b8af109851fb235c1c5be00066008b03.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7803-tia-chop-giu-bau-troi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7803-tia-chop-giu-bau-troi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

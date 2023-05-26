@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dac-quyen-cua-gai-hu-3036.html",
+    "title" : "ĐẶC QUYỀN CỦA GÁI HƯ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "‎Kara King",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“ĐẶC QUYỀN CỦA GÁI HƯ” - TUYỆT CHIÊU GIÚP PHÁI ĐẸP NẮM MỌI THỨ TRONG TAY, XOAY MỌI THỨ QUANH MÌNH. Cuốn sách giúp bạn nhận ra đã đến lúc bạn không còn phải lựa chọn giữa tình yêu, sự tôn trọng hay một chiếc nhẫn. Bởi bạn xứng đáng có được tất cả những điều đó! Bằng những chia sẻ thẳng thắn và lối suy nghĩ cởi mở về những vấn đề nhạy cảm trong đời sống của phái đẹp, tác giả Kira King sẽ giúp bạn phá vỡ mọi rào cản mà trước giờ bạn vẫn hằng e sợ. Quan hệ tình dục trước hôn nhân liệu có phải là xấu? Làm tình với người mình yêu có bị coi là dễ dãi? Là phụ nữ thì không nên chủ động trong chuyện “giường chiếu”? Với “ĐẶC QUYỀN CỦA GÁI HƯ”, bạn sẽ tìm được đáp án của riêng bạn cho tất cả những câu hỏi còn bỏ ngỏ đó. Nhưng dù câu trả lời bạn chọn có là gì, thì khi khám phá hết 12 sức mạnh tiềm ẩn của phái đẹp (tương đương với 12 chương sách), bạn cũng sẽ hiểu ra rằng: Bạn có thể lấy mọi thứ bạn muốn từ đàn ông mà không còn cần phải lo sợ việc sẽ bị tổn thương, bị lừa, hay bị đá. Bởi khi đã hiểu rõ nội lực và giá trị của chính bản thân mình, bạn luôn có thể thay đổi và có được mọi thứ bạn khao khát. Đôi khi bạn cũng cần tham lam, và thật nhẫn tâm để nắm mọi thứ trong tay, xoay mọi thứ quanh mình. Thế giới này cần những người phụ nữ như vậy để bớt đi khổ đau, vơi đi nước mắt. Và hãy đọc cuốn sách này với một trái tim vững vàng, một cái đầu thật rộng mở. Sau cùng, bạn sẽ có được lời cam kết, chiếc nhẫn và cả người đàn ông trong mơ của bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a82e11499009d56624883634a37cfb45.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a82e11499009d56624883634a37cfb45.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3036-dac-quyen-cua-gai-hu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3036-dac-quyen-cua-gai-hu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

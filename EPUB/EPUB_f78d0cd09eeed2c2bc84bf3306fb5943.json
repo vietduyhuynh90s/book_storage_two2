@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/trang-nguyen-viet-nam-7887.html",
+    "title" : "TRẠNG NGUYÊN VIỆT NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Dưới chế độ thi cử thời phong kiến, để có được danh hiệu Trạng nguyên mỗi môn sinh dự thi phải vượt qua ba kỳ thi: thi Hương, thi Hội, thi Đình. Trạng nguyên là danh hiệu thuộc học vị Tiến sĩ của người đỗ cao nhất trong các khoa Đình. Khoa thi đầu tiên được tổ chức năm 1075 dưới thời nhà Lý, nhưng phải đến năm 1246 dưới đời vua Trần Thái Tông mới đặt ra định chế Tam khôi (ba vị trí đỗ đầu có tên gọi thứ tự là: Trạng nguyên, Bảng nhãn, Thám hoa) thì mới có danh hiệu Trạng nguyên. Cuốn sách Kể chuyện Trạng nguyên Việt Nam do Nhà xuất bản Chính trị quốc gia - Sự thật phối hợp với Nhà xuất bản Văn học xuất bản, kể về các Trạng nguyên được chính thức công nhận danh hiệu Trạng nguyên (bắt đầu từ kỳ thi năm 1246). Cuốn sách nhằm góp phần cung cấp thông tin về thân thế, sự nghiệp cùng một số giai thoại về các Trạng nguyên. Đồng thời, qua cuốn sách bạn đọc có thể hiểu rõ thêm về truyền thống hiếu học của nhân dân ta từ bao đời nay. Đây là tài liệu tham khảo, góp phần giúp cho cán bộ ở cơ sở xã, phường, thị trấn trong việc tuyên truyền, giáo dục truyền thống, triển khai các hoạt động khuyến học của mỗi địa phương một cách thiết thực. Xin trân trọng giới thiệu cuốn sách với bạn đọc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f78d0cd09eeed2c2bc84bf3306fb5943.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f78d0cd09eeed2c2bc84bf3306fb5943.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7887-trang-nguyen-viet-nam-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7887-trang-nguyen-viet-nam-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

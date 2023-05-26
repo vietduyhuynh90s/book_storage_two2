@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nghe-thuat-tu-choi-7907.html",
+    "title" : "NGHỆ THUẬT TỪ CHỐI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Damon Zahariades",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nghệ Thuật Từ Chối - Cách Nói Không Mà Vẫn Có Được Đồng Thuận (Damon Zahariades) Từ chối mọi lời mời hoặc lời nhờ vả của mọi người xung quanh có thực sự khó? Bạn đã từng rơi vào hoàn cảnh: - Chán nản với những người đang lợi dụng bạn. - Mệt mỏi với việc đồng nghiệp, bạn bè hay các thành viên trong gia đình đòi hỏi bạn phải làm những việc của họ và dành thời gian của bạn cho họ không. Không phải lúc nào chúng ta cũng có thể làm hài lòng tất cả mọi người. Bạn luôn sợ làm người khác phật ý hay buồn lòng, sợ mọi người nghĩ mình ích kỷ, không hòa đồng hay sợ bỏ lỡ cơ hội được thể hiện mình. Mọi BÍ KÍP bạn cần để có một lời từ chối HOÀN HẢO có đều nằm trong cuốn sách “NGHỆ THUẬT TỪ CHỐI - CÁCH NÓI KHÔNG MÀ VẪN CÓ ĐƯỢC SỰ ĐỘNG THUẬN”. Tất tần tật về từ chối bao gồm: Bàn về thói quen làm vừa lòng người khác của chúng ta. Những lý do chúng ta gặp khó khăn khi từ chối khi người khác nhờ vả. 10 chiến lược từ chối đối phương. Đây là cẩm nang tuyệt vời giúp bạn thiết lập những mối quan hệ gắn bó mà bản thân không cảm thấy áp lực nằm trong “Nghệ thuật Từ Chối - Cách Nói Không Mà Vẫn Có Được Đồng Thuận\", sẽ giúp bạn tìm hiểu nguyên nhân và đưa ra lời từ chối nhẹ nhàng mà không để lại vết “sẹo” trong lòng đối phương. Cuốn sách chia quy trình Từ chối thành những bước như - Chuẩn bị từ chối - Đưa ra từ chối và Hoàn tất từ chối, hướng dẫn bạn phương pháp nói Không hiệu quả, mạnh mẽ nhất, bạn có thể thực hiện ngay trong đời sống, công việc và các mối quan hệ. Lợi ích mà cuốn sách mang lại: Có nhiều thời gian tập trung vào các công việc chuyên môn, cũng như dành nhiều công sức, nỗ lực cho nó. Bỏ bớt được những công việc yêu cầu quá sức hoặc những điều bạn không thích làm, đặc biệt tránh được tình trạng việc “ngập đầu”. Thoải mái theo đuổi những sở thích và dự án mới mà mình quan tâm. Cơ hội để đối phương “tự lực cánh sinh” thay vì đi nhờ vả, ỉ lại sự giúp đỡ của bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_9de5ae6ad65961809a89cda908136ee8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_9de5ae6ad65961809a89cda908136ee8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7907-nghe-thuat-tu-choi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7907-nghe-thuat-tu-choi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
