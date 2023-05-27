@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khuyen-nguoi-niem-phat-tap-3-1219.html",
+    "title" : "KHUYÊN NGƯỜI NIỆM PHẬT - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệu Âm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ta cùng chúng sanh nhiều kiếp đến nay hằng ở trong vòng sanh tử, chưa từng được thoát ly. Khi ở cõi này, lúc thế giới khác. Khi sanh thiên cảnh lúc sống dưới nhân gian. Siêu đọa trong phút giây, xuống lên ngàn muôn nẻo! Cửa quỷ sớm đi rồi chiều lại, âm ty nay thoát bỗng mai vào. Lên non đao rừng kiếm, thân thể đứt lìa. Nuốt sắt nóng dầu sôi, ruột gan rã cháy. Khóc than trong lửa, rên xiết trong băng. Muôn lần sống chết nội ngày đêm, giây phút khổ đau trong thế kỷ. Lúc ấy dù biết tội khổ, nhưng ăn năn sao kịp! Đến khi ra khỏi, vội liền quên mất, vẫn tạo tội như thường. Tâm không hằng như lữ khách ruổi giong, thân chẳng định dường cửa nhà thay đổi. Cát bụi cõi đại thiên không tính nổi số thân luân chuyển. Nước đầy trong bốn biển chẳng nhiều bằng giọt lệ biệt ly! Nếu không có lời Phật nói, thì việc này ai thấy ai nghe? Ví như chẳng xem kinh, lý ấy đâu hay đâu biết? Thảng hoặc luyến mê như trước, chỉnh e y cũ luân hồi. Rồi ra trăm kiếp nghìn sanh, khó hồi một lầm trăm lẫn. Giờ tốt vội qua mà chẳng lại, thân người dễ mất nhưng khó tìm. Âm cảnh mịt mờ, Xót nỗi biệt ly dài đặt. Tam đồ ác báo, Thương cho thống khổ ai thay! Vậy nên phải: Dứt nguồn sanh tử, Cạn bể dục si, Độ thoát mình người, Đồng lên giác ngạn, Muôn đời siêu, đọa Duy ở kiếp này Không bê trễ được. “Giác nhi bất mê Chánh nhi bất tà Tịnh nhi bất nhiễm”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_2b5406b616e0419bb343d55dc7944014.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_2b5406b616e0419bb343d55dc7944014.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1219-khuyen-nguoi-niem-phat-tap-3-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1219-khuyen-nguoi-niem-phat-tap-3-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

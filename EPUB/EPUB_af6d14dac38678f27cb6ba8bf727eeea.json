@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vi-sao-nguoi-hien-lanh-van-gap-dau-kho-13921.html",
+    "title" : "VÌ SAO NGƯỜI HIỀN LÀNH VẪN GẶP ĐAU KHỔ?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chuyện kể rằng, một Phật tử hỏi vị thiền sư có đạo hạnh rất cao rằng: \"Vì sao người tốt và hiền lành như con vẫn thường đau khổ, mà những người ác ngoài kia lại có thể sống tốt đến vậy? Người tốt sao vẫn khổ có phải ông trời bất công?\" Vị thiền sư nhìn Phật tử bằng đôi mắt đầy tư bi và trả lời: \"Nếu một người trong lòng cảm thấy khổ, có nghĩa là trong tâm người ấy còn ác tâm. Nếu trong lòng một người không có ác tâm, vậy người đó sẽ không thấy thống khổ. Dựa theo đạo lý này, nếu con cảm thấy mình vẫn khổ, cũng đồng nghĩa ác tâm vẫn tồn tại trong lòng con, con chưa phải là người lương thiện thực sự, mà những người con cho là ác cũng chưa chắc đã thật là kẻ ác. Bởi một người có thể sống vui vẻ, thì họ không phải là người ác thực sự!\" Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_af6d14dac38678f27cb6ba8bf727eeea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_af6d14dac38678f27cb6ba8bf727eeea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13921-vi-sao-nguoi-hien-lanh-van-gap-dau-kho-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13921-vi-sao-nguoi-hien-lanh-van-gap-dau-kho-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

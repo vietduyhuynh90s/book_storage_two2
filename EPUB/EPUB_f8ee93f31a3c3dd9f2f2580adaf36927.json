@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-duong-may-trang-12.html",
+    "title" : "CON ĐƯỜNG MÂY TRẮNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Giới thiệu... 1 1 Con đường của mây trắng.. 1 2 Bí ẩn bên ngoài tâm trí.. 10 3 Khổ sở hay cực lạc?... 39 4 Mọi hi vọng đều sai. 61 5 Vứt bỏ bản ngã bây giờ. 81 6 Bác vẫn còn đeo mang cô ấy à?. 103 7 Bí ẩn của quan hệ.. 123 8 Chỉ trái chín mới rụng. 145 9 Buông xuôi và tôi sẽ lo phần còn lại... 165 10 Bạn là con đường... 183 11 Bạn là điểm gặp gỡ... 203 12 Bất kì cái gì bạn làm, hãy toàn bộ.. 227 13 Thượng đế là trong sự tìm kiếm của bạn... 249 14 Cả hai đều cần.. 271 15 Chia sẻ qua hiện hữu của bạn.. 299 Về Osho. 321</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f8ee93f31a3c3dd9f2f2580adaf36927.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f8ee93f31a3c3dd9f2f2580adaf36927.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chương 1: Con Đường Mây Trắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=2345",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:05 Chương 2: Huyền Nhiệm Vượt Trên Tâm Thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=4859",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:20:59 Chương 3: Đau Khổ Hay Cực Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=7343",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:02:23 Chương 4: Hy Vong Hay Hư Vọng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=10078",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:47:58 Chương 5: Buông Bỏ Bản Ngã Ngay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chương 1: Con Đường Mây Trắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=2345",
+    "title" : "00:39:05 Chương 2: Huyền Nhiệm Vượt Trên Tâm Thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=4859",
+    "title" : "01:20:59 Chương 3: Đau Khổ Hay Cực Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=7343",
+    "title" : "02:02:23 Chương 4: Hy Vong Hay Hư Vọng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12-con-duong-may-trang-thuviensach.vn.mp3?t=10078",
+    "title" : "02:47:58 Chương 5: Buông Bỏ Bản Ngã Ngay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

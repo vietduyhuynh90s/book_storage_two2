@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/10-thoi-quen-xau-cuop-di-hanh-phuc-cua-ban-13889.html",
+    "title" : "10 THÓI QUEN XẤU CƯỚP ĐI HẠNH PHÚC CỦA BẠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những việc làm lặp đi lặp lại sẽ định hình con người chúng ta. Thói quen tốt có thể nâng chúng ta lên tới đỉnh cao của hạnh phúc, ngược lại thói quen xấu, cuối cùng sẽ dìm chúng ta xuống vực sâu đau khổ. Sau đây là 10 thói quen mà nếu bạn đang mắc phải thì hãy thay đổi ngay, vì chúng đang cướp đi hạnh phúc của bạn. Giọng đọc: Hà Diễm</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_647460c11e9473a719e65d10d7903278.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_647460c11e9473a719e65d10d7903278.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13889-10-thoi-quen-xau-cuop-di-hanh-phuc-cua-ban-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13889-10-thoi-quen-xau-cuop-di-hanh-phuc-cua-ban-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

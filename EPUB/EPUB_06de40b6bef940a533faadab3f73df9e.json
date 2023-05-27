@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-5-42.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chương 31 - Kẻ tôi tớ của núi tuyết Tâm sự của Trác Mộc Cường Ba Núi tuyết Kẻ tôi tớ của núi tuyết Cương Lạp Mai Đóa Tín ngưỡng của người Qua Ba Chương 32 - Suy đoán về Tử kỳ lân Suy đoán về Tử kỳ lân Linh ngao Hải lam thú Thú chiến Chương 33 - Những con sói chưa thấy bao giờ Những con sói chưa thấy bao giờ Mưu kế của bầy sói Đụng độ Lang tiêu Thân thế của Cương Lạp Chương 34 - Thủy tinh cung Hậu duệ Bạch Ngân Bình minh núi tuyết Cánh cửa Địa ngục Khe băng nứt Thủy tinh cung 1 Chương 35 - Cực Nam miếu Mê cung băng Thủy tinh cung 2 Cực nam miếu Tuyệt vọng Dốc băng dựng đứng Cái chết của Cương Nhật Phổ Bạc Chương 36 - Tử vong Tây Phong Đới Cái chết của Cương Lạp Tử vong Tây phong đới Hồi ức của Ba Tang Tuyết lở Chương 37 - Nhật ký của Đường Thọ Trở lại Tây phong đới Huynh đệ Tình đêm lạnh Tái ông mất ngựa Rút củi đáy nồi Chương 38 - Số mệnh trong đời Sụp đổ Sụp đổ hoàn toàn Quán rượu Hẹn Hò Niết Bàn đẫm máu Làm lại từ đầu</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_06de40b6bef940a533faadab3f73df9e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_06de40b6bef940a533faadab3f73df9e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/42-mat-ma-tay-tang-tap-5-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/42-mat-ma-tay-tang-tap-5-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

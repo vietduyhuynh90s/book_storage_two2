@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/8-triet-ly-ve-tinh-yeu-trong-hoang-tu-be-13881.html",
+    "title" : "8 TRIẾT LÝ VỀ TÌNH YÊU TRONG HOÀNG TỬ BÉ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hoàng tử bé là cuốn truyện gắn với tuổi thơ của nhiều người. Mặc dù dành cho trẻ con nhưng Hoàng tử bé vẫn khiến người lớn yêu thích. Truyện có nhiều tầng lớp nghĩa. Trẻ con sẽ thấy đây là câu chuyện đáng yêu, với một thế giới tưởng tượng vô cùng sinh động. Người lớn bị cuốn hút bởi những triết lý ẩn sâu bên trong. Có người đã đọc Hoàng tử bé nhiều lần, mỗi lần lại ngẫm ra một triết lý trong đó. Giọng đọc: Titi</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_1ec0bd51d2a203a867540eebf1c9e56b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_1ec0bd51d2a203a867540eebf1c9e56b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13881-8-triet-ly-ve-tinh-yeu-trong-hoang-tu-be-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13881-8-triet-ly-ve-tinh-yeu-trong-hoang-tu-be-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

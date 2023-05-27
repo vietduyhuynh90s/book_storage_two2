@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chia-tay-roi-dung-lam-minh-ton-thuong-them-nua-13956.html",
+    "title" : "CHIA TAY RỒI ĐỪNG LÀM MÌNH TỔN THƯƠNG THÊM NỮA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hôm ấy, cô đổi ảnh đại diện cùng tình yêu mới... Anh lặng lẽ cùng nhóm bạn đi uống bia thật khuya mới về đến nhà. Nằm vật vã trên giường anh nhận ra mình thật tệ, anh chưa bao giờ dám thừa nhận mối quan hệ trên mức tình bạn với cô, mặc dù bề ngoài kể cả những người không quen biết họ cũng nhận ra được tình cảm của cả hai dành cho nhau. Ấy vậy mà anh vẫn luôn trốn tránh nó, anh cảm thấy mình còn nhiều mục tiêu khác cần phải hoàn thành trước khi có thể yêu thương người phụ nữ của mình. Với anh, công việc, tiền bạc và sự thành đạt là quan trọng hơn cả rồi mới đến tình yêu và gia đình. Có lẽ vì vậy dù đã gần 30 nhưng mặc gia đình hối thúc, mong ngóng anh vẫn mặc định làm những điều mình muốn. Và rồi anh mất cô... Người đã dùng bao nhiêu năm tháng trong cuộc đời để chờ đợi anh, để mong anh có thể một lần đối diện với tình cảm của bản thân. Nhưng rồi chỉ nhận lại những tổn thương từ anh và cuối cùng cũng rời đi. Anh cười nhạt, anh chẳng trách cô đâu chỉ trách bản thân mình tại sao lại có thể bắt cô chờ đợi, im lặng và rồi cứ ngày một đẩy cô xa mình hơn. Anh chợt nhận ra hình như trước giờ, chỉ có khi anh cần thì cô luôn có mặt, chứ không nhớ được bao nhiêu lần mình có mặt lúc cô cần. Hình như là chưa từng thì phải... Tác giả: Như Ý PT, Nhất Lam Giọng đọc: Thắng Leo Thực hiện: Hằng Nga Thiết kế: Hương Giang</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_77d65be79c25ab799e04b79bd932a9f8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_77d65be79c25ab799e04b79bd932a9f8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13956-chia-tay-roi-dung-lam-minh-ton-thuong-them-nua-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13956-chia-tay-roi-dung-lam-minh-ton-thuong-them-nua-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

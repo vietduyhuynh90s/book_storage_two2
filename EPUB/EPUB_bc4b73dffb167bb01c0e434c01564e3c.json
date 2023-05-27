@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/song-thac-voi-tinh-7848.html",
+    "title" : "SỐNG THÁC VỚI TÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hòn Phú Quốc là một hải đảo lớn nhứt thuộc về chủ quyền và nằm trong hải phận của nước Việt Nam từ xưa đến nay. Tuy chúng tôi chưa nghe một văn nhơn hay thi sĩ nào ngâm vịnh mà tán dương thắng cảnh của hòn nầy, song xem địa dư, đọc sử ký chúng tôi được biết dĩ vãng lịch sử của Phú Quốc rất vẻ vang, được thấy vị trí chiến lược rất trọng yếu, được hiểu nguồn lợi kinh tế rất phong phú, bởi vậy chúng tôi thường lưu ý, mặc dầu chưa để chưn hay ghé mắt lên hòn Phú Quốc. Cũng như ai, thuở nay chúng tôi chỉ biết Phú Quốc nằm trong vịnh Thái Lan, cách thị xã trấn Hà Tiên chừng bốn năm chục hải lý, nghĩa là kéo đường ngay không tới một trăm cây số ngàn. Gặp mùa gió xuôi, thuyền buồm từ Hà Tiên chạy chừng hai phần ngày thì ra tới, còn hiện giờ thì phi cơ bay có hai mươi phút đông hồ. Theo quốc sử, thì hồi cuối thế kỹ 17, Mạc Cửu là một di thần của nhà Minh bên Trung Quốc, không chịu hàng phục nhà Thanh, người chở bốn bộ binh qua chiếm đảo Phú Quốc làm căn cứ mà dung thân. Dòm thấy xứ Chơn Lạp đang loạn lạc, người thừa dip mới đổ bộ vào lục địa chiếm luôn một vùng duyên hải Hà Tiên xuống tới mũi Cà Mau. Năm 1698, chúa Nguyễn ở Thuận Hóa sai cụ Nguyễn Hữu Cảnh đem binh vào dẹp loạn giùm cho vua Chơn Lạp, lập ra Hai Trấn là Trấn Biên Dinh tại Biên Hòa với Phiên Trấn Dinh tại Gia Định rồi di dân đàng ngoài vào lập làng, lập xã, mà khai thác ruộng vườn. Mạc Cữu đã có lập đuợc bảy làng trong vùng Hà Tiên nên năm 1708, người mới đem cả phần đất nầy mà dưng cho chúa Nguyễn. Triều đình bèn lập Hà Tiên thêm một trấn nữa và phong cho Mạc Cữu chức Tổng Binh cầm quyền cai trị trấn nầy.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_bc4b73dffb167bb01c0e434c01564e3c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_bc4b73dffb167bb01c0e434c01564e3c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7848-song-thac-voi-tinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7848-song-thac-voi-tinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
