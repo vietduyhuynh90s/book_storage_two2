@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khi-duyen-da-du-cuoi-cung-cung-se-duoc-o-ben-nhau-13927.html",
+    "title" : "KHI DUYÊN ĐÃ ĐỦ CUỐI CÙNG CŨNG SẼ ĐƯỢC Ở BÊN NHAU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phật giáo rất coi trọng cái duyên giữa vạn vật trên đời, không chỉ giữa con người với nhau mà cái duyên còn là sợi dây liên kết chúng ta với thế giới. Tất cả những gì xuất hiện và biến mất khỏi cuộc đời của chúng ta đều do duyên phận. Còn duyên thì ở lại, hết duyên thì ra đi, không thể cưỡng cầu. Nhưng chắc chắn tình cảm chân thành sẽ luôn được đền đáp, đủ bao dung thì sẽ không lạc mất duyên phận. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f8e4386ad91a60815d60c09b4e4d0d00.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f8e4386ad91a60815d60c09b4e4d0d00.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13927-khi-duyen-da-du-cuoi-cung-cung-se-duoc-o-ben-nhau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13927-khi-duyen-da-du-cuoi-cung-cung-se-duoc-o-ben-nhau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ba-su-that-phu-phang-nhung-nguoi-qua-tuoi-30-can-thau-to-truoc-khi-qua-muon-13897.html",
+    "title" : "BA SỰ THẬT PHŨ PHÀNG NHỮNG NGƯỜI QUA TUỔI 30 CẦN THẤU TỎ TRƯỚC KHI QUÁ MUỘN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người xưa nói \"Tam thập nhi lập\", ý muốn nói những người qua tuổi 30 thì mới có thể đi đến giai đoạn tự thân lập nghiệp, xây dựng sự nghiệp vững vàng và có thể lo cho gia đình nhỏ của mình. Trong quá trình lập nghiệp và trưởng thành này, họ cũng phải đối mặt với không ít những sóng gió trong cuộc đời, đôi khi là những sự thật phũ phàng mà những người trẻ tuổi có thể chưa có cơ hội nếm trải. Giọng đọc: Titi</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4a1e05a341addb93a7b3e8e1ae1ad069.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4a1e05a341addb93a7b3e8e1ae1ad069.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13897-ba-su-that-phu-phang-nhung-nguoi-qua-tuoi-30-can-thau-to-truoc-khi-qua-muon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13897-ba-su-that-phu-phang-nhung-nguoi-qua-tuoi-30-can-thau-to-truoc-khi-qua-muon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/dao-ly-ai-cung-nen-biet-de-tranh-co-ngay-ruoc-hoa-vao-than-13908.html",
+    "title" : "ĐẠO LÝ AI CŨNG NÊN BIẾT ĐỂ TRÁNH CÓ NGÀY RƯỚC HỌA VÀO THÂN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong cuộc sống này có một số người, bạn giúp họ cả trăm lần họ không có được một lời cảm ơn. Nhưng chỉ một lần không giúp, họ quay ra hận bạn. Bao nhiêu cố gắng nỗ lực bỏ ra vì người khác, thứ bạn nhận lại được không phải là sự chân thành mà chỉ là nỗi cay đắng Giọng đọc: Titi</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_e90fb360ee16b6df543d39c1b9d87005.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_e90fb360ee16b6df543d39c1b9d87005.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13908-dao-ly-ai-cung-nen-biet-de-tranh-co-ngay-ruoc-hoa-vao-than-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13908-dao-ly-ai-cung-nen-biet-de-tranh-co-ngay-ruoc-hoa-vao-than-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
