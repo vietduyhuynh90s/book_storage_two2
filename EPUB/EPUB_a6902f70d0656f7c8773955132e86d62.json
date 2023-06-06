@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phu-nu-thong-minh-phai-biet-tieu-tien-13700.html",
+    "title" : "PHỤ NỮ THÔNG MINH PHẢI BIẾT TIÊU TIỀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lois P. Frankel",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mối liên hệ giữa phụ nữ và tiền bạc cũng phức tạp như tất cả các mối quan hệ khác trong cuộc sống của họ vậy. Và đây chính là điều làm nên sự khác biệt của cuốn “Nice girls don’t get rich” (Phụ nữ thông minh phải biết tiêu tiền). Đây không chỉ là cuốn sách về nội dung lên kế hoạch tài chính. Nó còn là một cuốn sách về tư duy tài chính. Cuốn sách kinh doanh hay, cuốn sách lí giải tại sao phụ nữ bị mắc kẹt trong những cách ứng xử và lối suy nghĩ của xã hội cũ và nói về những cách thức riêng mà họ sử dụng để có được tài sản cần thiết cho cuộc sống sung túc của họ - bằng bất kỳ giá nào. Cuốn sách này sẽ không cung cấp cho bạn một bản thiết kế cho kế hoạch tài chính, thay vào đó, nó giúp bạn phát triển bản thân mình. Tôi tin rằng trước tiên bạn phải hiểu lí do bạn hành động, sau đó bạn mới có thể cảnh tỉnh và thu nhận hàng trăm những bí quyết và rồi có thể tận dụng chúng một cách nhanh chóng và hiệu quả. Nó cũng giống như việc nếu bạn không giảm được hai mươi pound (10kg), bạn không thể nào trở thành người tự do về tài chính chỉ qua một đêm được. Điều quan trọng nhất là, bạn hãy cam kết với chính mình là sẽ hoàn toàn có trách nhiệm đối với những phúc lợi tài chính của bản thân. Một khi bạn làm được điều này, bạn đã chính thức thực hiện tiến trình tạo ra nguồn của cải mà bạn phải làm việc chăm chỉ mới có và xứng đáng có được.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-06",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a6902f70d0656f7c8773955132e86d62.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a6902f70d0656f7c8773955132e86d62.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13700-phu-nu-thong-minh-phai-biet-tieu-tien-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13700-phu-nu-thong-minh-phai-biet-tieu-tien-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
