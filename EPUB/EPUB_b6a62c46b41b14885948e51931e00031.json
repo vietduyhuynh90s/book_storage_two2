@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nuoi-duong-tam-hon-mo-rong-kinh-doanh_20409.html",
+    "title" : "Nuôi Dưỡng Tâm Hồn Mở Rộng Kinh Doanh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Inamori Kazuo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 22710,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b6a62c46b41b14885948e51931e00031.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b6a62c46b41b14885948e51931e00031.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/01.%20C00_LoiNoiDau_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 309,
+    "title" : "01. C00 LoiNoiDau NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/01._C00_LoiNoiDau_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 309,
+    "title" : "01. C00 LoiNoiDau NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/02.%20C01_DeTaoRaCuocDoiTuyetVoi_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "02. C01 DeTaoRaCuocDoiTuyetVoi NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/02._C01_DeTaoRaCuocDoiTuyetVoi_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "02. C01 DeTaoRaCuocDoiTuyetVoi NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/03.%20C02_DeTimNiemVuiTrongCongViec_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 523,
+    "title" : "03. C02 DeTimNiemVuiTrongCongViec NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/03._C02_DeTimNiemVuiTrongCongViec_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 523,
+    "title" : "03. C02 DeTimNiemVuiTrongCongViec NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/04.%20C03_DeVuotQuaKhoKhan_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 963,
+    "title" : "04. C03 DeVuotQuaKhoKhan NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/04._C03_DeVuotQuaKhoKhan_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 963,
+    "title" : "04. C03 DeVuotQuaKhoKhan NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/05.%20C04_DePhanDoanDung_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1045,
+    "title" : "05. C04 DePhanDoanDung NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/05._C04_DePhanDoanDung_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1045,
+    "title" : "05. C04 DePhanDoanDung NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/06.%20C05_DeCaiThienCongViec_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "06. C05 DeCaiThienCongViec NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/06._C05_DeCaiThienCongViec_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "06. C05 DeCaiThienCongViec NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/07.%20C06_DeNangCaoBanThan_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 779,
+    "title" : "07. C06 DeNangCaoBanThan NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/07._C06_DeNangCaoBanThan_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 779,
+    "title" : "07. C06 DeNangCaoBanThan NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/08.%20C07_DeDatDuocDieuMoiMe_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1047,
+    "title" : "08. C07 DeDatDuocDieuMoiMe NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/08._C07_DeDatDuocDieuMoiMe_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1047,
+    "title" : "08. C07 DeDatDuocDieuMoiMe NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/09.%20C08_DeCapDuoiNePhuc_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 694,
+    "title" : "09. C08 DeCapDuoiNePhuc NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/09._C08_DeCapDuoiNePhuc_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 694,
+    "title" : "09. C08 DeCapDuoiNePhuc NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/10.%20C09_DeTroThanhNhaLanhDao_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 573,
+    "title" : "10. C09 DeTroThanhNhaLanhDao NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/10._C09_DeTroThanhNhaLanhDao_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 573,
+    "title" : "10. C09 DeTroThanhNhaLanhDao NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/11.%20C10_DeKinhDoanhDungPhuongHuong_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1012,
+    "title" : "11. C10 DeKinhDoanhDungPhuongHuong NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/11._C10_DeKinhDoanhDungPhuongHuong_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1012,
+    "title" : "11. C10 DeKinhDoanhDungPhuongHuong NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/12.%20C11_LayTamLamNenTang_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 718,
+    "title" : "12. C11 LayTamLamNenTang NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/12._C11_LayTamLamNenTang_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 718,
+    "title" : "12. C11 LayTamLamNenTang NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/13.%20C12_DeMoRaConDuongMoi_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 707,
+    "title" : "13. C12 DeMoRaConDuongMoi NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/13._C12_DeMoRaConDuongMoi_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 707,
+    "title" : "13. C12 DeMoRaConDuongMoi NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/14.%20C13_DePhatTrienMoRongKinhDoanh_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 692,
+    "title" : "14. C13 DePhatTrienMoRongKinhDoanh NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/14._C13_DePhatTrienMoRongKinhDoanh_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 692,
+    "title" : "14. C13 DePhatTrienMoRongKinhDoanh NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/15.%20C14_HET_DeDatDuocThanhCongTrongKinhDoanh_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 709,
+    "title" : "15. C14 HET DeDatDuocThanhCongTrongKinhDoanh NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/15._C14_HET_DeDatDuocThanhCongTrongKinhDoanh_NuoiDuongTamHon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 709,
+    "title" : "15. C14 HET DeDatDuocThanhCongTrongKinhDoanh NuoiDuongTamHon",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/01.%20C00_LoiNoiDau_NuoiDuongTamHon.mp3",
+    "title" : "01. C00 LoiNoiDau NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/01._C00_LoiNoiDau_NuoiDuongTamHon.mp3",
+    "title" : "01. C00 LoiNoiDau NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/02.%20C01_DeTaoRaCuocDoiTuyetVoi_NuoiDuongTamHon.mp3",
+    "title" : "02. C01 DeTaoRaCuocDoiTuyetVoi NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/02._C01_DeTaoRaCuocDoiTuyetVoi_NuoiDuongTamHon.mp3",
+    "title" : "02. C01 DeTaoRaCuocDoiTuyetVoi NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/03.%20C02_DeTimNiemVuiTrongCongViec_NuoiDuongTamHon.mp3",
+    "title" : "03. C02 DeTimNiemVuiTrongCongViec NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/03._C02_DeTimNiemVuiTrongCongViec_NuoiDuongTamHon.mp3",
+    "title" : "03. C02 DeTimNiemVuiTrongCongViec NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/04.%20C03_DeVuotQuaKhoKhan_NuoiDuongTamHon.mp3",
+    "title" : "04. C03 DeVuotQuaKhoKhan NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/04._C03_DeVuotQuaKhoKhan_NuoiDuongTamHon.mp3",
+    "title" : "04. C03 DeVuotQuaKhoKhan NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/05.%20C04_DePhanDoanDung_NuoiDuongTamHon.mp3",
+    "title" : "05. C04 DePhanDoanDung NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/05._C04_DePhanDoanDung_NuoiDuongTamHon.mp3",
+    "title" : "05. C04 DePhanDoanDung NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/06.%20C05_DeCaiThienCongViec_NuoiDuongTamHon.mp3",
+    "title" : "06. C05 DeCaiThienCongViec NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/06._C05_DeCaiThienCongViec_NuoiDuongTamHon.mp3",
+    "title" : "06. C05 DeCaiThienCongViec NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/07.%20C06_DeNangCaoBanThan_NuoiDuongTamHon.mp3",
+    "title" : "07. C06 DeNangCaoBanThan NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/07._C06_DeNangCaoBanThan_NuoiDuongTamHon.mp3",
+    "title" : "07. C06 DeNangCaoBanThan NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/08.%20C07_DeDatDuocDieuMoiMe_NuoiDuongTamHon.mp3",
+    "title" : "08. C07 DeDatDuocDieuMoiMe NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/08._C07_DeDatDuocDieuMoiMe_NuoiDuongTamHon.mp3",
+    "title" : "08. C07 DeDatDuocDieuMoiMe NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/09.%20C08_DeCapDuoiNePhuc_NuoiDuongTamHon.mp3",
+    "title" : "09. C08 DeCapDuoiNePhuc NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/09._C08_DeCapDuoiNePhuc_NuoiDuongTamHon.mp3",
+    "title" : "09. C08 DeCapDuoiNePhuc NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/10.%20C09_DeTroThanhNhaLanhDao_NuoiDuongTamHon.mp3",
+    "title" : "10. C09 DeTroThanhNhaLanhDao NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/10._C09_DeTroThanhNhaLanhDao_NuoiDuongTamHon.mp3",
+    "title" : "10. C09 DeTroThanhNhaLanhDao NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/11.%20C10_DeKinhDoanhDungPhuongHuong_NuoiDuongTamHon.mp3",
+    "title" : "11. C10 DeKinhDoanhDungPhuongHuong NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/11._C10_DeKinhDoanhDungPhuongHuong_NuoiDuongTamHon.mp3",
+    "title" : "11. C10 DeKinhDoanhDungPhuongHuong NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/12.%20C11_LayTamLamNenTang_NuoiDuongTamHon.mp3",
+    "title" : "12. C11 LayTamLamNenTang NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/12._C11_LayTamLamNenTang_NuoiDuongTamHon.mp3",
+    "title" : "12. C11 LayTamLamNenTang NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/13.%20C12_DeMoRaConDuongMoi_NuoiDuongTamHon.mp3",
+    "title" : "13. C12 DeMoRaConDuongMoi NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/13._C12_DeMoRaConDuongMoi_NuoiDuongTamHon.mp3",
+    "title" : "13. C12 DeMoRaConDuongMoi NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/14.%20C13_DePhatTrienMoRongKinhDoanh_NuoiDuongTamHon.mp3",
+    "title" : "14. C13 DePhatTrienMoRongKinhDoanh NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/14._C13_DePhatTrienMoRongKinhDoanh_NuoiDuongTamHon.mp3",
+    "title" : "14. C13 DePhatTrienMoRongKinhDoanh NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/15.%20C14_HET_DeDatDuocThanhCongTrongKinhDoanh_NuoiDuongTamHon.mp3",
+    "title" : "15. C14 HET DeDatDuocThanhCongTrongKinhDoanh NuoiDuongTamHon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoi-duong-tam-hon-mo-rong-kinh-doanh-v2.sna/15._C14_HET_DeDatDuocThanhCongTrongKinhDoanh_NuoiDuongTamHon.mp3",
+    "title" : "15. C14 HET DeDatDuocThanhCongTrongKinhDoanh NuoiDuongTamHon",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
