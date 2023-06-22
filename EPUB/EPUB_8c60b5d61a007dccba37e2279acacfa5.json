@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/giong-to-14044.html",
+    "title" : "GIÔNG TỐ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Trọng Phụng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vũ Trọng Phụng là một nhà văn, nhà báo nổi tiếng của Việt Nam vào đầu thế kỷ 20. Tuy thời gian cầm bút rất ngắn ngủi, với tác phẩm đầu tiên là truyện ngắn Chống nạng lên đường đăng trên Ngọ báo vào năm 1930, ông đã để lại một kho tác phẩm đáng kinh ngạc: hơn 30 truyện ngắn, 9 tập tiểu thuyết, 9 tập phóng sự, 7 vở kịch, cùng 1 bản dịch vở kịch từ tiếng Pháp, một số bài viết phê bình, tranh luận văn học và hàng trăm bài báo viết về các vấn đề chính trị, xã hội, văn hóa. Một số trích đoạn tác phẩm của ông trong các tác phẩm Số đỏ và Giông Tố đã được đưa vào sách giáo khoa môn Ngữ văn của Việt Nam. Nổi tiếng với giọng văn trào phúng châm biếm xã hội của mình, một số người đã so sánh ông như Balzac của Việt Nam. Tuy nhiên, cũng vì phong cách \"tả chân\" và yếu tố tình dục trong tác phẩm mà khi sinh thời ông đã bị chính quyền bảo hộ Pháp tại Hà Nội gọi ra tòa vì \"tội tổn thương phong hóa\". Về sau này, tác phẩm của ông lại bị cấm in, cấm đọc vì là \"tác phẩm suy đồi\" tại miền Bắc Việt Nam và Việt Nam thống nhất cho đến tận cuối những năm 1980. Tác phẩm Giông tố đã đóng bằng một việc tiêu cực tự hoại thân thể, và cũng mở đầu bằng một cuộc cưỡng dâm thô bạo có trả tiền. Rồi lại tiếp diễn những cuộc tiền dâm hậu thú và thông dâm, và vân vân. Nhưng cái chính không phải ở đây. Giông tố có nói đến nông dân, nhưng cái nhìn của Vũ Trọng Phụng còn chệch choạc. Giông tố có nói đến chiến sĩ cách mạng nhưng cái nhìn của Vũ Trọng Phụng còn viển vông, phiêu lưu. Cái mà Vũ Trọng Phụng đánh trúng nhất trong Giông tố tức là đánh vào cái sự trâng tráo tàn bạo của thế lực đồng tiền, của những thế lực phản bội đã dựa vào đế quốc và định cầm cân nảy mực cho sự sống và ngự trị lên trên cái giá trị thật của đời sống. Cái mà Vũ Trọng Phụng xưa kia đã dành cái phần tráng kiện trong nhỡn lực và bút lục để tấn công vào, vì hạnh phúc và công lý, thì ngày nay cuộc cách mạng của ta đã dồn nó vào chỗ Mỹ - Diệm. Vũ Trọng Phụng mà còn, còn đánh nhiều thêm bằng nhiều truyện nữa, còn đánh mạnh hơn bao giờ hết và đánh cho kỳ hết. Không những đánh, mà Vũ Trọng Phụng còn kiến thiết nữa.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_8c60b5d61a007dccba37e2279acacfa5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_8c60b5d61a007dccba37e2279acacfa5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14044-giong-to-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14044-giong-to-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

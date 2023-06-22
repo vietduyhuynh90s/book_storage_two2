@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cha-va-con-tony-parsons-14028.html",
+    "title" : "CHA VÀ CON - TONY PARSONS",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tony Parsons",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi nào một người đàn ông trưởng thành?... Thế nào là một người phụ nữ trưởng thành?...Vì một phút yếu lòng với đồng nghiệp, Harry Silver đã tự đẩy mình vào thế khó khi chịu cảnh thất nghiệp, vợ bỏ đi và một mình nuôi con. Hoàn cảnh đã buộc Harry trưởng thành trong vai trò của một người phụ nữ và rồi nhận ra rằng đáp án đó chưa đủ với một người đàn ông. Bằng ngòi bút sắc sảo, hóm hỉnh và những kinh nghiệm từ chính cuộc đời mình, Tony Parsons đã vẽ nên một bức tranh cười ra nước mắt nhưng thấm thía về cuộc đời một người cha chưa-trưởng-thành đơn thân. Cuộc sống chẳng bao giờ đơn giản - ông còn dành cho độc giả những khoảng lặng để suy ngẫm, đồng cảm và thấu hiểu với một câu trả lời cuối cùng không đẹp lung linh cũng chẳng trọn vẹn. “Cốt truyện căng thẳng ly kỳ và một hệ thống nhân vật phong phú được đóng khung một cách không khoan nhượng…ông đã chạm đến cảm xúc của số đông thông qua những số ít điển hình và làm chúng ta rơi nước mắt.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4c7ffac4df91a47b1841bb99ebfb1f67.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4c7ffac4df91a47b1841bb99ebfb1f67.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14028-cha-va-con-tony-parsons-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14028-cha-va-con-tony-parsons-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

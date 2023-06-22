@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hoi-ky-son-nam-toan-tap-4275.html",
+    "title" : "HỒI KÝ SƠN NAM TOÀN TẬP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hồi ký Sơn Nam là tổng hợp từ 4 tập hồi ký “Từ U Minh đến Cần Thơ - Ở Chiến Khu 9 - 20 năm giữa lòng đô thị - Bình An” đã được xuất bản từ năm 2000 đến năm 2005. Lần xuất bản nầy, Nhà xuất bản Trẻ còn giới thiệu thêm 2 bài viết của chính nhà văn để làm rõ thêm về 2 giai đoạn quan trọng trong cuộc đời ông: Đến với Cách mạng trong thập kỷ 40 và trở về trong vòng tay Cách mạng ở thập kỷ 70 của thế kỷ XX. Gần 60 năm cầm bút, trải qua bao thăng trầm vất vả, ông đã có một số lượng tác phẩm thật đồ sộ: gần 300 truyện ngắn, hàng chục tập sách biên khảo về người và đất Nam Bộ. Ông thật xứng đáng với danh hiệu cao quý mà bạn đọc xa gần phong tặng Nhà Nam Bộ học. 75 năm cuộc đời đã trôi qua trên tấm thân gầy yếu, khắc khổ của ông. Những lận đận, long đong dường như chưa dừng. Con người có tư cách, như ông tự nhận, dường như không muốn nói láo. Ở tuổi 75, ông vẫn chưa dứt được những lo toan, trăn trở, chưa được hưởng nhàn (theo nghĩa thông dụng) dù chỉ một ngày. Ở tuổi 75, ông ngồi ghi lại những chặng đường đã trải qua, từ khi sinh ra đến ngày lên lão. Những vui buồn ngày ấy giờ được kể lại với giọng điệu rề rà của một người trò chuyện, tuy lớp lang thang thi thoảng cũng có những liên tưởng bất ngờ, đầy thú vị và hấp dẫn. Từ U Minh Đến Cần Thơ là tập đầu trong bộ hồi ký không dày lắm của ông. Hồi ký của một người thường, không quan quyền, không danh phận, không cả bà con thân thuộc giữa đất Sài Gòn hơn nửa chục triệu dân này - như lời ông nói - quả cũng là chuyện chẳng để giỡn chơi, đáng để đọc và có chút gì để học. Cuốn sách góp thêm những tư liệu quý giá về cuộc đời và sự nghiệp của nhà văn Sơn Nam giúp cho những ai yêu mến và thích tìm hiểu, nghiên cứu về ông có thêm tài liệu tham khảo.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_2961902cc10f6a407260b8a4d932cfe4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_2961902cc10f6a407260b8a4d932cfe4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4275-hoi-ky-son-nam-toan-tap-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hồi Ký Sơn Nam - Sơn Nam - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4275-hoi-ky-son-nam-toan-tap-thuviensach.vn.mp3?t=24540",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:49:00 Hồi Ký Sơn Nam - Sơn Nam - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/4275-hoi-ky-son-nam-toan-tap-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hồi Ký Sơn Nam - Sơn Nam - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/4275-hoi-ky-son-nam-toan-tap-thuviensach.vn.mp3?t=24540",
+    "title" : "06:49:00 Hồi Ký Sơn Nam - Sơn Nam - Phần 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

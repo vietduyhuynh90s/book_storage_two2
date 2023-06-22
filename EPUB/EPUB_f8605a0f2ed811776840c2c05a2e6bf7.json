@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-cach-mang-cong-nghiep-lan-thu-tu-1693.html",
+    "title" : "CUỘC CÁCH MẠNG CÔNG NGHIỆP LẦN THỨ TƯ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Klaus Schwab",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách “Cuộc cách mạng công nghiệp lần thứ 4” của tác giả Klaus Schwab do Đồng Bích Ngọc - Nguyễn Thị Mỹ Anh biên dịch mang đến cho bạn đọc một bức tranh toàn diễn về những thay đổi “Số” trong thời đại công nghiệp 4.0.Cuốn sách này gồm ba chương: Chương đầu tiên là tổng quan về cuộc cách mạng công nghiệp lần thứ tư. Chương thứ hai: trình bày về các công nghệ biến đổi chính. Chương thứ ba: đưa ra những góc nhìn sâu về tác động của cuộc cách mạng và một số thách thức chính sách mà nó đặt ra. Kết luận bằng cách đề xuất những ý tưởng thực tế và những giải pháp tốt nhất để thích ứng, định hình và khai thác tiềm năng của sự biến đổi lớn này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_f8605a0f2ed811776840c2c05a2e6bf7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_f8605a0f2ed811776840c2c05a2e6bf7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1693-cuoc-cach-mang-cong-nghiep-lan-thu-tu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1693-cuoc-cach-mang-cong-nghiep-lan-thu-tu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tong-hop-than-thoai-ai-cap-1166.html",
+    "title" : "TỔNG HỢP THẦN THOẠI AI CẬP",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ai Cập là quốc gia thuộc Đông bắc châu phi, nơi từ hàng ngàn năm trước con người cổ đại đã tưởng tượng về các vị thần quyền năng và phép thuật sáng tạo ra thiên nhiên, con người và vạn vật. Tất cả đã được sưu tầm và viết thành cuốn \"Thần thoại Ai Cập\" với rất nhiều những câu chuyện và truyền bí phản ánh đậm nét đời sống tinh thần và phong tục của người Ai Cập cổ đại. Tuy không được ghi chép đầy đủ và hệ thống trong một cuốn tài liệu nào, nhưng các nhà khoa học đã tìm thấy rất nhiều câu chuyện và chi tiết liên quan và chi tiết liên quan đến Thần Thoại Ai Cập.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_97a2c936272b12cde7cfb8b6548851ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_97a2c936272b12cde7cfb8b6548851ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1166-tong-hop-than-thoai-ai-cap-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1166-tong-hop-than-thoai-ai-cap-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

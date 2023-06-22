@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/song-mon-12014.html",
+    "title" : "SỐNG MÒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Cao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhân kỉ niệm 100 năm ngày sinh nhà văn Nam Cao (1915 - 1951), Nhà xuất bản Kim Đồng vừa ra mắt ấn bản mới tiểu thuyết “Sống mòn” và tập truyện ngắn “Đôi mắt” - tuyển tập những sáng tác sau năm 1945 của Nhà văn. Sống Mòn là tác phẩm tiêu biểu trong sự nghiệp sáng tác của Nam Cao, tiểu thuyết “Sống mòn” đề cập đến một vấn đề nhức nhối của người trí thức trong thời đại cũ, những văn nghệ sĩ nhiều khao khát, giàu lý tưởng nhưng cuộc sống cứ mòn dần, lụi dần bởi mối lo cơm áo. Nhưng kiếp “sống mòn” của giáo Thứ không chỉ là bi kịch của trí thức cách đây hơn nửa thế kỉ mà nó còn là sự day dứt của những con người không chấp nhận một cuộc đời bé mọn, vô nghĩa, phải sống “với đầy đủ giá trị của sự sống”. Tiểu thuyết “Sống mòn” ban đầu có tên là “Chết mòn”, tác giả viết xong năm 1944, nhưng mãi đến năm 1956 mới được in.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_9d30eeb44191d32f06674ee0aa83f1ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_9d30eeb44191d32f06674ee0aa83f1ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12014-song-mon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12014-song-mon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

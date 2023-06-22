@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bac-si-tot-nhat-la-chinh-minh-tap-1-13600.html",
+    "title" : "BÁC SĨ TỐT NHẤT LÀ CHÍNH MÌNH - TẬP 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồng Chiêu Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bác Sĩ Tốt Nhất Là Chính Mình - Những Lời Khuyên Bổ Ích Cho Sức Khoẻ Chỉ cần trích 4 giờ ít ỏi đọc kỹ quyển sách này, nó sẽ mang lại 36.000 ngày thu hoạch quí giá cho cả cuộc đời bạn!. Trân trọng sức khoẻ! Tận hưởng sức khoẻ! Sáng tạo sức khoẻ! Nếu bạn còn trẻ, và mong muốn được sống vui vẻ và khoẻ mạnh, hãy đọc quyển sách này! Nếu bạn đã già, và mong muốn sống khoẻ sống lâu, hãy đọc quyển sách này! Nếu bạn nghèo khó, không đủ sức mua thuốc men giá đắt, hãy đọc quyển sách này! Nếu bạn giàu có, nhưng lại kém sức khoẻ và kém vui, hãy đọc quyển sách này!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_7b7a2cd6140884d5f542560195850de4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_7b7a2cd6140884d5f542560195850de4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Khuyên Dành Cho Mọi Người .",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=2109",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:35:09 Phần 2 - Tu Thân / Nhiều Khi Chi Phí Lớn Cho Điều Trị Chỉ Tại Thiếu Hiểu Biết Về Giữ Gìn Sức Khỏe Mà Ra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=3868",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:04:28 Bạn Muốn Khỏe Đẹp Và Thông Minh Ư? Hãy Kiên Trì Đi Bộ Nhé",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=5588",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:33:08 Phần 3 - Vững Tâm Chết Vì Lo, Vì Sợ Vì Giận, Căn Bệnh Tâm Lý Thật Đáng Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=7799",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:09:59 Phần Tổng Kết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Khuyên Dành Cho Mọi Người .",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=2109",
+    "title" : "00:35:09 Phần 2 - Tu Thân / Nhiều Khi Chi Phí Lớn Cho Điều Trị Chỉ Tại Thiếu Hiểu Biết Về Giữ Gìn Sức Khỏe Mà Ra",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=3868",
+    "title" : "01:04:28 Bạn Muốn Khỏe Đẹp Và Thông Minh Ư? Hãy Kiên Trì Đi Bộ Nhé",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=5588",
+    "title" : "01:33:08 Phần 3 - Vững Tâm Chết Vì Lo, Vì Sợ Vì Giận, Căn Bệnh Tâm Lý Thật Đáng Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13600-bac-si-tot-nhat-la-chinh-minh-thuviensach.vn.mp3?t=7799",
+    "title" : "02:09:59 Phần Tổng Kết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

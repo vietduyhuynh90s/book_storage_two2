@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/toi-la-zlatan-ibrahimovic-1379.html",
+    "title" : "TÔI LÀ ZLATAN IBRAHIMOVIC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Zlatan Ibrahimovic",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Zlatan Ibrahimovic đã kể câu chuyện cuộc đời mình ở cuốn tự truyện “I am Zlatan Ibrahimovic” (Tôi là Zlatan Ibrahimovic) và ở đấy người ta đã có thêm nhiều góc nhìn về cuộc đời cầu thủ đầy sóng gió như Ibra và những nhân vật nổi tiếng anh đã từng gặp. Cuốn tự truyện \"Tôi là Zlatan\" là một hiện tượng ngay khi vừa ra đời. Với lối viết phóng túng, cách kể chuyện lôi cuốn và nội dung đi thẳng vào thực tế những gì Zlatan đã trải qua, cuốn sách đã bán hơn 700.000 bản chỉ riêng ở Thụy Điển và được đề cử giải văn học. Được phát hành rộng rãi ở 15 quốc gia, \"Tôi là Zlatan\" được đánh giá là cuốn tự truyện hay nhất, chân thật nhất và sống động nhất từng được viết bởi một cầu thủ bóng đá. Được nhà văn, nhà báo David Lagercrantz chấp bút, cuốn sách càng có một lối kể chuyện đậm chất văn học. Xin lần lượt gửi đến bạn đọc lược trích 1 số nội dung của cuốn sách này.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_59dddf7b1065d3df54be7d583ce6423a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_59dddf7b1065d3df54be7d583ce6423a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tôi Là Zlatan Ibrahimovic - Chương 1,2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=1029",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:17:09 Tôi Là Zlatan Ibrahimovic - Chương 3,4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=1945",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:32:25 Tôi Là Zlatan Ibrahimovic - Chương 5,6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=2999",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:59 Tôi Là Zlatan Ibrahimovic - Chương 7,8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=3947",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:05:47 Tôi Là Zlatan Ibrahimovic - Chương 9,10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tôi Là Zlatan Ibrahimovic - Chương 1,2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=1029",
+    "title" : "00:17:09 Tôi Là Zlatan Ibrahimovic - Chương 3,4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=1945",
+    "title" : "00:32:25 Tôi Là Zlatan Ibrahimovic - Chương 5,6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=2999",
+    "title" : "00:49:59 Tôi Là Zlatan Ibrahimovic - Chương 7,8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1379-toi-la-zlatan-ibrahimovic-thuviensach.vn.mp3?t=3947",
+    "title" : "01:05:47 Tôi Là Zlatan Ibrahimovic - Chương 9,10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

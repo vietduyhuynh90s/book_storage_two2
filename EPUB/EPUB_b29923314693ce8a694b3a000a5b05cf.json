@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tong-hop-than-thoai-la-ma-1176.html",
+    "title" : "TỔNG HỢP THẦN THOẠI LA MÃ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Sau cuộc chiến thành Troie, những người Troie đi đâu về đâu? Phải chăng họ sẽ bị tuyệt diệt hoặc hoàn toàn khuất phục, trở thành nô lệ của người Hy Lạp?*** Nghe những lời sấm truyền mách bảo, hoàng tử thành Troie là Énée, con trai của nữ thần tình yêu và sắc đẹp Vénus, cùng những chiến binh kiên cường đã quyết tâm tìm đến vùng đất Italie để tái sinh dân tộc, xây dựng đế chế hùng mạnh mới. Nhưng Junon - nữ hoàng của các vị thần vẫn luôn thù ghét và tìm cách ngăn cản bước chân Định mệnh đem tương lai xán lạn đến cho họ. Với cuốn sách Thần thoại La Mã, bạn đọc sẽ được sống trong những giây phút lịch sử hào hùng, chứng kiến hành trình gian khổ và hùng tráng của những anh hùng thành Troie. Liệu các thế lực thù địch, cả thần và người có ngăn cản, tiêu diệt được họ, hay người Troie sẽ giành được vận mệnh huy hoàng của mình?*** Tacite kể rằng: Một hôm, khi Virgile vào rạp hát, tất cả khán giả đều đứng lên bày tỏ lòng ngưỡng mộ. Những tác phẩm trước đây của đại thi hào Latin Virgile (người cùng thời và là bạn thân thiết của hoàng đế Auguste) cuối cùng đã mang vinh quang đến cho ông. Để hoàn thành bộ sử thi Énéide, Virgile đã phải làm việc miệt mài suốt mười một năm, và sau khi ông qua đời, tác phẩm đã trở thành một thành tựu chói lọi. Trong bộ Énéide dạt dào âm hưởng Iliade và Odyssée của Homère, Virgile đã ngợi ca sự hình thành dân tộc La Mã, dân tộc mà theo truyền thuyết thì tổ tiên của họ là Énée và những người dân cuối cùng của thành Troie1. Ngọn lửa yêu nước cháy bỏng trong lòng nhà thơ đã khiến những câu chuyện thần thánh trở nên sống động, rất gần gũi với đời thực. Sự uyên bác của ông bao trùm tác phẩm đến mức những nhà sử học có thể tìm thấy trong đó những tư liệu chính xác để mô tả cuộc sống, sinh hoạt của con người thời cổ xưa. Thiết nghĩ, trước khi tìm hiểu về những tác phẩm cổ điển, giới trẻ có thể học hỏi được rất nhiều điều qua những thiên anh hùng ca, nơi mà Thần Thánh và Con Người sống với nhau thật gần gũi, hài hoà và thi vị. Con người thời nay cũng như mọi thế hệ quá khứ hay tương lai, hầu hết ngay từ khi còn trẻ đều đã cảm thấy hứng thú với những nhân vật anh hùng của đại thi hào Virgile.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b29923314693ce8a694b3a000a5b05cf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b29923314693ce8a694b3a000a5b05cf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1176-tong-hop-than-thoai-la-ma-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1176-tong-hop-than-thoai-la-ma-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

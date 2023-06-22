@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-cuoc-phieu-luu-cua-tom-sawyer-11465.html",
+    "title" : "NHỮNG CUỘC PHIÊU LƯU CỦA TOM SAWYER",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mark Twain",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những cuộc phiêu lưu của Tom Sawyer đã được người đọc ở nhiều lứa tuổi, nhiều dân tộc khác nhau yêu mến. Tác giả không chỉ thuật lại một câu chuyện có hậu về chú Tôm tinh nghịch và chú Hấc lang thang, mà còn dựng lên một bức tranh hiện thực về môi trường bao quanh các nhân vật bé nhỏ, đặc biệt đi sâu vào thế giới bên trong của con người, miêu tả giản dị và chính xác tâm lý trẻ em.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_273caeb484b8492777be8d6a0ef72657.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_273caeb484b8492777be8d6a0ef72657.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11465-nhung-cuoc-phieu-luu-cua-tom-sawyer-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11465-nhung-cuoc-phieu-luu-cua-tom-sawyer-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
