@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hon-viet-nam-trong-moi-chuyen-di-14082.html",
+    "title" : "HỒN VIỆT NAM TRONG MỖI CHUYẾN ĐI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Huyền Ngân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đây không phải là cuốn sách hướng dẫn du lịch, mà là một tập tản văn, viết tản mạn sau mỗi chuyến đi. Chọn phương tiện di chuyển gai góc nhất (đi bộ, xe đạp, xe máy, xe đò, ghe xuồng,...) để thỏa mãn chất \"bụi\", thâm nhập hoàn hảo với thiên nhiên và con người ở từng nơi đi qua, thay vì chọn cách êm ả hưởng thụ với những điều kiện vật chất tính bằng sao. Nên độc giả cũng đừng thất vọng khi tập sách này không \"dừng lại\" (viết bài) những địa danh đã quá quen trong chương trình tour phổ biến, những địa điểm mà chỉ cần một cú nhấp chuột đã có thể biết tường tận từng chi tiết (Vịnh Hạ Long, động Phong Nha, cố đô Huế, Nha Trang,...). Trong tập sách có những bài đã đăng các báo, một số khác được viết nháp, hoặc viết chú thích chi chít sau mỗi tấm hình ngay khi vừa trở về, nên có thể có những chi tiết, hình ảnh khác xa với hiện tại (dù sau này có đi lại nhiều lần). Nhưng tác giả xin được giữ nguyên \"hồn thu thảo\" cái cảm nhận của lần đầu tiên, như là: Cái thuở ban đầu đầy lưu luyến ấy Nghìn năm hồ dễ mấy ai quên (Thế Lữ) Trong tập sách còn vay mượn một vài bài của các thành viên \"con\", là những người luôn trung thành với loại hình du lịch độc đáo của gia đình. Cũng là một cách giữ lại nguyên vẹn cái cảm xúc trong trẻo, ngây thơ, mà nếu tác giả có viết lại, sẽ không thể hay hơn. Dù cố gắng nhiều, vẫn không thể tránh những thiếu xót, sơ xài về những nơi chốn đã qua. Mà đã là du lịch bụi thì không thể chi tiết. Vì còn mải mê bận \"bụi\"! Tháng 1 - 2016 Nguyễn Thị Huyền Ngân</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_664484a20e4477e8c73d8c62e3c252a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_664484a20e4477e8c73d8c62e3c252a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14082-hon-viet-nam-trong-moi-chuyen-di-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14082-hon-viet-nam-trong-moi-chuyen-di-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
