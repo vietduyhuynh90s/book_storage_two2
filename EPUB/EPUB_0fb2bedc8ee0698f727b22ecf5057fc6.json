@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tieu-bo-tap-5-14103.html",
+    "title" : "KINH TIỂU BỘ - TẬP 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu Bộ kinh có nhan đề “Tiểu Bộ”, nhưng lại chứa đựng số lượng kinh lớn nhất trong năm bộ Nikàya là 15 tập, so với Trường Bộ (3 tập), Trung Bộ (3 tập), Tương Ưng Bộ (5 tập) và Tăng Chi Bộ (3 tập). Chữ “Tiểu” ở đây, theo các vị luận sư, muốn chỉ tính cách hỗn hợp nhiều đề tài được diễn tả bằng nhiều thể văn khác nhau, từ các kinh kệ ngắn gọn do Ðức Phật thuyết giảng, các tiền thân Ðức Phật với hàng ngàn bài kệ do các vị Tỳ kheo cảm tác, tiểu sử các Ðức Phật, các vị A-la-hán, sự tích Thiên cung, Ngạ quỷ do chư vị kết tập kinh điển biên soạn..., đến các luận thư phân tích giáo lý mở đầu cho văn học A Tì Ðàm (Abhidhamma) của Luận tạng về sau.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-24",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_0fb2bedc8ee0698f727b22ecf5057fc6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_0fb2bedc8ee0698f727b22ecf5057fc6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 4 - Chương 1 - Phẩm Lợi Ái - Chuyện 41 Đến 50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=3918",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:05:18 Tập 4 - Chương 1 - Phẩm Àsimsa - Chuyện 51 Đến 54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=5265",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:27:45 Tập 4 - Chương 1 - Phẩm Àsimsa - Chuyện 55 Đến 60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=6875",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:54:35 Tập 4 - Chương 1 - Phẩm Nữ Nhân - Chuyện 61 Đến 64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=8583",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:23:03 Tập 4 - Chương 1 - Phẩm Nữ Nhân - Chuyện 65 Đến 70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=10576",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:56:16 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 71 Đến 73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=12197",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:23:17 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 74 Đến 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=13116",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:38:36 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=15082",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:11:22 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 78 Đến 80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=17239",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:47:19 Tập 4 - Chương 1 - Phẩm Apayimha - Chuyện 81 Đến 85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=18431",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:07:11 Tập 4 - Chương 1 - Phẩm Apayimha - Chuyện 86 Đến 90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=19825",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:30:25 Tập 4 - Chương 1 - Phẩm Litta - Chuyện 91 Đến 95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=21732",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:02:12 Tập 4 - Chương 1 - Phẩm Litta - Chuyện 96 Đến 100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=23771",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:36:11 Tập 4 - Chương 1 - Phẩm Parossata - Chuyện101 Đến 110",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=25497",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:04:57 Tập 4 - Chương 1 - Phẩm Hamsa - Chuyện111 Đến 120",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=27678",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:41:18 Tập 5 - Chương 1 - Phẩm Kusanàli - Chuyện 121 Đến 124",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=29212",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:06:52 Tập 5 - Chương 1 - Phẩm Kusanàli - Chuyện 125 Đến 130",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=31126",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:38:46 Tập 5 - Chương 1 - Phẩm Asampadàna - Chuyện 131 Đến 136",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=32657",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:04:17 Tập 5 - Chương 1 - Phẩm Asampadàna - Chuyện 137 Đến 140",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=34033",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:27:13 Tập 5 - Chương 1 - Phẩm Kakantaka - Chuyện 141 Đến 147",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=35891",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:58:11 Tập 5 - Chương 1 - Phẩm Kakantaka - Chuyện 148 Đến 150",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 4 - Chương 1 - Phẩm Lợi Ái - Chuyện 41 Đến 50",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=3918",
+    "title" : "01:05:18 Tập 4 - Chương 1 - Phẩm Àsimsa - Chuyện 51 Đến 54",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=5265",
+    "title" : "01:27:45 Tập 4 - Chương 1 - Phẩm Àsimsa - Chuyện 55 Đến 60",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=6875",
+    "title" : "01:54:35 Tập 4 - Chương 1 - Phẩm Nữ Nhân - Chuyện 61 Đến 64",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=8583",
+    "title" : "02:23:03 Tập 4 - Chương 1 - Phẩm Nữ Nhân - Chuyện 65 Đến 70",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=10576",
+    "title" : "02:56:16 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 71 Đến 73",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=12197",
+    "title" : "03:23:17 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 74 Đến 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=13116",
+    "title" : "03:38:36 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 77",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=15082",
+    "title" : "04:11:22 Tập 4 - Chương 1 - Phẩm Varana - Chuyện 78 Đến 80",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=17239",
+    "title" : "04:47:19 Tập 4 - Chương 1 - Phẩm Apayimha - Chuyện 81 Đến 85",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=18431",
+    "title" : "05:07:11 Tập 4 - Chương 1 - Phẩm Apayimha - Chuyện 86 Đến 90",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=19825",
+    "title" : "05:30:25 Tập 4 - Chương 1 - Phẩm Litta - Chuyện 91 Đến 95",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=21732",
+    "title" : "06:02:12 Tập 4 - Chương 1 - Phẩm Litta - Chuyện 96 Đến 100",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=23771",
+    "title" : "06:36:11 Tập 4 - Chương 1 - Phẩm Parossata - Chuyện101 Đến 110",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=25497",
+    "title" : "07:04:57 Tập 4 - Chương 1 - Phẩm Hamsa - Chuyện111 Đến 120",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=27678",
+    "title" : "07:41:18 Tập 5 - Chương 1 - Phẩm Kusanàli - Chuyện 121 Đến 124",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=29212",
+    "title" : "08:06:52 Tập 5 - Chương 1 - Phẩm Kusanàli - Chuyện 125 Đến 130",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=31126",
+    "title" : "08:38:46 Tập 5 - Chương 1 - Phẩm Asampadàna - Chuyện 131 Đến 136",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=32657",
+    "title" : "09:04:17 Tập 5 - Chương 1 - Phẩm Asampadàna - Chuyện 137 Đến 140",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=34033",
+    "title" : "09:27:13 Tập 5 - Chương 1 - Phẩm Kakantaka - Chuyện 141 Đến 147",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14103-kinh-tieu-bo-tap-5-thuviensach.vn.mp3?t=35891",
+    "title" : "09:58:11 Tập 5 - Chương 1 - Phẩm Kakantaka - Chuyện 148 Đến 150",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
