@@ -1,0 +1,461 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ho-yeu.html",
+    "title" : "Hồ Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khát Trí",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 104422,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_eceeda812b593850ca97b69bbecd8ac6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_eceeda812b593850ca97b69bbecd8ac6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3279,
+    "title" : "ho-yeu-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2563,
+    "title" : "ho-yeu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "ho-yeu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "ho-yeu-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "ho-yeu-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2632,
+    "title" : "ho-yeu-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "ho-yeu-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "ho-yeu-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2966,
+    "title" : "ho-yeu-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2924,
+    "title" : "ho-yeu-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3088,
+    "title" : "ho-yeu-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2513,
+    "title" : "ho-yeu-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2952,
+    "title" : "ho-yeu-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2708,
+    "title" : "ho-yeu-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2598,
+    "title" : "ho-yeu-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2525,
+    "title" : "ho-yeu-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "ho-yeu-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "ho-yeu-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2898,
+    "title" : "ho-yeu-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "ho-yeu-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2995,
+    "title" : "ho-yeu-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2695,
+    "title" : "ho-yeu-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2999,
+    "title" : "ho-yeu-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2913,
+    "title" : "ho-yeu-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "ho-yeu-tap-25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "ho-yeu-tap-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2732,
+    "title" : "ho-yeu-tap-27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "ho-yeu-tap-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2452,
+    "title" : "ho-yeu-tap-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "ho-yeu-tap-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "ho-yeu-tap-31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2697,
+    "title" : "ho-yeu-tap-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3257,
+    "title" : "ho-yeu-tap-33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3002,
+    "title" : "ho-yeu-tap-34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5840,
+    "title" : "ho-yeu-tap-35",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-1.mp3",
+    "title" : "ho-yeu-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-2.mp3",
+    "title" : "ho-yeu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-3.mp3",
+    "title" : "ho-yeu-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-4.mp3",
+    "title" : "ho-yeu-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-5.mp3",
+    "title" : "ho-yeu-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-6.mp3",
+    "title" : "ho-yeu-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-7.mp3",
+    "title" : "ho-yeu-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-8.mp3",
+    "title" : "ho-yeu-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-9.mp3",
+    "title" : "ho-yeu-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-10.mp3",
+    "title" : "ho-yeu-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-11.mp3",
+    "title" : "ho-yeu-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-12.mp3",
+    "title" : "ho-yeu-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-13.mp3",
+    "title" : "ho-yeu-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-14.mp3",
+    "title" : "ho-yeu-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-15.mp3",
+    "title" : "ho-yeu-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-16.mp3",
+    "title" : "ho-yeu-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-17.mp3",
+    "title" : "ho-yeu-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-18.mp3",
+    "title" : "ho-yeu-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-19.mp3",
+    "title" : "ho-yeu-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-20.mp3",
+    "title" : "ho-yeu-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-21.mp3",
+    "title" : "ho-yeu-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-22.mp3",
+    "title" : "ho-yeu-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-23.mp3",
+    "title" : "ho-yeu-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-24.mp3",
+    "title" : "ho-yeu-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-25.mp3",
+    "title" : "ho-yeu-tap-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-26.mp3",
+    "title" : "ho-yeu-tap-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-27.mp3",
+    "title" : "ho-yeu-tap-27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-28.mp3",
+    "title" : "ho-yeu-tap-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-29.mp3",
+    "title" : "ho-yeu-tap-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-30.mp3",
+    "title" : "ho-yeu-tap-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-31.mp3",
+    "title" : "ho-yeu-tap-31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-32.mp3",
+    "title" : "ho-yeu-tap-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-33.mp3",
+    "title" : "ho-yeu-tap-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-34.mp3",
+    "title" : "ho-yeu-tap-34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-yeu/ho-yeu-tap-35.mp3",
+    "title" : "ho-yeu-tap-35",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
