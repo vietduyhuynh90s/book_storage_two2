@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ham-mo.html",
+    "title" : "Hầm Mộ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trường Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 65646,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_b491c6d3dcab3d3ae2f3f93879786d9d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_b491c6d3dcab3d3ae2f3f93879786d9d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hammo/HamMo_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6665,
+    "title" : "HamMo_01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4853,
+    "title" : "HamMo_02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4209,
+    "title" : "HamMo_03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "HamMo_04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4067,
+    "title" : "HamMo_05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "HamMo_06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "HamMo_07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4375,
+    "title" : "HamMo_08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4146,
+    "title" : "HamMo_09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4187,
+    "title" : "HamMo_10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "HamMo_11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4103,
+    "title" : "HamMo_12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "HamMo_13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4084,
+    "title" : "HamMo_14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5800,
+    "title" : "HamMo_15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hammo/HamMo_01.mp3",
+    "title" : "HamMo_01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_02.mp3",
+    "title" : "HamMo_02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_03.mp3",
+    "title" : "HamMo_03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_04.mp3",
+    "title" : "HamMo_04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_05.mp3",
+    "title" : "HamMo_05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_06.mp3",
+    "title" : "HamMo_06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_07.mp3",
+    "title" : "HamMo_07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_08.mp3",
+    "title" : "HamMo_08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_09.mp3",
+    "title" : "HamMo_09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_10.mp3",
+    "title" : "HamMo_10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_11.mp3",
+    "title" : "HamMo_11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_12.mp3",
+    "title" : "HamMo_12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_13.mp3",
+    "title" : "HamMo_13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_14.mp3",
+    "title" : "HamMo_14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hammo/HamMo_15.mp3",
+    "title" : "HamMo_15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

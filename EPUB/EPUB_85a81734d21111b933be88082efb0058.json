@@ -1,0 +1,593 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ta-manh-nhat-am-ty.html",
+    "title" : "Ta Mạnh Nhất Âm Ty",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngu Niệm Nhất",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 149987,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_85a81734d21111b933be88082efb0058.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_85a81734d21111b933be88082efb0058.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/xuyen-khong-ta-manh-nhat-am-ty-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3085,
+    "title" : "xuyen-khong-ta-manh-nhat-am-ty-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/xuyen-khong-ta-manh-nhat-am-ty-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "xuyen-khong-ta-manh-nhat-am-ty-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3239,
+    "title" : "ta-manh-nhat-am-ty-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3136,
+    "title" : "ta-manh-nhat-am-ty-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "ta-manh-nhat-am-ty-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3329,
+    "title" : "ta-manh-nhat-am-ty-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3028,
+    "title" : "ta-manh-nhat-am-ty-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2939,
+    "title" : "ta-manh-nhat-am-ty-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3001,
+    "title" : "ta-manh-nhat-am-ty-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3358,
+    "title" : "ta-manh-nhat-am-ty-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2932,
+    "title" : "ta-manh-nhat-am-ty-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3490,
+    "title" : "ta-manh-nhat-am-ty-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "ta-manh-nhat-am-ty-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3138,
+    "title" : "ta-manh-nhat-am-ty-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3263,
+    "title" : "ta-manh-nhat-am-ty-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "ta-manh-nhat-am-ty-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "ta-manh-nhat-am-ty-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "ta-manh-nhat-am-ty-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "ta-manh-nhat-am-ty-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-20..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3301,
+    "title" : "ta-manh-nhat-am-ty-tap-20.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4180,
+    "title" : "ta-manh-nhat-am-ty-tap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3325,
+    "title" : "ta-manh-nhat-am-ty-tap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "ta-manh-nhat-am-ty-tap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2902,
+    "title" : "ta-manh-nhat-am-ty-tap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3423,
+    "title" : "ta-manh-nhat-am-ty-tap-25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3520,
+    "title" : "ta-manh-nhat-am-ty-tap-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2950,
+    "title" : "ta-manh-nhat-am-ty-tap-27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3288,
+    "title" : "ta-manh-nhat-am-ty-tap-28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3153,
+    "title" : "ta-manh-nhat-am-ty-tap-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "ta-manh-nhat-am-ty-tap-30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "ta-manh-nhat-am-ty-tap-31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "ta-manh-nhat-am-ty-tap-32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3207,
+    "title" : "ta-manh-nhat-am-ty-tap-33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3421,
+    "title" : "ta-manh-nhat-am-ty-tap-34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "ta-manh-nhat-am-ty-tap-35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3157,
+    "title" : "ta-manh-nhat-am-ty-tap-36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3435,
+    "title" : "ta-manh-nhat-am-ty-tap-37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3375,
+    "title" : "ta-manh-nhat-am-ty-tap-38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "ta-manh-nhat-am-ty-tap-39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3305,
+    "title" : "ta-manh-nhat-am-ty-tap-40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3225,
+    "title" : "ta-manh-nhat-am-ty-tap-41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "ta-manh-nhat-am-ty-tap-42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "ta-manh-nhat-am-ty-tap-43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "ta-manh-nhat-am-ty-tap-44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3188,
+    "title" : "ta-manh-nhat-am-ty-tap-45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3201,
+    "title" : "ta-manh-nhat-am-ty-tap-46",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/xuyen-khong-ta-manh-nhat-am-ty-tap-1.mp3",
+    "title" : "xuyen-khong-ta-manh-nhat-am-ty-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/xuyen-khong-ta-manh-nhat-am-ty-tap-2.mp3",
+    "title" : "xuyen-khong-ta-manh-nhat-am-ty-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-3.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-4.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-5.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-6.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-7.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-8.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-9.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-10.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-11.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-12.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-13.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-14.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-15.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-16.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-17.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-18.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-19.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-20..mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-20.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-21.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-22.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-23.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-24.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-25.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-26.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-27.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-28.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-29.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-30.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-31.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-32.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-33.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-34.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-35.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-36.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-37.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-38.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-39.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-40.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-41.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-42.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-43.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-44.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-45.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-khong-ta-manh-nhat-am-ty/ta-manh-nhat-am-ty-tap-46.mp3",
+    "title" : "ta-manh-nhat-am-ty-tap-46",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

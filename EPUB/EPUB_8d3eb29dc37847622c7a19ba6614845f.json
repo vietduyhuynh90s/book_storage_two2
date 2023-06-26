@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ky-nu-xu-thanh-hoa.html",
+    "title" : "Kỳ Nữ Xứ Thanh Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tĩnh Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 78259,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_8d3eb29dc37847622c7a19ba6614845f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_8d3eb29dc37847622c7a19ba6614845f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4444,
+    "title" : "ky-nu-xu-thanh-hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4722,
+    "title" : "ky-nu-xu-thanh-hoa-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4037,
+    "title" : "ky-nu-xu-thanh-hoa-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4148,
+    "title" : "ky-nu-xu-thanh-hoa-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4757,
+    "title" : "ky-nu-xu-thanh-hoa-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4092,
+    "title" : "ky-nu-xu-thanh-hoa-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4426,
+    "title" : "ky-nu-xu-thanh-hoa-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4101,
+    "title" : "ky-nu-xu-thanh-hoa-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5104,
+    "title" : "ky-nu-xu-thanh-hoa-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4206,
+    "title" : "ky-nu-xu-thanh-hoa-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4553,
+    "title" : "ky-nu-xu-thanh-hoa-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4660,
+    "title" : "ky-nu-xu-thanh-hoa-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4771,
+    "title" : "ky-nu-xu-thanh-hoa-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4670,
+    "title" : "ky-nu-xu-thanh-hoa-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5454,
+    "title" : "ky-nu-xu-thanh-hoa-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4443,
+    "title" : "ky-nu-xu-thanh-hoa-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5671,
+    "title" : "ky-nu-xu-thanh-hoa-tap-17",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa.mp3",
+    "title" : "ky-nu-xu-thanh-hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-2.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-3.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-4.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-5.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-6.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-7.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-8.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-9.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-10.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-11.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-12.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-13.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-14.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-15.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-16.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ky-nu-xu-thanh-hoa/ky-nu-xu-thanh-hoa-tap-17.mp3",
+    "title" : "ky-nu-xu-thanh-hoa-tap-17",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/loi-nguyen-347.html",
+    "title" : "Lời Nguyền 347",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Tường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 27184,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_279cd283edf6603a66e403dc1a97c077.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_279cd283edf6603a66e403dc1a97c077.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4593,
+    "title" : "loi-nguyen-347",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4132,
+    "title" : "loi-nguyen-347-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "loi-nguyen-347-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4076,
+    "title" : "loi-nguyen-347-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "loi-nguyen-347-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3592,
+    "title" : "loi-nguyen-347-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3231,
+    "title" : "loi-nguyen-347-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347.mp3",
+    "title" : "loi-nguyen-347",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-2.mp3",
+    "title" : "loi-nguyen-347-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-3.mp3",
+    "title" : "loi-nguyen-347-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-4.mp3",
+    "title" : "loi-nguyen-347-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-5.mp3",
+    "title" : "loi-nguyen-347-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-6.mp3",
+    "title" : "loi-nguyen-347-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nguyen-347/loi-nguyen-347-tap-7.mp3",
+    "title" : "loi-nguyen-347-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/le-lang-kho-ai.html",
+    "title" : "Lệ Làng Khổ Ải",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thu Huyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 29918,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_584649e30fcfff8b3d7215628b6a2964.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_584649e30fcfff8b3d7215628b6a2964.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "le-lang-kho-ai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4098,
+    "title" : "le-lang-kho-ai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4209,
+    "title" : "le-lang-kho-ai-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4089,
+    "title" : "le-lang-kho-ai-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4098,
+    "title" : "le-lang-kho-ai-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4319,
+    "title" : "le-lang-kho-ai-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5174,
+    "title" : "le-lang-kho-ai-tap-7",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai.mp3",
+    "title" : "le-lang-kho-ai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-2.mp3",
+    "title" : "le-lang-kho-ai-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-3.mp3",
+    "title" : "le-lang-kho-ai-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-4.mp3",
+    "title" : "le-lang-kho-ai-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-5.mp3",
+    "title" : "le-lang-kho-ai-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-6.mp3",
+    "title" : "le-lang-kho-ai-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/le-lang-kho-ai/le-lang-kho-ai-tap-7.mp3",
+    "title" : "le-lang-kho-ai-tap-7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
