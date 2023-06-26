@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chim-muong-tro-ve-coi-nguon.html",
+    "title" : "Chim Muông Trở Về Cội Nguồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Xuân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 7841,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_d77e13a6e3d28d3562ce1e43fe479087.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_d77e13a6e3d28d3562ce1e43fe479087.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chim-muong-tro-ve-coi-nguon/chim-muong-tro-ve-coi-nguon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7841,
+    "title" : "chim-muong-tro-ve-coi-nguon",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chim-muong-tro-ve-coi-nguon/chim-muong-tro-ve-coi-nguon.mp3",
+    "title" : "chim-muong-tro-ve-coi-nguon",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

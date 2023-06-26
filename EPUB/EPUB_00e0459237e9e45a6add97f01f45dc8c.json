@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nghiep.html",
+    "title" : "Nghiệp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lương Khánh Ly",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_00e0459237e9e45a6add97f01f45dc8c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_00e0459237e9e45a6add97f01f45dc8c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801500.us.archive.org/35/items/nghiep-full/Nghiep_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghiệp tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801500.us.archive.org/35/items/nghiep-full/Nghiep_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghiệp tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801500.us.archive.org/35/items/nghiep-full/Nghiep_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghiệp tập 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801500.us.archive.org/35/items/nghiep-full/Nghiep_01.mp3",
+    "title" : "Nghiệp tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801500.us.archive.org/35/items/nghiep-full/Nghiep_02.mp3",
+    "title" : "Nghiệp tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801500.us.archive.org/35/items/nghiep-full/Nghiep_03.mp3",
+    "title" : "Nghiệp tập 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

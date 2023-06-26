@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hau-due-that-son-mon.html",
+    "title" : "Hậu duệ thất sơn môn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Hoàng Nghĩa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_7b2afb215b650a9a7baadd322304f5fc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_7b2afb215b650a9a7baadd322304f5fc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801507.us.archive.org/21/items/hau-due-that-son-mon/HauDueThatSonMon_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Hậu duệ thất sơn môn tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801507.us.archive.org/21/items/hau-due-that-son-mon/HauDueThatSonMon_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Hậu duệ thất sơn môn tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801507.us.archive.org/21/items/hau-due-that-son-mon/HauDueThatSonMon_01.mp3",
+    "title" : "Hậu duệ thất sơn môn tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801507.us.archive.org/21/items/hau-due-that-son-mon/HauDueThatSonMon_02.mp3",
+    "title" : "Hậu duệ thất sơn môn tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

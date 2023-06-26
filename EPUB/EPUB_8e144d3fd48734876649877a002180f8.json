@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-trung-tham-an.html",
+    "title" : "Cổ Trùng Thảm Án",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 79360,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_8e144d3fd48734876649877a002180f8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_8e144d3fd48734876649877a002180f8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4107,
+    "title" : "co-trung-tham-an",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3921,
+    "title" : "co-trung-tham-an-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3803,
+    "title" : "co-trung-tham-an-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3802,
+    "title" : "co-trung-tham-an-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "co-trung-tham-an-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "co-trung-tham-an-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "co-trung-tham-an-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3786,
+    "title" : "co-trung-tham-an-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "co-trung-tham-an-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "co-trung-tham-an-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "co-trung-tham-an-tap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "co-trung-tham-an-tap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3664,
+    "title" : "co-trung-tham-an-tap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "co-trung-tham-an-tap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "co-trung-tham-an-tap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "co-trung-tham-an-tap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "co-trung-tham-an-tap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3693,
+    "title" : "co-trung-tham-an-tap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3744,
+    "title" : "co-trung-tham-an-tap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "co-trung-tham-an-tap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "co-trung-tham-an-tap-21",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an.mp3",
+    "title" : "co-trung-tham-an",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-2.mp3",
+    "title" : "co-trung-tham-an-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-3.mp3",
+    "title" : "co-trung-tham-an-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-4.mp3",
+    "title" : "co-trung-tham-an-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-5.mp3",
+    "title" : "co-trung-tham-an-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-6.mp3",
+    "title" : "co-trung-tham-an-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-7.mp3",
+    "title" : "co-trung-tham-an-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-8.mp3",
+    "title" : "co-trung-tham-an-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-9.mp3",
+    "title" : "co-trung-tham-an-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-10.mp3",
+    "title" : "co-trung-tham-an-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-11.mp3",
+    "title" : "co-trung-tham-an-tap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-12.mp3",
+    "title" : "co-trung-tham-an-tap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-13.mp3",
+    "title" : "co-trung-tham-an-tap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-14.mp3",
+    "title" : "co-trung-tham-an-tap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-15.mp3",
+    "title" : "co-trung-tham-an-tap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-16.mp3",
+    "title" : "co-trung-tham-an-tap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-17.mp3",
+    "title" : "co-trung-tham-an-tap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-18.mp3",
+    "title" : "co-trung-tham-an-tap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-19.mp3",
+    "title" : "co-trung-tham-an-tap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-20.mp3",
+    "title" : "co-trung-tham-an-tap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-trung-tham-an/co-trung-tham-an-tap-21.mp3",
+    "title" : "co-trung-tham-an-tap-21",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

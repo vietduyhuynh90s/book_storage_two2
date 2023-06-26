@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/tru-ta-diet-ma.html",
+    "title" : "Trừ tà diệt ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Anh Khoa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 68259,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_259f84db939614b4a565f6ee09f8745a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_259f84db939614b4a565f6ee09f8745a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4787,
+    "title" : "TruTaDietMa_01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4554,
+    "title" : "TruTaDietMa_02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "TruTaDietMa_03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4647,
+    "title" : "TruTaDietMa_04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4424,
+    "title" : "TruTaDietMa_05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4271,
+    "title" : "TruTaDietMa_06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4596,
+    "title" : "TruTaDietMa_07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4349,
+    "title" : "TruTaDietMa_08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4539,
+    "title" : "TruTaDietMa_09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4475,
+    "title" : "TruTaDietMa_10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4363,
+    "title" : "TruTaDietMa_11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "TruTaDietMa_12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3923,
+    "title" : "TruTaDietMa_13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "TruTaDietMa_14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "TruTaDietMa_15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3417,
+    "title" : "TruTaDietMa_16",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_01.mp3",
+    "title" : "TruTaDietMa_01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_02.mp3",
+    "title" : "TruTaDietMa_02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_03.mp3",
+    "title" : "TruTaDietMa_03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_04.mp3",
+    "title" : "TruTaDietMa_04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_05.mp3",
+    "title" : "TruTaDietMa_05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_06.mp3",
+    "title" : "TruTaDietMa_06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_07.mp3",
+    "title" : "TruTaDietMa_07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_08.mp3",
+    "title" : "TruTaDietMa_08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_09.mp3",
+    "title" : "TruTaDietMa_09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_10.mp3",
+    "title" : "TruTaDietMa_10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_11.mp3",
+    "title" : "TruTaDietMa_11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_12.mp3",
+    "title" : "TruTaDietMa_12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_13.mp3",
+    "title" : "TruTaDietMa_13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_14.mp3",
+    "title" : "TruTaDietMa_14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_15.mp3",
+    "title" : "TruTaDietMa_15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trutadietma/TruTaDietMa_16.mp3",
+    "title" : "TruTaDietMa_16",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

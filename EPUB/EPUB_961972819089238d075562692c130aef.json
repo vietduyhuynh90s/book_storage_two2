@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/can-phong-so-1.html",
+    "title" : "Căn phòng số 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Lăng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_961972819089238d075562692c130aef.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_961972819089238d075562692c130aef.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801405.us.archive.org/17/items/can-phong-so-1-full/CanPhongSo1_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Căn phòng số 1 tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801405.us.archive.org/17/items/can-phong-so-1-full/CanPhongSo1_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Căn phòng số 1 tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801405.us.archive.org/17/items/can-phong-so-1-full/CanPhongSo1_01.mp3",
+    "title" : "Căn phòng số 1 tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801405.us.archive.org/17/items/can-phong-so-1-full/CanPhongSo1_02.mp3",
+    "title" : "Căn phòng số 1 tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

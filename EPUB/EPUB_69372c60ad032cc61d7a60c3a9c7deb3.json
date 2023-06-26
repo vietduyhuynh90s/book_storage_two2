@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dem-kinh-hoang-cua-ke-boi-bac.html",
+    "title" : "Đêm Kinh Hoàng Của Kẻ Bội Bạc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Vô Ưu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 13375,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_69372c60ad032cc61d7a60c3a9c7deb3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_69372c60ad032cc61d7a60c3a9c7deb3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dem-kinh-hoang-cua-ke-boi-bac/dem-kinh-hoang-cua-ke-boi-bac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6607,
+    "title" : "dem-kinh-hoang-cua-ke-boi-bac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-kinh-hoang-cua-ke-boi-bac/dem-kinh-hoang-cua-ke-boi-bac-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6768,
+    "title" : "dem-kinh-hoang-cua-ke-boi-bac-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dem-kinh-hoang-cua-ke-boi-bac/dem-kinh-hoang-cua-ke-boi-bac.mp3",
+    "title" : "dem-kinh-hoang-cua-ke-boi-bac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-kinh-hoang-cua-ke-boi-bac/dem-kinh-hoang-cua-ke-boi-bac-tap-2.mp3",
+    "title" : "dem-kinh-hoang-cua-ke-boi-bac-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

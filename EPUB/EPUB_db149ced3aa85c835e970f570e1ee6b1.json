@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/goc-da-oan-khuat.html",
+    "title" : "Gốc Đa Oan Khuất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọc Thơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_db149ced3aa85c835e970f570e1ee6b1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_db149ced3aa85c835e970f570e1ee6b1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801509.us.archive.org/1/items/goc-da-oan-khuat/goc-da-oan-khuat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Gốc đa oan khuất tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801509.us.archive.org/1/items/goc-da-oan-khuat/goc-da-oan-khuat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Gốc đa oan khuất tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801509.us.archive.org/1/items/goc-da-oan-khuat/goc-da-oan-khuat-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Gốc đa oan khuất tập 3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801509.us.archive.org/1/items/goc-da-oan-khuat/goc-da-oan-khuat.mp3",
+    "title" : "Gốc đa oan khuất tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801509.us.archive.org/1/items/goc-da-oan-khuat/goc-da-oan-khuat-tap-2.mp3",
+    "title" : "Gốc đa oan khuất tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801509.us.archive.org/1/items/goc-da-oan-khuat/goc-da-oan-khuat-tap-3.mp3",
+    "title" : "Gốc đa oan khuất tập 3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

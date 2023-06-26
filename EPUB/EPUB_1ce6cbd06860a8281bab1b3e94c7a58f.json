@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nguoi-xua-tro-ve.html",
+    "title" : "Người Xưa Trở Về",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phương Trà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 26662,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_1ce6cbd06860a8281bab1b3e94c7a58f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_1ce6cbd06860a8281bab1b3e94c7a58f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4354,
+    "title" : "nguoi-xua-tro-ve",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3989,
+    "title" : "nguoi-xua-tro-ve-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4747,
+    "title" : "nguoi-xua-tro-ve-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4460,
+    "title" : "nguoi-xua-tro-ve-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4180,
+    "title" : "nguoi-xua-tro-ve-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4932,
+    "title" : "nguoi-xua-tro-ve-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve.mp3",
+    "title" : "nguoi-xua-tro-ve",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-2.mp3",
+    "title" : "nguoi-xua-tro-ve-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-3.mp3",
+    "title" : "nguoi-xua-tro-ve-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-4.mp3",
+    "title" : "nguoi-xua-tro-ve-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-5.mp3",
+    "title" : "nguoi-xua-tro-ve-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-xua-tro-ve/nguoi-xua-tro-ve-tap-6.mp3",
+    "title" : "nguoi-xua-tro-ve-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
