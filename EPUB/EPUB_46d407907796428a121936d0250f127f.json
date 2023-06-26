@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nu-vuong-soma.html",
+    "title" : "Nữ Vương Soma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 19560,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_46d407907796428a121936d0250f127f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_46d407907796428a121936d0250f127f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "nu-vuong-soma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "nu-vuong-soma-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "nu-vuong-soma-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3997,
+    "title" : "nu-vuong-soma-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4165,
+    "title" : "nu-vuong-soma-tap-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma.mp3",
+    "title" : "nu-vuong-soma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-2.mp3",
+    "title" : "nu-vuong-soma-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-3.mp3",
+    "title" : "nu-vuong-soma-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-4.mp3",
+    "title" : "nu-vuong-soma-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nu-vuong-soma/nu-vuong-soma-tap-5.mp3",
+    "title" : "nu-vuong-soma-tap-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

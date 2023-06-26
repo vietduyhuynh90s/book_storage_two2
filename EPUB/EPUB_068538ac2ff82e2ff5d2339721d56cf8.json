@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/di-toi-bi-bo-bua-yeu.html",
+    "title" : "Dì Tôi Bị Bỏ Bùa Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lan Lan Yêu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 22846,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_068538ac2ff82e2ff5d2339721d56cf8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_068538ac2ff82e2ff5d2339721d56cf8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4037,
+    "title" : "di-toi-bi-bo-bua-yeu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4015,
+    "title" : "di-toi-bi-bo-bua-yeu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3706,
+    "title" : "di-toi-bi-bo-bua-yeu-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "di-toi-bi-bo-bua-yeu-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3849,
+    "title" : "di-toi-bi-bo-bua-yeu-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "di-toi-bi-bo-bua-yeu-tap-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu.mp3",
+    "title" : "di-toi-bi-bo-bua-yeu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-2.mp3",
+    "title" : "di-toi-bi-bo-bua-yeu-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-3.mp3",
+    "title" : "di-toi-bi-bo-bua-yeu-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-4.mp3",
+    "title" : "di-toi-bi-bo-bua-yeu-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-5.mp3",
+    "title" : "di-toi-bi-bo-bua-yeu-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/di-toi-bi-bo-bua-yeu/di-toi-bi-bo-bua-yeu-tap-6.mp3",
+    "title" : "di-toi-bi-bo-bua-yeu-tap-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

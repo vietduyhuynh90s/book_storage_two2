@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dong-ho-quy-du.html",
+    "title" : "Dòng Họ Quỷ Dữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 12628,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_934634208d020e14c22fd0eb74b88243.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_934634208d020e14c22fd0eb74b88243.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "dong-ho-quy-du",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3277,
+    "title" : "dong-ho-quy-du-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3104,
+    "title" : "dong-ho-quy-du-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3125,
+    "title" : "dong-ho-quy-du-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du.mp3",
+    "title" : "dong-ho-quy-du",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du-tap-2.mp3",
+    "title" : "dong-ho-quy-du-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du-tap-3.mp3",
+    "title" : "dong-ho-quy-du-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dong-ho-quy-du/dong-ho-quy-du-tap-4.mp3",
+    "title" : "dong-ho-quy-du-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

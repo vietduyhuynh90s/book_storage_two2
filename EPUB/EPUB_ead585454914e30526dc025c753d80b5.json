@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thuat-yem.html",
+    "title" : "Thuật Yểm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuấn Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 28915,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_ead585454914e30526dc025c753d80b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_ead585454914e30526dc025c753d80b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "thuat-yem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "thuat-yem-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "thuat-yem-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3668,
+    "title" : "thuat-yem-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3655,
+    "title" : "thuat-yem-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3456,
+    "title" : "thuat-yem-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "thuat-yem-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3252,
+    "title" : "thuat-yem-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem.mp3",
+    "title" : "thuat-yem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-2.mp3",
+    "title" : "thuat-yem-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-3.mp3",
+    "title" : "thuat-yem-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-4.mp3",
+    "title" : "thuat-yem-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-5.mp3",
+    "title" : "thuat-yem-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-6.mp3",
+    "title" : "thuat-yem-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-7.mp3",
+    "title" : "thuat-yem-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-yem/thuat-yem-tap-8.mp3",
+    "title" : "thuat-yem-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

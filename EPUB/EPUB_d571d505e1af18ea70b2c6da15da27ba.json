@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cha-ac-duc-con-bat-nhan.html",
+    "title" : "Cha Ác Đức Con Bất Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Việt Nga",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 10753,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_d571d505e1af18ea70b2c6da15da27ba.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_d571d505e1af18ea70b2c6da15da27ba.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cha-ac-duc-con-bat-nhan/cha-ac-duc-con-bat-nhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3512,
+    "title" : "cha-ac-duc-con-bat-nhan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cha-ac-duc-con-bat-nhan/cha-ac-duc-con-bat-nhan-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "cha-ac-duc-con-bat-nhan-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cha-ac-duc-con-bat-nhan/cha-ac-duc-con-bat-nhan-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "cha-ac-duc-con-bat-nhan-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cha-ac-duc-con-bat-nhan/cha-ac-duc-con-bat-nhan.mp3",
+    "title" : "cha-ac-duc-con-bat-nhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cha-ac-duc-con-bat-nhan/cha-ac-duc-con-bat-nhan-tap-2.mp3",
+    "title" : "cha-ac-duc-con-bat-nhan-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cha-ac-duc-con-bat-nhan/cha-ac-duc-con-bat-nhan-tap-3.mp3",
+    "title" : "cha-ac-duc-con-bat-nhan-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
