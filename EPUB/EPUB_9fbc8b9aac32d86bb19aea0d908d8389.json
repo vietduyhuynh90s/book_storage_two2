@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mieu-hoang.html",
+    "title" : "Miếu Hoang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trường Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 58404,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_9fbc8b9aac32d86bb19aea0d908d8389.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_9fbc8b9aac32d86bb19aea0d908d8389.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "MieuHoang_01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4077,
+    "title" : "MieuHoang_02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4091,
+    "title" : "MieuHoang_03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "MieuHoang_04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4097,
+    "title" : "MieuHoang_05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "MieuHoang_06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4730,
+    "title" : "MieuHoang_07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3960,
+    "title" : "MieuHoang_08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3944,
+    "title" : "MieuHoang_09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4123,
+    "title" : "MieuHoang_10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "MieuHoang_11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "MieuHoang_12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "MieuHoang_13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5959,
+    "title" : "MieuHoang_14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_01.mp3",
+    "title" : "MieuHoang_01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_02.mp3",
+    "title" : "MieuHoang_02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_03.mp3",
+    "title" : "MieuHoang_03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_04.mp3",
+    "title" : "MieuHoang_04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_05.mp3",
+    "title" : "MieuHoang_05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_06.mp3",
+    "title" : "MieuHoang_06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_07.mp3",
+    "title" : "MieuHoang_07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_08.mp3",
+    "title" : "MieuHoang_08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_09.mp3",
+    "title" : "MieuHoang_09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_10.mp3",
+    "title" : "MieuHoang_10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_11.mp3",
+    "title" : "MieuHoang_11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_12.mp3",
+    "title" : "MieuHoang_12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_13.mp3",
+    "title" : "MieuHoang_13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieuhoang/MieuHoang_14.mp3",
+    "title" : "MieuHoang_14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/dap-n-at-d-au-tinh-dich.html",
+    "title" : "Đập N.át Đ.ầu Tình Địch",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duy Thuận",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 8984,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_8cfb94eed6d8ac3f09f8969f618766c8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_8cfb94eed6d8ac3f09f8969f618766c8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dap-n-at-dau-tinh-dich/dap-n-at-dau-tinh-dich.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8984,
+    "title" : "dap-n-at-dau-tinh-dich",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dap-n-at-dau-tinh-dich/dap-n-at-dau-tinh-dich.mp3",
+    "title" : "dap-n-at-dau-tinh-dich",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ban-tay-sau-ngon.html",
+    "title" : "Bàn Tay Sáu Ngón",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17682,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a75b2fd03ba126c52f67581364c3b827.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a75b2fd03ba126c52f67581364c3b827.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-sau-ngon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4464,
+    "title" : "ban-tay-sau-ngon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-sau-ngon-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4459,
+    "title" : "ban-tay-sau-ngon-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-sau-ngon-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3888,
+    "title" : "ban-tay-sau-ngon-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-6-ngon-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4871,
+    "title" : "ban-tay-6-ngon-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-sau-ngon.mp3",
+    "title" : "ban-tay-sau-ngon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-sau-ngon-tap-2.mp3",
+    "title" : "ban-tay-sau-ngon-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-sau-ngon-tap-3.mp3",
+    "title" : "ban-tay-sau-ngon-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tay-sau-ngon/ban-tay-6-ngon-tap-4.mp3",
+    "title" : "ban-tay-6-ngon-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

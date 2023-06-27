@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cau-tay-don-tet-2023.html",
+    "title" : "Cậu Tẩy Đón Tết 2023",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Cơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 17965,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_c71b3dcc5007ff69861d0285bb3a8bdd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_c71b3dcc5007ff69861d0285bb3a8bdd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-tay-don-tet-2023/cau-tay-don-tet-2023-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5344,
+    "title" : "cau-tay-don-tet-2023-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-don-tet-2023/cau-tay-don-tet-2023-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6091,
+    "title" : "cau-tay-don-tet-2023-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-tay-don-tet-2023/cau-tay-don-tet-2023-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6530,
+    "title" : "cau-tay-don-tet-2023-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-tay-don-tet-2023/cau-tay-don-tet-2023-tap-1.mp3",
+    "title" : "cau-tay-don-tet-2023-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-don-tet-2023/cau-tay-don-tet-2023-tap-2.mp3",
+    "title" : "cau-tay-don-tet-2023-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-tay-don-tet-2023/cau-tay-don-tet-2023-tap-3.mp3",
+    "title" : "cau-tay-don-tet-2023-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

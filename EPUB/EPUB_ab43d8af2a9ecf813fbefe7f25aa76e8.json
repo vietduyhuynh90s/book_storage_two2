@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chuyen-hanh-quan-sinh-tu.html",
+    "title" : "Chuyến Hành Quân Sinh Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quác Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 14770,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_ab43d8af2a9ecf813fbefe7f25aa76e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_ab43d8af2a9ecf813fbefe7f25aa76e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-hanh-quan-sinh-tu/chuyen-hanh-quan-sinh-tu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7690,
+    "title" : "chuyen-hanh-quan-sinh-tu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chuyen-hanh-quan-sinh-tu/chuyen-hanh-quan-sinh-tu-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7080,
+    "title" : "chuyen-hanh-quan-sinh-tu-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-hanh-quan-sinh-tu/chuyen-hanh-quan-sinh-tu.mp3",
+    "title" : "chuyen-hanh-quan-sinh-tu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-hanh-quan-sinh-tu/chuyen-hanh-quan-sinh-tu-tap-2.mp3",
+    "title" : "chuyen-hanh-quan-sinh-tu-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

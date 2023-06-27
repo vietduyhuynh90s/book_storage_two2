@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/bao-son-dao-si.html",
+    "title" : "Bảo Sơn Đạo Sĩ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đoàn Ngọc Sang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 13020,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_4736ec81490c7c56de22c542221f18b6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_4736ec81490c7c56de22c542221f18b6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bao-son-dao-si/bao-son-dao-si.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4320,
+    "title" : "bao-son-dao-si",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-son-dao-si/bao-son-dao-si-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4565,
+    "title" : "bao-son-dao-si-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bao-son-dao-si/bao-son-dao-si-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4135,
+    "title" : "bao-son-dao-si-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bao-son-dao-si/bao-son-dao-si.mp3",
+    "title" : "bao-son-dao-si",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-son-dao-si/bao-son-dao-si-tap-2.mp3",
+    "title" : "bao-son-dao-si-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bao-son-dao-si/bao-son-dao-si-tap-3.mp3",
+    "title" : "bao-son-dao-si-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

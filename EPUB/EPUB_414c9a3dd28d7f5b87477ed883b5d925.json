@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ai-la-con-ma-lai.html",
+    "title" : "Ai Là Con Ma Lai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Trần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 6355,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_414c9a3dd28d7f5b87477ed883b5d925.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_414c9a3dd28d7f5b87477ed883b5d925.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-la-con-ma-lai-rut-ruot/ai-la-con-ma-lai-rut-ruot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6355,
+    "title" : "ai-la-con-ma-lai-rut-ruot",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-la-con-ma-lai-rut-ruot/ai-la-con-ma-lai-rut-ruot.mp3",
+    "title" : "ai-la-con-ma-lai-rut-ruot",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
