@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/la-rung-ve-ngon_20875.html",
+    "title" : "Lá Rụng Về Ngọn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bình Nguyên Lộc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-18",
+    "duration" : 3280,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_be63c680227caf1e2493778b308a1b40.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_be63c680227caf1e2493778b308a1b40.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_be63c680227caf1e2493778b308a1b40_75c09483ed68bfe286d36e5502501170_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LÁ RỤNG VỀ NGỌN | Tác giả Bình Nguyên Lộc (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_be63c680227caf1e2493778b308a1b40_75c09483ed68bfe286d36e5502501170_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LÁ RỤNG VỀ NGỌN | Tác giả Bình Nguyên Lộc (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_be63c680227caf1e2493778b308a1b40_75c09483ed68bfe286d36e5502501170_1.mp3",
+    "title" : "LÁ RỤNG VỀ NGỌN | Tác giả Bình Nguyên Lộc (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_be63c680227caf1e2493778b308a1b40_75c09483ed68bfe286d36e5502501170_2.mp3",
+    "title" : "LÁ RỤNG VỀ NGỌN | Tác giả Bình Nguyên Lộc (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
