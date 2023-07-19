@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=yJHcIWlI8T4&t=1s",
+    "title" : "Giá như có ai đó dạy tôi trưởng thành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bloom",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "Cuốn sách này dành cho bạn - những đứa trẻ đang tập lớn mang trong mình trái tim tổn thương và rạn vỡ, những người đang phải đối mặt với những nỗi đau hay những cảm xúc tiêu cực bên trong mình. Cuốn sách xinh xắn của tác giả Bloom sẽ như một lời nhắc nhở, một cái nắm tay giúp bạn hiểu rằng mình không hề đơn độc, rằng bạn hoàn toàn có đủ sức mạnh để đối diện với những khó khăn, để yêu thương, để tự  chữa lành cho bản thân và dần dần lớn lên.. . Bởi trong quá trình trưởng thành, đôi khi chúng ta sẽ tự hỏi, rằng liệu mình đang “sống” hay “tồn tại”, mình là ai trong cuộc đời, mình thực sự cần gì và mong muốn gì. Nhưng có lẽ, không phải ai cũng dễ dàng tìm được cho bản thân câu trả lời, không phải ai ngay từ ban đầu cũng đã đủ bản lĩnh để thích nghi với những chặng đường ngày càng thêm khó. Mà chúng ta – những công trình dang dở của Vũ trụ, bằng cách lắng nghe trái tim và tin tưởng vào bản thân mình, cứ thế can đảm bước đi, lần lượt trải nghiệm và vượt qua những thử thách to nhỏ, cho phép mình được sai, được học, được sửa, được làm lại. Để rồi đến một hôm, tất cả những gì chúng ta tìm kiếm, một cách tự nhiên đều vào đúng chỗ của chúng.. . Với cách viết vô cùng dễ hiểu, giọng văn dịu dàng khẽ chạm vào những cảm xúc sâu thẳm trong tâm hồn, tác giả Bloom mang đến cho bạn những thông điệp sâu sắc thông qua việc đặt ra những câu hỏi mà có lẽ không phải của riêng ai khi đi trên hành trình trưởng thành, để mỗi người từ đó có cơ hội nhìn nhận, phản ánh, và khám phá bản thân nhiều hơn. Đồng thời, đi cùng với đó cũng là những lời gợi mở giúp bạn có thể tự tìm ra đáp án phù hợp cho bản thân mình: Trưởng thành có nghĩa là bạn cần… Trưởng thành là khi bạn biết… & Trưởng thành là khi bạn tin…. . Và điều quan trọng nhất là ghi nhớ rằng tất cả chúng ta đều xứng đáng được yêu thương, xứng đáng với những điều tốt đẹp như Bloom đã viết một cách đầy tin tưởng rằng “Sẽ đến một ngày bạn thực sự có thể cảm nhận được bản thân mình đặc biệt như thế nào”. Và không sao cả nếu như hiện tại cuộc sống của bạn hỗn độn và bất ổn. Bởi vì “Những ngày tháng khó khăn, nhiều rắc rối và nhiều âu lo này sẽ không kéo dài mãi. Hãy xem nó là một mùa trong năm, đến rồi lại đi, và việc bạn cần làm là tiếp tục bước đi trên hành trình ấy. Hạnh phúc chờ bạn ở mùa tiếp theo. Chỉ là mọi thứ đều cần thời gian”",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-19",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_3f03650731e7fad942e070416f91df9a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_3f03650731e7fad942e070416f91df9a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_3f03650731e7fad942e070416f91df9a_67612be931a3f9f61e62df5e7b25bb15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_3f03650731e7fad942e070416f91df9a_67612be931a3f9f61e62df5e7b25bb15.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
