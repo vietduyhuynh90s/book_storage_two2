@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/luoc-giang-kinh-lang-nghiem-1764.html",
+    "title" : "LƯỢC GIẢNG KINH LĂNG NGHIÊM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Duy Lực",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiếng Hán có văn ngôn và bạch thoại: Văn ngôn đời xưa quá súc tích, thường hay có ý mà chẳng có lời, người xưa nói “Đọc chỗ chẳng có chữ” là vậy. Chúng tôi gặp những trường hợp này thì thêm lời vào để sáng tỏ ý nghĩa ẩn trong văn. Những danh từ tiếng Hán mà tiếng Việt ít dùng, lại không thể dịch ra tiếng Việt thì chúng tôi ghi chú; còn những nghĩa lý thâm sâu khó hiểu thì chúng tôi lược giải thêm. Chúng tôi muốn tránh chỗ tối nghĩa, để cho người đọc dễ hiểu, nên chẳng chú ý đến sự trau chuốt lời văn, xin độc giả từ bi hoan hỷ cho.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_83d6ec87cc8c30ccd012c899525ff08a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_83d6ec87cc8c30ccd012c899525ff08a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Mở Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=8",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:08 Lời Dịch Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=55",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:55 1. Quyển 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=2328",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:38:48 2. Quyển 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=5912",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:38:32 3. Quyển 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=9319",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:35:19 4. Quyển 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=13066",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:37:46 5. Quyển 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=15857",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:24:17 6. Quyển 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=19084",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:18:04 7. Quyển 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=20812",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:46:52 8. Quyển 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=23838",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:37:18 9. Quyển 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=24566",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:49:26 Ma Ngũ Ấm (50 Hiện Tượng Ấm Ma)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=24745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:52:25 A. Ma Sắc Ấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=25147",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:59:07 B. Ma Thọ Ấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=25687",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:08:07 C. Ma Tưởng Ấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=26840",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:27:20 10. Quyển 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=26844",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:27:24 D. Ma Hành Ấm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=27927",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:45:27 E. Ma Thức Ấm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Mở Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=8",
+    "title" : "00:00:08 Lời Dịch Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=55",
+    "title" : "00:00:55 1. Quyển 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=2328",
+    "title" : "00:38:48 2. Quyển 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=5912",
+    "title" : "01:38:32 3. Quyển 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=9319",
+    "title" : "02:35:19 4. Quyển 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=13066",
+    "title" : "03:37:46 5. Quyển 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=15857",
+    "title" : "04:24:17 6. Quyển 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=19084",
+    "title" : "05:18:04 7. Quyển 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=20812",
+    "title" : "05:46:52 8. Quyển 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=23838",
+    "title" : "06:37:18 9. Quyển 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=24566",
+    "title" : "06:49:26 Ma Ngũ Ấm (50 Hiện Tượng Ấm Ma)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=24745",
+    "title" : "06:52:25 A. Ma Sắc Ấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=25147",
+    "title" : "06:59:07 B. Ma Thọ Ấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=25687",
+    "title" : "07:08:07 C. Ma Tưởng Ấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=26840",
+    "title" : "07:27:20 10. Quyển 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=26844",
+    "title" : "07:27:24 D. Ma Hành Ấm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1764-luoc-giang-kinh-lang-nghiem-thuviensach.vn.mp3?t=27927",
+    "title" : "07:45:27 E. Ma Thức Ấm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
