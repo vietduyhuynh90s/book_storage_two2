@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/giot-luy-thuong-tam-14450.html",
+    "title" : "GIỌT LỤY THƯƠNG TÂM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Hoàng Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_5d6cf212107645ec5c002ad223e1d346.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_5d6cf212107645ec5c002ad223e1d346.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Giọt Lụy Thương Tâm - Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=2964",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:24 Giọt Lụy Thương Tâm - Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=5706",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:35:06 Giọt Lụy Thương Tâm - Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=9146",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:32:26 Giọt Lụy Thương Tâm - Tập 04 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Giọt Lụy Thương Tâm - Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=2964",
+    "title" : "00:49:24 Giọt Lụy Thương Tâm - Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=5706",
+    "title" : "01:35:06 Giọt Lụy Thương Tâm - Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14450-giot-luy-thuong-tam-thuviensach.vn.mp3?t=9146",
+    "title" : "02:32:26 Giọt Lụy Thương Tâm - Tập 04 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
