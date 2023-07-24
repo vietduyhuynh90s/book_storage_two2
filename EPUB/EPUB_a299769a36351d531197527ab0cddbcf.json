@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=XDMNr-M9Wws",
+    "title" : "[Short] Thông Điệp Từ Những Biểu Cảm Và Ngôn Ngữ Cơ Thể (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kỳ Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>                             <h1><strong>Th&ocirc;ng Điệp Từ Những Biểu Cảm V&agrave; Ng&ocirc;n Ngữ Cơ Thể</strong></h1>                             <p><br></p>                             <p><strong><i>C&oacute; rất nhiều người hứng th&uacute; với t&acirc;m l&iacute; học nhưng kh&ocirc;ng biết phải bắt đầu t&igrave;m hiểu như thế n&agrave;o. Hệ thống kiến thức trong t&acirc;m l&iacute; học bao la rộng lớn, v&igrave; vậy n&ecirc;n d&agrave;nh thời gian qu&yacute; b&aacute;u để học c&aacute;c kiến thức c&oacute; t&iacute;nh thực dụng nhất trong đ&oacute; m&agrave; th&ocirc;i. Hiểu được đ&acirc;y mong muốn của rất nhiều người, t&aacute;c giả Kỷ Vũ đ&atilde; cho ra đời cuốn s&aacute;ch Th&ocirc;ng điệp từ những biểu cảm v&agrave; ng&ocirc;n ngữ cơ thể với sự kết hợp c&aacute;c v&iacute; dụ phong ph&uacute; d&ugrave;ng ng&ocirc;n ngữ đơn giản, dễ hiểu để tr&igrave;nh b&agrave;y những kiến thức phức tạp, phục vụ những nhu cầu ứng dụng t&acirc;m l&iacute; học v&agrave;o đời sống.</i></strong></p>                         </div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_a299769a36351d531197527ab0cddbcf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_a299769a36351d531197527ab0cddbcf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_a299769a36351d531197527ab0cddbcf_9e38016bf54267fa9fb693207346a1c6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/AUDIO/AUDIO_a299769a36351d531197527ab0cddbcf_9e38016bf54267fa9fb693207346a1c6.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
