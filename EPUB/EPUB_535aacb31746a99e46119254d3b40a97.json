@@ -1,0 +1,749 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-thuy-hu-truyen-thi-nai-am-vo-hiep_2310.html",
+    "title" : "Thủy Hử Truyện - Thi Nại Am",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thi Nại Am",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 117915,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_535aacb31746a99e46119254d3b40a97.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_535aacb31746a99e46119254d3b40a97.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20001-003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 001-003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20004-006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 004-006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20007-009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2070,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 007-009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20010-012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2071,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 010-012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 714,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 015",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20016-018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 016-018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20019-021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2071,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 019-021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20022-024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2071,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 022-024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20025-027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 025-027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20028-030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 028-030",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20031-033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 031-033",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20034-036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2065,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 034-036",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20037-039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 037-039",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20040-042.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 040-042",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20043-045.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2065,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 043-045",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20046-048.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 046-048",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20049-051.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 049-051",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20052-054.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 052-054",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20055-057.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 055-057",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20058-060.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 058-060",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20061-063.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 061-063",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20064-066.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 064-066",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20067-069.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 067-069",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20070-072.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 070-072",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20073-075.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 073-075",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20076-078.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 076-078",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20079-081.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 079-081",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20082-084.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 082-084",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20085-087.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 085-087",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20088-090.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 088-090",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20091-093.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 091-093",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20094-096.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 094-096",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20097-099.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 097-099",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20100-102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 100-102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20103-105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2069,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 103-105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20106-108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 106-108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20109-111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 109-111",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20112-114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2069,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 112-114",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20115-117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 115-117",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20118-120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 118-120",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20121-123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 121-123",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20124-126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 124-126",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20127-129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 127-129",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20130-132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 130-132",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20133-135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 133-135",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20136-138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 136-138",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20139-141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 139-141",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20142-144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2066,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 142-144",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20145-147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 145-147",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20148-150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 148-150",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20151-153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 151-153",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20154-156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 154-156",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20157-159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 157-159",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20160-162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 160-162",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20163-165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2067,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 163-165",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20166-168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 166-168",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20169-171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2068,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 169-171",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 718,
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 172",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20001-003.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 001-003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20004-006.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 004-006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20007-009.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 007-009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20010-012.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 010-012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20013.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20015.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 015",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20016-018.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 016-018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20019-021.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 019-021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20022-024.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 022-024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20025-027.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 025-027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20028-030.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 028-030",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20031-033.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 031-033",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20034-036.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 034-036",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20037-039.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 037-039",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20040-042.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 040-042",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20043-045.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 043-045",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20046-048.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 046-048",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20049-051.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 049-051",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20052-054.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 052-054",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20055-057.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 055-057",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20058-060.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 058-060",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20061-063.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 061-063",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20064-066.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 064-066",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20067-069.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 067-069",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20070-072.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 070-072",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20073-075.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 073-075",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20076-078.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 076-078",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20079-081.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 079-081",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20082-084.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 082-084",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20085-087.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 085-087",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20088-090.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 088-090",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20091-093.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 091-093",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20094-096.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 094-096",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20097-099.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 097-099",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20100-102.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 100-102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20103-105.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 103-105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20106-108.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 106-108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20109-111.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 109-111",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20112-114.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 112-114",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20115-117.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 115-117",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20118-120.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 118-120",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20121-123.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 121-123",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20124-126.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 124-126",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20127-129.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 127-129",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20130-132.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 130-132",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20133-135.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 133-135",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20136-138.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 136-138",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20139-141.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 139-141",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20142-144.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 142-144",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20145-147.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 145-147",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20148-150.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 148-150",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20151-153.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 151-153",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20154-156.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 154-156",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20157-159.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 157-159",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20160-162.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 160-162",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20163-165.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 163-165",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20166-168.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 166-168",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20169-171.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 169-171",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-audio-thuy-hu-qua-giong-doc-cua-nguyen-thanh-h-010-012/%E2%9C%85%5Blachoncoc.com%5DAudio%20Th%E1%BB%A7y%20H%E1%BB%AD%20-%20Qua%20gi%E1%BB%8Dng%20%C4%91%E1%BB%8Dc%20c%E1%BB%A7a%20Nguy%E1%BB%85n%20Thanh_H%20172.mp3",
+    "title" : "✅[lachoncoc.com]Audio Thủy Hử - Qua giọng đọc của Nguyễn Thanh H 172",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

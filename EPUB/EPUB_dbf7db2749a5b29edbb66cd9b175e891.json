@@ -1,0 +1,449 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-dac-nhan-tam-dale-carnegie-nghe-thuat-song_2346.html",
+    "title" : "Đắc Nhân Tâm - Dale Carnegie",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dale Carnegie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 24626,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/EPUB/EPUB_dbf7db2749a5b29edbb66cd9b175e891.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two2/main/IMAGE/IMAGE_dbf7db2749a5b29edbb66cd9b175e891.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/01_loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 343,
+    "title" : "01 loi gioi thieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/02_quyen_sach_cua_moi_thoi_dai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 242,
+    "title" : "02 quyen sach cua moi thoi dai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/03_loi_tac_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 753,
+    "title" : "03 loi tac gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/04_de_quyen_sach_mang_lai_hieu_qua_tot_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 547,
+    "title" : "04 de quyen sach mang lai hieu qua tot nhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/05_chuong_1_muon_lay_mat_thi_dung_pha_to_ong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "Chương 1: Muốn lấy mật thì đừng phá tổ ong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/06_chuong_2_bi_mat_lon_nhat_trong_phep_ung_xu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "Chương 2: Bí mật lớn nhất trong phép ứng xử",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/07_chuong_3_ai_lam_duoc_dieu_duoi_day_nguoi_do_se_co_ca_tg.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1831,
+    "title" : "Chương 3: Ai làm được điều dưới đây người đó sẽ có cả thế giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/08_chuong_4_thanh_that_quan_tam_den_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1172,
+    "title" : "Chương 4: Thành thật quan tâm đến người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/09_chuong_5_cach_don_gian_de_tao_an_tuong_tot_dep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1024,
+    "title" : "Chương 5: Cách đơn giản để tạo ấn tượng tốt đẹp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/10_chuong_6_de_moi_viec_luon_duoc_suon_se.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 894,
+    "title" : "Chương 6: Để mọi việc luôn được suôn sẻ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/11_chuong_7_de_tro_thanh_nguoi_giao_tiep_kheo_leo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1022,
+    "title" : "Chương 7: Để trở thành người giao tiếp khéo léo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/12_chuong_8_thu_hut_su_quan_tam_cua_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 262,
+    "title" : "Chương 8: Thu hút sự quan tâm của người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/13_chuong_9_de_nguoi_khac_yeu_thich_ban_ngay_lap_tuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1439,
+    "title" : "Chương 9: Để người khác yêu thích bạn ngay lập tức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/14_chuong_10_khong_tranh_cai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 870,
+    "title" : "Chương 10: Không tranh cãi!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/15_chuong_11_ton_trong_y_kien_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1266,
+    "title" : "Chương 11: Tôn trọng ý kiến người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/16_chuong_12_mat_ngot_trong_giao_tiep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 703,
+    "title" : "Chương 12: Mật ngọt trong giao tiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/17_chuong_13_bi_quyet_cua_socrates.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 748,
+    "title" : "Chương 13: Bí quyết của Socrates",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/18_chuong_14_khon_ngoan_khi_gap_doi_dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 552,
+    "title" : "Chương 14: Khôn ngoan khi gặp đối đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/19_chuong_15_khon_ngoan_khi_gap_doi_dau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "Chương 15: Khôn ngoan khi gặp đối đấu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/20_chuong_16_de_nhan_duoc_su_hop_tac_cao_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 587,
+    "title" : "Chương 16: Để nhận được sự hợp tác cao nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/21_chuong_17_dat_minh_vao_hoan_canh_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "Chương 17: Đặt mình vào hoàn cảnh người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/22_chuong_18_dieu_moi_nguoi_mong_muon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 836,
+    "title" : "Chương 18: Điều mọi người mong muốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/23_chuong_19_khoi_goi_su_cao_thuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 535,
+    "title" : "Chương 19: Khơi gợi sự cao thượng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/24_chuong_20_trinh_bay_van_de_mot_cach_sinh_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 430,
+    "title" : "Chương 20: Trình bày vấn đề một cách sinh động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/25_chuong_21_khoi_goi_tinh_than_vuot_len_thu_thach.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 395,
+    "title" : "Chương 21: Khơi gợi tinh thần vượt lên thử thách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/26_chuong_22_truoc_khi_phe_binh_hay_khen_ngoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 522,
+    "title" : "Chương 22: Trước khi phê bình, hãy khen ngợi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/27_chuong_23_phe_binh_mot_cach_gian_tiep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 398,
+    "title" : "Chương 23: Phê bình một cách gián tiếp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/28_chuong_24_nhin_nhan_sai_lam_cua_ban_than_truoc_khi_phe_binh_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 362,
+    "title" : "Chương 24: Nhìn nhận sai lầm của bản thân trước khi phê phán người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/29_chuong_25_goi_y_thay_vi_ra_lenh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 296,
+    "title" : "Chương 25: Gợi ý thay vì ra lệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/30_chuong_26_giu_the_dien_cho_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 339,
+    "title" : "Chương 26: Giữ thể diện cho người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/31_chuong_27_khuyen_khich_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 631,
+    "title" : "Chương 27: Khuyến khích người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/32_chuong_28_cho_nguoi_khac_niem_tu_hao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 390,
+    "title" : "Chương 28: Cho người khác niềm tự hào",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/33_chuong_29_mo_duong_cho_nguoi_khac_sua_chua_loi_lam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 339,
+    "title" : "Chương 29: Mở đường cho người khác sửa chữa lỗi lầm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/34_chuong_30_ton_vinh_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 571,
+    "title" : "Chương 30: Tôn vinh người khác",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/01_loi_gioi_thieu.mp3",
+    "title" : "01 loi gioi thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/02_quyen_sach_cua_moi_thoi_dai.mp3",
+    "title" : "02 quyen sach cua moi thoi dai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/03_loi_tac_gia.mp3",
+    "title" : "03 loi tac gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/04_de_quyen_sach_mang_lai_hieu_qua_tot_nhat.mp3",
+    "title" : "04 de quyen sach mang lai hieu qua tot nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/05_chuong_1_muon_lay_mat_thi_dung_pha_to_ong.mp3",
+    "title" : "Chương 1: Muốn lấy mật thì đừng phá tổ ong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/06_chuong_2_bi_mat_lon_nhat_trong_phep_ung_xu.mp3",
+    "title" : "Chương 2: Bí mật lớn nhất trong phép ứng xử",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/07_chuong_3_ai_lam_duoc_dieu_duoi_day_nguoi_do_se_co_ca_tg.mp3",
+    "title" : "Chương 3: Ai làm được điều dưới đây người đó sẽ có cả thế giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/08_chuong_4_thanh_that_quan_tam_den_nguoi_khac.mp3",
+    "title" : "Chương 4: Thành thật quan tâm đến người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/09_chuong_5_cach_don_gian_de_tao_an_tuong_tot_dep.mp3",
+    "title" : "Chương 5: Cách đơn giản để tạo ấn tượng tốt đẹp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/10_chuong_6_de_moi_viec_luon_duoc_suon_se.mp3",
+    "title" : "Chương 6: Để mọi việc luôn được suôn sẻ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/11_chuong_7_de_tro_thanh_nguoi_giao_tiep_kheo_leo.mp3",
+    "title" : "Chương 7: Để trở thành người giao tiếp khéo léo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/12_chuong_8_thu_hut_su_quan_tam_cua_nguoi_khac.mp3",
+    "title" : "Chương 8: Thu hút sự quan tâm của người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/13_chuong_9_de_nguoi_khac_yeu_thich_ban_ngay_lap_tuc.mp3",
+    "title" : "Chương 9: Để người khác yêu thích bạn ngay lập tức",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/14_chuong_10_khong_tranh_cai.mp3",
+    "title" : "Chương 10: Không tranh cãi!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/15_chuong_11_ton_trong_y_kien_nguoi_khac.mp3",
+    "title" : "Chương 11: Tôn trọng ý kiến người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/16_chuong_12_mat_ngot_trong_giao_tiep.mp3",
+    "title" : "Chương 12: Mật ngọt trong giao tiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/17_chuong_13_bi_quyet_cua_socrates.mp3",
+    "title" : "Chương 13: Bí quyết của Socrates",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/18_chuong_14_khon_ngoan_khi_gap_doi_dau.mp3",
+    "title" : "Chương 14: Khôn ngoan khi gặp đối đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/19_chuong_15_khon_ngoan_khi_gap_doi_dau.mp3",
+    "title" : "Chương 15: Khôn ngoan khi gặp đối đấu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/20_chuong_16_de_nhan_duoc_su_hop_tac_cao_nhat.mp3",
+    "title" : "Chương 16: Để nhận được sự hợp tác cao nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/21_chuong_17_dat_minh_vao_hoan_canh_nguoi_khac.mp3",
+    "title" : "Chương 17: Đặt mình vào hoàn cảnh người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/22_chuong_18_dieu_moi_nguoi_mong_muon.mp3",
+    "title" : "Chương 18: Điều mọi người mong muốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/23_chuong_19_khoi_goi_su_cao_thuong.mp3",
+    "title" : "Chương 19: Khơi gợi sự cao thượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/24_chuong_20_trinh_bay_van_de_mot_cach_sinh_dong.mp3",
+    "title" : "Chương 20: Trình bày vấn đề một cách sinh động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/25_chuong_21_khoi_goi_tinh_than_vuot_len_thu_thach.mp3",
+    "title" : "Chương 21: Khơi gợi tinh thần vượt lên thử thách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/26_chuong_22_truoc_khi_phe_binh_hay_khen_ngoi.mp3",
+    "title" : "Chương 22: Trước khi phê bình, hãy khen ngợi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/27_chuong_23_phe_binh_mot_cach_gian_tiep.mp3",
+    "title" : "Chương 23: Phê bình một cách gián tiếp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/28_chuong_24_nhin_nhan_sai_lam_cua_ban_than_truoc_khi_phe_binh_nguoi_khac.mp3",
+    "title" : "Chương 24: Nhìn nhận sai lầm của bản thân trước khi phê phán người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/29_chuong_25_goi_y_thay_vi_ra_lenh.mp3",
+    "title" : "Chương 25: Gợi ý thay vì ra lệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/30_chuong_26_giu_the_dien_cho_nguoi_khac.mp3",
+    "title" : "Chương 26: Giữ thể diện cho người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/31_chuong_27_khuyen_khich_nguoi_khac.mp3",
+    "title" : "Chương 27: Khuyến khích người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/32_chuong_28_cho_nguoi_khac_niem_tu_hao.mp3",
+    "title" : "Chương 28: Cho người khác niềm tự hào",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/33_chuong_29_mo_duong_cho_nguoi_khac_sua_chua_loi_lam.mp3",
+    "title" : "Chương 29: Mở đường cho người khác sửa chữa lỗi lầm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnDacNhanTam/34_chuong_30_ton_vinh_nguoi_khac.mp3",
+    "title" : "Chương 30: Tôn vinh người khác",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
