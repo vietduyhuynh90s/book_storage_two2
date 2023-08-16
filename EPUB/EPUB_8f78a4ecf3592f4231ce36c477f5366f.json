@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-16",
     "duration" : 19267,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chuyen-tau-mot-chieu-khong-tro-lai/chuyen-tau-mot-chieu.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 19267,
-    "title" : "Chuyến Tàu Một Chiều Không Trở Lại",
+    "duration" : 0,
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chuyen-tau-mot-chieu-khong-tro-lai/chuyen-tau-mot-chieu.mp3",
-    "title" : "Chuyến Tàu Một Chiều Không Trở Lại",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_1.mp3",
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_2.mp3",
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_3.mp3",
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_8f78a4ecf3592f4231ce36c477f5366f_76261606b31bc44a2902a1d7f8ccf80b_4.mp3",
+    "title" : "Chuyến Tàu Một Chiều Không Trở Lại (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
