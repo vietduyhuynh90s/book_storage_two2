@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 21921,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,65 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/truyen-ky-man-luc/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_a9cac1b64e82ae522ab80f517e8242bd_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10826,
-    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya",
+    "duration" : 0,
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-ky-man-luc/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_a9cac1b64e82ae522ab80f517e8242bd_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 11095,
-    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya",
+    "duration" : 0,
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_a9cac1b64e82ae522ab80f517e8242bd_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_8e215f59961cb1a61e7534d52e7397d6_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_8e215f59961cb1a61e7534d52e7397d6_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/truyen-ky-man-luc/1.mp3",
-    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_a9cac1b64e82ae522ab80f517e8242bd_1.mp3",
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-ky-man-luc/2.mp3",
-    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_a9cac1b64e82ae522ab80f517e8242bd_2.mp3",
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_a9cac1b64e82ae522ab80f517e8242bd_3.mp3",
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_8e215f59961cb1a61e7534d52e7397d6_1.mp3",
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_399590d2d0d0f02ebec1876f62e19147_8e215f59961cb1a61e7534d52e7397d6_2.mp3",
+    "title" : "Truyện Dài của Nguyễn Dữ | Trò Chuyện Đêm Khuya (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

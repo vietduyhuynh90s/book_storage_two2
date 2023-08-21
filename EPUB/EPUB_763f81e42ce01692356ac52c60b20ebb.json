@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 20547,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/traitimda/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_1ea7dfc3de4dd36a3834c4f4f4ad4fe8_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6978,
-    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "duration" : 0,
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/traitimda/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_1ea7dfc3de4dd36a3834c4f4f4ad4fe8_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6964,
-    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "duration" : 0,
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/traitimda/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_5b6dcde5e1c77eacc43f71d7bfd6859a_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6605,
-    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC",
+    "duration" : 0,
+    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_5b6dcde5e1c77eacc43f71d7bfd6859a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_d69945ca75000447c38ae634a6ce25d2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_d69945ca75000447c38ae634a6ce25d2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/traitimda/1.mp3",
-    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_1ea7dfc3de4dd36a3834c4f4f4ad4fe8_1.mp3",
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/traitimda/2.mp3",
-    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_1ea7dfc3de4dd36a3834c4f4f4ad4fe8_2.mp3",
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/traitimda/3.mp3",
-    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_5b6dcde5e1c77eacc43f71d7bfd6859a_1.mp3",
+    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_5b6dcde5e1c77eacc43f71d7bfd6859a_2.mp3",
+    "title" : "Tập 2 - MC Kim Thanh || TRUYỆN NGẮN HAY CHỌN LỌC (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_d69945ca75000447c38ae634a6ce25d2_1.mp3",
+    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_763f81e42ce01692356ac52c60b20ebb_d69945ca75000447c38ae634a6ce25d2_2.mp3",
+    "title" : "Tập 3 (Phần cuối) - MC Kim Thanh || TRUYỆN NGĂN HAY CHỌN LỌC (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

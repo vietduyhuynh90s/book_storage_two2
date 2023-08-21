@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 20719,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/moi-luong-duyen-troi-danh/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_5f677dc2a1299faafc49449a23d7ac40_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 10844,
-    "title" : "Truyện ngôn tình hay nhất cảm động hài hước",
+    "duration" : 0,
+    "title" : "Truyện ngôn tình hay nhất cảm động hài hước (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/moi-luong-duyen-troi-danh/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_5f677dc2a1299faafc49449a23d7ac40_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9875,
-    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe",
+    "duration" : 0,
+    "title" : "Truyện ngôn tình hay nhất cảm động hài hước (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_5f677dc2a1299faafc49449a23d7ac40_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện ngôn tình hay nhất cảm động hài hước (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_e03ae07435c348ed12c75ee3af38f4fb_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_e03ae07435c348ed12c75ee3af38f4fb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_e03ae07435c348ed12c75ee3af38f4fb_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/moi-luong-duyen-troi-danh/1.mp3",
-    "title" : "Truyện ngôn tình hay nhất cảm động hài hước",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_5f677dc2a1299faafc49449a23d7ac40_1.mp3",
+    "title" : "Truyện ngôn tình hay nhất cảm động hài hước (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/moi-luong-duyen-troi-danh/2.mp3",
-    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_5f677dc2a1299faafc49449a23d7ac40_2.mp3",
+    "title" : "Truyện ngôn tình hay nhất cảm động hài hước (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_5f677dc2a1299faafc49449a23d7ac40_3.mp3",
+    "title" : "Truyện ngôn tình hay nhất cảm động hài hước (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_e03ae07435c348ed12c75ee3af38f4fb_1.mp3",
+    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_e03ae07435c348ed12c75ee3af38f4fb_2.mp3",
+    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c81016ba7a068fba967e9c2af310eef0_e03ae07435c348ed12c75ee3af38f4fb_3.mp3",
+    "title" : "Mối Lương Duyên Trời Đánh [Phần Cuối] – Truyện Ngôn Tình Hay Không Thể Không Nghe (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

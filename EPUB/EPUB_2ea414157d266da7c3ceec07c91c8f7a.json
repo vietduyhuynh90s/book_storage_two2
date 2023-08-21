@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-21",
     "duration" : 8551,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/02-calling-you-lachoncoc.com.mp-3/01_Calling%20you%20%28lachoncoc.com%29.mp3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_0c7fa39ed02d38f571aa79fb27188f41_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4150,
-    "title" : "01 Calling you (lachoncoc.com).mp3",
+    "duration" : 0,
+    "title" : "01 Calling you (lachoncoc.com).mp3 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/02-calling-you-lachoncoc.com.mp-3/02_Calling%20you%20%28lachoncoc.com%29.mp3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_0c7fa39ed02d38f571aa79fb27188f41_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4401,
-    "title" : "02 Calling you (lachoncoc.com).mp3",
+    "duration" : 0,
+    "title" : "01 Calling you (lachoncoc.com).mp3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_069939a90a3c9ef643bfde3cf0258e77_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Calling you (lachoncoc.com).mp3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_069939a90a3c9ef643bfde3cf0258e77_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Calling you (lachoncoc.com).mp3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/02-calling-you-lachoncoc.com.mp-3/01_Calling%20you%20%28lachoncoc.com%29.mp3.mp3",
-    "title" : "01 Calling you (lachoncoc.com).mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_0c7fa39ed02d38f571aa79fb27188f41_1.mp3",
+    "title" : "01 Calling you (lachoncoc.com).mp3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/02-calling-you-lachoncoc.com.mp-3/02_Calling%20you%20%28lachoncoc.com%29.mp3.mp3",
-    "title" : "02 Calling you (lachoncoc.com).mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_0c7fa39ed02d38f571aa79fb27188f41_2.mp3",
+    "title" : "01 Calling you (lachoncoc.com).mp3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_069939a90a3c9ef643bfde3cf0258e77_1.mp3",
+    "title" : "02 Calling you (lachoncoc.com).mp3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2ea414157d266da7c3ceec07c91c8f7a_069939a90a3c9ef643bfde3cf0258e77_2.mp3",
+    "title" : "02 Calling you (lachoncoc.com).mp3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
