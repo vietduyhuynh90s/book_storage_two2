@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 18056,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_ngay_buon_cung_qua_mau/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_71e40c99aa28b07708ab5f6e0ae88567_5a14a435ad991bd40fe52a996245e5de_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 18056,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_71e40c99aa28b07708ab5f6e0ae88567_5a14a435ad991bd40fe52a996245e5de_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_71e40c99aa28b07708ab5f6e0ae88567_5a14a435ad991bd40fe52a996245e5de_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vanthong10dt3_gmail_ngay_buon_cung_qua_mau/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_71e40c99aa28b07708ab5f6e0ae88567_5a14a435ad991bd40fe52a996245e5de_1.mp3",
+    "title" : "1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_71e40c99aa28b07708ab5f6e0ae88567_5a14a435ad991bd40fe52a996245e5de_2.mp3",
+    "title" : "1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_71e40c99aa28b07708ab5f6e0ae88567_5a14a435ad991bd40fe52a996245e5de_3.mp3",
+    "title" : "1 (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

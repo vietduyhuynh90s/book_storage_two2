@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 9639,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/truyen-co-nhat-ban/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_94be37f4de25501aee78d66389953739_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4704,
-    "title" : "1 - Vị Thần Của Dân Nghèo, Những Cuộn Kinh Linh Ứng, Thiên Đàng Của Mèo",
+    "duration" : 0,
+    "title" : "1 - Vị Thần Của Dân Nghèo, Những Cuộn Kinh Linh Ứng, Thiên Đàng Của Mèo (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/truyen-co-nhat-ban/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_94be37f4de25501aee78d66389953739_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4935,
-    "title" : "2 - Lấy Oán Trả Ơn, Lòng Biết Ơn Của Con Cáo, Lông Mi Của Chó Sói",
+    "duration" : 0,
+    "title" : "1 - Vị Thần Của Dân Nghèo, Những Cuộn Kinh Linh Ứng, Thiên Đàng Của Mèo (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_23c9542d5d7b62a5102f7bc8b39fb33d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 - Lấy Oán Trả Ơn, Lòng Biết Ơn Của Con Cáo, Lông Mi Của Chó Sói (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_23c9542d5d7b62a5102f7bc8b39fb33d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 - Lấy Oán Trả Ơn, Lòng Biết Ơn Của Con Cáo, Lông Mi Của Chó Sói (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/truyen-co-nhat-ban/1.mp3",
-    "title" : "1 - Vị Thần Của Dân Nghèo, Những Cuộn Kinh Linh Ứng, Thiên Đàng Của Mèo",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_94be37f4de25501aee78d66389953739_1.mp3",
+    "title" : "1 - Vị Thần Của Dân Nghèo, Những Cuộn Kinh Linh Ứng, Thiên Đàng Của Mèo (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/truyen-co-nhat-ban/2.mp3",
-    "title" : "2 - Lấy Oán Trả Ơn, Lòng Biết Ơn Của Con Cáo, Lông Mi Của Chó Sói",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_94be37f4de25501aee78d66389953739_2.mp3",
+    "title" : "1 - Vị Thần Của Dân Nghèo, Những Cuộn Kinh Linh Ứng, Thiên Đàng Của Mèo (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_23c9542d5d7b62a5102f7bc8b39fb33d_1.mp3",
+    "title" : "2 - Lấy Oán Trả Ơn, Lòng Biết Ơn Của Con Cáo, Lông Mi Của Chó Sói (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_9b9bde0a20aeb4d071ace060df0c72cc_23c9542d5d7b62a5102f7bc8b39fb33d_2.mp3",
+    "title" : "2 - Lấy Oán Trả Ơn, Lòng Biết Ơn Của Con Cáo, Lông Mi Của Chó Sói (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

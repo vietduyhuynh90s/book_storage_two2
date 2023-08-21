@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-11",
+    "published" : "2023-08-19",
     "duration" : 22016,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thuat-yeu-duong/thuat-yeu-duong.m4a",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 22016,
-    "title" : "thuat-yeu-duong",
+    "duration" : 0,
+    "title" : "thuat-yeu-duong (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuat-yeu-duong (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuat-yeu-duong (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuat-yeu-duong (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thuat-yeu-duong/thuat-yeu-duong.m4a",
-    "title" : "thuat-yeu-duong",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_1.mp3",
+    "title" : "thuat-yeu-duong (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_2.mp3",
+    "title" : "thuat-yeu-duong (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_3.mp3",
+    "title" : "thuat-yeu-duong (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_3e3e5d0ff7e526d66ab0969aeef5222d_2c3e1c6415f48e6a5cb5cceee9e8d204_4.mp3",
+    "title" : "thuat-yeu-duong (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

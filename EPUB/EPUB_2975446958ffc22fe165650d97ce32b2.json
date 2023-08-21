@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-19",
     "duration" : 8655,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mac-ke/mac-ke.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 8655,
-    "title" : "mac-ke",
+    "duration" : 0,
+    "title" : "mac-ke (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mac-ke (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mac-ke (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mac-ke (4)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mac-ke/mac-ke.mp3",
-    "title" : "mac-ke",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_1.mp3",
+    "title" : "mac-ke (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_2.mp3",
+    "title" : "mac-ke (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_3.mp3",
+    "title" : "mac-ke (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_2975446958ffc22fe165650d97ce32b2_4c71143b96fd16d1326e2deff3b9107d_4.mp3",
+    "title" : "mac-ke (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
