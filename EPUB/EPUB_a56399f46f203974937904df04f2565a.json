@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-22",
     "duration" : 6776,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vo-si-2/vo-si-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_a56399f46f203974937904df04f2565a_9a4a342cbf14271fb02d73df26cb76ee.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1968,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-si-2/vo-si-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_a56399f46f203974937904df04f2565a_2c3af45c20b13504c0fba0aabad33ec0.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2452,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vo-si-2/vo-si-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_a56399f46f203974937904df04f2565a_e9f555be3034be5279e245fff551cd1e.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2356,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vo-si-2/vo-si-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_a56399f46f203974937904df04f2565a_9a4a342cbf14271fb02d73df26cb76ee.mp3",
     "title" : "VO SI BO NGUA 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-si-2/vo-si-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_a56399f46f203974937904df04f2565a_2c3af45c20b13504c0fba0aabad33ec0.mp3",
     "title" : "VO SI BO NGUA 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vo-si-2/vo-si-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_a56399f46f203974937904df04f2565a_e9f555be3034be5279e245fff551cd1e.mp3",
     "title" : "VO SI BO NGUA 03",
     "children" : [ ]
   } ],
