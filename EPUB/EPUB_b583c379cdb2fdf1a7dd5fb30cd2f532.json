@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 15443,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/choi-dua-em-toi-nghien/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5df1b4be8f912281238dc2bbe6fedf9b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6027,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/choi-dua-em-toi-nghien/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5df1b4be8f912281238dc2bbe6fedf9b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4361,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/choi-dua-em-toi-nghien/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5e0ec5b54551de1fe1ba12153f9fe56b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5055,
-    "title" : "3",
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5e0ec5b54551de1fe1ba12153f9fe56b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_d079af5ddbbe74515fd1285caea347df_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_d079af5ddbbe74515fd1285caea347df_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/choi-dua-em-toi-nghien/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5df1b4be8f912281238dc2bbe6fedf9b_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/choi-dua-em-toi-nghien/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5df1b4be8f912281238dc2bbe6fedf9b_2.mp3",
+    "title" : "1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/choi-dua-em-toi-nghien/3.mp3",
-    "title" : "3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5e0ec5b54551de1fe1ba12153f9fe56b_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_5e0ec5b54551de1fe1ba12153f9fe56b_2.mp3",
+    "title" : "2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_d079af5ddbbe74515fd1285caea347df_1.mp3",
+    "title" : "3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_b583c379cdb2fdf1a7dd5fb30cd2f532_d079af5ddbbe74515fd1285caea347df_2.mp3",
+    "title" : "3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
