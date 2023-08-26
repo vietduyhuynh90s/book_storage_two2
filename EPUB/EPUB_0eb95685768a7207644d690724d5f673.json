@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-25",
     "duration" : 26604,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vong-am-ba-doi/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_81421b29e5b6caae67a20c2ad8c86ef9_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6733,
-    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ",
+    "duration" : 0,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vong-am-ba-doi/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_81421b29e5b6caae67a20c2ad8c86ef9_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_c7698a3d03882c03161c29d68644d133.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6470,
@@ -52,37 +60,65 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vong-am-ba-doi/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_035c47b98c3bccd94a898d3989a1e911_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6341,
-    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY",
+    "duration" : 0,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vong-am-ba-doi/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_035c47b98c3bccd94a898d3989a1e911_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7060,
-    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi",
+    "duration" : 0,
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_82f145944a9c9564807505066da38d33_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_82f145944a9c9564807505066da38d33_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vong-am-ba-doi/1.mp3",
-    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_81421b29e5b6caae67a20c2ad8c86ef9_1.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vong-am-ba-doi/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_81421b29e5b6caae67a20c2ad8c86ef9_2.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Qúa Sợ (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_c7698a3d03882c03161c29d68644d133.mp3",
     "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể Sợ Qúa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vong-am-ba-doi/3.mp3",
-    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_035c47b98c3bccd94a898d3989a1e911_1.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vong-am-ba-doi/4.mp3",
-    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_035c47b98c3bccd94a898d3989a1e911_2.mp3",
+    "title" : "Truyện Ma Mới Có Thật MC Đình Soạn Kể RỢN GÁY (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_82f145944a9c9564807505066da38d33_1.mp3",
+    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_0eb95685768a7207644d690724d5f673_82f145944a9c9564807505066da38d33_2.mp3",
+    "title" : "Kết] Vong Ám Ba Đời - Truyện Ma Mới Có Thật MC Đình Soạn Sợ Hãi (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
