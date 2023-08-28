@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-11",
+    "published" : "2023-08-28",
     "duration" : 31593,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_7a179d005b0144b3e775663d44a437b7_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "1",
+    "duration" : 0,
+    "title" : "1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_7a179d005b0144b3e775663d44a437b7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_096c2059a03efdd9ffb4d794571745b9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7200,
@@ -52,37 +60,77 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_a66d3cc7fd03f9d99baf2b9aaf699b27_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "3",
+    "duration" : 0,
+    "title" : "3 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_a66d3cc7fd03f9d99baf2b9aaf699b27_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 9993,
-    "title" : "4",
+    "duration" : 0,
+    "title" : "3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_f2180ba76d34e2b3163bcb476498d42c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_f2180ba76d34e2b3163bcb476498d42c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_f2180ba76d34e2b3163bcb476498d42c_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "4 (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/1.mp3",
-    "title" : "1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_7a179d005b0144b3e775663d44a437b7_1.mp3",
+    "title" : "1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_7a179d005b0144b3e775663d44a437b7_2.mp3",
+    "title" : "1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_096c2059a03efdd9ffb4d794571745b9.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/3.mp3",
-    "title" : "3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_a66d3cc7fd03f9d99baf2b9aaf699b27_1.mp3",
+    "title" : "3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/me-ghe-con-ghe/4.mp3",
-    "title" : "4",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_a66d3cc7fd03f9d99baf2b9aaf699b27_2.mp3",
+    "title" : "3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_f2180ba76d34e2b3163bcb476498d42c_1.mp3",
+    "title" : "4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_f2180ba76d34e2b3163bcb476498d42c_2.mp3",
+    "title" : "4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage2/main/AUDIO/AUDIO_c6d614cdc2605644b957357d6ecb09ef_f2180ba76d34e2b3163bcb476498d42c_3.mp3",
+    "title" : "4 (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
