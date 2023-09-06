@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-25",
-    "duration" : 13025,
+    "published" : "2023-09-06",
+    "duration" : 15250,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,55 +36,31 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_128877efb03b354056efc76b4201f0ec_1.mp3",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chu-be-1 (1)",
+    "duration" : 3600,
+    "title" : "chu-be-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_128877efb03b354056efc76b4201f0ec_2.mp3",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chu-be-1 (2)",
+    "duration" : 3600,
+    "title" : "chu-be-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_12e96b4803bf2e0e5cfed75e8d317345_1.mp3",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chu-be-2 (1)",
+    "duration" : 3600,
+    "title" : "chu-be-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_12e96b4803bf2e0e5cfed75e8d317345_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chu-be-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_84b1c98aafb8f89403c65baa09575f9a_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chu-be-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_84b1c98aafb8f89403c65baa09575f9a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "chu-be-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_7877eeb6092eac95b40f3d1497ebce52.mp3",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2225,
@@ -93,31 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_128877efb03b354056efc76b4201f0ec_1.mp3",
-    "title" : "chu-be-1 (1)",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-1.mp3",
+    "title" : "chu-be-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_128877efb03b354056efc76b4201f0ec_2.mp3",
-    "title" : "chu-be-1 (2)",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-2.mp3",
+    "title" : "chu-be-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_12e96b4803bf2e0e5cfed75e8d317345_1.mp3",
-    "title" : "chu-be-2 (1)",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-3.mp3",
+    "title" : "chu-be-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_12e96b4803bf2e0e5cfed75e8d317345_2.mp3",
-    "title" : "chu-be-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_84b1c98aafb8f89403c65baa09575f9a_1.mp3",
-    "title" : "chu-be-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_84b1c98aafb8f89403c65baa09575f9a_2.mp3",
-    "title" : "chu-be-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_0d9ed05769cd956404fa49d5b196e4a8_7877eeb6092eac95b40f3d1497ebce52.mp3",
+    "href" : "https://archive.org/download/chu-be-1/chu-be-4.mp3",
     "title" : "chu-be-4",
     "children" : [ ]
   } ],

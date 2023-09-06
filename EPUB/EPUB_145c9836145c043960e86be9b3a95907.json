@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 3801,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_145c9836145c043960e86be9b3a95907_44c25d9a006623afb186e08f0aed04b5_1.mp3",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_dem_trong_can_nha_hoang/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_145c9836145c043960e86be9b3a95907_44c25d9a006623afb186e08f0aed04b5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "1 (2)",
+    "duration" : 3801,
+    "title" : "1",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_145c9836145c043960e86be9b3a95907_44c25d9a006623afb186e08f0aed04b5_1.mp3",
-    "title" : "1 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_145c9836145c043960e86be9b3a95907_44c25d9a006623afb186e08f0aed04b5_2.mp3",
-    "title" : "1 (2)",
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_dem_trong_can_nha_hoang/1.mp3",
+    "title" : "1",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

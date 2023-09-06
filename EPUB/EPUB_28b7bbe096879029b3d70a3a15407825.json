@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-20",
-    "duration" : 12331,
+    "published" : "2023-09-06",
+    "duration" : 20097,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,23 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_28b7bbe096879029b3d70a3a15407825_b43f603b686704387efdbc480ea3135d_1.mp3",
+    "href" : "https://archive.org/download/ta-la-de-nhat-nu-phu/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TA LÀ ĐỆ NHẤT NỮ PHỤ TẬP 1 - MC Bảo Anh (1)",
+    "duration" : 4565,
+    "title" : "TA LÀ ĐỆ NHẤT NỮ PHỤ TẬP 1 - MC Bảo Anh",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_28b7bbe096879029b3d70a3a15407825_b43f603b686704387efdbc480ea3135d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TA LÀ ĐỆ NHẤT NỮ PHỤ TẬP 1 - MC Bảo Anh (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_28b7bbe096879029b3d70a3a15407825_fe70be85b19d29c6a7f387a59f45f752.mp3",
+    "href" : "https://archive.org/download/ta-la-de-nhat-nu-phu/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7766,
@@ -61,15 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_28b7bbe096879029b3d70a3a15407825_b43f603b686704387efdbc480ea3135d_1.mp3",
-    "title" : "TA LÀ ĐỆ NHẤT NỮ PHỤ TẬP 1 - MC Bảo Anh (1)",
+    "href" : "https://archive.org/download/ta-la-de-nhat-nu-phu/1.mp3",
+    "title" : "TA LÀ ĐỆ NHẤT NỮ PHỤ TẬP 1 - MC Bảo Anh",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_28b7bbe096879029b3d70a3a15407825_b43f603b686704387efdbc480ea3135d_2.mp3",
-    "title" : "TA LÀ ĐỆ NHẤT NỮ PHỤ TẬP 1 - MC Bảo Anh (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_28b7bbe096879029b3d70a3a15407825_fe70be85b19d29c6a7f387a59f45f752.mp3",
+    "href" : "https://archive.org/download/ta-la-de-nhat-nu-phu/2.mp3",
     "title" : "TA LÀ ĐỆ NHẤT NỮ PHỤ TẬP 2 HẾT - MC Bảo Anh",
     "children" : [ ]
   } ],
