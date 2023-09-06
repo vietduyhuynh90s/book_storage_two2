@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 10694,
+    "published" : "2023-09-06",
+    "duration" : 21388,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ad3bf43b8c785e3f2e0aa6c5aa6ae518_b6f143722ca74a4374fff9d0ca554486.mp3",
+    "href" : "https://archive.org/download/chuyen-la-chung-kien/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3964,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ad3bf43b8c785e3f2e0aa6c5aa6ae518_4e2ae7167d15f7f26659009c29f309f6.mp3",
+    "href" : "https://archive.org/download/chuyen-la-chung-kien/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4006,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ad3bf43b8c785e3f2e0aa6c5aa6ae518_d7ddf747f64623128f54e89fdc1b6b81.mp3",
+    "href" : "https://archive.org/download/chuyen-la-chung-kien/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2724,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ad3bf43b8c785e3f2e0aa6c5aa6ae518_b6f143722ca74a4374fff9d0ca554486.mp3",
+    "href" : "https://archive.org/download/chuyen-la-chung-kien/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ad3bf43b8c785e3f2e0aa6c5aa6ae518_4e2ae7167d15f7f26659009c29f309f6.mp3",
+    "href" : "https://archive.org/download/chuyen-la-chung-kien/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_ad3bf43b8c785e3f2e0aa6c5aa6ae518_d7ddf747f64623128f54e89fdc1b6b81.mp3",
+    "href" : "https://archive.org/download/chuyen-la-chung-kien/3.mp3",
     "title" : "3",
     "children" : [ ]
   } ],

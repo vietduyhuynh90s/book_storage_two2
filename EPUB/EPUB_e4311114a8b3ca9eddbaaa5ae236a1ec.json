@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 14148,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_bafb53b0ac97a571305b39b0ab01e3fb_1.mp3",
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU (1)",
+    "duration" : 6853,
+    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_bafb53b0ac97a571305b39b0ab01e3fb_2.mp3",
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_2ebde891f276cdf99202ba80802ec5e1_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_2ebde891f276cdf99202ba80802ec5e1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY (2)",
+    "duration" : 7295,
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_bafb53b0ac97a571305b39b0ab01e3fb_1.mp3",
-    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU (1)",
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/1.mp3",
+    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_bafb53b0ac97a571305b39b0ab01e3fb_2.mp3",
-    "title" : "Kim Thanh 3S | TRUYỆN NGẮN HAY TÌNH YÊU (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_2ebde891f276cdf99202ba80802ec5e1_1.mp3",
-    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage2/main/AUDIO/AUDIO_e4311114a8b3ca9eddbaaa5ae236a1ec_2ebde891f276cdf99202ba80802ec5e1_2.mp3",
-    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY (2)",
+    "href" : "https://archive.org/download/anh_la_anh_nang_nhung_ngay_dong/2.mp3",
+    "title" : "MC Kim Thanh || TRUYỆN NGẮN HAY",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
